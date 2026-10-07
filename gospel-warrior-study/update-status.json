@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 30 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-07T06:49:39Z",
-  "lastSuccess": "2026-10-07T06:49:39Z",
+  "lastCheck": "2026-10-07T07:58:33Z",
+  "lastSuccess": "2026-10-07T07:58:33Z",
   "currentTotal": 8898,
   "totalWords": 11765255,
   "subjects": 17,
-  "addedLastRun": 30,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29149483841302645",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-07T06:46:33Z",
+  "lastCheckStarted": "2026-10-07T07:58:18Z",
   "discovered": 30,
-  "processed": 30,
-  "discoveredLastRun": 30,
-  "pagesScanned": 3,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29149483841302645",
     "title": "“GOD LOVES YOU JUST THE WAY YOU ARE” — TRUE, FALSE, OR MISSING SOMETHING CRUCIAL?",
@@ -166,5 +166,12 @@
   "lastImportCount": 30,
   "lastImportAt": "2026-10-07T06:49:39Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8898
+  "structuredMetadata": 8898,
+  "apiAvailable": true,
+  "staticOnly": true,
+  "automaticChecksEnabled": true,
+  "autoRefresh": true,
+  "nextCheck": null,
+  "contentRevision": "sha256-cb0e17c33c61cd97f8adbe8c21ce5f904047081bd2ad2fcdc025529fea4657e0",
+  "statusGeneratedAt": "2026-10-07T07:58:33Z"
 }
