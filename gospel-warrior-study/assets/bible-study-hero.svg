@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <defs>
+    <radialGradient id="light"><stop stop-color="#50412a"/><stop offset="1" stop-color="#151612"/></radialGradient>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#c5b58d"/></linearGradient>
+    <linearGradient id="gold" x2="0" y2="1"><stop stop-color="#efd397"/><stop offset="1" stop-color="#a77a36"/></linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="#151612"/>
+  <ellipse cx="450" cy="480" rx="560" ry="610" fill="url(#light)"/>
+  <rect x="54" y="54" width="792" height="1092" rx="4" fill="none" stroke="#e1b76f" stroke-opacity=".16"/>
+  <g fill="none" stroke="#e1b76f" stroke-opacity=".10">
+    <circle cx="450" cy="430" r="290"/><circle cx="450" cy="430" r="252"/>
+    <path d="M450 100v100M450 670v100M120 430h100M680 430h100M217 197l71 71M612 592l71 71M217 663l71-71M612 268l71-71"/>
+  </g>
+  <g fill="url(#gold)">
+    <rect x="430" y="230" width="40" height="345" rx="4"/>
+    <rect x="328" y="330" width="244" height="36" rx="4"/>
+  </g>
+  <ellipse cx="450" cy="742" rx="270" ry="30" fill="#080905" opacity=".6"/>
+  <path d="M171 574c95-28 181-10 279 38 98-48 184-66 279-38v145c-95-28-181-10-279 38-98-48-184-66-279-38Z" fill="#8e632d"/>
+  <path d="M171 563c95-28 181-10 279 38 98-48 184-66 279-38v143c-95-28-181-10-279 38-98-48-184-66-279-38Z" fill="url(#paper)"/>
+  <path d="M450 601v143" stroke="#8e632d" stroke-width="4"/>
+  <g fill="none" stroke="#81714d" stroke-width="3" stroke-opacity=".45">
+    <path d="M211 598c65-10 120 1 194 31M211 621c65-10 120 1 194 31M211 644c65-10 120 1 194 31M211 667c65-10 120 1 194 31"/>
+    <path d="M495 629c74-30 129-41 194-31M495 652c74-30 129-41 194-31M495 675c74-30 129-41 194-31M495 698c74-30 129-41 194-31"/>
+  </g>
+  <path d="M462 601v178l18-13 18 13V590" fill="#a77a36" opacity=".8"/>
+  <text x="450" y="852" text-anchor="middle" fill="#e1b76f" font-family="Georgia,serif" font-size="18" letter-spacing="6">GROUNDED IN THE WORD</text>
+</svg>

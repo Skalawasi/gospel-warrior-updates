@@ -1,51 +1,170 @@
 {
-  "state": "importing",
-  "running": true,
-  "message": "Reading new public study 2 of 2…",
+  "state": "current",
+  "running": false,
+  "message": "Added 30 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-06T09:33:35Z",
-  "lastSuccess": "2026-10-06T09:33:35Z",
-  "currentTotal": 8868,
-  "totalWords": 11687896,
+  "lastCheck": "2026-10-07T06:49:39Z",
+  "lastSuccess": "2026-10-07T06:49:39Z",
+  "currentTotal": 8898,
+  "totalWords": 11765255,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 30,
   "recentAdded": [
     {
-      "id": "29135815612669468",
-      "title": "“DO NOT BE MISLED” — THE WARNING WE KEEP SKIPPING BEFORE “BAD COMPANY”",
-      "date": "2026-10-05T22:08:45+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0MtSdWKGscixL3jXhrGCkqtB5pdWzU5WxkukKEdZSMoojJCgeXtHKBK8af1yfXi8zl"
+      "id": "29149483841302645",
+      "title": "“GOD LOVES YOU JUST THE WAY YOU ARE” — TRUE, FALSE, OR MISSING SOMETHING CRUCIAL?",
+      "date": "2026-10-06T21:52:25+00:00",
+      "subject": "Christian Living",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0gN1h28NccmhCcotxNHZKgYFR2ThCyYCXfLBcajnkyZn97Lk1oPktHSaaovUBii4Nl"
     },
     {
-      "id": "29135781219339574",
-      "title": "“BAD COMPANY CORRUPTS GOOD CHARACTER” — THE VERSE WAS NEVER JUST ABOUT CHOOSING BETTER FRIENDS",
-      "date": "2026-10-05T22:04:39+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0o7XiwTTYyxBcDP1Cz7Ac3gjTdN7hE4RdBYoiGKyGVtB2ESXjoJofUCfDYzis9WD9l"
+      "id": "29149437377973958",
+      "title": "JESUS RECEIVES YOU AS YOU ARE—BUT DOES HE INTEND TO LEAVE YOU THAT WAY?",
+      "date": "2026-10-06T21:46:13+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0ZC98jbywE3gZXd4xhxhbjMsdyWQ94a5gS1hzsAp28S3KkFET4HPzTmS7QumeAaUZl"
     },
     {
-      "id": "29135743679343328",
-      "title": "“ABOVE ALL, LOVE EACH OTHER DEEPLY” — WHY PETER CONNECTED LOVE WITH SIN",
-      "date": "2026-10-05T22:00:00+00:00",
+      "id": "29149390031312026",
+      "title": "ARE THERE SEXUAL ACTS BETWEEN HUSBAND AND WIFE THAT SCRIPTURE EXPLICITLY FORBIDS?",
+      "date": "2026-10-06T21:39:56+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02nh4rbJn5Gtm8TJCuEAvTS5ZCnV1iQcayQPEHvCJAYf9Seyg8QbNxiR1pjY9CAtdHl"
+    },
+    {
+      "id": "29149324841318545",
+      "title": "DOES SONG OF SONGS DESCRIBE ORAL SEX?",
+      "date": "2026-10-06T21:31:14+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0hDvSPyviirQChegU8ycS5C72R4tMUrRSpXXcuALDSRk9jD1EJhTmPkcfUWcFWCs4l"
+    },
+    {
+      "id": "29149274297990266",
+      "title": "CAN CHRISTIANS ENJOY ORAL SEX?",
+      "date": "2026-10-06T21:24:37+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02PLrvNzRbezA8BKZu8c7yNnqfgFtHP9xa3gWevWGXYVKhkPjueW7Tq1FM4UWMvLPXl"
+    },
+    {
+      "id": "29148923674691995",
+      "title": "POLYGAMY PRODUCED RIVALRY IN ABRAHAM’S HOUSE, JACOB’S HOUSE, AND ELKANAH’S HOUSE—IS SCRIPTURE SHOWING US SOMETHING?",
+      "date": "2026-10-06T20:41:45+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02Pk88MPphEm89XdEvcTHp7zjix41mY6ULbWpiMZjaJ6GWFhGvzGS6Gp4wXZpwssn1l"
+    },
+    {
+      "id": "29148863201364709",
+      "title": "“THE BIBLE CONTAINS POLYGAMY” IS NOT THE SAME AS “THE BIBLE COMMANDS POLYGAMY”",
+      "date": "2026-10-06T20:34:23+00:00",
+      "subject": "Christian Living",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0VM2PfZ4NZqpAHbRX6PPa1z49AQeaVNdM1sbSQhcKJ4vvsNKToMFKgZYYhWA6S28wl"
+    },
+    {
+      "id": "29148697898047906",
+      "title": "DAVID HAD WIVES AND CONCUBINES—YET GOD HAD ALREADY WARNED ISRAEL’S KING NOT TO MULTIPLY WIVES",
+      "date": "2026-10-06T20:14:42+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0KzoA3JoMDENeJ1bXoJX8bo9Y8MLjNvoQDiPRUpi4mnc9FmtY7auSgsyo25mDqNVDl"
+    },
+    {
+      "id": "29148621351388894",
+      "title": "SODOM’S SIN WAS BIGGER THAN YOU WERE TOLD — AND THAT SHOULD TERRIFY ALL OF US",
+      "date": "2026-10-06T20:05:52+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02eLcP338jBrfxHKhUfGe51VTLEShr6LXFSEWNCLzpcrDSncLKbTexMhZoqWA26dgul"
+    },
+    {
+      "id": "29144291458488550",
+      "title": "EZEKIEL SAYS SODOM WAS PROUD, OVERFED, PROSPEROUS, AND NEGLECTED THE POOR—THEN MENTIONS ABOMINATIONS",
+      "date": "2026-10-06T13:30:54+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02TCxhL6nEWR1QkRQ5e4QptizaXGQt4Dk8rRu8sEK1uiVnkb68bWgyQYmSaAvCgnuel"
+    },
+    {
+      "id": "29144229468494749",
+      "title": "WAS SODOM DESTROYED ONLY BECAUSE OF SEXUAL SIN? EZEKIEL ADDS DETAILS MANY PEOPLE FORGET",
+      "date": "2026-10-06T13:25:43+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02YxvcWd7wcxRzexJS1Hpcmf3NeWiL857cvyHMqjyXZF6GR3f1MaoJupuZrJLaVy5xl"
+    },
+    {
+      "id": "29144148501836179",
+      "title": "CAN CHRISTIANS SPEAK BIBLICALLY ABOUT SEXUAL SIN WITHOUT BECOMING SELF-RIGHTEOUS?",
+      "date": "2026-10-06T13:18:55+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0A5uzxTsiGtjxjvZi38njQQByph9xh1hVcPq5i8wVR9gUnt9PF73VjJ7pUAVr8qMMl"
+    },
+    {
+      "id": "29144076805176682",
+      "title": "YOU STOPPED READING ROMANS ONE VERSE TOO SOON",
+      "date": "2026-10-06T13:12:44+00:00",
+      "subject": "Christian Living",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02Rs6RPbevaZwew9RHzM7rdkMGxzqSeJfv4td2TvaBRfSRWKv77eiDGDofWJwDPo5Dl"
+    },
+    {
+      "id": "29144005651850464",
+      "title": "ROMANS 1 ALSO DESCRIBES MEN BURNING WITH PASSION FOR OTHER MEN—Why Is This Passage So Debated?",
+      "date": "2026-10-06T13:06:39+00:00",
+      "subject": "Christian Living",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02zBo3BMo58f2yxmg5PD9fo6aj2A1R85RJP7pyadgCnLoVAq9nHqj9MThsZvwQKJCdl"
+    },
+    {
+      "id": "29143927575191605",
+      "title": "ROMANS 1 SAYS WOMEN EXCHANGED “NATURAL RELATIONS”—BUT WHAT ARGUMENT IS PAUL ACTUALLY MAKING?",
+      "date": "2026-10-06T12:59:50+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid032FVHJFLxnen84vUmNfjm4szSb1Dqig1FhzxstF2wEUtRTU4eDsNhKyN7dxoqbeY2l"
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0Yum1KCmjyJytWwjytaVUvSmG1HcqKL3bwofLDXQNhxEUhKAwEY5ssyMmyXrCdTHCl"
+    },
+    {
+      "id": "29143504018567294",
+      "title": "“PAUL SAID HE WASN’T TELLING CHRISTIANS TO AVOID EVERY SEXUALLY IMMORAL PERSON IN THE WORLD”",
+      "date": "2026-10-06T12:22:28+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0Ut3pgFzwRNH1Ws7PK9CDzX2wCvdKGXeiJHccVQme2WkSDsiSKJczSFM2azReyYPCl"
+    },
+    {
+      "id": "29143412638576432",
+      "title": "JOHN THE BAPTIST LOST HIS FREEDOM AFTER CONFRONTING A RULER’S SEXUAL RELATIONSHIP",
+      "date": "2026-10-06T12:14:12+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0jdGrray9KeP6iXqCCWmsx1Ma4HagxwGU5GshozYnHLwsiaxRq6GCfgr492rHHjrBl"
+    },
+    {
+      "id": "29143310765253286",
+      "title": "HOW CAN SCRIPTURE CONDEMN PROSTITUTION YET HONOR RAHAB’S FAITH?",
+      "date": "2026-10-06T12:04:34+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid02ULbYPuNnTbQU5cdAZ7oveAy186ZCX8zczucxTVpZ3hwnwWbAkj8WAmmQZWmQuSGJl"
+    },
+    {
+      "id": "29142780898639606",
+      "title": "THE BIBLE’S MESSAGE TO SEXUALLY BROKEN PEOPLE ISN’T “PRETEND IT NEVER HAPPENED”—IT IS REPENTANCE AND REDEMPTION",
+      "date": "2026-10-06T11:13:00+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0aaQjfL5Bjo7T4zJ525VtipFvuJUCraKUSYtedhC8bqFuPhobn6cwySZiK3n6Fyk8l"
+    },
+    {
+      "id": "29142703018647394",
+      "title": "Why Did People Put Ashes on Their Heads? The Ancient Sign That Still Exposes the Human Heart",
+      "date": "2026-10-06T11:05:10+00:00",
+      "subject": "Christian Living",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0XPJKF3SHzZdfEMnkDyoyCgwkRjHH9QzFe3j6qXHhD8fiviBsBdgp1iT9ByamAbo9l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-06T09:41:01Z",
-  "discovered": 2,
-  "processed": 1,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-07T06:46:33Z",
+  "discovered": 30,
+  "processed": 30,
+  "discoveredLastRun": 30,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29135815612669468",
-    "title": "“DO NOT BE MISLED” — THE WARNING WE KEEP SKIPPING BEFORE “BAD COMPANY”",
-    "date": "2026-10-05T22:08:45+00:00"
+    "id": "29149483841302645",
+    "title": "“GOD LOVES YOU JUST THE WAY YOU ARE” — TRUE, FALSE, OR MISSING SOMETHING CRUCIAL?",
+    "date": "2026-10-06T21:52:25+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-10-05T22:12:32Z",
+  "lastImportCount": 30,
+  "lastImportAt": "2026-10-07T06:49:39Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8868
+  "structuredMetadata": 8898
 }

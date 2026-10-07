@@ -18,8 +18,8 @@ gospel-warrior-study/update-log.jsonl
 # The public update repository needs the study archive images, but not the
 # desktop translation models, Bible bundle, or presentation artwork.
 gospel-warrior-study/assets/*
-!gospel-warrior-study/assets/archive-*.jpg
-!gospel-warrior-study/assets/archive-*.webp
+!gospel-warrior-study/assets/
+!gospel-warrior-study/assets/**
 gospel-warrior-study/assets/bible/
 gospel-warrior-study/assets/translation-models/
 gospel-warrior-study/presentations/
