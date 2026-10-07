@@ -17,9 +17,11 @@ gospel-warrior-study/update-log.jsonl
 
 # The public update repository needs the study archive images, but not the
 # desktop translation models, Bible bundle, or presentation artwork.
+# Every image referenced by content.json.gz must be published. The archive
+# includes archive-*, arena-*, study-*, reel-*, and pinned-* files.
 gospel-warrior-study/assets/*
-!gospel-warrior-study/assets/
-!gospel-warrior-study/assets/**
+!gospel-warrior-study/assets/*.jpg
+!gospel-warrior-study/assets/*.webp
 gospel-warrior-study/assets/bible/
 gospel-warrior-study/assets/translation-models/
 gospel-warrior-study/presentations/
