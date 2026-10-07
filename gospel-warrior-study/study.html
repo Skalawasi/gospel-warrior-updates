@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#20382e" />
+  <meta name="description" content="Gospel Warrior — your personal Bible study companion." />
+  <title>Gospel Warrior — Study Companion</title>
+  <link rel="icon" href="assets/study-emblem.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="study-styles.css" />
+</head>
+<body>
+  <svg class="icon-definitions" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 5v16M3 4c4-1 6 0 9 2 3-2 5-3 9-2v15c-4-1-6 0-9 2-3-2-5-3-9-2V4Z"/></symbol>
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7M5 9v12h14V9M9 21v-7h6v7"/></symbol>
+    <symbol id="i-library" viewBox="0 0 24 24"><path d="M3 4h4v17H3zM10 4h4v17h-4zM17 5l3-1 4 16-3 1z"/></symbol>
+    <symbol id="i-save" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4V3Z"/></symbol>
+    <symbol id="i-topics" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="2"/><rect x="14" y="3" width="7" height="7" rx="2"/><rect x="3" y="14" width="7" height="7" rx="2"/><rect x="14" y="14" width="7" height="7" rx="2"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l4 2"/></symbol>
+    <symbol id="i-sync" viewBox="0 0 24 24"><path d="M20 8a8 8 0 0 0-14-3L3 8m0-5v5h5M4 16a8 8 0 0 0 14 3l3-3m0 5v-5h-5"/></symbol>
+    <symbol id="i-settings" viewBox="0 0 24 24"><path d="M4 7h11m4 0h2M3 17h3m4 0h11"/><circle cx="17" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24"><path d="M20 12H4m6-6-6 6 6 6"/></symbol>
+    <symbol id="i-panel" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h7v7h-7z"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3 6h1M3 12h1M3 18h1"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 15A9 9 0 0 1 9 4a9 9 0 1 0 11 11Z"/></symbol>
+    <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M20 3C9 2 3 7 5 15c8 3 14-2 15-12ZM3 21 15 9"/></symbol>
+    <symbol id="i-people" viewBox="0 0 24 24"><circle cx="9" cy="7" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3M16 4a3 3 0 0 1 0 6m3 11v-3a6 6 0 0 0-3-5"/></symbol>
+  </defs></svg>
+  <a class="skip-link" href="#main">Skip to study workspace</a>
+  <div class="app-shell">
+    <aside class="sidebar" id="appSidebar" aria-label="App navigation">
+      <button class="app-brand" data-view="home" aria-label="Gospel Warrior study desk"><img src="assets/study-emblem.svg" alt=""/><span><strong>Gospel Warrior</strong><small>STUDY COMPANION</small></span></button>
+      <div class="sidebar-section-label">YOUR WORKSPACE</div>
+      <nav class="sidebar-nav" aria-label="Main menu">
+        <button class="nav-item active" data-view="home" title="Study desk"><svg><use href="#i-home"/></svg><span>Study desk</span></button>
+        <button class="nav-item" data-view="library" title="Study library"><svg><use href="#i-library"/></svg><span>Study library</span><b id="sidebarStudyTotal">—</b></button>
+        <button class="nav-item" id="savedButton" data-view="saved" title="Saved studies"><svg><use href="#i-save"/></svg><span>Saved studies</span><b id="savedCount">0</b></button>
+        <div class="nav-divider"></div>
+        <button class="nav-item" data-view="scripture" title="Bible · KJV &amp; Malagasy"><svg><use href="#i-book"/></svg><span>Bible · KJV &amp; Malagasy</span></button>
+        <button class="nav-item" data-view="bible" title="Bible index"><svg><use href="#i-book"/></svg><span>Bible index</span></button>
+        <button class="nav-item" data-view="topics" title="Study topics"><svg><use href="#i-topics"/></svg><span>Study topics</span></button>
+        <button class="nav-item" data-view="timeline" title="Timeline"><svg><use href="#i-clock"/></svg><span>Timeline</span></button>
+        <button class="nav-item" data-view="updates" title="Library updates"><svg><use href="#i-sync"/></svg><span>Library updates</span><i class="status-dot" id="sidebarUpdateDot"></i></button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="sidebar-verse"><svg><use href="#i-leaf"/></svg><p>“Thy word is a lamp unto my feet, and a light unto my path.”</p><span>PSALM 119:105</span></div>
+        <button class="sidebar-sync" data-view="updates"><span class="sync-caption"><i class="status-dot" id="syncDot"></i><strong id="sidebarSyncTitle">Your offline library</strong></span><small id="sidebarSyncDetail">Connecting to updates…</small></button>
+        <button class="nav-item settings-nav" id="settingsButton" title="Settings (⌘,)" aria-expanded="false" aria-controls="settingsPanel"><svg><use href="#i-settings"/></svg><span>Settings</span><kbd>⌘,</kbd></button>
+      </div>
+    </aside>
+    <div class="app-content">
+      <header class="app-toolbar" id="siteHeader">
+        <button class="icon-button" id="menuButton" title="Toggle sidebar" aria-label="Toggle sidebar" aria-expanded="true" aria-controls="appSidebar"><svg><use href="#i-panel"/></svg></button>
+        <div class="toolbar-location"><small>GOSPEL WARRIOR</small><strong id="workspaceTitle">Study desk</strong></div>
+        <label class="search-box" for="searchInput"><svg><use href="#i-search"/></svg><input id="searchInput" type="search" placeholder="Search Scripture, topics, or studies" autocomplete="off"/><kbd>⌘K</kbd></label>
+        <button class="icon-button" id="readerTheme" title="Toggle dark mode" aria-label="Toggle dark mode"><svg><use href="#i-moon"/></svg></button>
+        <button class="icon-button check-now-button" id="toolbarCheckNow" title="Check for new studies" aria-label="Check for new studies"><svg><use href="#i-sync"/></svg></button>
+      </header>
+      <div class="app-language-bar"><span>Study language</span><div class="segmented-control" id="libraryLanguageSwitch" role="group" aria-label="Language for all studies"><button data-study-language="en" lang="en" aria-pressed="true">English</button><button data-study-language="fr" lang="fr" aria-pressed="false">Français</button><button data-study-language="mg" lang="mg" aria-pressed="false">Malagasy</button></div><span id="libraryLanguageStatus" role="status">Original English library</span><button class="text-button" data-view="translations">Translation progress</button></div>
+      <div class="new-content-banner" id="newContentBanner" hidden role="status"><svg><use href="#i-sync"/></svg><span id="newContentMessage">New studies are ready.</span><button id="applyArchiveUpdate">Refresh now</button></div>
+      <main id="main" class="workspace-scroll" tabindex="-1">
+        <div id="homeView">
+          <section class="workspace-view" id="home" data-page="home">
+            <div class="view-heading"><div><span class="eyebrow" id="todayGreeting">A MOMENT IN THE WORD</span><h1>Your study desk</h1><p>A quiet place to read, reflect, and grow in faith.</p></div><span class="date-chip" id="todayDate"></span></div>
+            <div class="desk-grid">
+              <section class="featured-study"><div class="featured-copy"><span class="eyebrow">THE LATEST STUDY</span><div class="featured-meta" id="heroMeta">Opening your library…</div><h2 id="heroTitle">Preparing a place in the Word.</h2><p id="heroExcerpt"></p><button class="button button-primary" id="heroReadButton">Begin study <svg><use href="#i-arrow"/></svg></button></div><img id="heroImage" src="assets/bible-study-hero.svg" alt="An open Bible beneath a cross"/></section>
+              <section class="continue-card"><span class="eyebrow">RETURN TO THE WORD</span><div class="continue-icon"><svg><use href="#i-book"/></svg></div><h2 id="continueTitle">A steady rhythm of study.</h2><p id="continueDetail">Choose a study and make a little room for Scripture today.</p><div class="continue-progress" id="continueProgress" hidden><span></span></div><button class="text-button" id="continueStudy">Open the library <svg><use href="#i-arrow"/></svg></button></section>
+            </div>
+            <div class="section-title"><h2>Explore Scripture</h2><button class="text-button" data-view="bible">Bible index <svg><use href="#i-arrow"/></svg></button></div>
+            <div class="quick-paths"><button data-quick-shelf="old"><span class="path-icon"><svg><use href="#i-book"/></svg></span><span><strong>Old Testament</strong><small>Law, wisdom &amp; the prophets</small></span><svg><use href="#i-arrow"/></svg></button><button data-quick-shelf="new"><span class="path-icon"><svg><use href="#i-leaf"/></svg></span><span><strong>New Testament</strong><small>Jesus, the Gospels &amp; the Church</small></span><svg><use href="#i-arrow"/></svg></button></div>
+            <div class="section-title"><h2>Fresh from the library</h2><button class="text-button" data-view="library">View all studies <svg><use href="#i-arrow"/></svg></button></div>
+            <div id="recentStudies" class="recent-studies"></div>
+            <div class="desk-footnote"><svg><use href="#i-check"/></svg><span><b id="studyTotal">—</b> studies available offline · New studies checked every 15 minutes while the app is open.</span></div>
+          </section>
+          <section class="workspace-view" id="studies" data-page="library" hidden>
+            <div class="view-heading"><div><span class="eyebrow">YOUR READING LIBRARY</span><h1 id="libraryTitle">Study library</h1><p id="libraryDescription">Find your next question, passage, or moment of encouragement.</p></div><button class="button button-secondary" id="libraryFilters"><svg><use href="#i-settings"/></svg> Filters</button></div>
+            <div class="library-controls"><div class="segmented-control shelf-control"><button class="active" data-shelf="all">All studies</button><button data-shelf="old">Old Testament</button><button data-shelf="new">New Testament</button></div><div class="layout-controls"><label class="sr-only" for="quickSort">Sort studies</label><select id="quickSort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="az">A → Z</option><option value="za">Z → A</option></select><div class="segmented-control"><button data-layout="list" aria-label="List view" title="List view"><svg><use href="#i-list"/></svg></button><button data-layout="grid" aria-label="Grid view" title="Grid view"><svg><use href="#i-grid"/></svg></button></div></div></div>
+            <div class="filter-scroll" id="filterBar" aria-label="Filter study topics"></div>
+            <div class="result-row"><p id="resultCount">Opening the library…</p><button class="text-button" id="clearFilters" hidden>Clear filters</button></div>
+            <div class="study-grid layout-list" id="studyGrid" aria-live="polite"></div>
+            <div class="empty-state" id="emptyState" hidden><svg><use href="#i-search"/></svg><h2>A different path through the Word.</h2><p>No studies match these filters. Try another search or return to the full library.</p><button class="button button-primary" id="emptyClear">View all studies</button></div>
+            <div class="load-more-wrap"><button class="button button-secondary" id="loadMore">Show more studies</button></div>
+          </section>
+          <section class="workspace-view" id="index" data-page="bible" hidden>
+            <div class="view-heading"><div><span class="eyebrow">FOLLOW THE SCRIPTURE</span><h1>Bible index</h1><p>Explore the books and people identified throughout your study library.</p></div><span class="count-chip" id="bibleBookTotal"></span></div>
+            <div class="index-toolbar"><div class="segmented-control"><button class="active" data-index-kind="books">Bible books</button><button data-index-kind="people">People of Scripture</button></div><div class="segmented-control" id="indexShelfControls"><button class="active" data-index-shelf="all">All</button><button data-index-shelf="old">Old</button><button data-index-shelf="new">New</button></div></div>
+            <div id="bookIndex" class="index-grid"></div><div id="characterIndex" class="index-grid" hidden></div>
+          </section>
+          <section class="workspace-view" id="kjvBible" data-page="scripture" hidden>
+            <div class="view-heading"><div><span class="eyebrow">READ THE WORD</span><h1 id="bibleReaderTitle">King James Bible</h1><p id="bibleReaderHint">Hover over a word for its Hebrew or Greek dictionary meaning. Click or focus a word to explore it.</p></div><span class="count-chip">66 books · 2 versions</span></div>
+            <div class="bible-version-row"><div class="segmented-control" role="group" aria-label="Bible version"><button data-bible-version="kjv" aria-pressed="true" class="active">English · KJV</button><button data-bible-version="mg" aria-pressed="false" lang="mg">Malagasy · 1865</button></div><button class="text-button" id="malagasyWordStudy" hidden>Open this passage in KJV for Hebrew/Greek word meanings</button></div>
+            <form id="bibleReferenceForm" class="bible-reference-form"><label for="bibleReference">Go to a passage</label><input id="bibleReference" placeholder="e.g. John 3:16 or Psalm 23" autocomplete="off"/><button class="button button-primary" type="submit">Open passage</button></form>
+            <div class="bible-navigation"><label>Book<select id="kjvBook" aria-label="Bible book"></select></label><label>Chapter<select id="kjvChapter" aria-label="Bible chapter"></select></label><label>Verse<select id="kjvVerse" aria-label="Bible verse"></select></label><button class="button button-secondary" id="kjvPrevious">← Previous chapter</button><button class="button button-secondary" id="kjvNext">Next chapter →</button></div>
+            <p id="bibleStatus" class="bible-status" role="status">Your complete Bible is available locally.</p><button class="text-button" id="bibleRetry" hidden>Retry loading the Bible</button>
+            <div class="bible-reader-layout"><article class="bible-paper"><h2 id="bibleChapterTitle">Opening the Bible…</h2><div id="bibleVerses" class="bible-verses" aria-busy="false"></div></article><aside id="bibleWordPanel" class="bible-word-panel"><div class="section-title"><h2>Word study</h2><button class="text-button" id="bibleWordClear">Clear</button></div><div id="bibleWordDetails"><p>Hover, click, or keyboard-focus a word in the passage to see its original-language entry.</p></div></aside></div>
+            <p class="quiet-note" id="bibleVersionNote">Meanings come from the verse’s Strong’s numbers. A phrase may link to more than one original word. Italics indicate words added by the KJV translators.</p>
+            <p class="quiet-note">KJV/OSIS &amp; Baiboly Malagasy (1865): CrossWire via Scrollmapper · Strong’s dictionaries: Open Scriptures, CC-BY-SA. <a href="assets/bible/SOURCES.md" target="_blank" rel="noopener">Sources &amp; credits</a></p>
+          </section>
+          <section class="workspace-view" id="paths" data-page="topics" hidden><div class="view-heading"><div><span class="eyebrow">A PATH FOR EVERY SEASON</span><h1>Study topics</h1><p>Follow a theme through the Word. Use library filters to combine topics.</p></div><span class="count-chip" id="studySubjectTotal"></span></div><div id="subjectIndex" class="topic-grid"></div></section>
+          <section class="workspace-view" id="timeline" data-page="timeline" hidden><div class="view-heading"><div><span class="eyebrow">YEARS IN THE WORD</span><h1>Study timeline</h1><p>Return to a year of teaching, reflection, and encouragement.</p></div></div><div id="timelineList" class="timeline-list"></div></section>
+          <section class="workspace-view" id="updates" data-page="updates" hidden>
+            <div class="view-heading"><div><span class="eyebrow">A LIVING STUDY LIBRARY</span><h1>Library updates</h1><p>New Bible studies, collected quietly in the background.</p></div><button class="button button-primary check-now-button" id="checkNow"><svg><use href="#i-sync"/></svg> Check now</button></div>
+            <section class="sync-hero"><div class="sync-orbit" id="syncOrbit"><svg><use href="#i-sync"/></svg></div><div><span class="status-label" id="updateStatusLabel">Connecting to your library</span><h2 id="updateStatusTitle">Your studies are here.</h2><p id="updateStatusMessage">The complete local archive is available for reading.</p></div></section>
+            <div class="update-stats"><div><span>CHECKING EVERY</span><strong>15 <small>minutes</small></strong><p>While Gospel Warrior is open</p></div><div><span>NEXT CHECK</span><strong id="nextCheckCountdown">—</strong><p id="nextCheckTime">Connecting…</p></div><div><span>LAST CHECK</span><strong id="lastCheckTime">Not yet</strong><p id="lastCheckDetail">A check runs when the app opens</p></div></div>
+            <section class="preferences-card"><div class="section-title"><h2>Keep your library growing</h2><span class="subtle-label">AUTOMATIC BY DEFAULT</span></div><label class="toggle-row"><span><strong>Check for new Bible studies</strong><small>Check on launch, then every 15 minutes while the app is open.</small></span><input type="checkbox" id="updatesEnabled" checked role="switch"/><span class="switch-track" aria-hidden="true"></span></label><label class="toggle-row"><span><strong>Automatically refresh content</strong><small>New studies appear without restarting. Your reading position stays in place.</small></span><input type="checkbox" id="updatesAutoRefresh" checked role="switch"/><span class="switch-track" aria-hidden="true"></span></label><div class="settings-inline-status" id="updatesSettingsStatus" role="status"></div></section>
+            <div class="section-title"><h2>Recently collected</h2><span class="subtle-label" id="recentImportCount">YOUR LATEST STUDIES</span></div><div id="recentImports" class="recent-studies"></div>
+            <p class="quiet-note">Online checks need an internet connection and publicly available source studies. If a check cannot complete, your offline library stays ready and the next scheduled check will retry.</p>
+          </section>
+          <section class="workspace-view" id="translationLibrary" data-page="translations" hidden>
+            <div class="view-heading"><div><span class="eyebrow">YOUR MULTILINGUAL LIBRARY</span><h1>Study translations</h1><p>Complete French and Malagasy studies are prepared in the background and saved for offline reading.</p></div><button class="button button-secondary" id="translationLibraryToggle">Pause preparation</button></div>
+            <div class="translation-coverage"><section><h2 lang="fr">Français</h2><strong id="frenchReadyCount">0 / —</strong><p>Complete studies ready offline</p><progress id="frenchReadyProgress" value="0" max="1" aria-label="French translation coverage"></progress><button class="text-button" data-open-language="fr">Browse French studies →</button></section><section><h2 lang="mg">Malagasy</h2><strong id="malagasyReadyCount">0 / —</strong><p>Complete studies ready offline</p><progress id="malagasyReadyProgress" value="0" max="1" aria-label="Malagasy translation coverage"></progress><button class="text-button" data-open-language="mg">Browse Malagasy studies →</button></section></div>
+            <section class="preferences-card translation-job-card"><h2 id="translationLibraryState">Checking translation progress…</h2><p id="translationCurrentStudy"></p><p id="translationChunkProgress"></p><p id="translationLibraryError" role="status"></p></section>
+            <p class="quiet-note">The collection contains millions of words, so preparing both languages is a long-running job. The Mac app translates locally: keep it open; no internet or translation-service account is needed. Progress is saved paragraph by paragraph and resumes after reopening. Opening a study prioritizes its translation.</p>
+            <p class="quiet-note">These are machine translations. The counters include only complete translated studies. Pending studies show their original English title until their translated version is ready.</p>
+          </section>
+        </div>
+        <article class="article-view" id="articleView" hidden>
+          <div class="reader-toolbar"><button class="text-button" id="backButton"><svg><use href="#i-back"/></svg> Back to library</button><span class="reader-tool-label">READING ROOM</span><div class="reader-tools"><button class="icon-button" data-font="down" aria-label="Smaller reading text">A−</button><button class="icon-button" data-font="up" aria-label="Larger reading text">A+</button><div class="segmented-control reader-skin-control" role="group" aria-label="Reading skin"><button data-skin="light" aria-pressed="true">Light</button><button data-skin="sepia" aria-pressed="false">Sepia</button><button data-skin="dark" aria-pressed="false">Dark</button></div><button class="button button-secondary" id="articleSave"><svg><use href="#i-save"/></svg><span>Save study</span></button></div></div>
+          <div class="reading-progress"><div id="readingProgress"></div></div>
+          <div class="study-version-tools"><div class="segmented-control" role="group" aria-label="Study language"><button data-study-language="en" lang="en" aria-pressed="true">English</button><button data-study-language="fr" lang="fr" aria-pressed="false">Français</button><button data-study-language="mg" lang="mg" aria-pressed="false">Malagasy</button></div><div class="study-copy-tools"><button class="button button-secondary" id="studySelectAll">Select all text</button><button class="button button-secondary" id="studyCopy">Copy study</button></div><div class="translation-message"><span id="translationStatus" role="status"></span><button class="text-button" id="translationRetry" hidden>Retry translation</button></div></div>
+          <div class="annotation-toolbar" role="group" aria-label="Study notebook tools"><button class="button button-secondary" id="studyHighlight" data-annotation="highlight" disabled>Highlight</button><button class="button button-secondary" id="studyUnderline" data-annotation="underline" disabled>Underline</button><button class="button button-secondary" id="studyPassageBookmark" data-annotation="bookmark">Bookmark passage</button><button class="button button-secondary" id="studyNotes" aria-expanded="false" aria-controls="studyNotebook">Notes &amp; bookmarks</button><span id="annotationHint">Select study text to highlight or underline.</span></div>
+          <section id="studyNotebook" class="study-notebook" aria-label="Study notes and bookmarks" hidden>
+            <div class="section-title"><h2>Your study notebook</h2><button class="text-button" id="closeNotebook">Close notebook</button></div>
+            <label for="studyNote">Notes for this study <small>Shared across all three language versions · saved on this device</small></label>
+            <textarea id="studyNote" rows="6" placeholder="Write your reflections, questions, and prayers…"></textarea><p id="noteStatus" role="status">Notes save automatically.</p>
+            <div class="notebook-columns"><section><h3>Highlights &amp; underlining</h3><div id="studyMarks"></div></section><section><h3>Passage bookmarks</h3><div id="studyBookmarks"></div></section></div>
+          </section>
+          <div class="reader-layout">
+            <div class="reading-paper">
+              <div class="article-meta"><span id="articleCategory"></span><span id="articleReadTime"></span><time id="articleDate"></time></div>
+              <div class="article-taxonomy" id="articleTaxonomy"></div>
+              <div class="article-byline"><img src="assets/study-emblem.svg" alt=""/><span>Gospel Warrior <small>Grounded in the Word of God</small></span></div>
+              <div id="studyText" class="study-text" tabindex="-1"><header class="article-heading"><h1 id="articleTitle"></h1><p id="articleSubtitle"></p></header><div class="article-body" id="articleBody"></div></div>
+              <div class="article-end"><svg><use href="#i-leaf"/></svg><p>Take a moment. Let the Word take root.</p><div class="article-end-actions"><button class="button button-secondary" id="articlePrev">← Previous</button><button class="button button-primary" id="endSave">Save this study</button><button class="button button-secondary" id="articleNext">Next study →</button></div></div>
+            </div>
+            <aside class="reader-aside"><div class="article-note"><span class="eyebrow">READ WITH AN OPEN BIBLE</span><p>“Test everything; hold fast what is good.”</p><small>1 Thessalonians 5:21</small></div><section id="articleToc"><span class="eyebrow">IN THIS STUDY</span><div id="tocLinks"></div></section><section class="reader-scripture"><span class="eyebrow">SCRIPTURE REFERENCES</span><div id="readerReferences"></div></section></aside>
+          </div>
+          <section class="related-section"><div class="section-title"><h2>Continue your study</h2><span class="subtle-label">RELATED REFLECTIONS</span></div><div class="study-grid layout-list" id="relatedGrid"></div></section>
+        </article>
+      </main>
+      <footer class="app-statusbar"><span><i class="status-dot" id="statusbarDot"></i><span id="statusbarSync">Offline library ready</span></span><span id="statusbarDetail">Grounded in the Word.</span></footer>
+    </div>
+  </div>
+  <div class="settings-overlay" id="settingsOverlay" hidden>
+    <section class="settings-panel" id="settingsPanel" hidden role="dialog" aria-modal="true" aria-labelledby="settingsTitle" tabindex="-1">
+      <div class="settings-heading"><div><span class="eyebrow">MAKE ROOM FOR STUDY</span><h2 id="settingsTitle">Settings</h2></div><button class="icon-button" id="closeSettings" aria-label="Close settings"><svg><use href="#i-close"/></svg></button></div>
+      <div class="settings-tabs" role="tablist"><button role="tab" id="readingSettingsTab" aria-controls="readingSettings" aria-selected="true" data-settings-tab="reading">Reading</button><button role="tab" id="librarySettingsTab" aria-controls="librarySettings" aria-selected="false" data-settings-tab="library">Library</button><button role="tab" id="updateSettingsTab" aria-controls="updateSettings" aria-selected="false" data-settings-tab="updates">Updates</button></div>
+      <div class="settings-scroll">
+        <section id="readingSettings" role="tabpanel" aria-labelledby="readingSettingsTab" data-settings-page="reading">
+          <h3>Make this space your own.</h3><p class="settings-description">Choose a reading skin and a colour palette. Every combination is available throughout your study workspace.</p>
+          <div class="appearance-label"><span>Reading skin</span><small id="appearanceSummary" role="status">Light · Forest &amp; Gold</small></div>
+          <div class="skin-choices" role="group" aria-label="Choose a reading skin"><button data-skin="light" aria-pressed="true"><span class="skin-sample skin-sample-light" aria-hidden="true">Aa</span><strong>Light</strong><small>Clear &amp; bright</small></button><button data-skin="sepia" aria-pressed="false"><span class="skin-sample skin-sample-sepia" aria-hidden="true">Aa</span><strong>Sepia</strong><small>Warm parchment</small></button><button data-skin="dark" aria-pressed="false"><span class="skin-sample skin-sample-dark" aria-hidden="true">Aa</span><strong>Dark</strong><small>Gentle evenings</small></button></div>
+          <div class="appearance-label"><span>Colour theme</span><small>6 palettes · 18 combinations</small></div><div class="colour-theme-grid" id="colourThemes" role="group" aria-label="Choose a colour theme"></div>
+          <button class="reference-preset" id="warmEveningPreset"><svg><use href="#i-moon"/></svg><span><strong>Warm evening preset</strong><small>Terracotta + Dark · charcoal, cream &amp; soft coral</small></span><svg><use href="#i-arrow"/></svg></button>
+          <button class="text-button appearance-reset" id="resetAppearance">Restore Forest &amp; Light</button>
+          <h3 class="settings-subheading">A comfortable reading size</h3><label class="setting-field" for="readingSize"><span>Reading text size <b id="readingSizeLabel">19 px</b></span><input type="range" id="readingSize" min="16" max="26" value="19"/></label><div class="reading-preview" id="readingPreview">“Thy word is a lamp unto my feet, and a light unto my path.”<small>Psalm 119:105</small></div><h3 class="settings-subheading">Library appearance</h3><div class="segmented-control"><button data-layout="list"><svg><use href="#i-list"/></svg> Comfortable list</button><button data-layout="grid"><svg><use href="#i-grid"/></svg> Study cards</button></div>
+        </section>
+        <section id="librarySettings" role="tabpanel" aria-labelledby="librarySettingsTab" data-settings-page="library" hidden><h3>Find your place in Scripture</h3><p class="settings-description">Sort and filter the complete study archive.</p><label class="setting-field" for="sortOrder"><span>Sort studies</span><select id="sortOrder"><option value="newest">Date · Most recent first</option><option value="oldest">Date · Oldest first</option><option value="az">Alphabetical · A → Z</option><option value="za">Alphabetical · Z → A</option></select></label><div class="settings-fields"><label class="setting-field" for="bibleShelf"><span>Testament</span><select id="bibleShelf"><option value="all">All Bible</option><option value="old">Old Testament</option><option value="new">New Testament</option></select></label><label class="setting-field" for="bookFilter"><span>Bible book</span><select id="bookFilter"><option value="all">All books</option></select></label></div><label class="setting-field" for="characterFilter"><span>Biblical character</span><select id="characterFilter"><option value="all">All characters</option></select></label><h3 class="settings-subheading">Topics</h3><p class="settings-description">Select one or more. A study can belong to several topics.</p><div class="topic-settings-list" id="topicSettings"></div><button class="text-button reset-button" id="resetSettings">Reset library filters &amp; sorting</button><p class="settings-summary" id="settingsSummary"></p></section>
+        <section id="updateSettings" role="tabpanel" aria-labelledby="updateSettingsTab" data-settings-page="updates" hidden><div class="settings-update-symbol"><svg><use href="#i-sync"/></svg><span>EVERY 15 MINUTES</span></div><h3>A living library, quietly refreshed.</h3><p class="settings-description">The app checks on launch and regularly in the background. New studies flow into your library while your open study stays right where you left it.</p><label class="toggle-row"><span><strong>Automatic update checks</strong><small>Every 15 minutes while the app is open.</small></span><input type="checkbox" id="automaticChecks" checked role="switch"/><span class="switch-track" aria-hidden="true"></span></label><label class="toggle-row"><span><strong>Automatic content refresh</strong><small>Load new studies without restarting the app.</small></span><input type="checkbox" id="automaticRefresh" checked role="switch"/><span class="switch-track" aria-hidden="true"></span></label><div class="settings-sync-status"><i class="status-dot" id="settingsSyncDot"></i><div><strong id="settingsSyncTitle">Connecting…</strong><small id="settingsSyncDetail">Your local library is available offline.</small></div></div><div class="settings-inline-status" id="updateSettingsStatus" role="status"></div><div class="settings-update-actions"><button class="button button-primary check-now-button" id="settingsCheckNow"><svg><use href="#i-sync"/></svg> Check now</button><button class="button button-secondary" id="refreshArchive">Refresh content</button></div><button class="text-button" id="showUpdates">Open library updates <svg><use href="#i-arrow"/></svg></button></section>
+      </div>
+      <div class="settings-footer"><img src="assets/study-emblem.svg" alt=""/><span>Gospel Warrior <small>Study Companion · 2.3.2</small></span><kbd>esc to close</kbd></div>
+    </section>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"><svg><use href="#i-check"/></svg><p></p></div>
+  <script src="study-languages.js" defer></script>
+  <script src="study-app.js" defer></script>
+  <script src="study-copy.js" defer></script>
+  <script src="study-notebook.js" defer></script>
+  <script src="kjv-bible.js" defer></script>
+  <div id="bibleWordTooltip" class="bible-word-tooltip" role="tooltip" hidden></div>
+</body>
+</html>

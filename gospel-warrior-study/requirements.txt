@@ -1,0 +1,6 @@
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+Pillow>=10,<13
+ctranslate2==4.3.1; python_version < '3.13'
+sentencepiece==0.2.0; python_version < '3.13'
+numpy==1.26.4; python_version < '3.13'

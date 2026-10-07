@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "intervalMinutes": 15,
+  "autoRefresh": true,
+  "maxFrontierPages": 16,
+  "requestDelaySeconds": 0.45,
+  "source": "https://www.facebook.com/iamGospelWarrior",
+  "albumId": "111666608844421"
+}

@@ -1,0 +1,30 @@
+# Local build products and packaged applications.
+.macos-build/
+dist/
+.claude/
+gospel-warrior-study copy/
+android/.gradle/
+android/**/build/
+android/local.properties
+android/app/src/main/assets/
+macos/build/
+
+# Archives and generated workspace copies retained only for local recovery.
+*.zip
+gospel-warrior-study/workspace-*/
+gospel-warrior-study/content.*.json.gz
+gospel-warrior-study/update-log.jsonl
+
+# The public update repository needs the study archive images, but not the
+# desktop translation models, Bible bundle, or presentation artwork.
+gospel-warrior-study/assets/*
+!gospel-warrior-study/assets/archive-*.jpg
+!gospel-warrior-study/assets/archive-*.webp
+gospel-warrior-study/assets/bible/
+gospel-warrior-study/assets/translation-models/
+gospel-warrior-study/presentations/
+
+# macOS metadata and Python caches.
+.DS_Store
+**/__pycache__/
+*.py[cod]

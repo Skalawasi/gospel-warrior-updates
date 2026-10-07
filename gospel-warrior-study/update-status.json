@@ -1,0 +1,51 @@
+{
+  "state": "importing",
+  "running": true,
+  "message": "Reading new public study 2 of 2…",
+  "source": "https://www.facebook.com/iamGospelWarrior",
+  "intervalMinutes": 15,
+  "lastCheck": "2026-10-06T09:33:35Z",
+  "lastSuccess": "2026-10-06T09:33:35Z",
+  "currentTotal": 8868,
+  "totalWords": 11687896,
+  "subjects": 17,
+  "addedLastRun": 0,
+  "recentAdded": [
+    {
+      "id": "29135815612669468",
+      "title": "“DO NOT BE MISLED” — THE WARNING WE KEEP SKIPPING BEFORE “BAD COMPANY”",
+      "date": "2026-10-05T22:08:45+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0MtSdWKGscixL3jXhrGCkqtB5pdWzU5WxkukKEdZSMoojJCgeXtHKBK8af1yfXi8zl"
+    },
+    {
+      "id": "29135781219339574",
+      "title": "“BAD COMPANY CORRUPTS GOOD CHARACTER” — THE VERSE WAS NEVER JUST ABOUT CHOOSING BETTER FRIENDS",
+      "date": "2026-10-05T22:04:39+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid0o7XiwTTYyxBcDP1Cz7Ac3gjTdN7hE4RdBYoiGKyGVtB2ESXjoJofUCfDYzis9WD9l"
+    },
+    {
+      "id": "29135743679343328",
+      "title": "“ABOVE ALL, LOVE EACH OTHER DEEPLY” — WHY PETER CONNECTED LOVE WITH SIN",
+      "date": "2026-10-05T22:00:00+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://web.facebook.com/iamGospelWarrior/posts/pfbid032FVHJFLxnen84vUmNfjm4szSb1Dqig1FhzxstF2wEUtRTU4eDsNhKyN7dxoqbeY2l"
+    }
+  ],
+  "error": null,
+  "lastCheckStarted": "2026-10-06T09:41:01Z",
+  "discovered": 2,
+  "processed": 1,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
+  "latest": {
+    "id": "29135815612669468",
+    "title": "“DO NOT BE MISLED” — THE WARNING WE KEEP SKIPPING BEFORE “BAD COMPANY”",
+    "date": "2026-10-05T22:08:45+00:00"
+  },
+  "lastImportCount": 3,
+  "lastImportAt": "2026-10-05T22:12:32Z",
+  "schedulerEnabled": true,
+  "structuredMetadata": 8868
+}

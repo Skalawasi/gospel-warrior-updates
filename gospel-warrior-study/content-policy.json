@@ -1,0 +1,8 @@
+{
+  "focus": "Bible study",
+  "excludedPostIds": ["28949692034615161"],
+  "excludedTitles": ["ON MY 52ND BIRTHDAY, I AM GIVING GOD THE ONLY GIFT I CAN NEVER TAKE BACK"],
+  "excludedImages": ["assets/archive-28949692034615161.webp", "assets/profile.jpg", "assets/cover.jpg"],
+  "removeSocialPromotions": true,
+  "reason": "Keep the reader focused on Bible studies, without social-media calls to action, subscription/library/product promotions, the personal 52nd-birthday announcement, or profile portraits."
+}

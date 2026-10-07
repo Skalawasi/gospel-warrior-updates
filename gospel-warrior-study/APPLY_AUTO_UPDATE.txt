@@ -1,0 +1,23 @@
+GOSPEL WARRIOR — AUTOMATIC UPDATE STATUS
+========================================
+
+This folder already contains the complete automatic-update website. No separate upgrade ZIP
+or overlay is required.
+
+CURRENT ARCHIVE
+---------------
+- 3,796 unique studies
+- 7,189,381 preserved study words after display cleanup
+- 174 new studies imported from September 29 through October 3, 2026
+- Latest public study: “SUSTAIN ME WITH RAISINS… FOR I AM SICK WITH LOVE”
+
+START THE WEBSITE
+-----------------
+1. Install requirements: python -m pip install -r requirements.txt
+2. On Windows, double-click start-auto-update.bat.
+   On macOS/Linux, run: chmod +x start-auto-update.sh && ./start-auto-update.sh
+3. Open http://127.0.0.1:8000 and select the Updates tab.
+
+The updater checks logged-out public Facebook pages every 15 minutes by default. It does not
+request or store passwords, private cookies, or access tokens. Newly imported post images are
+optimized for the website so repeated updates remain within the workspace size budget.

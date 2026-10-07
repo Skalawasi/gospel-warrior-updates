@@ -1,0 +1,59 @@
+plugins {
+    id "com.android.application"
+}
+
+def websiteAssets = layout.buildDirectory.dir("generated/websiteAssets")
+def updateBaseUrl = (project.findProperty("updateBaseUrl") ?: "").toString().trim()
+def escapedUpdateBaseUrl = updateBaseUrl.replace("\\", "\\\\").replace("'", "\\'")
+def prepareWebsiteAssets = tasks.register("prepareWebsiteAssets", Sync) {
+    inputs.property("updateBaseUrl", updateBaseUrl)
+    into websiteAssets.map { it.dir("website") }
+    from("../../gospel-warrior-study") {
+        include "study.html", "study-styles.css", "study-app.js", "study-copy.js"
+        include "study-languages.js", "study-notebook.js", "kjv-bible.js"
+        include "content.json.gz", "content-policy.json", "assets/**"
+        exclude "assets/translation-models/**", "**/.DS_Store*"
+    }
+    from("../web")
+    doLast {
+        def html = websiteAssets.get().file("website/study.html").asFile
+        def androidScript = websiteAssets.get().file("website/android.js").asFile
+        androidScript.text = androidScript.getText("UTF-8").replace(
+            "__GOSPEL_WARRIOR_UPDATE_BASE_URL__", escapedUpdateBaseUrl)
+        html.text = html.getText("UTF-8")
+            .replace('</head>', '<link rel="stylesheet" href="android.css" />\n<script src="android.js"></script>\n</head>')
+            .replace('New studies checked every 15 minutes while the app is open.', 'English studies and both Bible versions are included on this device.')
+            .replace('Study Companion · 2.3.2', 'Android · 1.0')
+            .replace('title="Settings (⌘,)"', 'title="Settings"')
+        html.setText(html.text, "UTF-8")
+    }
+}
+
+android {
+    namespace "com.gospelwarrior.app"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.gospelwarrior.app"
+        minSdk 21
+        targetSdk 35
+        versionCode 3
+        versionName "1.1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+    }
+
+    androidResources {
+        noCompress += ["gz"]
+    }
+
+    sourceSets.main.assets.srcDirs = [websiteAssets]
+}
+
+tasks.named("preBuild").configure { dependsOn prepareWebsiteAssets }
