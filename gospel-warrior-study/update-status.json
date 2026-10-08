@@ -1,100 +1,72 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Added 5 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-07T20:36:31Z",
-  "lastSuccess": "2026-10-07T20:36:31Z",
-  "currentTotal": 8907,
-  "totalWords": 11787894,
+  "lastCheck": "2026-10-08T00:58:50Z",
+  "lastSuccess": "2026-10-08T00:58:50Z",
+  "currentTotal": 8912,
+  "totalWords": 11804074,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 5,
   "recentAdded": [
     {
-      "id": "29160398866877809",
-      "title": "“YEARS LATER, SARAH SAID THE WORD NO MOTHER WANTED TO HEAR: SEND THEM AWAY”",
-      "date": "2026-10-07T17:19:04+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027MzjPRGYG9xoDPN1pq3yBk6LciTp1YrVkpYtkwdiKa8Z3f8Vje2RxDTmJi19PWqkl"
+      "id": "29163062009944828",
+      "title": "THE MEN DESTROYED BY WOMEN IN THE BIBLE: THEY SURVIVED WARS, DEFEATED ENEMIES, AND HELD KINGDOMS… BUT LOST THE BATTLE NO ONE SAW",
+      "date": "2026-10-07T22:11:50+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02i2fSCjhCUGvEJdVNkY7ofr7h4gMfybSSXxbTh4YheUj6jLHTrD8ArURDiNecmrtgl"
     },
     {
-      "id": "29160323090218720",
-      "title": "PREGNANT HAGAR RAN INTO THE WILDERNESS—AND THE ANGEL OF THE LORD FOUND HER THERE",
-      "date": "2026-10-07T17:12:16+00:00",
+      "id": "29163015779949451",
+      "title": "THE WOMEN MEN DESTROYED IN THE BIBLE — AND THE SAVIOR WHO REFUSED TO LEAVE THEM IN THE RUINS",
+      "date": "2026-10-07T22:05:50+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gDiLoCHwjxeVyr7wfbb3uYsgHBwPGxSyKshZaqDYuD2PcnrW6QTy26TLfrTfkJjPl"
+    },
+    {
+      "id": "29162975403286822",
+      "title": "“ONLY GOD CAN JUDGE ME” — THE BIBLE VERSE WE USE TO SILENCE THE TRUTH",
+      "date": "2026-10-07T22:00:40+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Jhma45JBRUJjMR2vUKDaoxoT8UTTw14wBpNhkZbUuHCsCtHZWce9DkVvc5Sezi6ml"
+    },
+    {
+      "id": "29162931706624525",
+      "title": "AFTER SARAH DIED, ABRAHAM’S STORY WASN’T OVER",
+      "date": "2026-10-07T21:55:07+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02avxgUQURAuur6JzjnioidgXG42YemFyZL76W7uHLodU4iEVEq1oUZADmD2SM6uQl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mHpFDktrQaNPE9MFHvVTpmatmiWS8NYD8gPtb89L8vD3d369ZjTQcVDm7CzueUNql"
     },
     {
-      "id": "29160247296892966",
-      "title": "SARAH BLAMED ABRAHAM After Her Own Surrogacy Plan Turned Painful",
-      "date": "2026-10-07T17:05:33+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XX3yxD88UUbw7WJfihNAQCCG1kDK3QqUguiSimBFHt6GwJm9GnLXdhBQ7mCnCHgKl"
-    },
-    {
-      "id": "29160128113571551",
-      "title": "HAGAR BECAME PREGNANT—And Suddenly the Relationship Between the Two Women Exploded",
-      "date": "2026-10-07T16:54:54+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ARa6PipywxMUv1ZznXVMTJnrACorBPwgsJH4Fr5XtfeMmom7gE2H7EyRBvTfdAFEl"
-    },
-    {
-      "id": "29160009493583413",
-      "title": "SARAH GAVE HAGAR TO ABRAHAM BECAUSE SHE COULDN’T HAVE CHILDREN",
-      "date": "2026-10-07T16:44:20+00:00",
+      "id": "29162902709960758",
+      "title": "HAGAR THOUGHT HER SON WAS ABOUT TO DIE—Then God Opened Her Eyes to a Well",
+      "date": "2026-10-07T21:51:25+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02N5ujY5YMBY2cuVhJNcyNwXec7XrQp7DY1KfLvdhy42KrVcw5YYaLvTxbSLZbqQqNl"
-    },
-    {
-      "id": "29159904300260599",
-      "title": "ABIMELECH LOOKED THROUGH A WINDOW AND REALIZED ISAAC AND REBEKAH WERE DEFINITELY NOT ACTING LIKE BROTHER AND SISTER",
-      "date": "2026-10-07T16:34:56+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06MMLHosjA2pLoZHXQsTKUCVWdCbrUJtvT4LQVVq9zao3NxbtfyqCBN8Rvam9cZCkl"
-    },
-    {
-      "id": "29159832856934410",
-      "title": "SARAH REALLY WAS ABRAHAM’S HALF-SISTER—THE FAMILY DETAIL MOST PEOPLE MISS",
-      "date": "2026-10-07T16:28:41+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0iEEvFSbUK4mBecQLi8KcB314kdj5vX9k4GQA6RpuNvP6CMnJVJQuieDkSpNWDhi3l"
-    },
-    {
-      "id": "29159708036946892",
-      "title": "GOD STRUCK PHARAOH’S HOUSE WITH PLAGUES Because of Another Man’s Wife",
-      "date": "2026-10-07T16:17:52+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035rQdURS2SKm6UHz5fjUNr3hcMrjibKUY3Bwd6YpABeyHHQHcrH6iucHWfrdYMfDDl"
-    },
-    {
-      "id": "29159257743658588",
-      "title": "THE BIBLE DOESN’T TEACH “SEX IS DIRTY”—It Teaches That Something Powerful Needs Faithfulness, Boundaries, and Love",
-      "date": "2026-10-07T15:36:55+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Umc54KDB4C3Nx1PVW7baJTv9P2biJf4Vf6C6nnyuCLk5HuircwPVANPZwWJNWtfil"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dq8B7YzgNFzNpwmxuNCjZmUnNmzZTndLL3PMDAtVV28DQdAzQmUzUFXXXmMeXZu9l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-07T20:35:44Z",
-  "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-08T00:58:09Z",
+  "discovered": 5,
+  "processed": 5,
+  "discoveredLastRun": 5,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29160398866877809",
-    "title": "“YEARS LATER, SARAH SAID THE WORD NO MOTHER WANTED TO HEAR: SEND THEM AWAY”",
-    "date": "2026-10-07T17:19:04+00:00"
+    "id": "29163062009944828",
+    "title": "THE MEN DESTROYED BY WOMEN IN THE BIBLE: THEY SURVIVED WARS, DEFEATED ENEMIES, AND HELD KINGDOMS… BUT LOST THE BATTLE NO ONE SAW",
+    "date": "2026-10-07T22:11:50+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-07T20:36:31Z",
+  "lastImportCount": 5,
+  "lastImportAt": "2026-10-08T00:58:50Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8907,
+  "structuredMetadata": 8912,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-fd0cc09c2cf8942e8218e6fa5316e16b59703a94a0c78e3b8f08ebf13d6e57df",
-  "statusGeneratedAt": "2026-10-07T20:36:31Z"
+  "contentRevision": "sha256-ec658cac075e8fad3bacd06f6d4a40059d9b07c36cfe6a97aab5ec32f0967209",
+  "statusGeneratedAt": "2026-10-08T00:58:50Z"
 }
