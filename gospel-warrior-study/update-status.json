@@ -1,72 +1,121 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 12 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-08T07:21:23Z",
-  "lastSuccess": "2026-10-08T07:21:23Z",
-  "currentTotal": 8912,
-  "totalWords": 11804074,
+  "lastCheck": "2026-10-08T15:35:01Z",
+  "lastSuccess": "2026-10-08T15:35:01Z",
+  "currentTotal": 8924,
+  "totalWords": 11867705,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 12,
   "recentAdded": [
     {
-      "id": "29163062009944828",
-      "title": "THE MEN DESTROYED BY WOMEN IN THE BIBLE: THEY SURVIVED WARS, DEFEATED ENEMIES, AND HELD KINGDOMS… BUT LOST THE BATTLE NO ONE SAW",
-      "date": "2026-10-07T22:11:50+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02i2fSCjhCUGvEJdVNkY7ofr7h4gMfybSSXxbTh4YheUj6jLHTrD8ArURDiNecmrtgl"
+      "id": "29173432795574416",
+      "title": "JACOB WENT TO BED EXPECTING RACHEL—AND WOKE UP MARRIED TO LEAH",
+      "date": "2026-10-08T15:29:43+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028JPBTamQRr82x4fhuzLhtjQ5oF4bubyvCfgLswKeAkKnbmf5iL7uoCQ9A9rGEd7ul"
     },
     {
-      "id": "29163015779949451",
-      "title": "THE WOMEN MEN DESTROYED IN THE BIBLE — AND THE SAVIOR WHO REFUSED TO LEAVE THEM IN THE RUINS",
-      "date": "2026-10-07T22:05:50+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gDiLoCHwjxeVyr7wfbb3uYsgHBwPGxSyKshZaqDYuD2PcnrW6QTy26TLfrTfkJjPl"
-    },
-    {
-      "id": "29162975403286822",
-      "title": "“ONLY GOD CAN JUDGE ME” — THE BIBLE VERSE WE USE TO SILENCE THE TRUTH",
-      "date": "2026-10-07T22:00:40+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Jhma45JBRUJjMR2vUKDaoxoT8UTTw14wBpNhkZbUuHCsCtHZWce9DkVvc5Sezi6ml"
-    },
-    {
-      "id": "29162931706624525",
-      "title": "AFTER SARAH DIED, ABRAHAM’S STORY WASN’T OVER",
-      "date": "2026-10-07T21:55:07+00:00",
+      "id": "29173150975602598",
+      "title": "JACOB WORKED SEVEN YEARS FOR RACHEL—BUT THE MOST HEARTBREAKING PART OF THE STORY IS WHAT HAPPENED AFTER HE WAITED",
+      "date": "2026-10-08T15:07:43+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mHpFDktrQaNPE9MFHvVTpmatmiWS8NYD8gPtb89L8vD3d369ZjTQcVDm7CzueUNql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mZm81odDDpNKzwoGCtK5Au5yEhuQz4ZaT7YZEa68HzP9Zq9mkE4kf9okcvDMWvEVl"
     },
     {
-      "id": "29162902709960758",
-      "title": "HAGAR THOUGHT HER SON WAS ABOUT TO DIE—Then God Opened Her Eyes to a Well",
-      "date": "2026-10-07T21:51:25+00:00",
+      "id": "29172989132285449",
+      "title": "ISAAC PRAYED FOR HIS INFERTILE WIFE—AND GOD ANSWERED WITH TWINS: THE MIRACLE THAT CAME AFTER 20 YEARS OF WAITING",
+      "date": "2026-10-08T14:56:05+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZtmSYF88pqkR5WHexhPZXNsTrGrxHdxLguvpXu1B3BbmbQzgj2VNVDtLtoJZ4q5Dl"
+    },
+    {
+      "id": "29172462459004783",
+      "title": "“FORGIVE AND YOU WILL BE FORGIVEN” — BUT WHAT IF YOU’RE STILL BLEEDING FROM WHAT THEY DID?",
+      "date": "2026-10-08T14:15:16+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ra4NaSTM2R2FbSmHFmRq573o1hK5B9C3jKJtY27HwnZQvHcSHXsqe7icDz57n9Tml"
+    },
+    {
+      "id": "29172357842348578",
+      "title": "PETER ASKED JESUS HOW MANY TIMES HE HAD TO FORGIVE. JESUS DESTROYED THE SCORECARD.",
+      "date": "2026-10-08T14:06:49+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GejMfdv3BKPkR27yT3C7ao7XtHD5UVDCa8uDH3ujmjkQJZSucP1Rzn3om8QbMArbl"
+    },
+    {
+      "id": "29171654479085581",
+      "title": "“TREAT THEM AS A PAGAN OR TAX COLLECTOR” — DID JESUS REALLY TELL US TO CUT PEOPLE OFF?",
+      "date": "2026-10-08T13:10:00+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gjkF4vqy3S34HYESrKMQqpTKh1N6rsC6Do6y28Xv6VnNYBVq8v9zgGnG7sLD3YKJl"
+    },
+    {
+      "id": "29171567485760947",
+      "title": "“TELL IT TO THE CHURCH”: THE WORDS OF JESUS THAT MANY CHRISTIANS QUOTE—BUT FEW ARE PREPARED TO OBEY",
+      "date": "2026-10-08T13:02:49+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0n61fci3gYMEVWD6RFPdM2HQRuttawWmSSTjK3iQoY92Heiw7F4SWRSg3JDmf8Wdzl"
+    },
+    {
+      "id": "29171211869129842",
+      "title": "“IF YOUR BROTHER SINS AGAINST YOU…” — JESUS GAVE INSTRUCTIONS MOST CHRISTIANS SKIP",
+      "date": "2026-10-08T12:32:55+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mZm37M5wx7zbvZBUYrgK9kvJxAeAt6rY2Dn1YJBB5MshcyddacCbscdnw1tVwTPLl"
+    },
+    {
+      "id": "29171063705811325",
+      "title": "REMOVE THE LOG FROM YOUR OWN EYE—BUT DON'T YOU DARE LEAVE YOUR BROTHER BLIND",
+      "date": "2026-10-08T12:20:45+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sJdioY4GtjrvRb684p2nVg1iZWdEPdPL9HZBMmgG6EcoimBJyQh8aY1eB15VXE1pl"
+    },
+    {
+      "id": "29170985532485809",
+      "title": "“DON’T JUDGE ME!” — BUT JESUS SAID SOMETHING ELSE THAT MOST PEOPLE NEVER QUOTE",
+      "date": "2026-10-08T12:14:23+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nrMNUE7HJEPz6P9mjfSVSG6x86oVtBiqVPNWSB41NzmDQokk9Xe8BKmjMMT3sUPvl"
+    },
+    {
+      "id": "29170883932495969",
+      "title": "A GOLD NOSE RING AND TWO BRACELETS APPEARED BEFORE REBEKAH’S MARRIAGE PROPOSAL — BUT THE REAL MIRACLE WASN’T THE GOLD",
+      "date": "2026-10-08T12:05:49+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VXWSP2Fg6dRruGJuZf1RZ2RNMoDNafsB1TYsmhzcYeKKa2bShyd9GCNKa9SYYzzsl"
+    },
+    {
+      "id": "29170822662502096",
+      "title": "ABRAHAM GAVE HIS OTHER SONS GIFTS… THEN SENT THEM AWAY FROM ISAAC. WHAT GOD WAS PROTECTING WILL CHANGE HOW YOU SEE REJECTION FOREVER.",
+      "date": "2026-10-08T12:00:39+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dq8B7YzgNFzNpwmxuNCjZmUnNmzZTndLL3PMDAtVV28DQdAzQmUzUFXXXmMeXZu9l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Kn8R52tbMvBZhntfpCSNevvWxuw1ifZCk7fPGt3EyF1QoUZmMwsC2ihsEi4NeXqJl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-08T07:21:07Z",
-  "discovered": 5,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-08T15:34:08Z",
+  "discovered": 12,
+  "processed": 12,
+  "discoveredLastRun": 12,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29163062009944828",
-    "title": "THE MEN DESTROYED BY WOMEN IN THE BIBLE: THEY SURVIVED WARS, DEFEATED ENEMIES, AND HELD KINGDOMS… BUT LOST THE BATTLE NO ONE SAW",
-    "date": "2026-10-07T22:11:50+00:00"
+    "id": "29173432795574416",
+    "title": "JACOB WENT TO BED EXPECTING RACHEL—AND WOKE UP MARRIED TO LEAH",
+    "date": "2026-10-08T15:29:43+00:00"
   },
-  "lastImportCount": 5,
-  "lastImportAt": "2026-10-08T00:58:50Z",
+  "lastImportCount": 12,
+  "lastImportAt": "2026-10-08T15:35:01Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8912,
+  "structuredMetadata": 8924,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-ec658cac075e8fad3bacd06f6d4a40059d9b07c36cfe6a97aab5ec32f0967209",
-  "statusGeneratedAt": "2026-10-08T07:21:23Z"
+  "contentRevision": "sha256-827d557f2a6d0cfb3fa7b0d8c51309ca6365936689da746c1acdfc186762bf73",
+  "statusGeneratedAt": "2026-10-08T15:35:01Z"
 }
