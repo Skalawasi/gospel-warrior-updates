@@ -1,121 +1,65 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 12 new public studies.",
+  "message": "Added 4 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-08T15:35:01Z",
-  "lastSuccess": "2026-10-08T15:35:01Z",
-  "currentTotal": 8924,
-  "totalWords": 11867705,
+  "lastCheck": "2026-10-08T21:18:19Z",
+  "lastSuccess": "2026-10-08T21:18:19Z",
+  "currentTotal": 8928,
+  "totalWords": 11887422,
   "subjects": 17,
-  "addedLastRun": 12,
+  "addedLastRun": 4,
   "recentAdded": [
     {
-      "id": "29173432795574416",
-      "title": "JACOB WENT TO BED EXPECTING RACHEL—AND WOKE UP MARRIED TO LEAH",
-      "date": "2026-10-08T15:29:43+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028JPBTamQRr82x4fhuzLhtjQ5oF4bubyvCfgLswKeAkKnbmf5iL7uoCQ9A9rGEd7ul"
-    },
-    {
-      "id": "29173150975602598",
-      "title": "JACOB WORKED SEVEN YEARS FOR RACHEL—BUT THE MOST HEARTBREAKING PART OF THE STORY IS WHAT HAPPENED AFTER HE WAITED",
-      "date": "2026-10-08T15:07:43+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mZm81odDDpNKzwoGCtK5Au5yEhuQz4ZaT7YZEa68HzP9Zq9mkE4kf9okcvDMWvEVl"
-    },
-    {
-      "id": "29172989132285449",
-      "title": "ISAAC PRAYED FOR HIS INFERTILE WIFE—AND GOD ANSWERED WITH TWINS: THE MIRACLE THAT CAME AFTER 20 YEARS OF WAITING",
-      "date": "2026-10-08T14:56:05+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZtmSYF88pqkR5WHexhPZXNsTrGrxHdxLguvpXu1B3BbmbQzgj2VNVDtLtoJZ4q5Dl"
-    },
-    {
-      "id": "29172462459004783",
-      "title": "“FORGIVE AND YOU WILL BE FORGIVEN” — BUT WHAT IF YOU’RE STILL BLEEDING FROM WHAT THEY DID?",
-      "date": "2026-10-08T14:15:16+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ra4NaSTM2R2FbSmHFmRq573o1hK5B9C3jKJtY27HwnZQvHcSHXsqe7icDz57n9Tml"
-    },
-    {
-      "id": "29172357842348578",
-      "title": "PETER ASKED JESUS HOW MANY TIMES HE HAD TO FORGIVE. JESUS DESTROYED THE SCORECARD.",
-      "date": "2026-10-08T14:06:49+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GejMfdv3BKPkR27yT3C7ao7XtHD5UVDCa8uDH3ujmjkQJZSucP1Rzn3om8QbMArbl"
-    },
-    {
-      "id": "29171654479085581",
-      "title": "“TREAT THEM AS A PAGAN OR TAX COLLECTOR” — DID JESUS REALLY TELL US TO CUT PEOPLE OFF?",
-      "date": "2026-10-08T13:10:00+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gjkF4vqy3S34HYESrKMQqpTKh1N6rsC6Do6y28Xv6VnNYBVq8v9zgGnG7sLD3YKJl"
-    },
-    {
-      "id": "29171567485760947",
-      "title": "“TELL IT TO THE CHURCH”: THE WORDS OF JESUS THAT MANY CHRISTIANS QUOTE—BUT FEW ARE PREPARED TO OBEY",
-      "date": "2026-10-08T13:02:49+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0n61fci3gYMEVWD6RFPdM2HQRuttawWmSSTjK3iQoY92Heiw7F4SWRSg3JDmf8Wdzl"
-    },
-    {
-      "id": "29171211869129842",
-      "title": "“IF YOUR BROTHER SINS AGAINST YOU…” — JESUS GAVE INSTRUCTIONS MOST CHRISTIANS SKIP",
-      "date": "2026-10-08T12:32:55+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mZm37M5wx7zbvZBUYrgK9kvJxAeAt6rY2Dn1YJBB5MshcyddacCbscdnw1tVwTPLl"
-    },
-    {
-      "id": "29171063705811325",
-      "title": "REMOVE THE LOG FROM YOUR OWN EYE—BUT DON'T YOU DARE LEAVE YOUR BROTHER BLIND",
-      "date": "2026-10-08T12:20:45+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sJdioY4GtjrvRb684p2nVg1iZWdEPdPL9HZBMmgG6EcoimBJyQh8aY1eB15VXE1pl"
-    },
-    {
-      "id": "29170985532485809",
-      "title": "“DON’T JUDGE ME!” — BUT JESUS SAID SOMETHING ELSE THAT MOST PEOPLE NEVER QUOTE",
-      "date": "2026-10-08T12:14:23+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nrMNUE7HJEPz6P9mjfSVSG6x86oVtBiqVPNWSB41NzmDQokk9Xe8BKmjMMT3sUPvl"
-    },
-    {
-      "id": "29170883932495969",
-      "title": "A GOLD NOSE RING AND TWO BRACELETS APPEARED BEFORE REBEKAH’S MARRIAGE PROPOSAL — BUT THE REAL MIRACLE WASN’T THE GOLD",
-      "date": "2026-10-08T12:05:49+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VXWSP2Fg6dRruGJuZf1RZ2RNMoDNafsB1TYsmhzcYeKKa2bShyd9GCNKa9SYYzzsl"
-    },
-    {
-      "id": "29170822662502096",
-      "title": "ABRAHAM GAVE HIS OTHER SONS GIFTS… THEN SENT THEM AWAY FROM ISAAC. WHAT GOD WAS PROTECTING WILL CHANGE HOW YOU SEE REJECTION FOREVER.",
-      "date": "2026-10-08T12:00:39+00:00",
+      "id": "29173835972200765",
+      "title": "LEAH GAVE JACOB SON AFTER SON, HOPING ONE MORE BABY WOULD FINALLY MAKE HIM LOVE HER… BUT GOD WAS WRITING A STORY SHE COULDN’T YET SEE",
+      "date": "2026-10-08T16:01:16+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Kn8R52tbMvBZhntfpCSNevvWxuw1ifZCk7fPGt3EyF1QoUZmMwsC2ihsEi4NeXqJl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DKeWsKYVpfJu1dV54wmuPntVJ4uFL2t1m39DSnZvFDTkfHagDYRVr64use2jykepl"
+    },
+    {
+      "id": "29173747228876306",
+      "title": "JACOB LOVED RACHEL MORE THAN LEAH—AND GOD SAW IT",
+      "date": "2026-10-08T15:54:40+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0H6HZF4XJRDeRacyegEQk8hMf3SArkxj1j2YcmkchybHdQfSA5UMJHganD6iNxkPKl"
+    },
+    {
+      "id": "29173661845551511",
+      "title": "JACOB MARRIED TWO SISTERS WITHIN ONE WEEK—BUT THE REAL SCANDAL WAS WHAT HAPPENED TO THE WOMAN NOBODY WANTED",
+      "date": "2026-10-08T15:47:52+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NcvjA6Rc7QXBVnTY9Bj1CVAKdNzxkE7jpRizyz2SSoEr8U3wKFbAkjxqXuhPTa7tl"
+    },
+    {
+      "id": "29173518688899160",
+      "title": "“WHY HAVE YOU DECEIVED ME?” — THE NIGHT JACOB TASTED THE PAIN HE HAD ONCE GIVEN SOMEONE ELSE",
+      "date": "2026-10-08T15:36:34+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YfftLJnrTTb8iM9scTpKeDcuPAFJD85Y68m9JRTdef66bP8oT22SVR64U3Z99r5Dl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-08T15:34:08Z",
-  "discovered": 12,
-  "processed": 12,
-  "discoveredLastRun": 12,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-08T21:17:40Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29173432795574416",
-    "title": "JACOB WENT TO BED EXPECTING RACHEL—AND WOKE UP MARRIED TO LEAH",
-    "date": "2026-10-08T15:29:43+00:00"
+    "id": "29173835972200765",
+    "title": "LEAH GAVE JACOB SON AFTER SON, HOPING ONE MORE BABY WOULD FINALLY MAKE HIM LOVE HER… BUT GOD WAS WRITING A STORY SHE COULDN’T YET SEE",
+    "date": "2026-10-08T16:01:16+00:00"
   },
-  "lastImportCount": 12,
-  "lastImportAt": "2026-10-08T15:35:01Z",
+  "lastImportCount": 4,
+  "lastImportAt": "2026-10-08T21:18:19Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8924,
+  "structuredMetadata": 8928,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-827d557f2a6d0cfb3fa7b0d8c51309ca6365936689da746c1acdfc186762bf73",
-  "statusGeneratedAt": "2026-10-08T15:35:01Z"
+  "contentRevision": "sha256-ca8fd03b7f7a8ed02b91a03a71ec70620297a80d0fc9566023eca0d2d0d56628",
+  "statusGeneratedAt": "2026-10-08T21:18:19Z"
 }
