@@ -1,65 +1,135 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 4 new public studies.",
+  "message": "Added 14 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-08T21:18:19Z",
-  "lastSuccess": "2026-10-08T21:18:19Z",
-  "currentTotal": 8928,
-  "totalWords": 11887422,
+  "lastCheck": "2026-10-09T02:08:04Z",
+  "lastSuccess": "2026-10-09T02:08:04Z",
+  "currentTotal": 8942,
+  "totalWords": 11958161,
   "subjects": 17,
-  "addedLastRun": 4,
+  "addedLastRun": 14,
   "recentAdded": [
     {
-      "id": "29173835972200765",
-      "title": "LEAH GAVE JACOB SON AFTER SON, HOPING ONE MORE BABY WOULD FINALLY MAKE HIM LOVE HER… BUT GOD WAS WRITING A STORY SHE COULDN’T YET SEE",
-      "date": "2026-10-08T16:01:16+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DKeWsKYVpfJu1dV54wmuPntVJ4uFL2t1m39DSnZvFDTkfHagDYRVr64use2jykepl"
-    },
-    {
-      "id": "29173747228876306",
-      "title": "JACOB LOVED RACHEL MORE THAN LEAH—AND GOD SAW IT",
-      "date": "2026-10-08T15:54:40+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0H6HZF4XJRDeRacyegEQk8hMf3SArkxj1j2YcmkchybHdQfSA5UMJHganD6iNxkPKl"
-    },
-    {
-      "id": "29173661845551511",
-      "title": "JACOB MARRIED TWO SISTERS WITHIN ONE WEEK—BUT THE REAL SCANDAL WAS WHAT HAPPENED TO THE WOMAN NOBODY WANTED",
-      "date": "2026-10-08T15:47:52+00:00",
+      "id": "29179797351604627",
+      "title": "A HUSBAND’S BED BECAME PART OF A BARGAIN BETWEEN TWO RIVAL SISTERS—AND GOD SAW THE PAIN NEITHER WOMAN COULD HIDE",
+      "date": "2026-10-09T02:06:36+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NcvjA6Rc7QXBVnTY9Bj1CVAKdNzxkE7jpRizyz2SSoEr8U3wKFbAkjxqXuhPTa7tl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KD9Wu4bkqEeVHtKAoM2GmAQ1xifPxA3rQqSAuV3NZn6pwRVN6QhjExq8E3dqoLVml"
     },
     {
-      "id": "29173518688899160",
-      "title": "“WHY HAVE YOU DECEIVED ME?” — THE NIGHT JACOB TASTED THE PAIN HE HAD ONCE GIVEN SOMEONE ELSE",
-      "date": "2026-10-08T15:36:34+00:00",
+      "id": "29179685794949116",
+      "title": "RACHEL TRADED A NIGHT WITH HER HUSBAND FOR LEAH’S SON’S MANDRAKES—BUT WHAT GOD DID NEXT EXPOSES A HEARTBREAK MOST CHRISTIANS STILL HIDE",
+      "date": "2026-10-09T01:55:09+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021MQ4LyS8akPG7m7tXb2NiGMvoxgZ1EEqZgLkwGhJuDcbYuhw8fNCvavTkUKf95uul"
+    },
+    {
+      "id": "29179596761624686",
+      "title": "ONE MAN. TWO SISTERS. TWO SERVANTS. AND A BATTLE OVER BABIES: JACOB’S HOUSEHOLD WAS CHAOS.",
+      "date": "2026-10-09T01:46:05+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YfftLJnrTTb8iM9scTpKeDcuPAFJD85Y68m9JRTdef66bP8oT22SVR64U3Z99r5Dl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Mzn7T1cCpZoprN3Y1QZE2LGJkmeTxKUaSSTVqSVSQbUa8p6XaskCRcM2rDd4uoWCl"
+    },
+    {
+      "id": "29179500741634288",
+      "title": "LEAH STOPPED BEARING CHILDREN—SO SHE GAVE HER SERVANT TO THE HUSBAND WHO NEVER FULLY CHOSE HER",
+      "date": "2026-10-09T01:37:18+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024o9G4RCpjPUj6LERXGKoegZWaXxHAUmpGENHepnzqTbzZFTUDp7enaE8dPp24yedl"
+    },
+    {
+      "id": "29179441194973576",
+      "title": "SHE WAS SO DESPERATE TO BECOME A MOTHER THAT SHE GAVE HER HUSBAND ANOTHER WOMAN",
+      "date": "2026-10-09T01:31:10+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kHcB4CuBGNemRwsnX4nqcvsJCHQjR2S4A7xDevkrtm5oDT9112B8ptec7jB5SVsjl"
+    },
+    {
+      "id": "29179320151652347",
+      "title": "WHY WAS JEZEBEL THROWN FROM A WINDOW? THE TERRIFYING TRUTH ABOUT THE WOMAN WHO THOUGHT GOD WOULD NEVER CALL HER TO ACCOUNT",
+      "date": "2026-10-09T01:18:46+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DNbUja2FTQmbqLLSpKFKQ8ezRyvUAViCo7SV7fxx1HySjKnzKbzRDTAgknLpmkpQl"
+    },
+    {
+      "id": "29179214751662887",
+      "title": "DANIEL SAW FOUR BEASTS. JOHN SAW ONE. WHAT THEY REVEAL ABOUT THE ANTICHRIST, THE LAST DAYS, AND THE KING WHO CANNOT BE DEFEATED WILL SHAKE YOU.",
+      "date": "2026-10-09T01:07:45+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XLgLvebuPVMAEQxaaZ8yNB3gzVWTi1jiCjgJLsM3YQ1JsTsVwR6wDQLPkWQzEwqal"
+    },
+    {
+      "id": "29179031325014563",
+      "title": "“RESIST THE DEVIL AND HE WILL FLEE FROM YOU” — BUT THE WORDS BEFORE THAT PROMISE MAY EXPOSE THE VERY THING YOU REFUSE TO SURRENDER",
+      "date": "2026-10-09T00:48:10+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MEz5WWKUhmcUxaWNe8dkA217DgD9aLQUjzZ3bSNGWLvEepDsmNUVtSUHCedMmnvFl"
+    },
+    {
+      "id": "29178959055021790",
+      "title": "WHY DID JESUS CHOOSE JUDAS… WHEN HE ALREADY KNEW JUDAS WOULD BETRAY HIM?",
+      "date": "2026-10-09T00:40:20+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Sq7ue37WWgG3Ju2wPZuHv85bWFgXtLcADqURwAJAe81u3BxpN1hjgpJBCjGzG3X2l"
+    },
+    {
+      "id": "29178858651698497",
+      "title": "THE BIBLE EXPOSES THE SINS OF ITS GREATEST HEROES—AND THE REASON SHOULD BRING EVERY BROKEN CHRISTIAN TO THEIR KNEES",
+      "date": "2026-10-09T00:29:13+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BXEySM7nsNR3HwsUrAjoeivsXqHKQveGSyZpi4iYwhCH5GkbDpciSqsmsdhPVPfcl"
+    },
+    {
+      "id": "29178777215039974",
+      "title": "Nobody Warned You That Watching Everyone Else Move Forward Could Make Waiting Hurt This Much.",
+      "date": "2026-10-09T00:20:04+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021TJ71vBxiTvTD2TBJexRPaKn9dxmewi3Kf8nbSWDHCPw2E5wSdoNQvbaijd7mFwHl"
+    },
+    {
+      "id": "29178689888382040",
+      "title": "THE MOST DANGEROUS ADVICE YOU MAY HAVE EVER BELIEVED: “JUST FOLLOW YOUR HEART”",
+      "date": "2026-10-09T00:10:18+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wYgeG9UWWU3m3tj3UtC3PruUuyrkk1FiJdd19sNBfnDA4HnNCDVJpBCUt7V3Xi4nl"
+    },
+    {
+      "id": "29178623461722016",
+      "title": "“GIVE ME CHILDREN, OR I’LL DIE!” — THE DESPERATE CRY OF A WOMAN WHO HAD EVERYTHING EXCEPT WHAT HER HEART WANTED MOST",
+      "date": "2026-10-09T00:03:18+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Qrn1qquUWWSyHbTLubmVLJD9HqNa1VRuaqGeRgNBfdSwgkmhyXotwyg5LkFqBjxpl"
+    },
+    {
+      "id": "29178516341732728",
+      "title": "RACHEL WATCHED HER SISTER HAVE CHILDREN WHILE HER WOMB REMAINED EMPTY—UNTIL JEALOUSY MADE HER SAY SOMETHING SHE COULD NEVER TAKE BACK",
+      "date": "2026-10-08T23:51:18+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JLujLcXGMHLHmhAG3s7RcyZU1qMsvZHFNyyaRsLoJZfwyPABck6aDAvZbkH81Q7Pl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-08T21:17:40Z",
-  "discovered": 4,
-  "processed": 4,
-  "discoveredLastRun": 4,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-09T02:07:10Z",
+  "discovered": 14,
+  "processed": 14,
+  "discoveredLastRun": 14,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29173835972200765",
-    "title": "LEAH GAVE JACOB SON AFTER SON, HOPING ONE MORE BABY WOULD FINALLY MAKE HIM LOVE HER… BUT GOD WAS WRITING A STORY SHE COULDN’T YET SEE",
-    "date": "2026-10-08T16:01:16+00:00"
+    "id": "29179797351604627",
+    "title": "A HUSBAND’S BED BECAME PART OF A BARGAIN BETWEEN TWO RIVAL SISTERS—AND GOD SAW THE PAIN NEITHER WOMAN COULD HIDE",
+    "date": "2026-10-09T02:06:36+00:00"
   },
-  "lastImportCount": 4,
-  "lastImportAt": "2026-10-08T21:18:19Z",
+  "lastImportCount": 14,
+  "lastImportAt": "2026-10-09T02:08:04Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8928,
+  "structuredMetadata": 8942,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-ca8fd03b7f7a8ed02b91a03a71ec70620297a80d0fc9566023eca0d2d0d56628",
-  "statusGeneratedAt": "2026-10-08T21:18:19Z"
+  "contentRevision": "sha256-9ea61446c4488d1d604ba895a7f895605b6b8fec638fc73265581f71f88467e1",
+  "statusGeneratedAt": "2026-10-09T02:08:04Z"
 }
