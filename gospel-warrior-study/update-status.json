@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 32 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-09T16:11:11Z",
-  "lastSuccess": "2026-10-09T16:11:11Z",
+  "lastCheck": "2026-10-09T20:52:19Z",
+  "lastSuccess": "2026-10-09T20:52:19Z",
   "currentTotal": 8974,
   "totalWords": 12117550,
   "subjects": 17,
-  "addedLastRun": 32,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29187560667494962",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-09T16:09:56Z",
+  "lastCheckStarted": "2026-10-09T20:52:07Z",
   "discovered": 32,
-  "processed": 32,
-  "discoveredLastRun": 32,
-  "pagesScanned": 3,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29187560667494962",
     "title": "ABSALOM SLEPT WITH HIS FATHER’S CONCUBINES ON A ROOFTOP IN FRONT OF ISRAEL—BUT THE MOST TERRIFYING PART OF THIS STORY IS WHAT HAPPENED BEFORE HE EVER CLIMBED THOSE STAIRS",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-dcd71a68b7a2e15bfafa539a0f7810b27bad9914cd91a02ddd8add46aae64395",
-  "statusGeneratedAt": "2026-10-09T16:11:11Z"
+  "statusGeneratedAt": "2026-10-09T20:52:20Z"
 }
