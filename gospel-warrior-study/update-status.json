@@ -1,135 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 32 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-09T09:00:00Z",
-  "lastSuccess": "2026-10-09T09:00:00Z",
-  "currentTotal": 8942,
-  "totalWords": 11958161,
+  "lastCheck": "2026-10-09T16:11:11Z",
+  "lastSuccess": "2026-10-09T16:11:11Z",
+  "currentTotal": 8974,
+  "totalWords": 12117550,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 32,
   "recentAdded": [
     {
-      "id": "29179797351604627",
-      "title": "A HUSBAND’S BED BECAME PART OF A BARGAIN BETWEEN TWO RIVAL SISTERS—AND GOD SAW THE PAIN NEITHER WOMAN COULD HIDE",
-      "date": "2026-10-09T02:06:36+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KD9Wu4bkqEeVHtKAoM2GmAQ1xifPxA3rQqSAuV3NZn6pwRVN6QhjExq8E3dqoLVml"
+      "id": "29187560667494962",
+      "title": "ABSALOM SLEPT WITH HIS FATHER’S CONCUBINES ON A ROOFTOP IN FRONT OF ISRAEL—BUT THE MOST TERRIFYING PART OF THIS STORY IS WHAT HAPPENED BEFORE HE EVER CLIMBED THOSE STAIRS",
+      "date": "2026-10-09T14:59:39+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033oNSXDgz2k2vERU9iy4Jq9E6L5i6mhnKBTPUBMLKX1caPZwiH7AFuXmWAaEnZ5jEl"
     },
     {
-      "id": "29179685794949116",
-      "title": "RACHEL TRADED A NIGHT WITH HER HUSBAND FOR LEAH’S SON’S MANDRAKES—BUT WHAT GOD DID NEXT EXPOSES A HEARTBREAK MOST CHRISTIANS STILL HIDE",
-      "date": "2026-10-09T01:55:09+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021MQ4LyS8akPG7m7tXb2NiGMvoxgZ1EEqZgLkwGhJuDcbYuhw8fNCvavTkUKf95uul"
+      "id": "29187263344191361",
+      "title": "A SEXUAL CRIME INSIDE DAVID’S HOUSE BECAME THE SPARK FOR MURDER AND FAMILY WAR—AND THE SILENCE OF A FATHER HELPED DESTROY HIS OWN FAMILY",
+      "date": "2026-10-09T14:35:40+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JjqyCPv6jzEwv9PWL759xUpT7ZsNbkuFurZgZabnNMwBhc1sC7haTvQxMrsSDd7Pl"
     },
     {
-      "id": "29179596761624686",
-      "title": "ONE MAN. TWO SISTERS. TWO SERVANTS. AND A BATTLE OVER BABIES: JACOB’S HOUSEHOLD WAS CHAOS.",
-      "date": "2026-10-09T01:46:05+00:00",
+      "id": "29186930460891316",
+      "title": "THE BIBLE NEVER CALLS BATHSHEBA A SEDUCTRESS—SO WHY HAS SHE SO OFTEN BEEN PORTRAYED THAT WAY?",
+      "date": "2026-10-09T14:08:08+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid038LEpw3LWcu9Ba72Q81qNYxZsn5hE7wJbBmH6stNyxvY2GrhrWfE7UDx3rM8xpDZCl"
+    },
+    {
+      "id": "29186797604237935",
+      "title": "HE RAN AWAY NAKED THE NIGHT JESUS WAS ARRESTED… BUT WHY DID GOD MAKE SURE WE KNEW?",
+      "date": "2026-10-09T13:57:15+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zSRyggPSKoKvqCvcfXjxKv8UPfevdUC39czwKLJK98RHg3GxBcqJ1W7MDcjCnUHAl"
+    },
+    {
+      "id": "29186703920913970",
+      "title": "ADAM SAID, “I WAS AFRAID, SO I HID”—AND HUMANITY HAS BEEN HIDING EVER SINCE",
+      "date": "2026-10-09T13:49:18+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Mzn7T1cCpZoprN3Y1QZE2LGJkmeTxKUaSSTVqSVSQbUa8p6XaskCRcM2rDd4uoWCl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HGszoxNYJycawTFewEBN3T4hfxUrSXZGg7MLC6TdazGx5b4PUQh7DwSiP9AWMxFvl"
     },
     {
-      "id": "29179500741634288",
-      "title": "LEAH STOPPED BEARING CHILDREN—SO SHE GAVE HER SERVANT TO THE HUSBAND WHO NEVER FULLY CHOSE HER",
-      "date": "2026-10-09T01:37:18+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024o9G4RCpjPUj6LERXGKoegZWaXxHAUmpGENHepnzqTbzZFTUDp7enaE8dPp24yedl"
-    },
-    {
-      "id": "29179441194973576",
-      "title": "SHE WAS SO DESPERATE TO BECOME A MOTHER THAT SHE GAVE HER HUSBAND ANOTHER WOMAN",
-      "date": "2026-10-09T01:31:10+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kHcB4CuBGNemRwsnX4nqcvsJCHQjR2S4A7xDevkrtm5oDT9112B8ptec7jB5SVsjl"
-    },
-    {
-      "id": "29179320151652347",
-      "title": "WHY WAS JEZEBEL THROWN FROM A WINDOW? THE TERRIFYING TRUTH ABOUT THE WOMAN WHO THOUGHT GOD WOULD NEVER CALL HER TO ACCOUNT",
-      "date": "2026-10-09T01:18:46+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DNbUja2FTQmbqLLSpKFKQ8ezRyvUAViCo7SV7fxx1HySjKnzKbzRDTAgknLpmkpQl"
-    },
-    {
-      "id": "29179214751662887",
-      "title": "DANIEL SAW FOUR BEASTS. JOHN SAW ONE. WHAT THEY REVEAL ABOUT THE ANTICHRIST, THE LAST DAYS, AND THE KING WHO CANNOT BE DEFEATED WILL SHAKE YOU.",
-      "date": "2026-10-09T01:07:45+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XLgLvebuPVMAEQxaaZ8yNB3gzVWTi1jiCjgJLsM3YQ1JsTsVwR6wDQLPkWQzEwqal"
-    },
-    {
-      "id": "29179031325014563",
-      "title": "“RESIST THE DEVIL AND HE WILL FLEE FROM YOU” — BUT THE WORDS BEFORE THAT PROMISE MAY EXPOSE THE VERY THING YOU REFUSE TO SURRENDER",
-      "date": "2026-10-09T00:48:10+00:00",
+      "id": "29186549340929428",
+      "title": "BEFORE JAMES SAYS “RESIST THE DEVIL,” HE SAYS SOMETHING MANY CHRISTIANS DON’T WANT TO HEAR",
+      "date": "2026-10-09T13:36:35+00:00",
       "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MEz5WWKUhmcUxaWNe8dkA217DgD9aLQUjzZ3bSNGWLvEepDsmNUVtSUHCedMmnvFl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fUnzko4Z93uosgQeZPTCNB8erCsNSbbiJ6irR5PHcWq4rUs5qhrkpdL621qhY8BEl"
     },
     {
-      "id": "29178959055021790",
-      "title": "WHY DID JESUS CHOOSE JUDAS… WHEN HE ALREADY KNEW JUDAS WOULD BETRAY HIM?",
-      "date": "2026-10-09T00:40:20+00:00",
+      "id": "29186451094272586",
+      "title": "JESUS SAID THE FIRST WILL BE LAST—AND THE REASON SHOULD TERRIFY EVERY CHRISTIAN WHO THINKS THEY'RE ALREADY SAFE",
+      "date": "2026-10-09T13:28:34+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Sq7ue37WWgG3Ju2wPZuHv85bWFgXtLcADqURwAJAe81u3BxpN1hjgpJBCjGzG3X2l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02U3xSB8scS8vhfavtc6b2jxL8G336D9icf74T5UdHXqxCiQkzhRCgsXZbSxztUAnl"
     },
     {
-      "id": "29178858651698497",
-      "title": "THE BIBLE EXPOSES THE SINS OF ITS GREATEST HEROES—AND THE REASON SHOULD BRING EVERY BROKEN CHRISTIAN TO THEIR KNEES",
-      "date": "2026-10-09T00:29:13+00:00",
+      "id": "29185748917676137",
+      "title": "WHEN THE WORLD CALLS EVIL GOOD, WILL YOU STILL FOLLOW JESUS?",
+      "date": "2026-10-09T12:29:27+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BXEySM7nsNR3HwsUrAjoeivsXqHKQveGSyZpi4iYwhCH5GkbDpciSqsmsdhPVPfcl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0X8fcFbDo7KBGn17Gsc4gsdReHKKRV9UHgJZzeMXxJ18oabgBz3EPT3TBgCQs5xX4l"
     },
     {
-      "id": "29178777215039974",
-      "title": "Nobody Warned You That Watching Everyone Else Move Forward Could Make Waiting Hurt This Much.",
-      "date": "2026-10-09T00:20:04+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021TJ71vBxiTvTD2TBJexRPaKn9dxmewi3Kf8nbSWDHCPw2E5wSdoNQvbaijd7mFwHl"
+      "id": "29185480251036337",
+      "title": "Their Pregnancy Announcement Was Beautiful. Your Tears After Seeing It Were Real Too.",
+      "date": "2026-10-09T12:06:34+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02A4w1M86t1MKYVRxgJNiZM8TuGyQjsk2vGhvLnaj3TM1jP8353zWASDgmVExcRBnhl"
     },
     {
-      "id": "29178689888382040",
-      "title": "THE MOST DANGEROUS ADVICE YOU MAY HAVE EVER BELIEVED: “JUST FOLLOW YOUR HEART”",
-      "date": "2026-10-09T00:10:18+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wYgeG9UWWU3m3tj3UtC3PruUuyrkk1FiJdd19sNBfnDA4HnNCDVJpBCUt7V3Xi4nl"
+      "id": "29185390887711940",
+      "title": "DOES DEPRESSION MEAN YOU DON’T TRUST GOD ENOUGH? THEN WHY DID SOME OF GOD’S MOST FAITHFUL SERVANTS BEG FOR THEIR LIVES TO END?",
+      "date": "2026-10-09T11:58:57+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02b2QK3HMncjC6gw5fvLXD1SMcBY8vUw9GEbKfxdFGzH7dAjHkkEEaJSLKqEbvEFaml"
     },
     {
-      "id": "29178623461722016",
-      "title": "“GIVE ME CHILDREN, OR I’LL DIE!” — THE DESPERATE CRY OF A WOMAN WHO HAD EVERYTHING EXCEPT WHAT HER HEART WANTED MOST",
-      "date": "2026-10-09T00:03:18+00:00",
+      "id": "29185309017720127",
+      "title": "DAVID BROUGHT URIAH HOME FROM WAR—NOT TO HONOR HIM, BUT TO HIDE WHAT HE HAD DONE WITH HIS WIFE",
+      "date": "2026-10-09T11:51:41+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RZBix44FSSGeJmQjpYbmeoPoauWrQhJHUQXkk2b5x9Snkd4afVjGnrDwz2hhE52ml"
+    },
+    {
+      "id": "29183680834549612",
+      "title": "DOES GOD REALLY GIVE HIS TOUGHEST BATTLES TO HIS STRONGEST SOLDIERS? WHAT IF THE PHRASE YOU'VE BEEN CLINGING TO ISN'T WHAT THE BIBLE ACTUALLY TEACHES?",
+      "date": "2026-10-09T09:05:34+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qsxmTMMyxLMFj5j7uxEixRWpvw1eu33SEmU4tR1NemXENLhwCs9magWwokQ78kfel"
+    },
+    {
+      "id": "29183595427891486",
+      "title": "BATHSHEBA HAD JUST PURIFIED HERSELF FROM HER UNCLEANNESS—WHY DOES SAMUEL INCLUDE THAT DETAIL?",
+      "date": "2026-10-09T08:56:11+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JWjthJzFB951x9jUomskQAkHFTwyAUKAgqA6zY98atYnoEef3KGsehgmLrnziVYKl"
+    },
+    {
+      "id": "29183393354578360",
+      "title": "DAVID TOOK MORE WIVES AND CONCUBINES AFTER GOD MADE HIM KING—BUT THE MOST DISTURBING PART IS WHAT THE BIBLE SAYS NEXT",
+      "date": "2026-10-09T08:33:30+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024j6wmPZN4X9u4zezwLFy7fY9hFrKFF3SVb2D1s9piUoh3ywuhxcpYs51dTQoHayul"
+    },
+    {
+      "id": "29183182687932760",
+      "title": "DAVID’S SONS WERE BORN TO DIFFERENT WOMEN—AND THE FAMILY HE BUILT BECAME A BATTLEGROUND OF BETRAYAL, VIOLENCE, AND BLOOD",
+      "date": "2026-10-09T08:10:09+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Qrn1qquUWWSyHbTLubmVLJD9HqNa1VRuaqGeRgNBfdSwgkmhyXotwyg5LkFqBjxpl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xnmEM9Es5Dm4LiqxfQYSLEVpqrGogSEyr2F3dHzvQiNRgHxxsyjFArfPqrtmQWB3l"
     },
     {
-      "id": "29178516341732728",
-      "title": "RACHEL WATCHED HER SISTER HAVE CHILDREN WHILE HER WOMB REMAINED EMPTY—UNTIL JEALOUSY MADE HER SAY SOMETHING SHE COULD NEVER TAKE BACK",
-      "date": "2026-10-08T23:51:18+00:00",
+      "id": "29182952004622495",
+      "title": "DAVID’S FAMILY TREE WAS ALREADY COMPLICATED BEFORE BATHSHEBA EVER APPEARED",
+      "date": "2026-10-09T07:43:56+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JLujLcXGMHLHmhAG3s7RcyZU1qMsvZHFNyyaRsLoJZfwyPABck6aDAvZbkH81Q7Pl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037MEP7FNA1RgGJ7Q4g8W3zR4k2RaJhHme1tD8DV62CaCNPFCrxxMKFvBGdmnb6Ab9l"
+    },
+    {
+      "id": "29182866394631056",
+      "title": "DAVID MARRIED ABIGAIL—BUT THE VERY NEXT VERSE EXPOSES SOMETHING MOST PREACHERS NEVER TALK ABOUT",
+      "date": "2026-10-09T07:33:55+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0peKYLQFpwt81kdSUJPr7dhfZ1JBrtjXtmtP8p9RmuboaqFjPmd4hBsgJZjaNYDkXl"
+    },
+    {
+      "id": "29182760521308310",
+      "title": "DAVID HEARD ABIGAIL’S HUSBAND WAS DEAD—THEN SENT MEN TO ASK HER TO BECOME HIS WIFE",
+      "date": "2026-10-09T07:21:34+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yZeXDDY5CcMJXE83rSZU9g2iG1dvwRMBtKbB4cFPNXQrZnQdCMyJZmabs8TVWLk7l"
+    },
+    {
+      "id": "29182402231344139",
+      "title": "SCRIPTURE ENDS MICHAL’S STORY WITH FIVE DEVASTATING WORDS: “UNTIL THE DAY OF HER DEATH.”",
+      "date": "2026-10-09T06:40:25+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jhryEoayq9xZEfnX39Uz8UwrL6ZVWwxvCYGbVa7aruBrnB9uQiTMarYyCwHqoyDrl"
+    },
+    {
+      "id": "29182190684698627",
+      "title": "SAUL PROMISED DAVID HIS DAUGHTER MERAB—THEN GAVE HER TO ANOTHER MAN",
+      "date": "2026-10-09T06:16:34+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02p4nruj1kfbTRLenthvAjpAybFpEfWWckJm3qm2DTcBH4zkFWevh7cXWAwrnoDBthl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-09T08:59:31Z",
-  "discovered": 20,
-  "processed": 20,
-  "discoveredLastRun": 20,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-09T16:09:56Z",
+  "discovered": 32,
+  "processed": 32,
+  "discoveredLastRun": 32,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29179797351604627",
-    "title": "A HUSBAND’S BED BECAME PART OF A BARGAIN BETWEEN TWO RIVAL SISTERS—AND GOD SAW THE PAIN NEITHER WOMAN COULD HIDE",
-    "date": "2026-10-09T02:06:36+00:00"
+    "id": "29187560667494962",
+    "title": "ABSALOM SLEPT WITH HIS FATHER’S CONCUBINES ON A ROOFTOP IN FRONT OF ISRAEL—BUT THE MOST TERRIFYING PART OF THIS STORY IS WHAT HAPPENED BEFORE HE EVER CLIMBED THOSE STAIRS",
+    "date": "2026-10-09T14:59:39+00:00"
   },
-  "lastImportCount": 14,
-  "lastImportAt": "2026-10-09T02:08:04Z",
+  "lastImportCount": 32,
+  "lastImportAt": "2026-10-09T16:11:11Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8942,
+  "structuredMetadata": 8974,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-9ea61446c4488d1d604ba895a7f895605b6b8fec638fc73265581f71f88467e1",
-  "statusGeneratedAt": "2026-10-09T09:00:00Z"
+  "contentRevision": "sha256-dcd71a68b7a2e15bfafa539a0f7810b27bad9914cd91a02ddd8add46aae64395",
+  "statusGeneratedAt": "2026-10-09T16:11:11Z"
 }
