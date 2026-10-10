@@ -1,177 +1,86 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 7 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-10T00:47:48Z",
-  "lastSuccess": "2026-10-10T00:47:48Z",
-  "currentTotal": 8974,
-  "totalWords": 12117550,
+  "lastCheck": "2026-10-10T07:04:09Z",
+  "lastSuccess": "2026-10-10T07:04:09Z",
+  "currentTotal": 8981,
+  "totalWords": 12150958,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 7,
   "recentAdded": [
     {
-      "id": "29187560667494962",
-      "title": "ABSALOM SLEPT WITH HIS FATHER’S CONCUBINES ON A ROOFTOP IN FRONT OF ISRAEL—BUT THE MOST TERRIFYING PART OF THIS STORY IS WHAT HAPPENED BEFORE HE EVER CLIMBED THOSE STAIRS",
-      "date": "2026-10-09T14:59:39+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033oNSXDgz2k2vERU9iy4Jq9E6L5i6mhnKBTPUBMLKX1caPZwiH7AFuXmWAaEnZ5jEl"
-    },
-    {
-      "id": "29187263344191361",
-      "title": "A SEXUAL CRIME INSIDE DAVID’S HOUSE BECAME THE SPARK FOR MURDER AND FAMILY WAR—AND THE SILENCE OF A FATHER HELPED DESTROY HIS OWN FAMILY",
-      "date": "2026-10-09T14:35:40+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JjqyCPv6jzEwv9PWL759xUpT7ZsNbkuFurZgZabnNMwBhc1sC7haTvQxMrsSDd7Pl"
-    },
-    {
-      "id": "29186930460891316",
-      "title": "THE BIBLE NEVER CALLS BATHSHEBA A SEDUCTRESS—SO WHY HAS SHE SO OFTEN BEEN PORTRAYED THAT WAY?",
-      "date": "2026-10-09T14:08:08+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid038LEpw3LWcu9Ba72Q81qNYxZsn5hE7wJbBmH6stNyxvY2GrhrWfE7UDx3rM8xpDZCl"
-    },
-    {
-      "id": "29186797604237935",
-      "title": "HE RAN AWAY NAKED THE NIGHT JESUS WAS ARRESTED… BUT WHY DID GOD MAKE SURE WE KNEW?",
-      "date": "2026-10-09T13:57:15+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zSRyggPSKoKvqCvcfXjxKv8UPfevdUC39czwKLJK98RHg3GxBcqJ1W7MDcjCnUHAl"
-    },
-    {
-      "id": "29186703920913970",
-      "title": "ADAM SAID, “I WAS AFRAID, SO I HID”—AND HUMANITY HAS BEEN HIDING EVER SINCE",
-      "date": "2026-10-09T13:49:18+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HGszoxNYJycawTFewEBN3T4hfxUrSXZGg7MLC6TdazGx5b4PUQh7DwSiP9AWMxFvl"
-    },
-    {
-      "id": "29186549340929428",
-      "title": "BEFORE JAMES SAYS “RESIST THE DEVIL,” HE SAYS SOMETHING MANY CHRISTIANS DON’T WANT TO HEAR",
-      "date": "2026-10-09T13:36:35+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fUnzko4Z93uosgQeZPTCNB8erCsNSbbiJ6irR5PHcWq4rUs5qhrkpdL621qhY8BEl"
-    },
-    {
-      "id": "29186451094272586",
-      "title": "JESUS SAID THE FIRST WILL BE LAST—AND THE REASON SHOULD TERRIFY EVERY CHRISTIAN WHO THINKS THEY'RE ALREADY SAFE",
-      "date": "2026-10-09T13:28:34+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02U3xSB8scS8vhfavtc6b2jxL8G336D9icf74T5UdHXqxCiQkzhRCgsXZbSxztUAnl"
-    },
-    {
-      "id": "29185748917676137",
-      "title": "WHEN THE WORLD CALLS EVIL GOOD, WILL YOU STILL FOLLOW JESUS?",
-      "date": "2026-10-09T12:29:27+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0X8fcFbDo7KBGn17Gsc4gsdReHKKRV9UHgJZzeMXxJ18oabgBz3EPT3TBgCQs5xX4l"
-    },
-    {
-      "id": "29185480251036337",
-      "title": "Their Pregnancy Announcement Was Beautiful. Your Tears After Seeing It Were Real Too.",
-      "date": "2026-10-09T12:06:34+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02A4w1M86t1MKYVRxgJNiZM8TuGyQjsk2vGhvLnaj3TM1jP8353zWASDgmVExcRBnhl"
-    },
-    {
-      "id": "29185390887711940",
-      "title": "DOES DEPRESSION MEAN YOU DON’T TRUST GOD ENOUGH? THEN WHY DID SOME OF GOD’S MOST FAITHFUL SERVANTS BEG FOR THEIR LIVES TO END?",
-      "date": "2026-10-09T11:58:57+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02b2QK3HMncjC6gw5fvLXD1SMcBY8vUw9GEbKfxdFGzH7dAjHkkEEaJSLKqEbvEFaml"
-    },
-    {
-      "id": "29185309017720127",
-      "title": "DAVID BROUGHT URIAH HOME FROM WAR—NOT TO HONOR HIM, BUT TO HIDE WHAT HE HAD DONE WITH HIS WIFE",
-      "date": "2026-10-09T11:51:41+00:00",
+      "id": "29195677886683240",
+      "title": "SHE WORE A CROWN, BUT SHE WAS NEVER FREE: The Dangerous Truth About Royal Women, Political Marriages, and the King Who Came to Break a Different Kind of Chain",
+      "date": "2026-10-10T03:59:38+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RZBix44FSSGeJmQjpYbmeoPoauWrQhJHUQXkk2b5x9Snkd4afVjGnrDwz2hhE52ml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026vsvDGxaR5xHMcyFimn9SijzmbqpHN4KKGR6YnLZs6rJT1gtTLMnZ7YGTvsTFV9fl"
     },
     {
-      "id": "29183680834549612",
-      "title": "DOES GOD REALLY GIVE HIS TOUGHEST BATTLES TO HIS STRONGEST SOLDIERS? WHAT IF THE PHRASE YOU'VE BEEN CLINGING TO ISN'T WHAT THE BIBLE ACTUALLY TEACHES?",
-      "date": "2026-10-09T09:05:34+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qsxmTMMyxLMFj5j7uxEixRWpvw1eu33SEmU4tR1NemXENLhwCs9magWwokQ78kfel"
-    },
-    {
-      "id": "29183595427891486",
-      "title": "BATHSHEBA HAD JUST PURIFIED HERSELF FROM HER UNCLEANNESS—WHY DOES SAMUEL INCLUDE THAT DETAIL?",
-      "date": "2026-10-09T08:56:11+00:00",
+      "id": "29194966886754340",
+      "title": "ABISHAG LAY IN KING DAVID’S BED—BUT THE BIBLE REVEALS SOMETHING THAT CHANGES THE ENTIRE STORY",
+      "date": "2026-10-10T02:48:26+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JWjthJzFB951x9jUomskQAkHFTwyAUKAgqA6zY98atYnoEef3KGsehgmLrnziVYKl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UDiZaqkHVFUJhHen9KdA5Dx6LRDMsVLAd3NCVqfsDmp27ed5Lp9M9xnsMjafbibkl"
     },
     {
-      "id": "29183393354578360",
-      "title": "DAVID TOOK MORE WIVES AND CONCUBINES AFTER GOD MADE HIM KING—BUT THE MOST DISTURBING PART IS WHAT THE BIBLE SAYS NEXT",
-      "date": "2026-10-09T08:33:30+00:00",
+      "id": "29194867110097651",
+      "title": "THEY KILLED HER SONS. SHE COULDN’T SAVE THEM. SO SHE REFUSED TO LET THE WORLD FORGET THEM.",
+      "date": "2026-10-10T02:38:28+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YZ1XRBPhfo3q5b9JTN5qqJHFgck6NAf5fGbRRZ8xJMFvoDchqWtPT6uWZrvGpsKZl"
+    },
+    {
+      "id": "29194771486773880",
+      "title": "WHY DID ISH-BOSHETH CARE SO MUCH WHETHER ABNER HAD SLEPT WITH HIS FATHER’S CONCUBINE?",
+      "date": "2026-10-10T02:29:01+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qGgnmuKiVyhTKP3CrTHQdLno8XRBCvKJWpMctSaUR8PF3oJtwp8kwvbaZxJiGriXl"
+    },
+    {
+      "id": "29194551933462502",
+      "title": "ABNER WAS ACCUSED OF SLEEPING WITH THE DEAD KING’S CONCUBINE—AND ONE QUESTION NEARLY SET A KINGDOM ON FIRE",
+      "date": "2026-10-10T02:07:36+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024j6wmPZN4X9u4zezwLFy7fY9hFrKFF3SVb2D1s9piUoh3ywuhxcpYs51dTQoHayul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Wu88kUNgQ55MR6KWx3pEKVshP3NZdfuypqpJKbJiRUxQFtqPNTECxRScE1kfM2Eol"
     },
     {
-      "id": "29183182687932760",
-      "title": "DAVID’S SONS WERE BORN TO DIFFERENT WOMEN—AND THE FAMILY HE BUILT BECAME A BATTLEGROUND OF BETRAYAL, VIOLENCE, AND BLOOD",
-      "date": "2026-10-09T08:10:09+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xnmEM9Es5Dm4LiqxfQYSLEVpqrGogSEyr2F3dHzvQiNRgHxxsyjFArfPqrtmQWB3l"
-    },
-    {
-      "id": "29182952004622495",
-      "title": "DAVID’S FAMILY TREE WAS ALREADY COMPLICATED BEFORE BATHSHEBA EVER APPEARED",
-      "date": "2026-10-09T07:43:56+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037MEP7FNA1RgGJ7Q4g8W3zR4k2RaJhHme1tD8DV62CaCNPFCrxxMKFvBGdmnb6Ab9l"
-    },
-    {
-      "id": "29182866394631056",
-      "title": "DAVID MARRIED ABIGAIL—BUT THE VERY NEXT VERSE EXPOSES SOMETHING MOST PREACHERS NEVER TALK ABOUT",
-      "date": "2026-10-09T07:33:55+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0peKYLQFpwt81kdSUJPr7dhfZ1JBrtjXtmtP8p9RmuboaqFjPmd4hBsgJZjaNYDkXl"
-    },
-    {
-      "id": "29182760521308310",
-      "title": "DAVID HEARD ABIGAIL’S HUSBAND WAS DEAD—THEN SENT MEN TO ASK HER TO BECOME HIS WIFE",
-      "date": "2026-10-09T07:21:34+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yZeXDDY5CcMJXE83rSZU9g2iG1dvwRMBtKbB4cFPNXQrZnQdCMyJZmabs8TVWLk7l"
-    },
-    {
-      "id": "29182402231344139",
-      "title": "SCRIPTURE ENDS MICHAL’S STORY WITH FIVE DEVASTATING WORDS: “UNTIL THE DAY OF HER DEATH.”",
-      "date": "2026-10-09T06:40:25+00:00",
+      "id": "29194227413494954",
+      "title": "DAVID CAME HOME TO JERUSALEM… BUT TEN WOMEN WERE NEVER ALLOWED TO COME HOME TO THEIR LIVES AGAIN",
+      "date": "2026-10-10T01:35:57+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jhryEoayq9xZEfnX39Uz8UwrL6ZVWwxvCYGbVa7aruBrnB9uQiTMarYyCwHqoyDrl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DFVnHdbzxC1Q6DBuopZRNWN6jcyCoCfL61Q2S7Ko6siRFBBki2Afx7P7GVNN57Lul"
     },
     {
-      "id": "29182190684698627",
-      "title": "SAUL PROMISED DAVID HIS DAUGHTER MERAB—THEN GAVE HER TO ANOTHER MAN",
-      "date": "2026-10-09T06:16:34+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02p4nruj1kfbTRLenthvAjpAybFpEfWWckJm3qm2DTcBH4zkFWevh7cXWAwrnoDBthl"
+      "id": "29194132236837805",
+      "title": "THE ROOFTOP WHERE DAVID’S SECRET SIN BEGAN BECAME THE STAGE OF HIS PUBLIC HUMILIATION",
+      "date": "2026-10-10T01:26:21+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TEi7m3mvsydynh9WuHNa3JFR6u3twXGXFcwFib9PbZAU9TzWojQyWXZGZmr7XYgvl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-10T00:47:32Z",
-  "discovered": 32,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-10-10T07:03:30Z",
+  "discovered": 7,
+  "processed": 7,
+  "discoveredLastRun": 7,
   "pagesScanned": 1,
   "latest": {
-    "id": "29187560667494962",
-    "title": "ABSALOM SLEPT WITH HIS FATHER’S CONCUBINES ON A ROOFTOP IN FRONT OF ISRAEL—BUT THE MOST TERRIFYING PART OF THIS STORY IS WHAT HAPPENED BEFORE HE EVER CLIMBED THOSE STAIRS",
-    "date": "2026-10-09T14:59:39+00:00"
+    "id": "29195677886683240",
+    "title": "SHE WORE A CROWN, BUT SHE WAS NEVER FREE: The Dangerous Truth About Royal Women, Political Marriages, and the King Who Came to Break a Different Kind of Chain",
+    "date": "2026-10-10T03:59:38+00:00"
   },
-  "lastImportCount": 32,
-  "lastImportAt": "2026-10-09T16:11:11Z",
+  "lastImportCount": 7,
+  "lastImportAt": "2026-10-10T07:04:09Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8974,
+  "structuredMetadata": 8981,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-dcd71a68b7a2e15bfafa539a0f7810b27bad9914cd91a02ddd8add46aae64395",
-  "statusGeneratedAt": "2026-10-10T00:47:48Z"
+  "contentRevision": "sha256-faf4f80debe6c2e7b50afd73b9de39408f7bec891a79113f38a8f6e6b0af6ad7",
+  "statusGeneratedAt": "2026-10-10T07:04:09Z"
 }
