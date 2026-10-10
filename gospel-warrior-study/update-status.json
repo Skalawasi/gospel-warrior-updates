@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 16 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-10T18:33:54Z",
-  "lastSuccess": "2026-10-10T18:33:54Z",
+  "lastCheck": "2026-10-10T22:29:46Z",
+  "lastSuccess": "2026-10-10T22:29:46Z",
   "currentTotal": 9024,
   "totalWords": 12356117,
   "subjects": 17,
-  "addedLastRun": 16,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29204460159138346",
@@ -125,11 +125,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-10T18:32:54Z",
+  "lastCheckStarted": "2026-10-10T22:29:30Z",
   "discovered": 16,
-  "processed": 16,
-  "discoveredLastRun": 16,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29204460159138346",
     "title": "the Father, what does that mean for billions of people throughout history who never knew His name?",
@@ -145,5 +145,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-4e9a5dbfd078725ca9ffb255954eb450bb74b34c879fb595917301ef3ee7c9b0",
-  "statusGeneratedAt": "2026-10-10T18:33:54Z"
+  "statusGeneratedAt": "2026-10-10T22:29:46Z"
 }
