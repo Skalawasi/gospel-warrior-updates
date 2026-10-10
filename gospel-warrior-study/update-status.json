@@ -1,86 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 7 new public studies.",
+  "message": "Added 27 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-10T07:04:09Z",
-  "lastSuccess": "2026-10-10T07:04:09Z",
-  "currentTotal": 8981,
-  "totalWords": 12150958,
+  "lastCheck": "2026-10-10T13:39:15Z",
+  "lastSuccess": "2026-10-10T13:39:15Z",
+  "currentTotal": 9008,
+  "totalWords": 12279457,
   "subjects": 17,
-  "addedLastRun": 7,
+  "addedLastRun": 27,
   "recentAdded": [
     {
-      "id": "29195677886683240",
-      "title": "SHE WORE A CROWN, BUT SHE WAS NEVER FREE: The Dangerous Truth About Royal Women, Political Marriages, and the King Who Came to Break a Different Kind of Chain",
-      "date": "2026-10-10T03:59:38+00:00",
+      "id": "29201244709459891",
+      "title": "HOW OLD WAS ISAAC WHEN HE MARRIED REBEKAH? THE ANSWER IS 40—BUT THE STORY BEHIND THAT NUMBER MAY BREAK YOUR HEART BEFORE IT RESTORES YOUR FAITH",
+      "date": "2026-10-10T13:32:01+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026vsvDGxaR5xHMcyFimn9SijzmbqpHN4KKGR6YnLZs6rJT1gtTLMnZ7YGTvsTFV9fl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sXjqaLeNP9teap4GzcweAjsnEQ3h97TkznQ5ARHyEaY6VM1uDvwwYDa3Q81kNZAxl"
     },
     {
-      "id": "29194966886754340",
-      "title": "ABISHAG LAY IN KING DAVID’S BED—BUT THE BIBLE REVEALS SOMETHING THAT CHANGES THE ENTIRE STORY",
-      "date": "2026-10-10T02:48:26+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UDiZaqkHVFUJhHen9KdA5Dx6LRDMsVLAd3NCVqfsDmp27ed5Lp9M9xnsMjafbibkl"
+      "id": "29201081872809508",
+      "title": "ABRAHAM LIVED 38 YEARS AFTER SARAH DIED—BUT WHAT HAPPENED IN THOSE YEARS REVEALS SOMETHING MOST BELIEVERS OVERLOOK",
+      "date": "2026-10-10T13:17:39+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0C7yNwiwb3GXdH2ctXCqBBJu1xomnRjbydFuXfazyuRyhxtnb87Bm6H6PB9PzitsUl"
     },
     {
-      "id": "29194867110097651",
-      "title": "THEY KILLED HER SONS. SHE COULDN’T SAVE THEM. SO SHE REFUSED TO LET THE WORLD FORGET THEM.",
-      "date": "2026-10-10T02:38:28+00:00",
+      "id": "29201001942817501",
+      "title": "HOW OLD WAS SHEM WHEN THE FLOOD HAPPENED? THE BIBLE’S ANSWER HIDES A DETAIL MOST PEOPLE NEVER NOTICE",
+      "date": "2026-10-10T13:10:40+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031CfK81SCZRPEsC4uL4nnZyGdW7AAM7tAVRZBiAF5A1neffaPNKAibgVqQ5nTvNM4l"
+    },
+    {
+      "id": "29200907266160302",
+      "title": "NOAH WAS 500 WHEN HIS SONS WERE BORN… OR WAS HE? THE BIBLE HIDES A DETAIL MOST READERS NEVER NOTICE",
+      "date": "2026-10-10T13:02:05+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YZ1XRBPhfo3q5b9JTN5qqJHFgck6NAf5fGbRRZ8xJMFvoDchqWtPT6uWZrvGpsKZl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WARU5EGoQajRx9V9cRXg8ArCbhdWU2NvMpE6UwvuzAdqDGbEMfC6VeuvoCScqpn1l"
     },
     {
-      "id": "29194771486773880",
-      "title": "WHY DID ISH-BOSHETH CARE SO MUCH WHETHER ABNER HAD SLEPT WITH HIS FATHER’S CONCUBINE?",
-      "date": "2026-10-10T02:29:01+00:00",
+      "id": "29200836986167330",
+      "title": "HOW MANY YEARS DID ADAM LIVE AFTER SETH WAS BORN? THE ANSWER IS 800—BUT THE MOST HAUNTING PART OF GENESIS 5 IS WHAT HAPPENED AFTERWARD",
+      "date": "2026-10-10T12:55:48+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02QW8uN1YGjDUYt7qYLkwStGEapTeWzjDpdbtN28CLVG8rm6UzbbCVLA2DKDypHoDml"
+    },
+    {
+      "id": "29200532999531062",
+      "title": "HOW OLD WAS ENOCH WHEN GOD TOOK HIM AWAY? THE MAN WHO WALKED WITH GOD… AND NEVER CAME HOME",
+      "date": "2026-10-10T12:28:25+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0VU1uLhZTBPCh6yJdkLNYWGWCpFNM1XEkqtFZZ9cmFTRvN85VT9ogSvg29Kku9VtJl"
+    },
+    {
+      "id": "29200421099542252",
+      "title": "HE LIVED 969 YEARS… BUT COULD NOT ESCAPE ONE APPOINTMENT WITH DEATH",
+      "date": "2026-10-10T12:18:13+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021gHu1GeF2mTqr9mThfBTexMiqXaHZ1AED6M2ktmn8S4WLoKSvivu6Ez4eRzrzG5nl"
+    },
+    {
+      "id": "29200264382891257",
+      "title": "THE FIRST GOSPEL PROMISE MAY BE HIDING EARLIER IN GENESIS THAN YOU THINK—AND IT CHANGES EVERYTHING ABOUT THE FALL",
+      "date": "2026-10-10T12:03:46+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Kat4ws57FrzK7ZTyfQzKAUdPjpreyyv9iG1p3FkHRSioydXuBJAWUsVXidqdiM3sl"
+    },
+    {
+      "id": "29200147366236292",
+      "title": "YOU KEEP TELLING THE DEVIL TO FLEE… BUT HAVE YOU SURRENDERED TO GOD?",
+      "date": "2026-10-10T11:52:32+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LFkyknriKwMbdifr5wBFvLChsynpBGZALpNjtXn4r52G5ZQSoFemMiafdeXAywKel"
+    },
+    {
+      "id": "29200037146247314",
+      "title": "JESUS SAID THE POOR IN SPIRIT ARE BLESSED—BUT WHAT IF THE VERY THING YOU’VE BEEN HIDING IS WHAT FINALLY BRINGS YOU TO YOUR KNEES BEFORE GOD?",
+      "date": "2026-10-10T11:41:56+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022kS3pb61GmMvcc2Q3Sv9KNG9BDo8N3KHoH3ihZnvGeLaT4hhgubF3JfPqNehbsP6l"
+    },
+    {
+      "id": "29199971012920594",
+      "title": "THE PERSON YOU'RE PRAYING FOR COULD BE THE PERSON GOD IS WARNING YOU ABOUT",
+      "date": "2026-10-10T11:35:23+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0249FM6ZbEGWmBhfFz3y1PwYdGzRMDkfaGbo2VvKczeEyRWD2CsZuMT2TuBhPLA3kCl"
+    },
+    {
+      "id": "29199890152928680",
+      "title": "YOU CAN TRUST GOD AND STILL HATE WHAT THIS SEASON FEELS LIKE.",
+      "date": "2026-10-10T11:27:32+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SwnQL6L8FpoB7coHFGhSnJh28o1UGPvzPTTUdaNdfPqEiUqtKqDxiFs3Xnyvp1M8l"
+    },
+    {
+      "id": "29199833719600990",
+      "title": "DOES GOD REALLY NEVER GIVE YOU MORE THAN YOU CAN HANDLE? WHAT IF THAT’S NOT WHAT THE BIBLE SAYS?",
+      "date": "2026-10-10T11:22:01+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0g9tihoo8mNwte1BY3wgW2naLD5X4g8knE1r3HxF4yNEihxXsduVA7mdFocNP9DMFl"
+    },
+    {
+      "id": "29199783336272695",
+      "title": "THE WOMAN THEY MOCKED FOR HAVING NO CHILDREN… LATER HELD SIX CHILDREN IN HER STORY. BUT THE GREATEST MIRACLE WASN’T WHAT GOD PUT IN HER ARMS.",
+      "date": "2026-10-10T11:16:59+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qGgnmuKiVyhTKP3CrTHQdLno8XRBCvKJWpMctSaUR8PF3oJtwp8kwvbaZxJiGriXl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bDyo5zG4TWTwR9G9FzXMyzxrJjtcU16qs4BaEFwDp7tuWjNK1LBpEEFTWoWhwGeHl"
     },
     {
-      "id": "29194551933462502",
-      "title": "ABNER WAS ACCUSED OF SLEEPING WITH THE DEAD KING’S CONCUBINE—AND ONE QUESTION NEARLY SET A KINGDOM ON FIRE",
-      "date": "2026-10-10T02:07:36+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Wu88kUNgQ55MR6KWx3pEKVshP3NZdfuypqpJKbJiRUxQFtqPNTECxRScE1kfM2Eol"
+      "id": "29199733236277705",
+      "title": "SHE CRIED FOR YEARS OVER THE CHILD SHE COULDN’T HAVE… THEN GOD WROTE A NAME INTO HER STORY THAT THE WORLD WOULD NEVER FORGET.",
+      "date": "2026-10-10T11:11:57+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0c3vXaCEDrJdf3ynQeN7WqHY6zK8rUt6U9dCfn1d1GsPmNTxZMqcA2dke9zhmQt6Al"
     },
     {
-      "id": "29194227413494954",
-      "title": "DAVID CAME HOME TO JERUSALEM… BUT TEN WOMEN WERE NEVER ALLOWED TO COME HOME TO THEIR LIVES AGAIN",
-      "date": "2026-10-10T01:35:57+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DFVnHdbzxC1Q6DBuopZRNWN6jcyCoCfL61Q2S7Ko6siRFBBki2Afx7P7GVNN57Lul"
+      "id": "29198871123030583",
+      "title": "HANNAH HAD TO WATCH ANOTHER WOMAN GIVE HER HUSBAND THE CHILDREN SHE COULDN’T GIVE HIM… AND STILL FIND THE STRENGTH TO PRAY",
+      "date": "2026-10-10T09:42:06+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02gdrDEU7GzqUnXsNcXDu6Sn2zsENCQdVUTUSx6ApgKTMMbTGEGY5PXxns1thHFmLYl"
     },
     {
-      "id": "29194132236837805",
-      "title": "THE ROOFTOP WHERE DAVID’S SECRET SIN BEGAN BECAME THE STAGE OF HIS PUBLIC HUMILIATION",
-      "date": "2026-10-10T01:26:21+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TEi7m3mvsydynh9WuHNa3JFR6u3twXGXFcwFib9PbZAU9TzWojQyWXZGZmr7XYgvl"
+      "id": "29198737873043908",
+      "title": "BOAZ WANTED TO REDEEM RUTH—BUT ANOTHER MAN HAD THE LEGAL RIGHT BEFORE HIM",
+      "date": "2026-10-10T09:27:38+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wNRDgLujVPVrJiURNo5jC7yKVYNLnxpcv3HUCFPTJMv5o9tVeMLbUnkr1eXREssMl"
+    },
+    {
+      "id": "29198669956384033",
+      "title": "SHE WASHED HER BODY, ANOINTED HERSELF, CHANGED HER CLOTHES… THEN WALKED INTO THE DARKNESS TOWARD A MAN WHO COULD CHANGE HER FUTURE.",
+      "date": "2026-10-10T09:20:12+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WS9efdrWXMFDgpoJdkVwBn5No9iEVfqcLqBbp2gpS3YnhQP5UzsLwFKDq8p8b1cJl"
+    },
+    {
+      "id": "29198552739729088",
+      "title": "“WHOSE YOUNG WOMAN IS THIS?” — THE DAY BOAZ NOTICED RUTH, HE HAD NO IDEA HE WAS LOOKING AT A WOMAN WHO WOULD BECOME PART OF THE BLOODLINE OF JESUS CHRIST",
+      "date": "2026-10-10T09:07:16+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid091ZH7gUoXqsXZwFZyjRwBYb1kESaWMiUyjeB3hLDsHqcV5Lo8beiwyJxX1ZaL5WFl"
+    },
+    {
+      "id": "29198443069740055",
+      "title": "NAOMI LOST HER HUSBAND—THEN BOTH OF HER SONS DIED TOO. AND HEAVEN SEEMED SILENT.",
+      "date": "2026-10-10T08:55:22+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Ln7tB8g4Qmzmc4CdgdGg2HRHpmY6iHnGWHugbPEsbCesYhnaVcS9iLHbcTvUf9fyl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-10T07:03:30Z",
-  "discovered": 7,
-  "processed": 7,
-  "discoveredLastRun": 7,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-10T13:38:10Z",
+  "discovered": 27,
+  "processed": 27,
+  "discoveredLastRun": 27,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29195677886683240",
-    "title": "SHE WORE A CROWN, BUT SHE WAS NEVER FREE: The Dangerous Truth About Royal Women, Political Marriages, and the King Who Came to Break a Different Kind of Chain",
-    "date": "2026-10-10T03:59:38+00:00"
+    "id": "29201244709459891",
+    "title": "HOW OLD WAS ISAAC WHEN HE MARRIED REBEKAH? THE ANSWER IS 40—BUT THE STORY BEHIND THAT NUMBER MAY BREAK YOUR HEART BEFORE IT RESTORES YOUR FAITH",
+    "date": "2026-10-10T13:32:01+00:00"
   },
-  "lastImportCount": 7,
-  "lastImportAt": "2026-10-10T07:04:09Z",
+  "lastImportCount": 27,
+  "lastImportAt": "2026-10-10T13:39:15Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 8981,
+  "structuredMetadata": 9008,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-faf4f80debe6c2e7b50afd73b9de39408f7bec891a79113f38a8f6e6b0af6ad7",
-  "statusGeneratedAt": "2026-10-10T07:04:09Z"
+  "contentRevision": "sha256-1cd08527266cba14e874e2023f6df685434cbd65681bb08be26d95999cf23899",
+  "statusGeneratedAt": "2026-10-10T13:39:15Z"
 }
