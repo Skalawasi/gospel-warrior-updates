@@ -1,149 +1,65 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 16 new public studies.",
+  "message": "Added 4 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-11T15:38:41Z",
-  "lastSuccess": "2026-10-11T15:38:41Z",
-  "currentTotal": 9066,
-  "totalWords": 12563107,
+  "lastCheck": "2026-10-11T20:14:40Z",
+  "lastSuccess": "2026-10-11T20:14:40Z",
+  "currentTotal": 9070,
+  "totalWords": 12582686,
   "subjects": 17,
-  "addedLastRun": 16,
+  "addedLastRun": 4,
   "recentAdded": [
     {
-      "id": "29215595658024796",
-      "title": "GOD CALLED HIS NAME… BUT ALMOST NOBODY REMEMBERS HIM: THE FORGOTTEN CRAFTSMAN WHO HELPED BUILD A PLACE FOR GOD'S GLORY",
-      "date": "2026-10-11T14:57:17+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0uJBN7fV8dPaLi7nAxa268EofpXf2auJL6YrSnAK4zqXLufatEzY2EhWdGwkRdrv1l"
-    },
-    {
-      "id": "29214937528090609",
-      "title": "THE SERPENT IN EDEN BECAME THE DRAGON IN REVELATION—BUT THE ENEMY NEVER SAW THE CROSS COMING",
-      "date": "2026-10-11T13:58:26+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034Ck2kJ84DtUi68E2UtzRUUGVbbUawF1RHrFwwMDwmRpap2EZLwVF11aUvBjFxbp1l"
-    },
-    {
-      "id": "29214824941435201",
-      "title": "YOU’RE FIGHTING A SPIRITUAL WAR WITH THE WRONG WEAPONS—AND THE ENEMY KNOWS IT",
-      "date": "2026-10-11T13:48:16+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0H1hcuVPAnNYE3UEk18Q6durGN35AiiGKa9xJ4uXSioS6VfLSZpL4qHnwbMFwmsvLl"
-    },
-    {
-      "id": "29214752151442480",
-      "title": "WHY DID JESUS FAST FOR 40 DAYS? THE TERRIFYING TRUTH ABOUT THE WILDERNESS THAT MOST CHRISTIANS NEVER REALIZED",
-      "date": "2026-10-11T13:41:36+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037xwjbE5m6xGmutrZ6WpaAES5NQXWMLsLmoLXM5Yob2ygGDQTJMehUSXZFmsCcmhBl"
-    },
-    {
-      "id": "29214670294783999",
-      "title": "YOU FELL INTO SEXUAL SIN AGAIN… SO WHY DOES TALKING TO GOD SUDDENLY FEEL IMPOSSIBLE?",
-      "date": "2026-10-11T13:34:09+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zCtb625atKjkWZS443RYpHr8mmn89jpufPUSD13S1yAfFgjrfHhimqd6um95sdvJl"
-    },
-    {
-      "id": "29214600541457641",
-      "title": "MAYBE GOD ISN’T SHOWING YOU THE WHOLE ROAD BECAUSE HE’S ASKING YOU TO TRUST HIM WITH THE NEXT STEP.",
-      "date": "2026-10-11T13:27:53+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ncGGvZmVdDaWVr68nnJKhj84QfWGt9BT9R3RuMRo7QvdksRjqoCzVdFPTtnKNX3Tl"
-    },
-    {
-      "id": "29214468361470859",
-      "title": "ARE DELIVERANCE MINISTRIES BIBLICAL—OR HAVE WE TURNED SPIRITUAL WARFARE INTO SOMETHING JESUS NEVER TAUGHT?",
-      "date": "2026-10-11T13:15:53+00:00",
+      "id": "29216553844595644",
+      "title": "CAN SATAN HEAR YOUR THOUGHTS? THE TERRIFYING QUESTION EVERY CHRISTIAN NEEDS TO ANSWER",
+      "date": "2026-10-11T16:22:18+00:00",
       "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034BDMPTZDE3KA5WLBrTsEtHq7UQZdH1hKUUqSDcCfsmwuzEPfsje8dKgGpBjRoEACl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dqTPLnzmd6gsYYCP6Va71Yo6XnRxqTouyTmJ6W6kyxKqFYYszwMdHEjLD8RiMKSHl"
     },
     {
-      "id": "29213986034852425",
-      "title": "PHARAOH ORDERED THE HEBREW BABIES TO DIE—BUT HIS OWN DAUGHTER PULLED ONE FROM THE RIVER AND BROUGHT HIM INTO THE PALACE",
-      "date": "2026-10-11T12:31:46+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid01P3BRhw7cz4W2XMWFUzcUc4so88JjdEKWZsFFKF3uFdiWZR8TpBvgnVEH4kkgjydl"
-    },
-    {
-      "id": "29213320341585661",
-      "title": "JOSEPH COULDN’T CONTROL HIMSELF ANY LONGER—THEN HE SAID FIVE WORDS THAT LEFT HIS BROTHERS TERRIFIED: “I AM JOSEPH.”",
-      "date": "2026-10-11T11:26:08+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KMzgeRHuPXmHjvHvvLwfJ7imxBgvr2JC9UypnvktYBTmJZMVpW1EbmwDjXcPFGuYl"
-    },
-    {
-      "id": "29213074221610273",
-      "title": "CAN CHRISTIANS HAVE DEMONS? THE TERRIFYING QUESTION THE CHURCH CANNOT AFFORD TO ANSWER CARELESSLY",
-      "date": "2026-10-11T11:00:00+00:00",
+      "id": "29216387001278995",
+      "title": "STOP REBUKING SATAN LIKE YOU HAVE POWER WITHOUT GOD—THE BIBLE REVEALS SOMETHING MANY CHRISTIANS HAVE MISSED",
+      "date": "2026-10-11T16:07:15+00:00",
       "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hAYE97NJykLwwq6xLkD9FXu9Bv63HpdZBdpKdwZ2AyDn6eBzPWVNBXg44E3mCUbHl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034UgpdtK9mLGZDhg3bbfZ6gTMhLjKPVjmXomf3DJjYh6teUBGQqNqmZrDVxrTH8Lzl"
     },
     {
-      "id": "29212526648331697",
-      "title": "GOD FILLED A MAN WITH HIS SPIRIT… NOT TO PREACH, BUT TO BUILD. AND WHAT HAPPENED NEXT CHANGES HOW YOU SEE YOUR OWN CALLING.",
-      "date": "2026-10-11T09:59:58+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FWLDC8hJf5ikAixLBpGA16f69jSBQojQKjU7awByDiTCCVPey6wcuMoLRK1BFVApl"
+      "id": "29216212857963076",
+      "title": "ARE WE BLAMING SATAN FOR THE DESTRUCTION OUR OWN DECISIONS CREATED?",
+      "date": "2026-10-11T15:51:25+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ttbBRtTp6kdc8GsG1jyBDtpXXbUjGwpWgvD31ZAfLgTv9JsMmDMpYNdCf3aD9dHYl"
     },
     {
-      "id": "29212464638337898",
-      "title": "WHO WAS HUR? THE FORGOTTEN MAN WHO HELD UP MOSES’ HANDS WHEN ISRAEL’S FUTURE HUNG IN THE BALANCE",
-      "date": "2026-10-11T09:53:00+00:00",
+      "id": "29216083144642714",
+      "title": "MOSES KILLED AN EGYPTIAN… THEN BURIED THE BODY IN THE SAND. BUT WHAT HE COULDN’T BURY WOULD CHANGE HIS LIFE FOREVER.",
+      "date": "2026-10-11T15:39:39+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WARYygp4gDWsx2QAS8r6YQxKqA5fvGEv1Yz6e6hndE8vToe2NGiuUgBjxJqhQpbel"
-    },
-    {
-      "id": "29212378438346518",
-      "title": "BEFORE JETHRO BECAME MOSES’ FATHER-IN-LAW, HE WAS SOMEONE THE BIBLE DOESN’T WANT YOU TO OVERLOOK",
-      "date": "2026-10-11T09:43:10+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Cgqw8jrgtVvsqQSnrhCdruZwaA1kpdTrsZcBFp4s1efZci9iJpD1wKo1AbYdPGKRl"
-    },
-    {
-      "id": "29212254701692225",
-      "title": "SOLOMON BURNED 1,000 OFFERINGS BEFORE GOD—BUT WHAT HAPPENED THAT NIGHT REVEALS SOMETHING FAR GREATER THAN THE SACRIFICES",
-      "date": "2026-10-11T09:29:08+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08YN6ETC2DB1MvH2rXuNSMM6ALGddCMvn3rFK2bFfvDqZ3EXVwPvpnCFjvwkeJwKil"
-    },
-    {
-      "id": "29212094845041544",
-      "title": "SIX CITIES FOR ONE DESPERATE SOUL: THE DAY GOD MADE A WAY FOR THE PERSON EVERYONE WANTED TO KILL",
-      "date": "2026-10-11T09:10:54+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VXHtnnwdSWc3d6sGqiTxTydjB9LcrKBTKLSTCLNPdcnez8MK42Kggijh3CbvbMj1l"
-    },
-    {
-      "id": "29211960015055027",
-      "title": "GOD PROMISED THEM THE LAND… SO WHY DID HE SEND 12 MEN TO SPY ON IT? THE ANSWER EXPOSES A TERRIFYING TRUTH ABOUT FAITH",
-      "date": "2026-10-11T08:55:33+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KK9yFv2fQnEzFdZyhb7mRxEBYkPzi3GeDBixRugs4e2qr66NTxNTqvbnDMUaQeQCl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031BGqe9wiUUaRcw4R3mKiT4PdppCUgKw9rcZcMA6FszYjDmDPFwmr8Dr9rHKBevql"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-11T15:37:56Z",
-  "discovered": 16,
-  "processed": 16,
-  "discoveredLastRun": 16,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-11T20:14:01Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29215595658024796",
-    "title": "GOD CALLED HIS NAME… BUT ALMOST NOBODY REMEMBERS HIM: THE FORGOTTEN CRAFTSMAN WHO HELPED BUILD A PLACE FOR GOD'S GLORY",
-    "date": "2026-10-11T14:57:17+00:00"
+    "id": "29216553844595644",
+    "title": "CAN SATAN HEAR YOUR THOUGHTS? THE TERRIFYING QUESTION EVERY CHRISTIAN NEEDS TO ANSWER",
+    "date": "2026-10-11T16:22:18+00:00"
   },
-  "lastImportCount": 16,
-  "lastImportAt": "2026-10-11T15:38:41Z",
+  "lastImportCount": 4,
+  "lastImportAt": "2026-10-11T20:14:40Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9066,
+  "structuredMetadata": 9070,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3f98bcf9bba216220396e56d2c4d65dfa50830f6964ba485112587e934e8fdae",
-  "statusGeneratedAt": "2026-10-11T15:38:41Z"
+  "contentRevision": "sha256-3b25541db1ff36df5d1826cad5fc98d267b81e3b568bd2322d49da32199547e3",
+  "statusGeneratedAt": "2026-10-11T20:14:40Z"
 }
