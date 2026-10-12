@@ -1,149 +1,121 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 16 new public studies.",
+  "message": "Added 12 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-12T15:18:04Z",
-  "lastSuccess": "2026-10-12T15:18:04Z",
-  "currentTotal": 9088,
-  "totalWords": 12672645,
+  "lastCheck": "2026-10-12T22:31:30Z",
+  "lastSuccess": "2026-10-12T22:31:30Z",
+  "currentTotal": 9100,
+  "totalWords": 12730350,
   "subjects": 17,
-  "addedLastRun": 16,
+  "addedLastRun": 12,
   "recentAdded": [
     {
-      "id": "29227757796808582",
-      "title": "THEY CALLED IT DIVISION WHEN SOMEONE FINALLY TOLD THE TRUTH",
-      "date": "2026-10-12T13:18:33+00:00",
+      "id": "29234270822823946",
+      "title": "WHAT IF YOU’RE NOT LOSING YOUR FAITH… YOU’RE JUST EXHAUSTED FROM PRETENDING YOU’RE STRONG?",
+      "date": "2026-10-12T22:21:56+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02nb4eaokB6Em824wYJFGyY2fLU9JgtW1ghKE651n7a8vtZPhRb3fbvSAyTCtQm7fCl"
+    },
+    {
+      "id": "29234169536167408",
+      "title": "CAN YOU LOVE GOD WITH ALL YOUR HEART… AND STILL WAKE UP WISHING YOU DIDN’T HAVE TO FACE ANOTHER DAY?",
+      "date": "2026-10-12T22:10:50+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dnQ44MWBU5SiBCP166ej6k4HNL6s2cR7NBU1X1rAXZPecmuhxiR5tNUQLYkRtJBZl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xiHZvYxLwDVYRvVFgjwqxGK5t9vYhWhKcuaLKK1XopimuQREtTEPTGo87HchJfxnl"
     },
     {
-      "id": "29227590453491983",
-      "title": "HE FELL INTO SIN. GOD FORGAVE HIM. BUT SHOULD HE EVER STAND BEHIND THE PULPIT AGAIN?",
-      "date": "2026-10-12T13:04:48+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05CQdEz4V7117uH3RbveVPAV3dwEA2PC3r4SqeuH2vDArQNR7zCgSfRJCabWQY65Vl"
-    },
-    {
-      "id": "29227489920168703",
-      "title": "ARE WE PREACHING THE GOSPEL… OR JUST TELLING PEOPLE WHAT THEY WANT TO HEAR?",
-      "date": "2026-10-12T12:56:36+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tJQa1hcPmPjskCBA7peGEHnjqskhNtSP3hWAVpQ7xD3zxBQapQRKTgAnvFt7q6Qcl"
-    },
-    {
-      "id": "29227334810184214",
-      "title": "THE MOMENT YOU QUESTION YOUR PASTOR, ARE YOU REBELLING AGAINST GOD? THE BIBLICAL TRUTH SOME CHURCHES ARE AFRAID TO CONFRONT",
-      "date": "2026-10-12T12:44:02+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bLCtBFwTJKsBtVbKAXLN1hDSAo4kR2ry3FrzMCfayNi35ipaa1XphZ2Mn5soQmXql"
-    },
-    {
-      "id": "29227103700207325",
-      "title": "WHEN DID FOLLOWING JESUS BECOME MORE ABOUT CHURCH ATTENDANCE THAN OBEDIENCE?",
-      "date": "2026-10-12T12:24:27+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022kyo3JnBS4LSJLjGw6ZDV94SqWJFPxnvbU7dhDt5c1ygzhaHtyFBmkvvKAmrzpkzl"
-    },
-    {
-      "id": "29226571616927200",
-      "title": "WHAT IF YOUR BIGGEST SPIRITUAL PROBLEM ISN’T THE DEVIL… BUT YOUR REFUSAL TO REPENT?",
-      "date": "2026-10-12T11:34:22+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WHQxutkjw7r9PQsevXAyKddQsjkgMnoG14KWZTjpVcADLfwh4VZWWWioVgam1vzul"
-    },
-    {
-      "id": "29226484983602530",
-      "title": "THE CHURCH IS FULL OF WORSHIP SONGS… SO WHY ARE SO MANY HEARTS STILL BROKEN?",
-      "date": "2026-10-12T11:25:53+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LRNXDZ6LyTBetCfXUGxw6UJgyf1s6Z36X6cWWBLoS34BJyVQvzxZprhhFJ1NKT7ol"
-    },
-    {
-      "id": "29226402066944155",
-      "title": "YOU WOKE UP. YOU COULDN’T MOVE. SOMETHING WAS IN THE ROOM. WAS IT A DEMON—OR SOMETHING ELSE?",
-      "date": "2026-10-12T11:17:34+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0auk5u5n6mv346Z8zgkjgH89pVF2fok537QCGuEdsWUZVc3QEw9SFKAgF2Fhv8LdMl"
-    },
-    {
-      "id": "29225940980323597",
-      "title": "WHY DO SOME CHRISTIANS DEFEND THEIR FAVORITE PASTOR MORE FIERCELY THAN THEY DEFEND SCRIPTURE?",
-      "date": "2026-10-12T10:29:32+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09dAGnDoXrvgLJS6dwVwA3YVEqNRZ9HuzQNHyF9Nd5Vp4SyVV5yXhEPZEyFztPuvGl"
-    },
-    {
-      "id": "29225875903663438",
-      "title": "WHAT IF THE CHRISTIANITY THAT MAKES YOU COMFORTABLE IS THE VERY THING KEEPING YOU FROM SURRENDERING TO CHRIST?",
-      "date": "2026-10-12T10:22:35+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DTx1hfTmjivgh9hdRNsq9gN7Ezh6TWZVTMqzXmUhCc6phEL3kvZxW5Z1aFTsFTNNl"
-    },
-    {
-      "id": "29225801430337552",
-      "title": "“BRIDEGROOM OF BLOOD”: THE NIGHT GOD CONFRONTED MOSES BEFORE HE COULD DELIVER ISRAEL",
-      "date": "2026-10-12T10:14:46+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pnWeKKXAVuLxKe6t4dgTupdZjC7Se51i5VM9aoiCxXCcd4cBjVUjbpUR1j98jr7bl"
-    },
-    {
-      "id": "29225716330346062",
-      "title": "MOSES GAVE GOD EXCUSE AFTER EXCUSE—UNTIL THE BIBLE SAYS GOD BECAME ANGRY",
-      "date": "2026-10-12T10:05:38+00:00",
+      "id": "29234108079506887",
+      "title": "THE SEA HAD JUST SWALLOWED THEIR ENEMIES… THEN MIRIAM PICKED UP A TAMBOURINE",
+      "date": "2026-10-12T22:03:59+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0o8jbdZssuu6aHpGvuYUYBgAFqLSbskBmDjAZAjdnq6pi232jwSmmvAkg1Ls8ApD6l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02in8bAov718x4wCUMs2HavayaAxL2mdH387KGR1kF4yazQW57KfSicy4Rj5uWcnY2l"
     },
     {
-      "id": "29225563133694715",
-      "title": "YOU KNOW BIBLE VERSES… BUT DO YOU ACTUALLY KNOW THE GOD WHO WROTE THEM?",
-      "date": "2026-10-12T09:49:13+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0E5mehNex5YazbwNmsohZ5z1nH4YSb8GXxC7qi1DSSoiGQg6d5CMGUypPnEATk3GEl"
+      "id": "29234062996178062",
+      "title": "THE SAME SEA THAT BECAME ISRAEL’S ESCAPE ROUTE BECAME PHARAOH’S ARMY’S GRAVE",
+      "date": "2026-10-12T21:59:00+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SiMPz74FRV3vndKqXLUemNe8FARJvx39f5ngGr8vUNqpdoMtCDnFmDFjWZJcbRQVl"
     },
     {
-      "id": "29225490083702020",
-      "title": "pressed other believers.",
-      "date": "2026-10-12T09:41:10+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0244Z3wZ4DsGELfRRNzbAaUa2kEB7U4h7qkdf8Ti4kVQeBKUgNPzpkr7HSsyj52YLDl"
+      "id": "29234019262849102",
+      "title": "THE RED SEA OPENED—BUT ISRAEL STILL HAD TO WALK BETWEEN WALLS OF WATER",
+      "date": "2026-10-12T21:54:14+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Q9Aqc3BwqYt2DL78Um9HZDUwY4UmPqvxFCRoeiSBNqe3kaQxgCCjbwttvrWnu7Nol"
     },
     {
-      "id": "29225418103709218",
-      "title": "CAN YOU LOVE JESUS AND STILL LIVE COMFORTABLY IN SIN?",
-      "date": "2026-10-12T09:33:17+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VQCCLrXNwFZRYDLfYdgPgXgyF2Gr6Ehyp7aMqwHq2FmG1u8fvfo34wniCB6Wxxxdl"
+      "id": "29233913036193058",
+      "title": "THE NIGHT DEATH PASSED THROUGH EGYPT—AND WHY GOD DEMANDED BLOOD ON THE DOORPOSTS",
+      "date": "2026-10-12T21:42:48+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid016so5R9mjpqhf96APLpsRrXwBvjv5bGLRB9UzQTqC4YRHPNKZtjKKCnPRTnkxBFVl"
     },
     {
-      "id": "29225354133715615",
-      "title": "YOU CALL YOURSELF A CHRISTIAN… BUT WOULD JESUS RECOGNIZE THE LIFE YOU’RE LIVING?",
-      "date": "2026-10-12T09:26:07+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sw13Yk3Txx5JJNAJ4792LyuMgWaE3MgmKNSJ9BhgrWrqZBvbmSDQCfsWhkZofP3el"
+      "id": "29233839409533754",
+      "title": "GOD HARDENED PHARAOH’S HEART… BUT PHARAOH HARDENED IT FIRST? THE TERRIFYING TRUTH MOST PEOPLE MISS IN EXODUS",
+      "date": "2026-10-12T21:35:05+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DUpgAXt1QjBvVm8CLuTUQScgYvS1CG5eUBug6t2zXxBeq3XC1tJSPth3TJMbyacdl"
+    },
+    {
+      "id": "29233789466205415",
+      "title": "THE MAGICIANS FINALLY TOLD PHARAOH, “THIS IS THE FINGER OF GOD” — BUT THE MOST TERRIFYING PART WAS WHAT PHARAOH DID NEXT",
+      "date": "2026-10-12T21:30:04+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034GtkjESbLdpANkjy3uxxqUyfM1MHQtYYDXLW1idt6Yvzv9AjEXccj3qZ9JWQP1dSl"
+    },
+    {
+      "id": "29230051726579189",
+      "title": "WHAT DO YOU DO WHEN YOU’VE PRAYED FOR YEARS… AND HEAVEN STILL FEELS SILENT?",
+      "date": "2026-10-12T16:10:12+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bhPmuoFtqNdTusrfX3ZQekF4Dm6jgeMa5gBgY4xBU2vVQMZ2vs1crtYTQon7MLHJl"
+    },
+    {
+      "id": "29229921793258849",
+      "title": "HE WAS EVERYONE’S PRAYER WARRIOR… BUT NOBODY KNEW HE WAS BARELY HOLDING ON.",
+      "date": "2026-10-12T16:01:04+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G4LEhD1dnFBY5mPy3xxhdTs6TebiZTozHQBVMUJqh5qveLQtiSvhFknuJVEjSkEil"
+    },
+    {
+      "id": "29229813539936341",
+      "title": "SHE SANG ABOUT GOD’S GOODNESS ON SUNDAY… THEN CRIED HERSELF TO SLEEP THAT NIGHT.",
+      "date": "2026-10-12T15:53:30+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RQESjcNEWaCJdh3Pkac9tgH8csm3ytPjgNBmheiZpaEU3RQ8CTUkehD6EZ435jGYl"
+    },
+    {
+      "id": "29229663656617996",
+      "title": "THE CHURCH WAS SUPPOSED TO BE A HOSPITAL FOR THE WOUNDED. SO WHY ARE SOME CHRISTIANS PROTECTING ITS REPUTATION WHILE PEOPLE BLEED IN SILENCE?",
+      "date": "2026-10-12T15:43:01+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FPfukECKJAq9BEd7jtLkjRJsubXMWwgWngxhhS4sDJ2mHBT93GCxa74vVmHJPqLrl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-12T15:17:03Z",
-  "discovered": 16,
-  "processed": 16,
-  "discoveredLastRun": 16,
+  "lastCheckStarted": "2026-10-12T22:30:41Z",
+  "discovered": 12,
+  "processed": 12,
+  "discoveredLastRun": 12,
   "pagesScanned": 2,
   "latest": {
-    "id": "29227757796808582",
-    "title": "THEY CALLED IT DIVISION WHEN SOMEONE FINALLY TOLD THE TRUTH",
-    "date": "2026-10-12T13:18:33+00:00"
+    "id": "29234270822823946",
+    "title": "WHAT IF YOU’RE NOT LOSING YOUR FAITH… YOU’RE JUST EXHAUSTED FROM PRETENDING YOU’RE STRONG?",
+    "date": "2026-10-12T22:21:56+00:00"
   },
-  "lastImportCount": 16,
-  "lastImportAt": "2026-10-12T15:18:04Z",
+  "lastImportCount": 12,
+  "lastImportAt": "2026-10-12T22:31:30Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9088,
+  "structuredMetadata": 9100,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-ed38a8cc472ed4ff362cb65c24a7f250003af43106b43ac4ee1ed7102f436854",
-  "statusGeneratedAt": "2026-10-12T15:18:04Z"
+  "contentRevision": "sha256-b7113a4a6d6e9061e8360efe5378664bb86dd6c8a88ac2cd038cd8d71bb5437c",
+  "statusGeneratedAt": "2026-10-12T22:31:30Z"
 }
