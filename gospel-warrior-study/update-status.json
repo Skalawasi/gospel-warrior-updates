@@ -1,51 +1,149 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 16 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-12T05:52:27Z",
-  "lastSuccess": "2026-10-12T05:52:27Z",
-  "currentTotal": 9072,
-  "totalWords": 12592063,
+  "lastCheck": "2026-10-12T15:18:04Z",
+  "lastSuccess": "2026-10-12T15:18:04Z",
+  "currentTotal": 9088,
+  "totalWords": 12672645,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 16,
   "recentAdded": [
     {
-      "id": "29219614770956218",
-      "title": "THE FIRE THAT REFUSED TO DESTROY: WHY GOD CHOSE A BURNING BUSH TO SPEAK TO A BROKEN MAN",
-      "date": "2026-10-11T21:50:31+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LJ478jtLw5WC8KEuMmBcJize1EuE6hQ9phYDKfWygSMiiJLk2CcRKiw6NpJy9fwil"
+      "id": "29227757796808582",
+      "title": "THEY CALLED IT DIVISION WHEN SOMEONE FINALLY TOLD THE TRUTH",
+      "date": "2026-10-12T13:18:33+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dnQ44MWBU5SiBCP166ej6k4HNL6s2cR7NBU1X1rAXZPecmuhxiR5tNUQLYkRtJBZl"
     },
     {
-      "id": "29219421590975536",
-      "title": "HOW MANY MONTHS WERE IN A YEAR WHEN THE BIBLE WAS WRITTEN? THE ANSWER IS 12… BUT THE 13TH MONTH REVEALS SOMETHING MOST CHRISTIANS HAVE NEVER BEEN TAUGHT",
-      "date": "2026-10-11T21:24:42+00:00",
+      "id": "29227590453491983",
+      "title": "HE FELL INTO SIN. GOD FORGAVE HIM. BUT SHOULD HE EVER STAND BEHIND THE PULPIT AGAIN?",
+      "date": "2026-10-12T13:04:48+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05CQdEz4V7117uH3RbveVPAV3dwEA2PC3r4SqeuH2vDArQNR7zCgSfRJCabWQY65Vl"
+    },
+    {
+      "id": "29227489920168703",
+      "title": "ARE WE PREACHING THE GOSPEL… OR JUST TELLING PEOPLE WHAT THEY WANT TO HEAR?",
+      "date": "2026-10-12T12:56:36+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tJQa1hcPmPjskCBA7peGEHnjqskhNtSP3hWAVpQ7xD3zxBQapQRKTgAnvFt7q6Qcl"
+    },
+    {
+      "id": "29227334810184214",
+      "title": "THE MOMENT YOU QUESTION YOUR PASTOR, ARE YOU REBELLING AGAINST GOD? THE BIBLICAL TRUTH SOME CHURCHES ARE AFRAID TO CONFRONT",
+      "date": "2026-10-12T12:44:02+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bLCtBFwTJKsBtVbKAXLN1hDSAo4kR2ry3FrzMCfayNi35ipaa1XphZ2Mn5soQmXql"
+    },
+    {
+      "id": "29227103700207325",
+      "title": "WHEN DID FOLLOWING JESUS BECOME MORE ABOUT CHURCH ATTENDANCE THAN OBEDIENCE?",
+      "date": "2026-10-12T12:24:27+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022kyo3JnBS4LSJLjGw6ZDV94SqWJFPxnvbU7dhDt5c1ygzhaHtyFBmkvvKAmrzpkzl"
+    },
+    {
+      "id": "29226571616927200",
+      "title": "WHAT IF YOUR BIGGEST SPIRITUAL PROBLEM ISN’T THE DEVIL… BUT YOUR REFUSAL TO REPENT?",
+      "date": "2026-10-12T11:34:22+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WHQxutkjw7r9PQsevXAyKddQsjkgMnoG14KWZTjpVcADLfwh4VZWWWioVgam1vzul"
+    },
+    {
+      "id": "29226484983602530",
+      "title": "THE CHURCH IS FULL OF WORSHIP SONGS… SO WHY ARE SO MANY HEARTS STILL BROKEN?",
+      "date": "2026-10-12T11:25:53+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LRNXDZ6LyTBetCfXUGxw6UJgyf1s6Z36X6cWWBLoS34BJyVQvzxZprhhFJ1NKT7ol"
+    },
+    {
+      "id": "29226402066944155",
+      "title": "YOU WOKE UP. YOU COULDN’T MOVE. SOMETHING WAS IN THE ROOM. WAS IT A DEMON—OR SOMETHING ELSE?",
+      "date": "2026-10-12T11:17:34+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0auk5u5n6mv346Z8zgkjgH89pVF2fok537QCGuEdsWUZVc3QEw9SFKAgF2Fhv8LdMl"
+    },
+    {
+      "id": "29225940980323597",
+      "title": "WHY DO SOME CHRISTIANS DEFEND THEIR FAVORITE PASTOR MORE FIERCELY THAN THEY DEFEND SCRIPTURE?",
+      "date": "2026-10-12T10:29:32+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09dAGnDoXrvgLJS6dwVwA3YVEqNRZ9HuzQNHyF9Nd5Vp4SyVV5yXhEPZEyFztPuvGl"
+    },
+    {
+      "id": "29225875903663438",
+      "title": "WHAT IF THE CHRISTIANITY THAT MAKES YOU COMFORTABLE IS THE VERY THING KEEPING YOU FROM SURRENDERING TO CHRIST?",
+      "date": "2026-10-12T10:22:35+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DTx1hfTmjivgh9hdRNsq9gN7Ezh6TWZVTMqzXmUhCc6phEL3kvZxW5Z1aFTsFTNNl"
+    },
+    {
+      "id": "29225801430337552",
+      "title": "“BRIDEGROOM OF BLOOD”: THE NIGHT GOD CONFRONTED MOSES BEFORE HE COULD DELIVER ISRAEL",
+      "date": "2026-10-12T10:14:46+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pnWeKKXAVuLxKe6t4dgTupdZjC7Se51i5VM9aoiCxXCcd4cBjVUjbpUR1j98jr7bl"
+    },
+    {
+      "id": "29225716330346062",
+      "title": "MOSES GAVE GOD EXCUSE AFTER EXCUSE—UNTIL THE BIBLE SAYS GOD BECAME ANGRY",
+      "date": "2026-10-12T10:05:38+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0o8jbdZssuu6aHpGvuYUYBgAFqLSbskBmDjAZAjdnq6pi232jwSmmvAkg1Ls8ApD6l"
+    },
+    {
+      "id": "29225563133694715",
+      "title": "YOU KNOW BIBLE VERSES… BUT DO YOU ACTUALLY KNOW THE GOD WHO WROTE THEM?",
+      "date": "2026-10-12T09:49:13+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fmWCdWTNhNnJnbXk3vwCvxnzeSQmat9L4KyniGMUkG1hZP5tNyR3uS9gdsxnZb6Ml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0E5mehNex5YazbwNmsohZ5z1nH4YSb8GXxC7qi1DSSoiGQg6d5CMGUypPnEATk3GEl"
+    },
+    {
+      "id": "29225490083702020",
+      "title": "pressed other believers.",
+      "date": "2026-10-12T09:41:10+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0244Z3wZ4DsGELfRRNzbAaUa2kEB7U4h7qkdf8Ti4kVQeBKUgNPzpkr7HSsyj52YLDl"
+    },
+    {
+      "id": "29225418103709218",
+      "title": "CAN YOU LOVE JESUS AND STILL LIVE COMFORTABLY IN SIN?",
+      "date": "2026-10-12T09:33:17+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VQCCLrXNwFZRYDLfYdgPgXgyF2Gr6Ehyp7aMqwHq2FmG1u8fvfo34wniCB6Wxxxdl"
+    },
+    {
+      "id": "29225354133715615",
+      "title": "YOU CALL YOURSELF A CHRISTIAN… BUT WOULD JESUS RECOGNIZE THE LIFE YOU’RE LIVING?",
+      "date": "2026-10-12T09:26:07+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sw13Yk3Txx5JJNAJ4792LyuMgWaE3MgmKNSJ9BhgrWrqZBvbmSDQCfsWhkZofP3el"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-12T05:52:11Z",
-  "discovered": 2,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-12T15:17:03Z",
+  "discovered": 16,
+  "processed": 16,
+  "discoveredLastRun": 16,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29219614770956218",
-    "title": "THE FIRE THAT REFUSED TO DESTROY: WHY GOD CHOSE A BURNING BUSH TO SPEAK TO A BROKEN MAN",
-    "date": "2026-10-11T21:50:31+00:00"
+    "id": "29227757796808582",
+    "title": "THEY CALLED IT DIVISION WHEN SOMEONE FINALLY TOLD THE TRUTH",
+    "date": "2026-10-12T13:18:33+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-10-11T23:40:06Z",
+  "lastImportCount": 16,
+  "lastImportAt": "2026-10-12T15:18:04Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9072,
+  "structuredMetadata": 9088,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-445870553da7fc8dbd196d3fc88b367349edd5097e92d2e2c4a12bbd2d3c1f46",
-  "statusGeneratedAt": "2026-10-12T05:52:27Z"
+  "contentRevision": "sha256-ed38a8cc472ed4ff362cb65c24a7f250003af43106b43ac4ee1ed7102f436854",
+  "statusGeneratedAt": "2026-10-12T15:18:04Z"
 }
