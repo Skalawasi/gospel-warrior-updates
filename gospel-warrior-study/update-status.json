@@ -1,121 +1,121 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 12 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-13T03:31:46Z",
-  "lastSuccess": "2026-10-13T03:31:46Z",
-  "currentTotal": 9100,
-  "totalWords": 12730350,
+  "lastCheck": "2026-10-13T11:45:05Z",
+  "lastSuccess": "2026-10-13T11:45:05Z",
+  "currentTotal": 9112,
+  "totalWords": 12790576,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 12,
   "recentAdded": [
     {
-      "id": "29234270822823946",
-      "title": "WHAT IF YOU’RE NOT LOSING YOUR FAITH… YOU’RE JUST EXHAUSTED FROM PRETENDING YOU’RE STRONG?",
-      "date": "2026-10-12T22:21:56+00:00",
+      "id": "29241913125393049",
+      "title": "YOU PRAYED THE SINNER’S PRAYER… BUT WHAT IF JESUS SAYS, “I NEVER KNEW YOU”?",
+      "date": "2026-10-13T11:34:52+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zs1KRh3LFF9dW7Upa1d6Hyo4VjBiUwM7qryXKSonrDVB4QonmvQ6GFH5n9zUDREGl"
+    },
+    {
+      "id": "29241565855427776",
+      "title": "CAN YOU LOSE YOUR SALVATION… OR WERE YOU NEVER TRULY SAVED?",
+      "date": "2026-10-13T11:01:08+00:00",
       "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02nb4eaokB6Em824wYJFGyY2fLU9JgtW1ghKE651n7a8vtZPhRb3fbvSAyTCtQm7fCl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yetgm7xkxiSz4hmEHV11qq9iDdAs1MTRGxiNL7L4hXXgVWeJd5SgQQjAm79aMY3cl"
     },
     {
-      "id": "29234169536167408",
-      "title": "CAN YOU LOVE GOD WITH ALL YOUR HEART… AND STILL WAKE UP WISHING YOU DIDN’T HAVE TO FACE ANOTHER DAY?",
-      "date": "2026-10-12T22:10:50+00:00",
+      "id": "29241311492119879",
+      "title": "DOES GOD STILL FORGIVE YOU WHEN YOU KEEP COMMITTING THE SAME SIN? THE ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS IT.",
+      "date": "2026-10-13T10:35:46+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xiHZvYxLwDVYRvVFgjwqxGK5t9vYhWhKcuaLKK1XopimuQREtTEPTGo87HchJfxnl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ccMt1Kwgw3NBvXuSr8kKFa8Bnanw7fbPQ2zPtSpyVSA11s8ZNPC6QMercsyQGBgGl"
     },
     {
-      "id": "29234108079506887",
-      "title": "THE SEA HAD JUST SWALLOWED THEIR ENEMIES… THEN MIRIAM PICKED UP A TAMBOURINE",
-      "date": "2026-10-12T22:03:59+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02in8bAov718x4wCUMs2HavayaAxL2mdH387KGR1kF4yazQW57KfSicy4Rj5uWcnY2l"
+      "id": "29241103438807351",
+      "title": "ENOCH VANISHED WITHOUT DYING—AND THE REASON SHOULD MAKE EVERY CHRISTIAN QUESTION HOW THEY ARE LIVING",
+      "date": "2026-10-13T10:14:31+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02S5mPGzKazEP3RFpmscDAps2qGgza9F4KZcsUQmYaKMiyBPvMw6R4PzgUqEzajicNl"
     },
     {
-      "id": "29234062996178062",
-      "title": "THE SAME SEA THAT BECAME ISRAEL’S ESCAPE ROUTE BECAME PHARAOH’S ARMY’S GRAVE",
-      "date": "2026-10-12T21:59:00+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SiMPz74FRV3vndKqXLUemNe8FARJvx39f5ngGr8vUNqpdoMtCDnFmDFjWZJcbRQVl"
-    },
-    {
-      "id": "29234019262849102",
-      "title": "THE RED SEA OPENED—BUT ISRAEL STILL HAD TO WALK BETWEEN WALLS OF WATER",
-      "date": "2026-10-12T21:54:14+00:00",
+      "id": "29240988285485533",
+      "title": "THE SERPENT WON THE FIRST CONVERSATION—BUT HE WILL LOSE THE FINAL WAR",
+      "date": "2026-10-13T10:02:40+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Q9Aqc3BwqYt2DL78Um9HZDUwY4UmPqvxFCRoeiSBNqe3kaQxgCCjbwttvrWnu7Nol"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Dt5vAvYAayQA4pxRaNMP3uNmBKihJu1AJ9Gc69MHC3WzSsMVLH7xNb6Vb9pZEey6l"
     },
     {
-      "id": "29233913036193058",
-      "title": "THE NIGHT DEATH PASSED THROUGH EGYPT—AND WHY GOD DEMANDED BLOOD ON THE DOORPOSTS",
-      "date": "2026-10-12T21:42:48+00:00",
+      "id": "29240869595497402",
+      "title": "WE WRESTLE NOT AGAINST FLESH AND BLOOD — SO WHY ARE YOU DESTROYING THE PEOPLE YOU WERE CALLED TO LOVE?",
+      "date": "2026-10-13T09:50:27+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid016so5R9mjpqhf96APLpsRrXwBvjv5bGLRB9UzQTqC4YRHPNKZtjKKCnPRTnkxBFVl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ci3igfLaD97Djd5YHk8xr4h4BTt3y8RGx8tfispzsNvh7reQxqKtcehT6ZsTfvbGl"
     },
     {
-      "id": "29233839409533754",
-      "title": "GOD HARDENED PHARAOH’S HEART… BUT PHARAOH HARDENED IT FIRST? THE TERRIFYING TRUTH MOST PEOPLE MISS IN EXODUS",
-      "date": "2026-10-12T21:35:05+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DUpgAXt1QjBvVm8CLuTUQScgYvS1CG5eUBug6t2zXxBeq3XC1tJSPth3TJMbyacdl"
-    },
-    {
-      "id": "29233789466205415",
-      "title": "THE MAGICIANS FINALLY TOLD PHARAOH, “THIS IS THE FINGER OF GOD” — BUT THE MOST TERRIFYING PART WAS WHAT PHARAOH DID NEXT",
-      "date": "2026-10-12T21:30:04+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034GtkjESbLdpANkjy3uxxqUyfM1MHQtYYDXLW1idt6Yvzv9AjEXccj3qZ9JWQP1dSl"
-    },
-    {
-      "id": "29230051726579189",
-      "title": "WHAT DO YOU DO WHEN YOU’VE PRAYED FOR YEARS… AND HEAVEN STILL FEELS SILENT?",
-      "date": "2026-10-12T16:10:12+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bhPmuoFtqNdTusrfX3ZQekF4Dm6jgeMa5gBgY4xBU2vVQMZ2vs1crtYTQon7MLHJl"
-    },
-    {
-      "id": "29229921793258849",
-      "title": "HE WAS EVERYONE’S PRAYER WARRIOR… BUT NOBODY KNEW HE WAS BARELY HOLDING ON.",
-      "date": "2026-10-12T16:01:04+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G4LEhD1dnFBY5mPy3xxhdTs6TebiZTozHQBVMUJqh5qveLQtiSvhFknuJVEjSkEil"
-    },
-    {
-      "id": "29229813539936341",
-      "title": "SHE SANG ABOUT GOD’S GOODNESS ON SUNDAY… THEN CRIED HERSELF TO SLEEP THAT NIGHT.",
-      "date": "2026-10-12T15:53:30+00:00",
+      "id": "29240759812175047",
+      "title": "THE NIGHT THE SEA OBEYED A VOICE—AND THE DISCIPLES REALIZED WHO WAS IN THEIR BOAT",
+      "date": "2026-10-13T09:38:50+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RQESjcNEWaCJdh3Pkac9tgH8csm3ytPjgNBmheiZpaEU3RQ8CTUkehD6EZ435jGYl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BxgzEyotDYnG72dBoDpKafpUQYDv6We3e2b35ShGwMajBze72EgLC97WoNuM3ptul"
     },
     {
-      "id": "29229663656617996",
-      "title": "THE CHURCH WAS SUPPOSED TO BE A HOSPITAL FOR THE WOUNDED. SO WHY ARE SOME CHRISTIANS PROTECTING ITS REPUTATION WHILE PEOPLE BLEED IN SILENCE?",
-      "date": "2026-10-12T15:43:01+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FPfukECKJAq9BEd7jtLkjRJsubXMWwgWngxhhS4sDJ2mHBT93GCxa74vVmHJPqLrl"
+      "id": "29240662878851407",
+      "title": "LUST VS. LOVE: THE DEVIL DOESN’T CARE WHO YOU FALL FOR—AS LONG AS YOU LOSE YOURSELF IN THE PROCESS",
+      "date": "2026-10-13T09:28:36+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02cwFdmAcY7KTiHzrubVZ7yYDemtA3DSDrkhMQzTnCdit9SPq1XJDzYe1iAbLNVkANl"
+    },
+    {
+      "id": "29240593108858384",
+      "title": "FEAR HAS BEEN MAKING DECISIONS AND SIGNING WISDOM’S NAME AT THE BOTTOM.",
+      "date": "2026-10-13T09:21:01+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Jo87rekqnkWHhTCYUa4imkxXzwXqNoihuXfnL8v5JE17NbUtELxNkxeYt6NqF6bel"
+    },
+    {
+      "id": "29240533348864360",
+      "title": "DOES THE BIBLE REALLY TEACH GUARDIAN ANGELS? THE TRUTH MAY CHANGE HOW YOU SEE EVERY MOMENT GOD KEPT YOU ALIVE",
+      "date": "2026-10-13T09:14:37+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031NboGA2zZe8rjhK3thyZmd1j4epGhrDzH76ku5vQHmLt5AK3g7idfCRpEDbmMS4Bl"
+    },
+    {
+      "id": "29240453602205668",
+      "title": "ISRAEL FOUND WATER IN THE DESERT—BUT IT WAS TOO BITTER TO DRINK",
+      "date": "2026-10-13T09:06:02+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0s2ak99x1TXiNHR29TxobxgY7JqKwQm3FtUgCKDumqKD3E2zCx6WvWyATWrvgS7hNl"
+    },
+    {
+      "id": "29240366498881045",
+      "title": "IF SALVATION IS FREE, WHY DID JESUS SAY YOU MUST DENY YOURSELF?",
+      "date": "2026-10-13T08:56:41+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0fV1pjN2fnZTmshndxM1u8gcHg6QaKyVaahZ9AsCbbdBqNB3eQKMaZdCxkq3NnTSWl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-13T03:31:33Z",
+  "lastCheckStarted": "2026-10-13T11:44:17Z",
   "discovered": 12,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "processed": 12,
+  "discoveredLastRun": 12,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29234270822823946",
-    "title": "WHAT IF YOU’RE NOT LOSING YOUR FAITH… YOU’RE JUST EXHAUSTED FROM PRETENDING YOU’RE STRONG?",
-    "date": "2026-10-12T22:21:56+00:00"
+    "id": "29241913125393049",
+    "title": "YOU PRAYED THE SINNER’S PRAYER… BUT WHAT IF JESUS SAYS, “I NEVER KNEW YOU”?",
+    "date": "2026-10-13T11:34:52+00:00"
   },
   "lastImportCount": 12,
-  "lastImportAt": "2026-10-12T22:31:30Z",
+  "lastImportAt": "2026-10-13T11:45:05Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9100,
+  "structuredMetadata": 9112,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-b7113a4a6d6e9061e8360efe5378664bb86dd6c8a88ac2cd038cd8d71bb5437c",
-  "statusGeneratedAt": "2026-10-13T03:31:46Z"
+  "contentRevision": "sha256-e547145e99e79bf23df07a8f5cab3a79146633d9d13eece36222953cfe4be8b9",
+  "statusGeneratedAt": "2026-10-13T11:45:05Z"
 }
