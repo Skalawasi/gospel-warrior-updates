@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 12 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-12T22:31:30Z",
-  "lastSuccess": "2026-10-12T22:31:30Z",
+  "lastCheck": "2026-10-13T03:31:46Z",
+  "lastSuccess": "2026-10-13T03:31:46Z",
   "currentTotal": 9100,
   "totalWords": 12730350,
   "subjects": 17,
-  "addedLastRun": 12,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29234270822823946",
@@ -97,11 +97,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-12T22:30:41Z",
+  "lastCheckStarted": "2026-10-13T03:31:33Z",
   "discovered": 12,
-  "processed": 12,
-  "discoveredLastRun": 12,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29234270822823946",
     "title": "WHAT IF YOU’RE NOT LOSING YOUR FAITH… YOU’RE JUST EXHAUSTED FROM PRETENDING YOU’RE STRONG?",
@@ -117,5 +117,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-b7113a4a6d6e9061e8360efe5378664bb86dd6c8a88ac2cd038cd8d71bb5437c",
-  "statusGeneratedAt": "2026-10-12T22:31:30Z"
+  "statusGeneratedAt": "2026-10-13T03:31:46Z"
 }
