@@ -1,93 +1,79 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 6 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-14T18:36:36Z",
-  "lastSuccess": "2026-10-14T18:36:36Z",
-  "currentTotal": 9145,
-  "totalWords": 12954823,
+  "lastCheck": "2026-10-14T22:17:41Z",
+  "lastSuccess": "2026-10-14T22:17:41Z",
+  "currentTotal": 9151,
+  "totalWords": 12983874,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 6,
   "recentAdded": [
     {
-      "id": "29258905650360463",
-      "title": "THE PEACE OF GOD WILL GUARD YOUR HEART—BUT NOTICE WHAT PAUL TELLS YOU TO DO BEFORE THE PEACE COMES",
-      "date": "2026-10-14T14:52:32+00:00",
+      "id": "29263319356585759",
+      "title": "PHILIPPIANS 4:13 MAY BE MORE POWERFUL WHEN YOU STOP USING IT AS A SUCCESS VERSE",
+      "date": "2026-10-14T21:26:27+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PxoCaUfikkKCGiBGYDMbqKsAyUBMYzF54WaTyBfEcsjePVr1Fweak6DuuB3SzaLRl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02nMrHZzLkH3i9ukh8fKDj7ziWDBsKQZ8Sts7FcfKuMD351Jn2PC7MGrgvRK4X4MBfl"
     },
     {
-      "id": "29258799110371117",
-      "title": "“BE ANXIOUS FOR NOTHING”—EASY TO SAY WHEN YOU’RE NOT THE ONE FACING AN UNCERTAIN TOMORROW",
-      "date": "2026-10-14T14:43:38+00:00",
+      "id": "29263208796596815",
+      "title": "PAUL SAID, “I CAN DO ALL THINGS”—BUT NOBODY TALKS ABOUT WHAT HE WAS SUFFERING WHEN HE SAID IT.",
+      "date": "2026-10-14T21:14:26+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0u9t6CSKmGSB3wCpQ5xRswbuWRHFFpSELCUWxagHXCjjupAGTtwcbXuCAQmw6cy33l"
+    },
+    {
+      "id": "29263096803274681",
+      "title": "“I HAVE LEARNED TO BE CONTENT” — THE VERSE THAT COMES BEFORE PHILIPPIANS 4:13",
+      "date": "2026-10-14T21:02:43+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vzabCShaHTn3kf8TN3NYhW8bXSRD1TErhq35Be8ygiMS48fF19fjLFEr39j6zzPcl"
+    },
+    {
+      "id": "29262984253285936",
+      "title": "YOU CAN THINK POSITIVELY ALL YOU WANT… AND STILL BE SPIRITUALLY LOST.",
+      "date": "2026-10-14T20:50:45+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0329hsEL27f3Td5tmnzCQbcx8uKiN4PpdVZPadnWiXnp8cpqouyi6GFEqxm8eJmtpzl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0guUD45mpDwac2TuuJXqU7oQb675A5YaZHEYfUJ6pgCdUCBZ9SdcthDkziDJFtEs4l"
     },
     {
-      "id": "29258712457046449",
-      "title": "“THERE IS NO FEAR IN LOVE” — THEN WHY ARE YOU STILL TERRIFIED WHEN YOU BELIEVE IN JESUS?",
-      "date": "2026-10-14T14:36:14+00:00",
+      "id": "29262918913292470",
+      "title": "YOUR MIND IS NOT A BATTLEGROUND JESUS INTENDS YOU TO SURRENDER: THE HIDDEN POWER OF PHILIPPIANS 4:8",
+      "date": "2026-10-14T20:43:26+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid038C3uqFa22VNG1BQDDb5vmEBG3ECTumeMV5TBDcLRmG5CHZiG8A5sbinZLt2kvAyDl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035MaemGaXjwiD2xu97gFSkpcUKzXuzQz55uXDBDBbfjDDRqHKzjLEpXe6HEptDbD1l"
     },
     {
-      "id": "29258637923720569",
-      "title": "THE FEAR THAT MAKES YOU RUN FROM GOD… EVEN AFTER HE HAS FORGIVEN YOU",
-      "date": "2026-10-14T14:29:57+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid076vtwnmi8kU7Gx9cnbgCY6tLKgL9NcUgEcVaYSH1wdxm5qTtoTkVLSDKCeLZvMpzl"
-    },
-    {
-      "id": "29258552260395802",
-      "title": "“GREATER IS HE THAT IS IN YOU” — GREATER THAN WHAT? THE TRUTH MOST CHRISTIANS NEVER HEAR ABOUT 1 JOHN 4",
-      "date": "2026-10-14T14:22:47+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07ebnXL1FX8pcHMQboFEy6mXwC1sARTGY1bSQktPz4HHdsQGJXBDW6qeEzKcvwrPwl"
-    },
-    {
-      "id": "29258466223737739",
-      "title": "“THE WEAPONS OF OUR WARFARE ARE NOT CARNAL” — BUT WHAT IF THE BATTLE YOU'VE BEEN FIGHTING ISN'T THE ONE PAUL WAS TALKING ABOUT?",
-      "date": "2026-10-14T14:15:35+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DfrUhUPSrVuvhQBu67Azns7SQ3jV9yie6WNEfEmy3RWG4QugsTE9MShYMcHiQmTtl"
-    },
-    {
-      "id": "29258340373750324",
-      "title": "YOU'VE BEEN FIGHTING THE WRONG BATTLE: 2 CORINTHIANS 10:5 IS NOT JUST ABOUT NEGATIVE THOUGHTS",
-      "date": "2026-10-14T14:05:06+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0quWmjoBCUmCzw86D4DyvhKjwzLgwngEDVJv84Zo34dz9MDDVCjRvifd7atapKVnl"
-    },
-    {
-      "id": "29258225683761793",
-      "title": "“TAKE EVERY THOUGHT CAPTIVE”—THE VERSE CHRISTIANS KEEP QUOTING WITHOUT KNOWING WHAT PAUL WAS ACTUALLY FIGHTING",
-      "date": "2026-10-14T13:55:30+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ooqLR4dbdFBFoszAMaXHDV67o5g66Y9fYAVV34TsGdTjXSgg8wPBJA4KvbVp74Bal"
+      "id": "29262871556630539",
+      "title": "PHILIPPIANS 4:6 HAS BEEN USED TO SILENCE ANXIOUS CHRISTIANS—BUT PAUL WAS ACTUALLY OFFERING THEM SOMETHING FAR MORE BEAUTIFUL",
+      "date": "2026-10-14T20:38:09+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021DYAq2a4cqRZYoqdsseBPGhrfZquQgYv3aLm291TZBg7T8C5tcrKZfCYofPUN83Ql"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-14T18:35:49Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-14T22:16:56Z",
+  "discovered": 6,
+  "processed": 6,
+  "discoveredLastRun": 6,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29258905650360463",
-    "title": "THE PEACE OF GOD WILL GUARD YOUR HEART—BUT NOTICE WHAT PAUL TELLS YOU TO DO BEFORE THE PEACE COMES",
-    "date": "2026-10-14T14:52:32+00:00"
+    "id": "29263319356585759",
+    "title": "PHILIPPIANS 4:13 MAY BE MORE POWERFUL WHEN YOU STOP USING IT AS A SUCCESS VERSE",
+    "date": "2026-10-14T21:26:27+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-10-14T18:36:36Z",
+  "lastImportCount": 6,
+  "lastImportAt": "2026-10-14T22:17:41Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9145,
+  "structuredMetadata": 9151,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-2bce2c0452ac1b9f13d9aa36d05e01b1ee6b14c18ec244c1ae2a94f3a1c9f7d8",
-  "statusGeneratedAt": "2026-10-14T18:36:36Z"
+  "contentRevision": "sha256-c36669b3c50a5aec759407e947323c187910a0b6b0ec4815221b1e9cf300315e",
+  "statusGeneratedAt": "2026-10-14T22:17:41Z"
 }
