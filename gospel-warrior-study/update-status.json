@@ -1,72 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-13T23:17:02Z",
-  "lastSuccess": "2026-10-13T23:17:02Z",
-  "currentTotal": 9117,
-  "totalWords": 12818095,
+  "lastCheck": "2026-10-14T01:56:05Z",
+  "lastSuccess": "2026-10-14T01:56:05Z",
+  "currentTotal": 9119,
+  "totalWords": 12828611,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29243951618522533",
-      "title": "WHAT IF YOU ACCEPTED JESUS… BUT THE SIN HE CAME TO SAVE YOU FROM IS STILL THE ONE YOU REFUSE TO SURRENDER?",
-      "date": "2026-10-13T14:25:35+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BX8p6nqipJ1bksCra3rtSpkfVR7DXtRXdmgF6m4zfBSu2jsr17taPaPosiBZ7Vqfl"
-    },
-    {
-      "id": "29243756901875338",
-      "title": "WHY DID MANNA ROT OVERNIGHT… BUT REFUSE TO SPOIL ON THE SABBATH? THE MIRACLE WASN’T JUST IN THE BREAD. IT WAS IN WHAT GOD WAS TRYING TO BREAK INSIDE HIS PEOPLE.",
-      "date": "2026-10-13T14:10:12+00:00",
+      "id": "29249726127945082",
+      "title": "WHAT IF YOU WERE BORN AGAIN… BUT NEVER HAD A DRAMATIC CONVERSION STORY?",
+      "date": "2026-10-13T23:26:25+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uepYJT9gB2Cnzx7Kn7PCXMQWnqGCqouEHqm4nUCBkGVF4hHLJsXxgvBoa5WQsRmcl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02g1GPAkUHC7KnqARs89Thq1Q3MY6ags2L2JqZGaDM4u57JCdNAn1RDjGy1qaWXvqZl"
     },
     {
-      "id": "29243660225218339",
-      "title": "MANNA GOT ITS NAME BECAUSE PEOPLE LOOKED AT GOD’S MIRACLE AND ASKED, “WHAT IS THIS?”",
-      "date": "2026-10-13T14:02:44+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021tk7pYt44di4CJJju2sDZUJk7M2X4Jw4xYMeqf3PznWMJLR7NEqTqwnTrWiA2EjAl"
-    },
-    {
-      "id": "29243396108578084",
-      "title": "CAN YOU TRULY LOVE SOMEONE YOU ARE NOT PHYSICALLY ATTRACTED TO? THE BIBLICAL TRUTH THAT COULD SAVE YOUR HEART FROM A LIFETIME OF REGRET",
-      "date": "2026-10-13T13:41:45+00:00",
+      "id": "29249654107952284",
+      "title": "DOES LUST ALWAYS WANT SOMETHING? THE TERRIFYING TRUTH ABOUT WHAT YOUR HEART IS REALLY HUNGRY FOR",
+      "date": "2026-10-13T23:18:13+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HNZVtfpKnQ97V8uRd8z6xUvQsY69xZRY2317WWsgWgjjbHLuY9yz32UPFL2NsmHal"
-    },
-    {
-      "id": "29243321381918890",
-      "title": "WHY DOES LUST FEEL SO POWERFUL? THE SECRET BATTLE THAT CAN DESTROY YOU EVEN WHILE YOU STILL LOVE JESUS",
-      "date": "2026-10-13T13:35:57+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aiH293As8yh59vNrB5AEAvCnJ6tPh8qGUTwtzbbrDFstrY1ShBvATH6jusBmma5Bl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Yz8Y5CpUEL3TNDHdnFS11njpfVsGLx3VKb7vVdEvH1v8Eq8Ri66ed5pUUidPVzjFl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-13T23:16:48Z",
-  "discovered": 5,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-10-14T01:55:39Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
   "pagesScanned": 1,
   "latest": {
-    "id": "29243951618522533",
-    "title": "WHAT IF YOU ACCEPTED JESUS… BUT THE SIN HE CAME TO SAVE YOU FROM IS STILL THE ONE YOU REFUSE TO SURRENDER?",
-    "date": "2026-10-13T14:25:35+00:00"
+    "id": "29249726127945082",
+    "title": "WHAT IF YOU WERE BORN AGAIN… BUT NEVER HAD A DRAMATIC CONVERSION STORY?",
+    "date": "2026-10-13T23:26:25+00:00"
   },
-  "lastImportCount": 5,
-  "lastImportAt": "2026-10-13T19:15:20Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-10-14T01:56:05Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9117,
+  "structuredMetadata": 9119,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-b5bc832027eea29887293a87182e588d7e9cefcf9aa5ce267b50042704cb734d",
-  "statusGeneratedAt": "2026-10-13T23:17:02Z"
+  "contentRevision": "sha256-b28e66c704a2af1e18b10c75ae52aac05da8d4a6638b9b7eec0b0effeeecdb18",
+  "statusGeneratedAt": "2026-10-14T01:56:05Z"
 }
