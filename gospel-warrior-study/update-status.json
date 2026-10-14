@@ -1,163 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 18 new public studies.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-14T13:42:15Z",
-  "lastSuccess": "2026-10-14T13:42:15Z",
-  "currentTotal": 9137,
-  "totalWords": 12917911,
+  "lastCheck": "2026-10-14T18:36:36Z",
+  "lastSuccess": "2026-10-14T18:36:36Z",
+  "currentTotal": 9145,
+  "totalWords": 12954823,
   "subjects": 17,
-  "addedLastRun": 18,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29257602510490777",
-      "title": "THE DEVIL IS NOT AFRAID OF THE BIBLE SITTING ON YOUR SHELF—BUT HE CANNOT OVERRULE THE WORD OF GOD",
-      "date": "2026-10-14T13:03:13+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KpkbhnrvmSaPUX2QpEvAzEJiQ5esHVPnEjBrmzcdfJhvasRriq6ESrEfcqHE3i3pl"
+      "id": "29258905650360463",
+      "title": "THE PEACE OF GOD WILL GUARD YOUR HEART—BUT NOTICE WHAT PAUL TELLS YOU TO DO BEFORE THE PEACE COMES",
+      "date": "2026-10-14T14:52:32+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PxoCaUfikkKCGiBGYDMbqKsAyUBMYzF54WaTyBfEcsjePVr1Fweak6DuuB3SzaLRl"
     },
     {
-      "id": "29257481613836200",
-      "title": "MOSES GROUND THEIR GOD INTO POWDER… THEN MADE THEM DRINK IT. WHAT WAS GOD TRYING TO TELL ISRAEL?",
-      "date": "2026-10-14T12:53:00+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NHP2DEuVNm47yy6wKZX94M3hAtVw2d7AcSrqqDHytv6omDVwnV4PZyEsG17jguBRl"
-    },
-    {
-      "id": "29257180853866276",
-      "title": "AARON SAID THEY THREW GOLD INTO THE FIRE… AND “OUT CAME THIS CALF.” BUT THE MOST TERRIFYING PART OF HIS EXCUSE IS WHAT IT REVEALS ABOUT US.",
-      "date": "2026-10-14T12:26:57+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JVKimKesz7TWButXPpZ4XudsQ2oGjfHhuZvjHmMzsH4MjzmdQcztpVULzJBi2Y74l"
-    },
-    {
-      "id": "29256980767219618",
-      "title": "THUNDER. LIGHTNING. SMOKE. FIRE. AN EARTHQUAKE. AND A TRUMPET THAT WOULD NOT STOP: THE TERRIFYING DAY GOD DESCENDED ON SINAI",
-      "date": "2026-10-14T12:09:15+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026jrLbTD3XUMW1eAsP6paDvZHJMWH4dF4iMUhXy7KJNX8F3a4DUeWXy36aQkjfrYHl"
-    },
-    {
-      "id": "29256882573896104",
-      "title": "ISRAEL WAS TOLD NOT TO TOUCH A WOMAN FOR THREE DAYS BEFORE MEETING GOD—WAS SEX REALLY THAT DIRTY?",
-      "date": "2026-10-14T12:00:20+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jb6RYtGf9nswbnm1uwe9cNx5iT6bgnNRognyRYWns8xtBxQjtAu9u8e2e8PKLsq1l"
-    },
-    {
-      "id": "29256745493909812",
-      "title": "AARON AND HUR HELD MOSES’ ARMS UNTIL SUNSET—BECAUSE EVEN GOD’S STRONGEST SERVANTS WERE NEVER MEANT TO STAND ALONE",
-      "date": "2026-10-14T11:48:24+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HLhonUNCFLpquiraNcPucCjHRhLGJ4cqu2tNr25rNxVnRjDtyQw3VdEThJe49EgSl"
-    },
-    {
-      "id": "29256652993919062",
-      "title": "CAN YOU BE SPIRITUALLY MATURE AND STILL BE EMOTIONALLY CRUEL TO YOUR FAMILY?",
-      "date": "2026-10-14T11:39:48+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MCUXiWBJduQKRhRwCP2PV7twfdDxA1Meqi1GNx6N6JxYdNEq8miY3ZebZR6sCjt4l"
-    },
-    {
-      "id": "29256201123964249",
-      "title": "SATAN FOUGHT FOR MOSES’ DEAD BODY… BUT WHAT DID HE WANT WITH A CORPSE GOD HIMSELF HAD BURIED?",
-      "date": "2026-10-14T10:56:33+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0a1DR5JfokTiHyc8rRm7ftay7LG4V9B7Nudv3WbDBYzR1EzPf3ReMZef4FWRbRT5Wl"
-    },
-    {
-      "id": "29256121150638913",
-      "title": "WHY DID GOD PERSONALLY BURY MOSES? THE GRAVE NO HUMAN WAS ALLOWED TO FIND",
-      "date": "2026-10-14T10:48:43+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0od8ZTy2aojKFe6YhEXRCsigtJBR4PjBkxLBAdjg2PoEcmwFX2vMxf8e8dbHYhzcgl"
-    },
-    {
-      "id": "29256056500645378",
-      "title": "WHY DID GOD LET MOSES DIE WHEN HIS BODY WAS STILL STRONG? THE HEARTBREAKING TRUTH MOST CHRISTIANS NEVER NOTICE",
-      "date": "2026-10-14T10:42:22+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036ggZb7nKLBvPjAQ6SX1qd41Pwt4j1rGRnF65RSEd2G4tZbbcnP44uPtXfz96PLSpl"
-    },
-    {
-      "id": "29255957753988586",
-      "title": "WHY REVELATION CALLS SATAN “THAT ANCIENT SERPENT”—THE TERRIFYING CONNECTION BETWEEN EDEN, YOUR PRIVATE BATTLES, AND THE CROSS OF JESUS CHRIST",
-      "date": "2026-10-14T10:32:43+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02F7BSLscPMsTjPyaJTL6FxHB6bx8rimewWurmJZnsrgRvo5gjWy5Mgcj8XioHkCvdl"
-    },
-    {
-      "id": "29255882963996065",
-      "title": "PRINCIPALITIES AND POWERS: THE INVISIBLE WAR PAUL WARNED YOU ABOUT—AND WHY SATAN DOESN’T WANT YOU TO UNDERSTAND EPHESIANS 6",
-      "date": "2026-10-14T10:25:18+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027H5v5R4b3Gw1vfkttwYh67XSfLYhJm2m3AeRRUS4dabcC3bfxRKZGQvRRFiB5dUJl"
-    },
-    {
-      "id": "29255822610668767",
-      "title": "WHY DID JESUS FORGIVE THE PARALYZED MAN BEFORE HEALING HIM? THE ANSWER MAY EXPOSE THE WOUND YOU'VE BEEN HIDING FROM GOD.",
-      "date": "2026-10-14T10:19:16+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eVa4DF4MYqkgNGmF6cPkswPEsFFzf9NAj9JQoTE2UePyvjQc3RfGKtYDe8swssHYl"
-    },
-    {
-      "id": "29255752554009106",
-      "title": "DOES LOVE ALWAYS SACRIFICE? THE HEARTBREAKING TRUTH ABOUT LOVE THAT JESUS REVEALED ON THE CROSS",
-      "date": "2026-10-14T10:12:13+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid071gq8puRjLnFgNPhgnoxogN37M1MBLuALXcVgjan39GLx6ym8wo4xacbmWLwWrowl"
-    },
-    {
-      "id": "29255681914016170",
-      "title": "YOU ASKED GOD TO OPEN A DOOR. DID YOU ASK WHETHER YOU SHOULD WALK THROUGH IT?",
-      "date": "2026-10-14T10:05:07+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HfbbaJJ71vCCeVd4oqNHf8fdbnPVed3SFN4iKKhrhWjATYeZFe6ekExTnbE879v1l"
-    },
-    {
-      "id": "29255371780713850",
-      "title": "SHOULD CHRISTIANS COMMAND ANGELS? THE DANGEROUS SPIRITUAL MISTAKE THAT SOUNDS LIKE FAITH BUT MAY BE STEALING OUR ATTENTION FROM JESUS",
-      "date": "2026-10-14T09:32:49+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aSLFggcsS7AZXBgExsNJqR1pxxLKibiXwTQixw9fcFM8FesZUedj3GQw8m6T4kxEl"
-    },
-    {
-      "id": "29255282824056079",
-      "title": "MOSES STRUCK THE ROCK… AND WATER CAME OUT. BUT THE GREATEST MIRACLE WASN’T THE WATER.",
-      "date": "2026-10-14T09:23:20+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02T4LYSSZ3ZdTTi4xbdBeTaF6vXm9eJ4uWea1ZzJUeikaKgRW3MJKeJJCa4CqsEyvdl"
-    },
-    {
-      "id": "29255225834061778",
-      "title": "WHAT IF THE PERSON YOU THINK IS TOO SINFUL FOR HEAVEN IS THE ONE WHO TRULY REPENTED?",
-      "date": "2026-10-14T09:17:22+00:00",
+      "id": "29258799110371117",
+      "title": "“BE ANXIOUS FOR NOTHING”—EASY TO SAY WHEN YOU’RE NOT THE ONE FACING AN UNCERTAIN TOMORROW",
+      "date": "2026-10-14T14:43:38+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0YhroWEGDLS7mAgQsWQ9x4sWy7GJpTxkrR6Yv4FCkssyc76ruPf4iMweiz3FX7DAKl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0329hsEL27f3Td5tmnzCQbcx8uKiN4PpdVZPadnWiXnp8cpqouyi6GFEqxm8eJmtpzl"
+    },
+    {
+      "id": "29258712457046449",
+      "title": "“THERE IS NO FEAR IN LOVE” — THEN WHY ARE YOU STILL TERRIFIED WHEN YOU BELIEVE IN JESUS?",
+      "date": "2026-10-14T14:36:14+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid038C3uqFa22VNG1BQDDb5vmEBG3ECTumeMV5TBDcLRmG5CHZiG8A5sbinZLt2kvAyDl"
+    },
+    {
+      "id": "29258637923720569",
+      "title": "THE FEAR THAT MAKES YOU RUN FROM GOD… EVEN AFTER HE HAS FORGIVEN YOU",
+      "date": "2026-10-14T14:29:57+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid076vtwnmi8kU7Gx9cnbgCY6tLKgL9NcUgEcVaYSH1wdxm5qTtoTkVLSDKCeLZvMpzl"
+    },
+    {
+      "id": "29258552260395802",
+      "title": "“GREATER IS HE THAT IS IN YOU” — GREATER THAN WHAT? THE TRUTH MOST CHRISTIANS NEVER HEAR ABOUT 1 JOHN 4",
+      "date": "2026-10-14T14:22:47+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07ebnXL1FX8pcHMQboFEy6mXwC1sARTGY1bSQktPz4HHdsQGJXBDW6qeEzKcvwrPwl"
+    },
+    {
+      "id": "29258466223737739",
+      "title": "“THE WEAPONS OF OUR WARFARE ARE NOT CARNAL” — BUT WHAT IF THE BATTLE YOU'VE BEEN FIGHTING ISN'T THE ONE PAUL WAS TALKING ABOUT?",
+      "date": "2026-10-14T14:15:35+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DfrUhUPSrVuvhQBu67Azns7SQ3jV9yie6WNEfEmy3RWG4QugsTE9MShYMcHiQmTtl"
+    },
+    {
+      "id": "29258340373750324",
+      "title": "YOU'VE BEEN FIGHTING THE WRONG BATTLE: 2 CORINTHIANS 10:5 IS NOT JUST ABOUT NEGATIVE THOUGHTS",
+      "date": "2026-10-14T14:05:06+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0quWmjoBCUmCzw86D4DyvhKjwzLgwngEDVJv84Zo34dz9MDDVCjRvifd7atapKVnl"
+    },
+    {
+      "id": "29258225683761793",
+      "title": "“TAKE EVERY THOUGHT CAPTIVE”—THE VERSE CHRISTIANS KEEP QUOTING WITHOUT KNOWING WHAT PAUL WAS ACTUALLY FIGHTING",
+      "date": "2026-10-14T13:55:30+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ooqLR4dbdFBFoszAMaXHDV67o5g66Y9fYAVV34TsGdTjXSgg8wPBJA4KvbVp74Bal"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-14T13:41:08Z",
-  "discovered": 18,
-  "processed": 18,
-  "discoveredLastRun": 18,
+  "lastCheckStarted": "2026-10-14T18:35:49Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
   "pagesScanned": 2,
   "latest": {
-    "id": "29257602510490777",
-    "title": "THE DEVIL IS NOT AFRAID OF THE BIBLE SITTING ON YOUR SHELF—BUT HE CANNOT OVERRULE THE WORD OF GOD",
-    "date": "2026-10-14T13:03:13+00:00"
+    "id": "29258905650360463",
+    "title": "THE PEACE OF GOD WILL GUARD YOUR HEART—BUT NOTICE WHAT PAUL TELLS YOU TO DO BEFORE THE PEACE COMES",
+    "date": "2026-10-14T14:52:32+00:00"
   },
-  "lastImportCount": 18,
-  "lastImportAt": "2026-10-14T13:42:15Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-10-14T18:36:36Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9137,
+  "structuredMetadata": 9145,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-e707a5c3c4c74e203c2230bfcd1005a6c2460eb0b18bfe0cdf3630c91f47144d",
-  "statusGeneratedAt": "2026-10-14T13:42:15Z"
+  "contentRevision": "sha256-2bce2c0452ac1b9f13d9aa36d05e01b1ee6b14c18ec244c1ae2a94f3a1c9f7d8",
+  "statusGeneratedAt": "2026-10-14T18:36:36Z"
 }
