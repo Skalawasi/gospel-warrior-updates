@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 17 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-15T16:58:32Z",
-  "lastSuccess": "2026-10-15T16:58:32Z",
+  "lastCheck": "2026-10-15T20:20:12Z",
+  "lastSuccess": "2026-10-15T20:20:12Z",
   "currentTotal": 9171,
   "totalWords": 13084288,
   "subjects": 17,
-  "addedLastRun": 17,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29274950818755946",
@@ -132,11 +132,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-15T16:57:38Z",
+  "lastCheckStarted": "2026-10-15T20:19:57Z",
   "discovered": 17,
-  "processed": 17,
-  "discoveredLastRun": 17,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29274950818755946",
     "title": "WHY DID JOSEPH PUT HIS HAND UNDER HIS FATHER’S THIGH? THE DISTURBINGLY PERSONAL OATH THAT REVEALS SOMETHING MOST CHRISTIANS NEVER NOTICE",
@@ -152,5 +152,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-373bafc13a4e9bbb28cea3c697b3ad2bf660521f5f88c14b33ddc04f5877a34d",
-  "statusGeneratedAt": "2026-10-15T16:58:32Z"
+  "statusGeneratedAt": "2026-10-15T20:20:12Z"
 }
