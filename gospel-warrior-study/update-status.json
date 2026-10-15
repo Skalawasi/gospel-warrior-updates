@@ -1,51 +1,44 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 1 new public study.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-15T05:53:26Z",
-  "lastSuccess": "2026-10-15T05:53:26Z",
-  "currentTotal": 9153,
-  "totalWords": 12994552,
+  "lastCheck": "2026-10-15T11:24:39Z",
+  "lastSuccess": "2026-10-15T11:24:39Z",
+  "currentTotal": 9154,
+  "totalWords": 13001313,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 1,
   "recentAdded": [
     {
-      "id": "29263871483197213",
-      "title": "THE WOMAN, THE SERPENT, AND THE OFFSPRING: THE WAR THAT BEGAN IN EDEN AND EXPLODED IN REVELATION 12",
-      "date": "2026-10-14T22:31:10+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vt8scVAsWYNnoc5GxsvXZ5Nf7dB25dWF3vJ1f8FW15PsfS5m5wjkQmchchK9zvUsl"
-    },
-    {
-      "id": "29263758913208470",
-      "title": "WHY DID GOD HIDE MOSES’ GRAVE? THE MYSTERY OF A BURIAL NO HUMAN EYES EVER SAW",
-      "date": "2026-10-14T22:17:59+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02n9jAeFvfPaZ12gPETbR6Vm4uAnGhvkMP6xdZZq658w75ZbH1zuyQr8FjPWKq4nYvl"
+      "id": "29271434189107609",
+      "title": "GOD HATES DIVORCE… BUT DOES THAT MEAN HE WANTS YOU TO STAY AND BE DESTROYED?",
+      "date": "2026-10-15T11:19:48+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02y629Qb4oCV36Uqvj6nzErbJM75r1prHpitUDrL4xdgRt5Lo4CG9FiuYPFjd9ZXyMl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-15T05:53:14Z",
-  "discovered": 2,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-10-15T11:24:03Z",
+  "discovered": 1,
+  "processed": 1,
+  "discoveredLastRun": 1,
   "pagesScanned": 1,
   "latest": {
-    "id": "29263871483197213",
-    "title": "THE WOMAN, THE SERPENT, AND THE OFFSPRING: THE WAR THAT BEGAN IN EDEN AND EXPLODED IN REVELATION 12",
-    "date": "2026-10-14T22:31:10+00:00"
+    "id": "29271434189107609",
+    "title": "GOD HATES DIVORCE… BUT DOES THAT MEAN HE WANTS YOU TO STAY AND BE DESTROYED?",
+    "date": "2026-10-15T11:19:48+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-10-15T00:34:20Z",
+  "lastImportCount": 1,
+  "lastImportAt": "2026-10-15T11:24:39Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9153,
+  "structuredMetadata": 9154,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-8232e692573ed25ba5afc7f2bebfe77667316966dee380e6ca8fe113cd46893e",
-  "statusGeneratedAt": "2026-10-15T05:53:26Z"
+  "contentRevision": "sha256-02f0638652db41e813a3e1a4647ce914d1dacd784d10ed61e3ad8db3e75501b5",
+  "statusGeneratedAt": "2026-10-15T11:24:39Z"
 }
