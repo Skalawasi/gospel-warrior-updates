@@ -1,44 +1,156 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 1 new public study.",
+  "message": "Added 17 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-15T11:24:39Z",
-  "lastSuccess": "2026-10-15T11:24:39Z",
-  "currentTotal": 9154,
-  "totalWords": 13001313,
+  "lastCheck": "2026-10-15T16:58:32Z",
+  "lastSuccess": "2026-10-15T16:58:32Z",
+  "currentTotal": 9171,
+  "totalWords": 13084288,
   "subjects": 17,
-  "addedLastRun": 1,
+  "addedLastRun": 17,
   "recentAdded": [
     {
-      "id": "29271434189107609",
-      "title": "GOD HATES DIVORCE… BUT DOES THAT MEAN HE WANTS YOU TO STAY AND BE DESTROYED?",
-      "date": "2026-10-15T11:19:48+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02y629Qb4oCV36Uqvj6nzErbJM75r1prHpitUDrL4xdgRt5Lo4CG9FiuYPFjd9ZXyMl"
+      "id": "29274950818755946",
+      "title": "WHY DID JOSEPH PUT HIS HAND UNDER HIS FATHER’S THIGH? THE DISTURBINGLY PERSONAL OATH THAT REVEALS SOMETHING MOST CHRISTIANS NEVER NOTICE",
+      "date": "2026-10-15T15:59:16+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qVMhnpiBE9MNTFecMzr9jXTTsA47eQSR2Yjofuhmd1kaQoMHLFG2MxB6pZZhXtaWl"
+    },
+    {
+      "id": "29274786248772403",
+      "title": "WHY DID JACOB SET UP A STONE PILLAR AFTER HIS DREAM? THE HEARTBREAKING TRUTH ABOUT THE STONE HE LEFT BEHIND",
+      "date": "2026-10-15T15:47:14+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0e2NvoEfjfAua6QjjvUfeb6rZAyBzpENC9zz53X9HfDoifepbgDFERT2K6QYTYfbNl"
+    },
+    {
+      "id": "29274583392126022",
+      "title": "ABRAHAM BOWED BEFORE THE HITTITES—BUT THE REAL REASON WILL CHANGE HOW YOU SEE FAITH, GRIEF, AND GOD’S PROMISES",
+      "date": "2026-10-15T15:32:17+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zFd4qG9THzfGoi95EMvc3cZt7WHSPXzxYvqCAmaKHPHj4C2jgmv8ohfQmkva2FHtl"
+    },
+    {
+      "id": "29274399008811127",
+      "title": "THE WOMAN PAUL TRUSTED WITH HIS WORDS: WHY PHOEBE’S FORGOTTEN STORY COULD CHANGE EVERYTHING YOU BELIEVE ABOUT SERVING GOD",
+      "date": "2026-10-15T15:18:34+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DnJDifZFU1tZB1GEX9a4sGkmSaULkdbm8aXyKAukG29a8hU5AefSy6xDz121AK4Jl"
+    },
+    {
+      "id": "29274204058830622",
+      "title": "SHE BROKE OPEN A FORTUNE AT THE FEET OF JESUS—AND WHAT HE SAID NEXT STILL EXPOSES THE HUMAN HEART",
+      "date": "2026-10-15T15:04:22+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GCR3KunFzvMQwqXUd2UsNQ4xL5bnzucLnSHCGLXeYBnfVzNsxerh97LXcdbi7gPYl"
+    },
+    {
+      "id": "29274085445509150",
+      "title": "WHY DID DEBORAH SIT BENEATH A PALM TREE TO JUDGE ISRAEL? THE ANSWER REVEALS SOMETHING ABOUT GOD THAT MANY BELIEVERS HAVE NEVER NOTICED",
+      "date": "2026-10-15T14:55:42+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BPvohtJoDrbwvivDbQA6s36LVrisoG4pjeQQAwGCeTijpGCSjsUwCvGB1N9WLxzFl"
+    },
+    {
+      "id": "29273942162190145",
+      "title": "WHY DID PHARAOH’S DAUGHTER SAVE THE BABY HER FATHER ORDERED TO BE KILLED?",
+      "date": "2026-10-15T14:45:07+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0u1uigssKLQ9BRTtsg8ZAtXpbdc9pfRSSoL9q9YvXLz1b4udFs8JtBHMapR2spVxJl"
+    },
+    {
+      "id": "29273819472202414",
+      "title": "HE TRUSTED GOD WHEN AN ARMY CAME AGAINST HIM… BUT WHEN SICKNESS ENTERED HIS BODY, HE LOOKED EVERYWHERE EXCEPT TO GOD.",
+      "date": "2026-10-15T14:35:47+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Cte8DZvkWUZSCwReRhWgqrUqEEDVQo5SkGY5BitAvnRx8ov3vdoFeHRjaPdt2Qx4l"
+    },
+    {
+      "id": "29272869052297456",
+      "title": "HE HEALED OTHERS… BUT GOD ALLOWED HIM TO DIE SICK. WHY?",
+      "date": "2026-10-15T13:21:23+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Sj7kW1Mp1XtnWERjNTfaB3FzGxnLJ7cZaVJxoiWhQGyF67D4iztuePqP8LNGWbVkl"
+    },
+    {
+      "id": "29272770962307265",
+      "title": "WHY DID GOD TAKE ELIJAH IN A WHIRLWIND INSTEAD OF LETTING HIM DIE? THE ANSWER IS MORE POWERFUL THAN YOU THINK.",
+      "date": "2026-10-15T13:13:23+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GAtH4cg9jKzdAKSiRmyVKaV7t4gk5QvDmcQbuPUq33WhPXSZZjU48jgxdDS9SB7Hl"
+    },
+    {
+      "id": "29272664338984594",
+      "title": "LAMECH DEMANDED 77 TIMES REVENGE. JESUS ANSWERED WITH 77 TIMES FORGIVENESS.",
+      "date": "2026-10-15T13:04:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02v6A9RBAh5H1L3XzwmZqYKTLqRARrWN6Zs2tkrKftZ1p51yksJnaBBB8J4TSvU2kml"
+    },
+    {
+      "id": "29272537608997267",
+      "title": "“MY GOD WILL SUPPLY ALL YOUR NEEDS”—BUT PAUL NEVER PROMISED YOU A LUXURIOUS LIFE",
+      "date": "2026-10-15T12:54:53+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ziGdfwwZesD3DFJ9Jw9CXVRqiVbffPeoNFTQiXShVT4hd9SfKaETLT3KfWwrKZDul"
+    },
+    {
+      "id": "29272418925675802",
+      "title": "WHY DID JESUS RIDE A DONKEY INTO JERUSALEM? THE ANSWER IS MORE HEARTBREAKING THAN MOST CHRISTIANS REALIZE",
+      "date": "2026-10-15T12:45:18+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PdaPCoqPMzXaMgXbD4es9Py5E8iVb7gak1NwGKhEToWe7zNiYAtfjmGq4Aaf6YmBl"
+    },
+    {
+      "id": "29272312595686435",
+      "title": "CAN MARRIAGE TURN LUST INTO LOVE? THE DANGEROUS LIE THAT LEAVES TWO PEOPLE MARRIED BUT STILL EMPTY INSIDE",
+      "date": "2026-10-15T12:36:17+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xZ1G8GMuP66KoP2VokdiLrtuuXD5BphckBJTk5r6URcpREkczA9JK6536T84pxEel"
+    },
+    {
+      "id": "29272214152362946",
+      "title": "GENEROSITY THAT NEEDS TO BE SEEN IS COLLECTING A DIFFERENT KIND OF PAYMENT.",
+      "date": "2026-10-15T12:27:51+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SGuYdNDuCfn6Sm6ykp4igdFYkhw2qkvUFohyXXXewx9S2t91N8xwTRj5Hvs3sASFl"
+    },
+    {
+      "id": "29271809582403403",
+      "title": "YOU CAN FORGIVE THEM… AND STILL NEVER LET THEM BACK INTO YOUR LIFE",
+      "date": "2026-10-15T11:52:51+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid086hgT12VEwb1puaGKjAnpC5SXmZbtVgKqxLqyB5NQhGM6KQU8hEbabLfdpvFVAuZl"
+    },
+    {
+      "id": "29271703072414054",
+      "title": "NADAB AND ABIHU OFFERED “UNAUTHORIZED FIRE”—AND FIRE CAME OUT FROM GOD AND CONSUMED THEM",
+      "date": "2026-10-15T11:43:37+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021yzD4kPSJXujtsznrasTFaVfCnbbuQaacXLCCTsHCBpun4niC9QUG6xfz6Gz1TAWl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-15T11:24:03Z",
-  "discovered": 1,
-  "processed": 1,
-  "discoveredLastRun": 1,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-15T16:57:38Z",
+  "discovered": 17,
+  "processed": 17,
+  "discoveredLastRun": 17,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29271434189107609",
-    "title": "GOD HATES DIVORCE… BUT DOES THAT MEAN HE WANTS YOU TO STAY AND BE DESTROYED?",
-    "date": "2026-10-15T11:19:48+00:00"
+    "id": "29274950818755946",
+    "title": "WHY DID JOSEPH PUT HIS HAND UNDER HIS FATHER’S THIGH? THE DISTURBINGLY PERSONAL OATH THAT REVEALS SOMETHING MOST CHRISTIANS NEVER NOTICE",
+    "date": "2026-10-15T15:59:16+00:00"
   },
-  "lastImportCount": 1,
-  "lastImportAt": "2026-10-15T11:24:39Z",
+  "lastImportCount": 17,
+  "lastImportAt": "2026-10-15T16:58:32Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9154,
+  "structuredMetadata": 9171,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-02f0638652db41e813a3e1a4647ce914d1dacd784d10ed61e3ad8db3e75501b5",
-  "statusGeneratedAt": "2026-10-15T11:24:39Z"
+  "contentRevision": "sha256-373bafc13a4e9bbb28cea3c697b3ad2bf660521f5f88c14b33ddc04f5877a34d",
+  "statusGeneratedAt": "2026-10-15T16:58:32Z"
 }
