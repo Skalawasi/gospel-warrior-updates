@@ -1,79 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-14T22:17:41Z",
-  "lastSuccess": "2026-10-14T22:17:41Z",
-  "currentTotal": 9151,
-  "totalWords": 12983874,
+  "lastCheck": "2026-10-15T00:34:20Z",
+  "lastSuccess": "2026-10-15T00:34:20Z",
+  "currentTotal": 9153,
+  "totalWords": 12994552,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29263319356585759",
-      "title": "PHILIPPIANS 4:13 MAY BE MORE POWERFUL WHEN YOU STOP USING IT AS A SUCCESS VERSE",
-      "date": "2026-10-14T21:26:27+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02nMrHZzLkH3i9ukh8fKDj7ziWDBsKQZ8Sts7FcfKuMD351Jn2PC7MGrgvRK4X4MBfl"
+      "id": "29263871483197213",
+      "title": "THE WOMAN, THE SERPENT, AND THE OFFSPRING: THE WAR THAT BEGAN IN EDEN AND EXPLODED IN REVELATION 12",
+      "date": "2026-10-14T22:31:10+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vt8scVAsWYNnoc5GxsvXZ5Nf7dB25dWF3vJ1f8FW15PsfS5m5wjkQmchchK9zvUsl"
     },
     {
-      "id": "29263208796596815",
-      "title": "PAUL SAID, “I CAN DO ALL THINGS”—BUT NOBODY TALKS ABOUT WHAT HE WAS SUFFERING WHEN HE SAID IT.",
-      "date": "2026-10-14T21:14:26+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0u9t6CSKmGSB3wCpQ5xRswbuWRHFFpSELCUWxagHXCjjupAGTtwcbXuCAQmw6cy33l"
-    },
-    {
-      "id": "29263096803274681",
-      "title": "“I HAVE LEARNED TO BE CONTENT” — THE VERSE THAT COMES BEFORE PHILIPPIANS 4:13",
-      "date": "2026-10-14T21:02:43+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vzabCShaHTn3kf8TN3NYhW8bXSRD1TErhq35Be8ygiMS48fF19fjLFEr39j6zzPcl"
-    },
-    {
-      "id": "29262984253285936",
-      "title": "YOU CAN THINK POSITIVELY ALL YOU WANT… AND STILL BE SPIRITUALLY LOST.",
-      "date": "2026-10-14T20:50:45+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0guUD45mpDwac2TuuJXqU7oQb675A5YaZHEYfUJ6pgCdUCBZ9SdcthDkziDJFtEs4l"
-    },
-    {
-      "id": "29262918913292470",
-      "title": "YOUR MIND IS NOT A BATTLEGROUND JESUS INTENDS YOU TO SURRENDER: THE HIDDEN POWER OF PHILIPPIANS 4:8",
-      "date": "2026-10-14T20:43:26+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035MaemGaXjwiD2xu97gFSkpcUKzXuzQz55uXDBDBbfjDDRqHKzjLEpXe6HEptDbD1l"
-    },
-    {
-      "id": "29262871556630539",
-      "title": "PHILIPPIANS 4:6 HAS BEEN USED TO SILENCE ANXIOUS CHRISTIANS—BUT PAUL WAS ACTUALLY OFFERING THEM SOMETHING FAR MORE BEAUTIFUL",
-      "date": "2026-10-14T20:38:09+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021DYAq2a4cqRZYoqdsseBPGhrfZquQgYv3aLm291TZBg7T8C5tcrKZfCYofPUN83Ql"
+      "id": "29263758913208470",
+      "title": "WHY DID GOD HIDE MOSES’ GRAVE? THE MYSTERY OF A BURIAL NO HUMAN EYES EVER SAW",
+      "date": "2026-10-14T22:17:59+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02n9jAeFvfPaZ12gPETbR6Vm4uAnGhvkMP6xdZZq658w75ZbH1zuyQr8FjPWKq4nYvl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-14T22:16:56Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
+  "lastCheckStarted": "2026-10-15T00:33:41Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
   "pagesScanned": 1,
   "latest": {
-    "id": "29263319356585759",
-    "title": "PHILIPPIANS 4:13 MAY BE MORE POWERFUL WHEN YOU STOP USING IT AS A SUCCESS VERSE",
-    "date": "2026-10-14T21:26:27+00:00"
+    "id": "29263871483197213",
+    "title": "THE WOMAN, THE SERPENT, AND THE OFFSPRING: THE WAR THAT BEGAN IN EDEN AND EXPLODED IN REVELATION 12",
+    "date": "2026-10-14T22:31:10+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-10-14T22:17:41Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-10-15T00:34:20Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9151,
+  "structuredMetadata": 9153,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-c36669b3c50a5aec759407e947323c187910a0b6b0ec4815221b1e9cf300315e",
-  "statusGeneratedAt": "2026-10-14T22:17:41Z"
+  "contentRevision": "sha256-8232e692573ed25ba5afc7f2bebfe77667316966dee380e6ca8fe113cd46893e",
+  "statusGeneratedAt": "2026-10-15T00:34:20Z"
 }
