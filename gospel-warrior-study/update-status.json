@@ -1,156 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 17 new public studies.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-16T09:47:14Z",
-  "lastSuccess": "2026-10-16T09:47:14Z",
-  "currentTotal": 9203,
-  "totalWords": 13239645,
+  "lastCheck": "2026-10-16T14:50:25Z",
+  "lastSuccess": "2026-10-16T14:50:25Z",
+  "currentTotal": 9211,
+  "totalWords": 13279779,
   "subjects": 17,
-  "addedLastRun": 17,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29286268174290877",
-      "title": "CAN YOU TRULY REPENT WHILE ALREADY PLANNING TO COMMIT THE SAME SIN AGAIN?",
-      "date": "2026-10-16T09:46:01+00:00",
+      "id": "29289680677282960",
+      "title": "THEY PROMISED YOU A FINANCIAL BREAKTHROUGH… BUT WHEN WAS THE LAST TIME THEY TOLD YOU TO REPENT?",
+      "date": "2026-10-16T14:25:33+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0s3MBZWnqKJEK4cTHVFTphny7ozC7v1ofgrm8ntTaCrXB8YPZU6iDP5uf1eTyVa9ol"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uuZkikberym1Dhsgw97xAoBhqthMJNW2XcfqbKXnhc2V5nyrCvQ3mJrAxpJqjPedl"
     },
     {
-      "id": "29286187964298898",
-      "title": "THE MOST DIFFICULT COMMAND IN ROMANS 12: WHEN GOD ASKS YOU TO DO GOOD TO THE PERSON WHO DID YOU EVIL",
-      "date": "2026-10-16T09:38:38+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid078gGWGVCpzaUkzvA3EkdPqidgFCQiFQfiqCTWvbTzFvP3p1yS1usKLYKsCuJtTdJl"
+      "id": "29287310084186686",
+      "title": "WHEN THE CHURCH ASKS FOR YOUR MONEY… BUT GOD NEVER ASKED FOR YOUR FEAR",
+      "date": "2026-10-16T11:16:41+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02isp7gkzzK6EMAw5qETtkR9Vr54DeVGiL6spiMDJpayueLPD77JWfxbjr9r4ZSVm9l"
     },
     {
-      "id": "29285796401004721",
-      "title": "“HEAP BURNING COALS ON HIS HEAD” — DID GOD REALLY TELL YOU TO HURT YOUR ENEMIES WITH KINDNESS?",
-      "date": "2026-10-16T09:02:14+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ybj6QBdhPsStrR68U27bxg9WTU3VqwvaeKwUd23mzbJyu5QCmggjMdo21TngpR5Kl"
-    },
-    {
-      "id": "29285738271010534",
-      "title": "WHAT IF THE DEVIL ISN’T ATTACKING YOU… WHAT IF GOD IS CONFRONTING YOU?",
-      "date": "2026-10-16T08:56:35+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0N5G34SJsSMtNyEjebRSAgTjittHdtq4jZZMtbTKwv3GPpTGwxAdPdYnoHqJLQNWml"
-    },
-    {
-      "id": "29285160991068262",
-      "title": "THE SIN YOU KEEP DELETING IS THE ONE QUIETLY DESTROYING YOU: WHAT REALLY HAPPENS WHEN A CHRISTIAN SECRETLY STRUGGLES WITH PORNOGRAPHY FOR YEARS?",
-      "date": "2026-10-16T07:59:00+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024er7KNExa2JMzdEQEEJ3A1urd4hrKd9o7gjaQxWGGArChh2tKG5aJdELHJc9gh4Yl"
-    },
-    {
-      "id": "29285026191081742",
-      "title": "“VENGEANCE IS MINE”: THE TERRIFYING TRUTH ABOUT WHAT GOD IS ASKING YOU TO SURRENDER WHEN SOMEONE HAS DESTROYED YOUR PEACE",
-      "date": "2026-10-16T07:44:43+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037qr8tEDuxSxxm87vmnarJ25AVjCP9jSDkYiazWfYZK59WMsHA7poer4QobiFfGFdl"
-    },
-    {
-      "id": "29284887007762327",
-      "title": "KARMA SAYS YOU WILL GET WHAT YOU DESERVE. JESUS SAYS SOMETHING THAT COULD CHANGE YOUR ETERNITY.",
-      "date": "2026-10-16T07:30:18+00:00",
+      "id": "29287202397530788",
+      "title": "ROMANS 3:23 TELLS YOU THE BAD NEWS. BUT THE VERY NEXT VERSE REVEALS SOMETHING THAT COULD CHANGE YOUR ETERNITY.",
+      "date": "2026-10-16T11:08:02+00:00",
       "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tHD1yeWNkVPc7C3HXMg9DYSKFfGMYqkiYELJHW9TQQYrUB737dVabRpxZGpZDK2Cl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08xHT7UxNQCMfM86cCYu58xh8MaNBzMrvxSfyhouWdQb48SgJBwzkqwzDjTGK9Xhtl"
     },
     {
-      "id": "29284738087777219",
-      "title": "HE DELETED HIS BROWSER HISTORY… BUT COULDN’T ESCAPE HIS CONVICTION.",
-      "date": "2026-10-16T07:15:15+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YR9gmhoqNzVJWQ1uec3iWPvmP77hi7j8bdjSUjUkbNrBWNNzW7rDvb2zEwMcpwnrl"
+      "id": "29287122654205429",
+      "title": "ISRAEL LOST A BATTLE BECAUSE OF A SIN NOBODY KNEW HAD HAPPENED",
+      "date": "2026-10-16T11:01:20+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UGr7hQL2EU94qohvGqQu3StMfUbE3yR1x7RzRnWXVqAHcd8jQwau6AQccAGBVmwl"
     },
     {
-      "id": "29284628064454888",
-      "title": "“YOU REAP WHAT YOU SOW”—BUT IF KARMA WERE THE FINAL WORD, NONE OF US WOULD SURVIVE THE CROSS",
-      "date": "2026-10-16T07:04:28+00:00",
+      "id": "29286850354232659",
+      "title": "HE BURIED THE SILVER, THE GOLD, AND THE BEAUTIFUL GARMENT UNDER HIS TENT… BUT HE COULDN’T BURY WHAT GOD ALREADY KNEW.",
+      "date": "2026-10-16T10:37:54+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WSbBgKzQxGRYeTwZVhxFGMAfG5BTz3yZ5GYwMRL5fGCuFDAM2rsS6vVzxrBu6uuHl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032eeVyjwhCGBjK82rE1hWtbJqmjBqySPr1rnsX3CZnrDnjZnmxaZgLMYhDfbJdu7zl"
     },
     {
-      "id": "29284554717795556",
-      "title": "CAN YOU REALLY SAY YOU LOVE GOD WHEN YOU REFUSE TO APOLOGIZE TO THE PEOPLE YOU'VE HURT?",
-      "date": "2026-10-16T06:56:48+00:00",
+      "id": "29286695284248166",
+      "title": "THE MOST DANGEROUS LIE ABOUT SIN IS THAT YOU CAN ALWAYS REPENT TOMORROW",
+      "date": "2026-10-16T10:24:25+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02z6ZJ2TF6eSmSSHaEUZB5kfEFCJ2tUQiSVV15d5f9UE4URxPwfRHuZJuVLMmGwZA5l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wD91czshJ4gWa8Ep37GmWxg1t9kSCtjnMyPMKWnTqTCVa45sowiACvYVX4QpZWBvl"
     },
     {
-      "id": "29284462407804787",
-      "title": "POISONOUS SNAKES WERE KILLING ISRAEL—THEN GOD COMMANDED MOSES TO MAKE A BRONZE SNAKE. WHY WOULD GOD USE THE IMAGE OF WHAT WAS KILLING THEM TO SAVE THEIR LIVES?",
-      "date": "2026-10-16T06:47:32+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gSiP8u9ETEnwPdbNo3JfQcaswzg5rvSZjPAxKq3N549SXtuVUz9ZXZq5q8npxVLSl"
+      "id": "29286552924262402",
+      "title": "BALAAM WAS HIRED TO CURSE ISRAEL—BUT EVERY TIME HE OPENED HIS MOUTH, GOD TURNED THE CURSE INTO A BLESSING",
+      "date": "2026-10-16T10:11:49+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KoShT3yzjdZTAoREaTYGUrWiEk21CJo2oC2ocw2UCKyiuMGoamtJ7zhWWjJjvGdrl"
     },
     {
-      "id": "29284386911145670",
-      "title": "YOU ARE REAPING SOMETHING RIGHT NOW—AND PAUL'S WARNING IS MORE TERRIFYING THAN YOU THINK",
-      "date": "2026-10-16T06:40:25+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ab519P1ynmRZuNrxVrQ8HLyZL5JgeaM2s1mAz3EEjDGH2DH4cS9hyyGmBUrss5kQl"
-    },
-    {
-      "id": "29283721044545590",
-      "title": "“SOW AND YOU WILL REAP”—BUT WHAT IF THE HARVEST YOU’VE BEEN PROMISED WAS NEVER ABOUT MONEY?",
-      "date": "2026-10-16T05:36:10+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TmBdww17tJejaTdrTEbbvW54ghNZQx2VX6WZPTCwpHzsmnfDqG68MDtEP9A8qpqbl"
-    },
-    {
-      "id": "29283615654556129",
-      "title": "“PRESSED DOWN, SHAKEN TOGETHER, RUNNING OVER” — DID JESUS REALLY PROMISE TO MAKE YOU RICH?",
-      "date": "2026-10-16T05:26:13+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hZoVpU4kKwbPS38CcRib9d7Mx6bXY7FPWn67NHJ3WNnGyovwUje4vwYsFspkpu5Ql"
-    },
-    {
-      "id": "29283372534580441",
-      "title": "“GIVE, AND IT WILL BE GIVEN TO YOU” — THE VERSE WE TURNED INTO A MONEY PROMISE WHILE MISSING THE HEART OF JESUS",
-      "date": "2026-10-16T05:03:53+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vfuQhoP3wZybLtQmP3uk946TxP9FHvde9dfPaGnFTnYFSeWmenEhYAj1u5aoRJsol"
-    },
-    {
-      "id": "29283221131262248",
-      "title": "“THOSE WHO WANT TO GET RICH FALL INTO TEMPTATION” — THE BIBLE VERSE WE KEEP CROPPING OUT OF OUR CHRISTIAN SUCCESS STORIES",
-      "date": "2026-10-16T04:49:36+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0QCn2StZ5GJHzJLLefL7ZTjMNWS5d7CWraBema9QEDSHHDDNtSRH2wbtEv4jbsjRpl"
-    },
-    {
-      "id": "29283078341276527",
-      "title": "GOD NEVER PROMISED TO MAKE YOU RICH. HE PROMISED SOMETHING MONEY COULD NEVER BUY.",
-      "date": "2026-10-16T04:36:50+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Euc9YKRjuNcEfuV4d665sYtMYoene5J9uFviaCXNiRKdqKpBG8hhsstNMZWaPDYCl"
+      "id": "29286405360943825",
+      "title": "THE VERSE THAT EXPOSES EVERY SINNER… AND THE NEXT VERSE THAT CHANGES EVERYTHING",
+      "date": "2026-10-16T09:58:16+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02J37WHvu1RQzAcngvXjjZF3pwZwDi3hTScf5Sh1zAoyZr2qpKEiuUs4CACeUi4rw3l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-16T09:46:12Z",
-  "discovered": 17,
-  "processed": 17,
-  "discoveredLastRun": 17,
+  "lastCheckStarted": "2026-10-16T14:49:37Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
   "pagesScanned": 2,
   "latest": {
-    "id": "29286268174290877",
-    "title": "CAN YOU TRULY REPENT WHILE ALREADY PLANNING TO COMMIT THE SAME SIN AGAIN?",
-    "date": "2026-10-16T09:46:01+00:00"
+    "id": "29289680677282960",
+    "title": "THEY PROMISED YOU A FINANCIAL BREAKTHROUGH… BUT WHEN WAS THE LAST TIME THEY TOLD YOU TO REPENT?",
+    "date": "2026-10-16T14:25:33+00:00"
   },
-  "lastImportCount": 17,
-  "lastImportAt": "2026-10-16T09:47:14Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-10-16T14:50:25Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9203,
+  "structuredMetadata": 9211,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-14314b39b95fb08d19cb36ae73ef44e35a34c6b6945ae64091926195bf1035f3",
-  "statusGeneratedAt": "2026-10-16T09:47:14Z"
+  "contentRevision": "sha256-1ec1392a760df5e8cca8d03f319afd0c6f45142fbadef0aa4f683fa0d5b54666",
+  "statusGeneratedAt": "2026-10-16T14:50:25Z"
 }
