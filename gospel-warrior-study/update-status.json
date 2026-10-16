@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-16T18:48:44Z",
-  "lastSuccess": "2026-10-16T18:48:44Z",
+  "lastCheck": "2026-10-16T22:05:03Z",
+  "lastSuccess": "2026-10-16T22:05:03Z",
   "currentTotal": 9220,
   "totalWords": 13324384,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29291419450442416",
@@ -76,11 +76,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-16T18:47:52Z",
+  "lastCheckStarted": "2026-10-16T22:04:46Z",
   "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29291419450442416",
     "title": "“AS MOSES LIFTED UP THE SERPENT…” — THE TERRIFYING OLD TESTAMENT STORY JESUS HID IN PLAIN SIGHT BEFORE JOHN 3:16",
@@ -96,5 +96,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-aa6962bdc2c0b0a08019791a012e206af361a9419de672a3c4e26e6d39a6cf92",
-  "statusGeneratedAt": "2026-10-16T18:48:44Z"
+  "statusGeneratedAt": "2026-10-16T22:05:03Z"
 }
