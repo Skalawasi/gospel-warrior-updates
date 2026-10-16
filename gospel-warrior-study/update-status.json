@@ -1,156 +1,142 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 15 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-15T23:41:18Z",
-  "lastSuccess": "2026-10-15T23:41:18Z",
-  "currentTotal": 9171,
-  "totalWords": 13084288,
+  "lastCheck": "2026-10-16T04:28:25Z",
+  "lastSuccess": "2026-10-16T04:28:25Z",
+  "currentTotal": 9186,
+  "totalWords": 13154177,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 15,
   "recentAdded": [
     {
-      "id": "29274950818755946",
-      "title": "WHY DID JOSEPH PUT HIS HAND UNDER HIS FATHER’S THIGH? THE DISTURBINGLY PERSONAL OATH THAT REVEALS SOMETHING MOST CHRISTIANS NEVER NOTICE",
-      "date": "2026-10-15T15:59:16+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qVMhnpiBE9MNTFecMzr9jXTTsA47eQSR2Yjofuhmd1kaQoMHLFG2MxB6pZZhXtaWl"
+      "id": "29282769147974113",
+      "title": "“ACCORDING TO HIS RICHES IN GLORY” — THE PROMISE WE KEEP QUOTING… BUT HAVE WE MISUNDERSTOOD WHAT GOD ACTUALLY SAID?",
+      "date": "2026-10-16T04:09:10+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eahp5Eoxs5bQFL8zmVcbutuyCCChVRVz7AaKKbLu46DuhnSrRioh5bptT9XNSCR2l"
     },
     {
-      "id": "29274786248772403",
-      "title": "WHY DID JACOB SET UP A STONE PILLAR AFTER HIS DREAM? THE HEARTBREAKING TRUTH ABOUT THE STONE HE LEFT BEHIND",
-      "date": "2026-10-15T15:47:14+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0e2NvoEfjfAua6QjjvUfeb6rZAyBzpENC9zz53X9HfDoifepbgDFERT2K6QYTYfbNl"
-    },
-    {
-      "id": "29274583392126022",
-      "title": "ABRAHAM BOWED BEFORE THE HITTITES—BUT THE REAL REASON WILL CHANGE HOW YOU SEE FAITH, GRIEF, AND GOD’S PROMISES",
-      "date": "2026-10-15T15:32:17+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zFd4qG9THzfGoi95EMvc3cZt7WHSPXzxYvqCAmaKHPHj4C2jgmv8ohfQmkva2FHtl"
-    },
-    {
-      "id": "29274399008811127",
-      "title": "THE WOMAN PAUL TRUSTED WITH HIS WORDS: WHY PHOEBE’S FORGOTTEN STORY COULD CHANGE EVERYTHING YOU BELIEVE ABOUT SERVING GOD",
-      "date": "2026-10-15T15:18:34+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DnJDifZFU1tZB1GEX9a4sGkmSaULkdbm8aXyKAukG29a8hU5AefSy6xDz121AK4Jl"
-    },
-    {
-      "id": "29274204058830622",
-      "title": "SHE BROKE OPEN A FORTUNE AT THE FEET OF JESUS—AND WHAT HE SAID NEXT STILL EXPOSES THE HUMAN HEART",
-      "date": "2026-10-15T15:04:22+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GCR3KunFzvMQwqXUd2UsNQ4xL5bnzucLnSHCGLXeYBnfVzNsxerh97LXcdbi7gPYl"
-    },
-    {
-      "id": "29274085445509150",
-      "title": "WHY DID DEBORAH SIT BENEATH A PALM TREE TO JUDGE ISRAEL? THE ANSWER REVEALS SOMETHING ABOUT GOD THAT MANY BELIEVERS HAVE NEVER NOTICED",
-      "date": "2026-10-15T14:55:42+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BPvohtJoDrbwvivDbQA6s36LVrisoG4pjeQQAwGCeTijpGCSjsUwCvGB1N9WLxzFl"
-    },
-    {
-      "id": "29273942162190145",
-      "title": "WHY DID PHARAOH’S DAUGHTER SAVE THE BABY HER FATHER ORDERED TO BE KILLED?",
-      "date": "2026-10-15T14:45:07+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0u1uigssKLQ9BRTtsg8ZAtXpbdc9pfRSSoL9q9YvXLz1b4udFs8JtBHMapR2spVxJl"
-    },
-    {
-      "id": "29273819472202414",
-      "title": "HE TRUSTED GOD WHEN AN ARMY CAME AGAINST HIM… BUT WHEN SICKNESS ENTERED HIS BODY, HE LOOKED EVERYWHERE EXCEPT TO GOD.",
-      "date": "2026-10-15T14:35:47+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Cte8DZvkWUZSCwReRhWgqrUqEEDVQo5SkGY5BitAvnRx8ov3vdoFeHRjaPdt2Qx4l"
-    },
-    {
-      "id": "29272869052297456",
-      "title": "HE HEALED OTHERS… BUT GOD ALLOWED HIM TO DIE SICK. WHY?",
-      "date": "2026-10-15T13:21:23+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Sj7kW1Mp1XtnWERjNTfaB3FzGxnLJ7cZaVJxoiWhQGyF67D4iztuePqP8LNGWbVkl"
-    },
-    {
-      "id": "29272770962307265",
-      "title": "WHY DID GOD TAKE ELIJAH IN A WHIRLWIND INSTEAD OF LETTING HIM DIE? THE ANSWER IS MORE POWERFUL THAN YOU THINK.",
-      "date": "2026-10-15T13:13:23+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GAtH4cg9jKzdAKSiRmyVKaV7t4gk5QvDmcQbuPUq33WhPXSZZjU48jgxdDS9SB7Hl"
-    },
-    {
-      "id": "29272664338984594",
-      "title": "LAMECH DEMANDED 77 TIMES REVENGE. JESUS ANSWERED WITH 77 TIMES FORGIVENESS.",
-      "date": "2026-10-15T13:04:52+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02v6A9RBAh5H1L3XzwmZqYKTLqRARrWN6Zs2tkrKftZ1p51yksJnaBBB8J4TSvU2kml"
-    },
-    {
-      "id": "29272537608997267",
-      "title": "“MY GOD WILL SUPPLY ALL YOUR NEEDS”—BUT PAUL NEVER PROMISED YOU A LUXURIOUS LIFE",
-      "date": "2026-10-15T12:54:53+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ziGdfwwZesD3DFJ9Jw9CXVRqiVbffPeoNFTQiXShVT4hd9SfKaETLT3KfWwrKZDul"
-    },
-    {
-      "id": "29272418925675802",
-      "title": "WHY DID JESUS RIDE A DONKEY INTO JERUSALEM? THE ANSWER IS MORE HEARTBREAKING THAN MOST CHRISTIANS REALIZE",
-      "date": "2026-10-15T12:45:18+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PdaPCoqPMzXaMgXbD4es9Py5E8iVb7gak1NwGKhEToWe7zNiYAtfjmGq4Aaf6YmBl"
-    },
-    {
-      "id": "29272312595686435",
-      "title": "CAN MARRIAGE TURN LUST INTO LOVE? THE DANGEROUS LIE THAT LEAVES TWO PEOPLE MARRIED BUT STILL EMPTY INSIDE",
-      "date": "2026-10-15T12:36:17+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xZ1G8GMuP66KoP2VokdiLrtuuXD5BphckBJTk5r6URcpREkczA9JK6536T84pxEel"
-    },
-    {
-      "id": "29272214152362946",
-      "title": "GENEROSITY THAT NEEDS TO BE SEEN IS COLLECTING A DIFFERENT KIND OF PAYMENT.",
-      "date": "2026-10-15T12:27:51+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SGuYdNDuCfn6Sm6ykp4igdFYkhw2qkvUFohyXXXewx9S2t91N8xwTRj5Hvs3sASFl"
-    },
-    {
-      "id": "29271809582403403",
-      "title": "YOU CAN FORGIVE THEM… AND STILL NEVER LET THEM BACK INTO YOUR LIFE",
-      "date": "2026-10-15T11:52:51+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid086hgT12VEwb1puaGKjAnpC5SXmZbtVgKqxLqyB5NQhGM6KQU8hEbabLfdpvFVAuZl"
-    },
-    {
-      "id": "29271703072414054",
-      "title": "NADAB AND ABIHU OFFERED “UNAUTHORIZED FIRE”—AND FIRE CAME OUT FROM GOD AND CONSUMED THEM",
-      "date": "2026-10-15T11:43:37+00:00",
+      "id": "29282689181315443",
+      "title": "ONE OUTBURST AT THE ROCK COST MOSES THE PROMISED LAND—AND THE MOST FRIGHTENING PART IS THAT HE WAS STILL DOING GOD'S WORK",
+      "date": "2026-10-16T04:02:01+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021yzD4kPSJXujtsznrasTFaVfCnbbuQaacXLCCTsHCBpun4niC9QUG6xfz6Gz1TAWl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022Y6V3ZvH5x1yLxxW7CmpfXwcF2Je2X4LTxkUKgRqwU6PfYe5DtYC4JeAJLsfWtgHl"
+    },
+    {
+      "id": "29282611677989860",
+      "title": "“MY GOD WILL SUPPLY ALL YOUR NEEDS”—BUT PAUL NEVER PROMISED YOU A LIFE OF LUXURY",
+      "date": "2026-10-16T03:54:22+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XXAb7zv1ds3eNg4QttX4ztufTeqoxAYEBhGZWN5RtKVborj7doJURVCAgfqfq9t2l"
+    },
+    {
+      "id": "29282232688027759",
+      "title": "WHAT IF YOUR CHILDREN REMEMBER YOUR ANGER MORE THAN YOUR BIBLE READING?",
+      "date": "2026-10-16T03:17:30+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mqiAFkDKABgFWZwxKAASYsHbFkVfQpUK6o3dkxyvbo7ce85zytnRVoe2yqbFGXdel"
+    },
+    {
+      "id": "29282037874713907",
+      "title": "SHE PRAYED FOR A GODLY HUSBAND… BUT IGNORED EVERY WARNING SIGN. 💔",
+      "date": "2026-10-16T03:00:43+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02b4orwd5dkyLdRVjxqaq1FPi38mBq4S5ZLQFHALReSiJG8jqNxWpcXQoEESbJ6bQNl"
+    },
+    {
+      "id": "29281964424721252",
+      "title": "CAN A MARRIAGE SURVIVE BETRAYAL WITHOUT PRETENDING THE BETRAYAL NEVER HAPPENED?",
+      "date": "2026-10-16T02:53:58+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PTy2PShRLp2XNFk1SsRSgGvGqft16JRGpcZRRYjq1o8wkjZcQR3heL5a1tfkokxwl"
+    },
+    {
+      "id": "29281835641400797",
+      "title": "WHY DID GOD COMMAND ISRAELITES TO WEAR TASSELS? THE FORGOTTEN THREAD THAT LEADS STRAIGHT TO JESUS CHRIST",
+      "date": "2026-10-16T02:42:56+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EdYwN4wcAME1PNr5dzNQ9HWWVSs29KZTPshaCqTzyaSBV2psHzePH9ZHbBUwBYnSl"
+    },
+    {
+      "id": "29281714608079567",
+      "title": "EVE SAW THREE THINGS BEFORE SHE FELL—THOUSANDS OF YEARS LATER, JOHN EXPOSED THE SAME TRAP THAT IS STILL DESTROYING US TODAY",
+      "date": "2026-10-16T02:32:04+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06aMMCH5v2jCArGUMSXKsP3nbyrQXxk8E6iPhFKZMjQrvSpEPfHg1cvsZobr1WkWpl"
+    },
+    {
+      "id": "29281611894756505",
+      "title": "“GOD HAS NOT GIVEN US A SPIRIT OF FEAR” — BUT WHAT WAS TIMOTHY ACTUALLY AFRAID TO DO?",
+      "date": "2026-10-16T02:22:33+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036ckc7XXjRqbDVg2nwK6Xg7oEqExSZvcEd1Kun3vtvJPxiSJSHgwoxH9j1vjPUMGDl"
+    },
+    {
+      "id": "29281541674763527",
+      "title": "JESUS NEVER SAID “JUST BELIEVE ME.” HE SAID “FOLLOW ME.” AND THAT CHANGES EVERYTHING.",
+      "date": "2026-10-16T02:16:24+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02cYyZQmCv5ePt3ZABLz3Aj3E8usj4BJdL8FzByhgKMBUggYxrmNEP1a8pn1vQJupel"
+    },
+    {
+      "id": "29281400918110936",
+      "title": "DOES GOD EVER BLESS LUST? THE TERRIFYING TRUTH ABOUT WHAT YOU KEEP ASKING GOD TO APPROVE",
+      "date": "2026-10-16T02:03:26+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0oSKYscECR79fD7CmPwmN8nkoikpKgDErsPABmz7sUDew7nzba67hw413Kp91g1uxl"
+    },
+    {
+      "id": "29281329914784703",
+      "title": "YOU SAID, “GOD WILL PROVIDE”—BUT YOU KEEP SPENDING MONEY YOU DON’T HAVE.",
+      "date": "2026-10-16T01:57:14+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SVaLU7QrjSC7KY9i9SEwbhk9woEZQL8f72HeXEj34t7xaVSE5UDGGAHY4TmsDDXpl"
+    },
+    {
+      "id": "29281211701463191",
+      "title": "DOES FORGIVENESS MEAN LETTING THEM BACK IN? THE BIBLICAL TRUTH THAT COULD SET YOUR WOUNDED HEART FREE",
+      "date": "2026-10-16T01:45:47+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fedGgv75QkTAhnTQGEjs7wdSqq911wCu4Eh9CNyHxsboSXMGb2GHn5Aio3WCYGhml"
+    },
+    {
+      "id": "29280831604834534",
+      "title": "THE EARTH OPENED ITS MOUTH AND SWALLOWED THEM ALIVE—BUT THE MOST TERRIFYING PART OF THIS BIBLE STORY IS WHAT HAPPENED BEFORE THE GROUND SPLIT",
+      "date": "2026-10-16T01:10:37+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026QJZwePb2dznvhXVAbhLNiVUhsoqK9xpsdoyfUWvp7gMSPF9C5DRi4EAEMQvExqpl"
+    },
+    {
+      "id": "29280722658178762",
+      "title": "WHY DO SOME CHRISTIANS TREAT STRANGERS LIKE JESUS… BUT TREAT THEIR OWN SPOUSES LIKE ENEMIES?",
+      "date": "2026-10-16T01:00:26+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uirymeze3Z5afYTQ5ENobMtggVvx1edGUbpWjPBbnGwJrz4LfuCWmQtboANTn6JJl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-15T23:41:02Z",
-  "discovered": 17,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-16T04:27:28Z",
+  "discovered": 15,
+  "processed": 15,
+  "discoveredLastRun": 15,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29274950818755946",
-    "title": "WHY DID JOSEPH PUT HIS HAND UNDER HIS FATHER’S THIGH? THE DISTURBINGLY PERSONAL OATH THAT REVEALS SOMETHING MOST CHRISTIANS NEVER NOTICE",
-    "date": "2026-10-15T15:59:16+00:00"
+    "id": "29282769147974113",
+    "title": "“ACCORDING TO HIS RICHES IN GLORY” — THE PROMISE WE KEEP QUOTING… BUT HAVE WE MISUNDERSTOOD WHAT GOD ACTUALLY SAID?",
+    "date": "2026-10-16T04:09:10+00:00"
   },
-  "lastImportCount": 17,
-  "lastImportAt": "2026-10-15T16:58:32Z",
+  "lastImportCount": 15,
+  "lastImportAt": "2026-10-16T04:28:25Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9171,
+  "structuredMetadata": 9186,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-373bafc13a4e9bbb28cea3c697b3ad2bf660521f5f88c14b33ddc04f5877a34d",
-  "statusGeneratedAt": "2026-10-15T23:41:19Z"
+  "contentRevision": "sha256-56deaf268e680c4a794ee2b31a4742ed24587c0949870be9570ac6679538e9cd",
+  "statusGeneratedAt": "2026-10-16T04:28:25Z"
 }
