@@ -1,128 +1,100 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 13 new public studies.",
+  "message": "Added 9 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-17T10:39:47Z",
-  "lastSuccess": "2026-10-17T10:39:47Z",
-  "currentTotal": 9243,
-  "totalWords": 13442321,
+  "lastCheck": "2026-10-17T14:12:52Z",
+  "lastSuccess": "2026-10-17T14:12:52Z",
+  "currentTotal": 9252,
+  "totalWords": 13490232,
   "subjects": 17,
-  "addedLastRun": 13,
+  "addedLastRun": 9,
   "recentAdded": [
     {
-      "id": "29301985322719162",
-      "title": "IF OBEDIENCE PROVES YOU’RE SAVED… WHY DID JESUS SAVE A THIEF WHO COULDN’T OBEY ANOTHER COMMAND?",
-      "date": "2026-10-17T10:35:14+00:00",
+      "id": "29304207882496906",
+      "title": "“THE OLD HAS PASSED AWAY”… SO WHY ARE YOU STILL FIGHTING THE PERSON YOU USED TO BE?",
+      "date": "2026-10-17T13:59:21+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0roG83qi7Ei5Mdm1YMUyMDGoqttVcrRi4uAw3BG9aNQ7ED4zdDGzyaSbHGsfpzUq1l"
+    },
+    {
+      "id": "29303498819234479",
+      "title": "YOU CAN BE FORGIVEN AND STILL BE LIVING LIKE THE PERSON JESUS DIED TO SET FREE",
+      "date": "2026-10-17T12:59:08+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G1H2awiYpjLEBSh3N1eaHQU1ruKPa9WGoskZVVDwAG2YzniKHzyQFvqToekKe9USl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DnJL4MjcaSQ5DmGD7PTTDERQNBT9TCLxT94x2LGn5HYiPjnC7EGw9auUHhd7vsvMl"
     },
     {
-      "id": "29301606736090354",
-      "title": "HAVE WE MADE JESUS SO GENTLE THAT WE’VE FORGOTTEN HE ALSO CONFRONTED SIN?",
-      "date": "2026-10-17T09:56:15+00:00",
+      "id": "29303316465919381",
+      "title": "THE BLOOD OF JESUS CLEANSES US FROM ALL SIN… BUT HAVE YOU READ WHAT THE BIBLE SAYS RIGHT BEFORE THAT PROMISE?",
+      "date": "2026-10-17T12:42:32+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023fQMPztc6A5VUWJqfPAdLrwfxfJHoV4e3HiMPxFRWH5GdhJeDmgrUJ6WtwAxtcdLl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cEdXSQb9E6NF71mP4ot3AijQpBZtLkSnwbtinmCVAdVuFjL5bQChRidz2CPzxcNgl"
     },
     {
-      "id": "29301509362766758",
-      "title": "DID JESUS ACCEPT EVERYONE—OR DID HE CALL EVERYONE TO REPENT? THE ANSWER MAY SHATTER WHAT YOU THOUGHT YOU KNEW ABOUT HIS LOVE.",
-      "date": "2026-10-17T09:46:29+00:00",
+      "id": "29303046029279758",
+      "title": "“IF WE SAY WE HAVE NO SIN…” — THE TERRIFYING WARNING WE KEEP SKIPPING BEFORE AND AFTER 1 JOHN 1:9",
+      "date": "2026-10-17T12:18:04+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ezJ2CFUPEQ26PnrP3GUuqDdkUwdFbFoi7bGZe35LpgNmcRX1R5HPAikWjd7caseSl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Q6DzuxuhQHLVeamWxMjRZcy7yWQber1SNTMK1EyDySx42imEM1eEQTRa3wC5YMyTl"
     },
     {
-      "id": "29301415702776124",
-      "title": "THEY INVITED YOU TO THEIR WEDDING… BUT YOUR CONSCIENCE WON’T LET YOU SAY YES.",
-      "date": "2026-10-17T09:36:16+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0f1Vkshg4seBk4TWoGbWrgFoZeNRRBU9tBgZgmfptPNUPzWhUCbLNSgk7BkWFgPNdl"
+      "id": "29302931675957860",
+      "title": "“IF WE CONFESS OUR SINS…” — THE VERSE THAT HAS COMFORTED MILLIONS OF CHRISTIANS… BUT HAVE WE BEEN READING IT WRONG?",
+      "date": "2026-10-17T12:07:52+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yX95kuaGF9oU3DWv3B6cABN6DADMMxZoYMFqD9DMyJUgPD3XX98k3fNdsRN3M1T2l"
     },
     {
-      "id": "29301297916121236",
-      "title": "“FAMILY FIRST” SOUNDS HOLY… UNTIL YOUR FAMILY TAKES THE PLACE OF GOD",
-      "date": "2026-10-17T09:23:37+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hnoMH3RC5PEgtXSvLUQ275Lqpe9vf4hcx5DezYQWPZz4xr8XusBqew9NnvsxmiZul"
+      "id": "29302830729301288",
+      "title": "“PERFECT LOVE CASTS OUT FEAR”—BUT WHAT IF THE FEAR JOHN WAS TALKING ABOUT IS NOT THE FEAR YOU THINK?",
+      "date": "2026-10-17T11:58:31+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tmpfBCnbFqkQRup3zzSUQQpHbskSszEZLzrLWXipmrkJnXUiifjRGaGYXP3sqbaxl"
     },
     {
-      "id": "29301215689462792",
-      "title": "SHOULD CHRISTIAN PARENTS CUT OFF AN ADULT CHILD WHO REJECTS JESUS? THE BIBLICAL ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS IT.",
-      "date": "2026-10-17T09:15:11+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pDRXwKg4EwCeMvgcwTvruHje34ZzVATAmEZZS6bdP24oc2pZpbRNXPFHs8ZQYYwbl"
+      "id": "29302743822643312",
+      "title": "“GOD IS LOVE” — THE THREE WORDS EVERYONE LOVES TO QUOTE… UNTIL THEY DISCOVER WHAT JOHN REALLY MEANT",
+      "date": "2026-10-17T11:50:10+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08PCEzYYrnLsbADxKSh6RFwxFXG6mdtTqBLDFp7w1aF1J1SS3Af24nSYXAwaCLM3kl"
     },
     {
-      "id": "29301033069481054",
-      "title": "DOES “HONOR YOUR FATHER AND MOTHER” MEAN YOU MUST ENDURE THEIR ABUSE? THE BIBLICAL TRUTH SOME CHRISTIANS WERE NEVER TAUGHT",
-      "date": "2026-10-17T08:55:44+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wri2BBnNLFV6sSLoahWKtosLdGmiixt299rzrkRc2hET8jcxc1VXQQvvL6GN3nRFl"
-    },
-    {
-      "id": "29300876886163339",
-      "title": "YOU SAY YOU LOVE JESUS… BUT WHAT IF THE PERSON YOU REFUSE TO FORGIVE IS REVEALING SOMETHING ABOUT YOUR HEART?",
-      "date": "2026-10-17T08:39:08+00:00",
+      "id": "29302670109317350",
+      "title": "CAN A GENUINE CHRISTIAN LIVE IN UNREPENTANT SIN FOR YEARS? THE ANSWER MAY TERRIFY THOSE WHO FEEL SAFE—AND BRING HOPE TO THOSE WHO ARE BROKEN.",
+      "date": "2026-10-17T11:43:28+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0n9HzKcN8TxPwHSH1K3u2NfRX7zwQLEj2E3GTDqzwC9bYTUBiweBVwJjdEr72nCn8l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02j4xCjRz11Mvaow2PfV5FwczXRWt2eB25eiK6RJoT6hGvfjghezBaRxRKjpvwcJ8rl"
     },
     {
-      "id": "29300807832836911",
-      "title": "THE MOST DANGEROUS WORDS IN CHRISTIANITY MIGHT BE: “I’M SAVED, SO I’M FINE.”",
-      "date": "2026-10-17T08:32:19+00:00",
+      "id": "29302527715998256",
+      "title": "IF SALVATION IS FREE, WHY DID JESUS SAY, “IF YOU LOVE ME, KEEP MY COMMANDMENTS”?",
+      "date": "2026-10-17T11:30:01+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023mjjbkfXwAMRwg9GFhL1LeKWNc2aoVjS8NnEfbujT21qtpd7sQD8p21WnUoEhie5l"
-    },
-    {
-      "id": "29300636262854068",
-      "title": "WHEN THE SHEPHERD BECOMES THE WOUND: SHOULD CHRISTIANS LEAVE A CHURCH WHEN LEADERSHIP BECOMES ABUSIVE?",
-      "date": "2026-10-17T08:14:22+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Tq1JK3AAnUDXoGy8XYmRhsjk3io6qf89nsVYZcHNzV6K59dc793D5Lie9ZZbUCS4l"
-    },
-    {
-      "id": "29300437789540582",
-      "title": "WHEN HONORING YOUR PASTOR BECOMES IDOLATRY: THE DANGEROUS MOMENT A SERVANT OF GOD TAKES THE PLACE OF GOD",
-      "date": "2026-10-17T07:53:52+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0372LqfmqFdyfttobRvvJeYGa8ca14HipV68A91SCP7kCvaMngaXCcz16KaV5Ve3eWl"
-    },
-    {
-      "id": "29300211946229833",
-      "title": "THE SIN YOU KEEP SECRET MAY BE DESTROYING THE INTIMACY WITH GOD YOU KEEP PRAYING FOR",
-      "date": "2026-10-17T07:29:55+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KkvycQN7nqYohDbKgkUWoWTiN1DWMSrwmo4DjnGyBeaibgWzyqhGnkyMFijWDzjLl"
-    },
-    {
-      "id": "29299503122967382",
-      "title": "JESUS CALLED IT ADULTERY BEFORE ANYONE TOUCHED ANYONE: THE TERRIFYING TRUTH ABOUT PORNOGRAPHY THAT THE CHURCH CANNOT AFFORD TO IGNORE",
-      "date": "2026-10-17T06:11:44+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02981BamWMGmcRbEMXVXohFJW9jfPtBAwPp9GLPjveGsxcg1eYWCZ5ydHsmz6RFtjxl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qFAREe43L8Q5B3MdAKBZxYuDxWoF8UC9GFrFuMweybzvAm3x8ap1EqESx4WusKu3l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-17T10:38:48Z",
-  "discovered": 13,
-  "processed": 13,
-  "discoveredLastRun": 13,
+  "lastCheckStarted": "2026-10-17T14:12:01Z",
+  "discovered": 9,
+  "processed": 9,
+  "discoveredLastRun": 9,
   "pagesScanned": 2,
   "latest": {
-    "id": "29301985322719162",
-    "title": "IF OBEDIENCE PROVES YOU’RE SAVED… WHY DID JESUS SAVE A THIEF WHO COULDN’T OBEY ANOTHER COMMAND?",
-    "date": "2026-10-17T10:35:14+00:00"
+    "id": "29304207882496906",
+    "title": "“THE OLD HAS PASSED AWAY”… SO WHY ARE YOU STILL FIGHTING THE PERSON YOU USED TO BE?",
+    "date": "2026-10-17T13:59:21+00:00"
   },
-  "lastImportCount": 13,
-  "lastImportAt": "2026-10-17T10:39:47Z",
+  "lastImportCount": 9,
+  "lastImportAt": "2026-10-17T14:12:52Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9243,
+  "structuredMetadata": 9252,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-699eb9d9c9ed7d18ce39a44991b94fcc999efdddb30e14f5005f03ba98b78068",
-  "statusGeneratedAt": "2026-10-17T10:39:47Z"
+  "contentRevision": "sha256-172fb2003057241d78720e6c6ba98608596b0d42923b24b01a509a718c9bf232",
+  "statusGeneratedAt": "2026-10-17T14:12:52Z"
 }
