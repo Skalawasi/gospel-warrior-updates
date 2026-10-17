@@ -1,100 +1,44 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 1 new public study.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-16T22:05:03Z",
-  "lastSuccess": "2026-10-16T22:05:03Z",
-  "currentTotal": 9220,
-  "totalWords": 13324384,
+  "lastCheck": "2026-10-17T00:27:34Z",
+  "lastSuccess": "2026-10-17T00:27:34Z",
+  "currentTotal": 9221,
+  "totalWords": 13328885,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 1,
   "recentAdded": [
     {
-      "id": "29291419450442416",
-      "title": "“AS MOSES LIFTED UP THE SERPENT…” — THE TERRIFYING OLD TESTAMENT STORY JESUS HID IN PLAIN SIGHT BEFORE JOHN 3:16",
-      "date": "2026-10-16T16:41:41+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02nzexSkxzpPJihFG2YX9Vs5fA81Eds7HuGnj4KuWBzcKWdGijk5WHFcMFAtNy4g5yl"
-    },
-    {
-      "id": "29291315683786126",
-      "title": "“YOU MUST BE BORN AGAIN” — NICODEMUS WAS CONFUSED FOR A REASON",
-      "date": "2026-10-16T16:33:49+00:00",
+      "id": "29296111543306540",
+      "title": "“YOUR POSTS ARE TOO LONG!” — BUT WHEN DID WE BECOME TOO BUSY TO READ ABOUT THE GOD WHO GAVE HIS LIFE FOR US?",
+      "date": "2026-10-17T00:06:31+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qsxvuFDj5g3rb6PaW32dCy6hb5sBxyGdNf9VJG9kzA79s9wZU2EPi8NKcEaVxbEHl"
-    },
-    {
-      "id": "29291228910461470",
-      "title": "GOD REDUCED GIDEON’S ARMY FROM 32,000 TO JUST 300 MEN BEFORE THE BATTLE—AND THE REASON SHOULD SHAKE EVERY CHRISTIAN WHO FEELS OUTNUMBERED",
-      "date": "2026-10-16T16:26:48+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EyKT5zBv385uq5x6gGVHGjHCGMW1K8dTyR8XKnHy17THQotL4NxtxUPe4ESR5o5jl"
-    },
-    {
-      "id": "29291150293802665",
-      "title": "JOHN 3:16 IS FAMOUS. BUT JOHN 3:17–21 REVEALS THE TRUTH MANY CHRISTIANS DON'T WANT TO FACE.",
-      "date": "2026-10-16T16:20:28+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0soUCDPhnNukjmJYsPraeE7rMdBBbXc6694W3HH5NDRr1asp3TVqxjh2TkE45nRzKl"
-    },
-    {
-      "id": "29291053383812356",
-      "title": "NOTHING CAN SEPARATE YOU FROM GOD’S LOVE—BUT READ THE HORRORS PAUL SURVIVED BEFORE YOU QUOTE THAT PROMISE.",
-      "date": "2026-10-16T16:12:55+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05xRT854GGtUepk7QXGnBrAPAnuFupjtfnr2abX8oQHJLx8nJhjhqaLpTfc7rzKRbl"
-    },
-    {
-      "id": "29290935803824114",
-      "title": "“WE ARE MORE THAN CONQUERORS”—BUT DID YOU KNOW PAUL SAID THAT WHILE TALKING ABOUT BEING KILLED?",
-      "date": "2026-10-16T16:03:34+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RcFHz6KtEgT5fnX9wJ8CAAd9Zc7CNk3ruZhgrd9Xe9KKVwz7aDwV92yvsEyjL27zl"
-    },
-    {
-      "id": "29290857680498593",
-      "title": "IF GOD IS FOR YOU, WHY DOES IT FEEL LIKE EVERYTHING IS AGAINST YOU?",
-      "date": "2026-10-16T15:57:22+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pFwHDCw32QTbGyGjVva6fJigmDkmobkkmKpyuCACDioNNhTovCVjEqZFdBimpkUel"
-    },
-    {
-      "id": "29290753060509055",
-      "title": "“THE WAGES OF SIN IS DEATH”—BUT WHY DO WE KEEP STOPPING BEFORE THE WORDS THAT COULD SAVE SOMEONE’S LIFE?",
-      "date": "2026-10-16T15:49:03+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pC7ZNssph8MqnSLBhqKdAjQjGkUSz78DFAukJY47rNqV8JhVvRawB6jKJhSyidmHl"
-    },
-    {
-      "id": "29290677770516584",
-      "title": "THE MAN WHO THOUGHT HIS SECRET WAS SAFE—UNTIL GOD NARROWED THE ENTIRE NATION DOWN TO HIM",
-      "date": "2026-10-16T15:43:08+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02q5DvVjqHaSQxkayK8eezGyeBGxBn9o8tuAhYA8M8tYR13HRnqnUDMQ4BVPGCoQcKl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XYUeauFWTZy3SnfcUuDpKbcYsKryHVJo89hWaxvT3ZniHSMauQebt4YsBrUDL6Z2l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-16T22:04:46Z",
-  "discovered": 9,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-10-17T00:26:56Z",
+  "discovered": 1,
+  "processed": 1,
+  "discoveredLastRun": 1,
   "pagesScanned": 1,
   "latest": {
-    "id": "29291419450442416",
-    "title": "“AS MOSES LIFTED UP THE SERPENT…” — THE TERRIFYING OLD TESTAMENT STORY JESUS HID IN PLAIN SIGHT BEFORE JOHN 3:16",
-    "date": "2026-10-16T16:41:41+00:00"
+    "id": "29296111543306540",
+    "title": "“YOUR POSTS ARE TOO LONG!” — BUT WHEN DID WE BECOME TOO BUSY TO READ ABOUT THE GOD WHO GAVE HIS LIFE FOR US?",
+    "date": "2026-10-17T00:06:31+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-16T18:48:44Z",
+  "lastImportCount": 1,
+  "lastImportAt": "2026-10-17T00:27:34Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9220,
+  "structuredMetadata": 9221,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-aa6962bdc2c0b0a08019791a012e206af361a9419de672a3c4e26e6d39a6cf92",
-  "statusGeneratedAt": "2026-10-16T22:05:03Z"
+  "contentRevision": "sha256-76d09baed08cb34820e6bead57e26b5d4909b1911c45d16309603c36d559f17b",
+  "statusGeneratedAt": "2026-10-17T00:27:35Z"
 }
