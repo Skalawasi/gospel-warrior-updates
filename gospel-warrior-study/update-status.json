@@ -1,100 +1,44 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Added 1 new public study.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-17T14:12:52Z",
-  "lastSuccess": "2026-10-17T14:12:52Z",
-  "currentTotal": 9252,
-  "totalWords": 13490232,
+  "lastCheck": "2026-10-17T17:08:50Z",
+  "lastSuccess": "2026-10-17T17:08:50Z",
+  "currentTotal": 9253,
+  "totalWords": 13495423,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 1,
   "recentAdded": [
     {
-      "id": "29304207882496906",
-      "title": "“THE OLD HAS PASSED AWAY”… SO WHY ARE YOU STILL FIGHTING THE PERSON YOU USED TO BE?",
-      "date": "2026-10-17T13:59:21+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0roG83qi7Ei5Mdm1YMUyMDGoqttVcrRi4uAw3BG9aNQ7ED4zdDGzyaSbHGsfpzUq1l"
-    },
-    {
-      "id": "29303498819234479",
-      "title": "YOU CAN BE FORGIVEN AND STILL BE LIVING LIKE THE PERSON JESUS DIED TO SET FREE",
-      "date": "2026-10-17T12:59:08+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DnJL4MjcaSQ5DmGD7PTTDERQNBT9TCLxT94x2LGn5HYiPjnC7EGw9auUHhd7vsvMl"
-    },
-    {
-      "id": "29303316465919381",
-      "title": "THE BLOOD OF JESUS CLEANSES US FROM ALL SIN… BUT HAVE YOU READ WHAT THE BIBLE SAYS RIGHT BEFORE THAT PROMISE?",
-      "date": "2026-10-17T12:42:32+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cEdXSQb9E6NF71mP4ot3AijQpBZtLkSnwbtinmCVAdVuFjL5bQChRidz2CPzxcNgl"
-    },
-    {
-      "id": "29303046029279758",
-      "title": "“IF WE SAY WE HAVE NO SIN…” — THE TERRIFYING WARNING WE KEEP SKIPPING BEFORE AND AFTER 1 JOHN 1:9",
-      "date": "2026-10-17T12:18:04+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Q6DzuxuhQHLVeamWxMjRZcy7yWQber1SNTMK1EyDySx42imEM1eEQTRa3wC5YMyTl"
-    },
-    {
-      "id": "29302931675957860",
-      "title": "“IF WE CONFESS OUR SINS…” — THE VERSE THAT HAS COMFORTED MILLIONS OF CHRISTIANS… BUT HAVE WE BEEN READING IT WRONG?",
-      "date": "2026-10-17T12:07:52+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yX95kuaGF9oU3DWv3B6cABN6DADMMxZoYMFqD9DMyJUgPD3XX98k3fNdsRN3M1T2l"
-    },
-    {
-      "id": "29302830729301288",
-      "title": "“PERFECT LOVE CASTS OUT FEAR”—BUT WHAT IF THE FEAR JOHN WAS TALKING ABOUT IS NOT THE FEAR YOU THINK?",
-      "date": "2026-10-17T11:58:31+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tmpfBCnbFqkQRup3zzSUQQpHbskSszEZLzrLWXipmrkJnXUiifjRGaGYXP3sqbaxl"
-    },
-    {
-      "id": "29302743822643312",
-      "title": "“GOD IS LOVE” — THE THREE WORDS EVERYONE LOVES TO QUOTE… UNTIL THEY DISCOVER WHAT JOHN REALLY MEANT",
-      "date": "2026-10-17T11:50:10+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08PCEzYYrnLsbADxKSh6RFwxFXG6mdtTqBLDFp7w1aF1J1SS3Af24nSYXAwaCLM3kl"
-    },
-    {
-      "id": "29302670109317350",
-      "title": "CAN A GENUINE CHRISTIAN LIVE IN UNREPENTANT SIN FOR YEARS? THE ANSWER MAY TERRIFY THOSE WHO FEEL SAFE—AND BRING HOPE TO THOSE WHO ARE BROKEN.",
-      "date": "2026-10-17T11:43:28+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02j4xCjRz11Mvaow2PfV5FwczXRWt2eB25eiK6RJoT6hGvfjghezBaRxRKjpvwcJ8rl"
-    },
-    {
-      "id": "29302527715998256",
-      "title": "IF SALVATION IS FREE, WHY DID JESUS SAY, “IF YOU LOVE ME, KEEP MY COMMANDMENTS”?",
-      "date": "2026-10-17T11:30:01+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qFAREe43L8Q5B3MdAKBZxYuDxWoF8UC9GFrFuMweybzvAm3x8ap1EqESx4WusKu3l"
+      "id": "29304625402455154",
+      "title": "THE DAY GOD TREATED THE SINLESS SON AS THOUGH HE HAD LIVED YOUR LIFE",
+      "date": "2026-10-17T14:34:24+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025mVzopKjr2BPgHeTytvRsRga91p3jEZq9birMo9Qzjcv6Y6zr5RFWhDLWr1vd58jl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-17T14:12:01Z",
-  "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-17T17:08:11Z",
+  "discovered": 1,
+  "processed": 1,
+  "discoveredLastRun": 1,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29304207882496906",
-    "title": "“THE OLD HAS PASSED AWAY”… SO WHY ARE YOU STILL FIGHTING THE PERSON YOU USED TO BE?",
-    "date": "2026-10-17T13:59:21+00:00"
+    "id": "29304625402455154",
+    "title": "THE DAY GOD TREATED THE SINLESS SON AS THOUGH HE HAD LIVED YOUR LIFE",
+    "date": "2026-10-17T14:34:24+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-17T14:12:52Z",
+  "lastImportCount": 1,
+  "lastImportAt": "2026-10-17T17:08:50Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9252,
+  "structuredMetadata": 9253,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-172fb2003057241d78720e6c6ba98608596b0d42923b24b01a509a718c9bf232",
-  "statusGeneratedAt": "2026-10-17T14:12:52Z"
+  "contentRevision": "sha256-161d2d445a30d7677359cb5f0ee375cf26b741e170651ed3097bcbae41aab6dc",
+  "statusGeneratedAt": "2026-10-17T17:08:50Z"
 }
