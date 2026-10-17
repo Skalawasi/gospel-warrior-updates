@@ -1,100 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-17T05:35:31Z",
-  "lastSuccess": "2026-10-17T05:35:31Z",
-  "currentTotal": 9230,
-  "totalWords": 13374453,
+  "lastCheck": "2026-10-17T10:39:47Z",
+  "lastSuccess": "2026-10-17T10:39:47Z",
+  "currentTotal": 9243,
+  "totalWords": 13442321,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29299137876337240",
-      "title": "HOW FAR IS “TOO FAR” BEFORE MARRIAGE? THE QUESTION CHRISTIANS KEEP ASKING—AND THE TRUTH MANY ARE AFRAID TO HEAR",
-      "date": "2026-10-17T05:31:43+00:00",
+      "id": "29301985322719162",
+      "title": "IF OBEDIENCE PROVES YOU’RE SAVED… WHY DID JESUS SAVE A THIEF WHO COULDN’T OBEY ANOTHER COMMAND?",
+      "date": "2026-10-17T10:35:14+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G1H2awiYpjLEBSh3N1eaHQU1ruKPa9WGoskZVVDwAG2YzniKHzyQFvqToekKe9USl"
+    },
+    {
+      "id": "29301606736090354",
+      "title": "HAVE WE MADE JESUS SO GENTLE THAT WE’VE FORGOTTEN HE ALSO CONFRONTED SIN?",
+      "date": "2026-10-17T09:56:15+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023fQMPztc6A5VUWJqfPAdLrwfxfJHoV4e3HiMPxFRWH5GdhJeDmgrUJ6WtwAxtcdLl"
+    },
+    {
+      "id": "29301509362766758",
+      "title": "DID JESUS ACCEPT EVERYONE—OR DID HE CALL EVERYONE TO REPENT? THE ANSWER MAY SHATTER WHAT YOU THOUGHT YOU KNEW ABOUT HIS LOVE.",
+      "date": "2026-10-17T09:46:29+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ezJ2CFUPEQ26PnrP3GUuqDdkUwdFbFoi7bGZe35LpgNmcRX1R5HPAikWjd7caseSl"
+    },
+    {
+      "id": "29301415702776124",
+      "title": "THEY INVITED YOU TO THEIR WEDDING… BUT YOUR CONSCIENCE WON’T LET YOU SAY YES.",
+      "date": "2026-10-17T09:36:16+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sdCq6p3AntuRooyMjH6bpytLkmk6HxhpNWBLNfKi4H7miin6ffZoG1KTCVw33cjfl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0f1Vkshg4seBk4TWoGbWrgFoZeNRRBU9tBgZgmfptPNUPzWhUCbLNSgk7BkWFgPNdl"
     },
     {
-      "id": "29299074449676916",
-      "title": "IS LIVING TOGETHER BEFORE MARRIAGE A SIN EVEN IF YOU NEVER HAVE SEX? THE BIBLICAL ANSWER MAY CONFRONT WHAT YOU'VE BEEN TELLING YOURSELF",
-      "date": "2026-10-17T05:24:53+00:00",
+      "id": "29301297916121236",
+      "title": "“FAMILY FIRST” SOUNDS HOLY… UNTIL YOUR FAMILY TAKES THE PLACE OF GOD",
+      "date": "2026-10-17T09:23:37+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hnoMH3RC5PEgtXSvLUQ275Lqpe9vf4hcx5DezYQWPZz4xr8XusBqew9NnvsxmiZul"
+    },
+    {
+      "id": "29301215689462792",
+      "title": "SHOULD CHRISTIAN PARENTS CUT OFF AN ADULT CHILD WHO REJECTS JESUS? THE BIBLICAL ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS IT.",
+      "date": "2026-10-17T09:15:11+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pDRXwKg4EwCeMvgcwTvruHje34ZzVATAmEZZS6bdP24oc2pZpbRNXPFHs8ZQYYwbl"
+    },
+    {
+      "id": "29301033069481054",
+      "title": "DOES “HONOR YOUR FATHER AND MOTHER” MEAN YOU MUST ENDURE THEIR ABUSE? THE BIBLICAL TRUTH SOME CHRISTIANS WERE NEVER TAUGHT",
+      "date": "2026-10-17T08:55:44+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wri2BBnNLFV6sSLoahWKtosLdGmiixt299rzrkRc2hET8jcxc1VXQQvvL6GN3nRFl"
+    },
+    {
+      "id": "29300876886163339",
+      "title": "YOU SAY YOU LOVE JESUS… BUT WHAT IF THE PERSON YOU REFUSE TO FORGIVE IS REVEALING SOMETHING ABOUT YOUR HEART?",
+      "date": "2026-10-17T08:39:08+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0n9HzKcN8TxPwHSH1K3u2NfRX7zwQLEj2E3GTDqzwC9bYTUBiweBVwJjdEr72nCn8l"
+    },
+    {
+      "id": "29300807832836911",
+      "title": "THE MOST DANGEROUS WORDS IN CHRISTIANITY MIGHT BE: “I’M SAVED, SO I’M FINE.”",
+      "date": "2026-10-17T08:32:19+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023mjjbkfXwAMRwg9GFhL1LeKWNc2aoVjS8NnEfbujT21qtpd7sQD8p21WnUoEhie5l"
+    },
+    {
+      "id": "29300636262854068",
+      "title": "WHEN THE SHEPHERD BECOMES THE WOUND: SHOULD CHRISTIANS LEAVE A CHURCH WHEN LEADERSHIP BECOMES ABUSIVE?",
+      "date": "2026-10-17T08:14:22+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Tq1JK3AAnUDXoGy8XYmRhsjk3io6qf89nsVYZcHNzV6K59dc793D5Lie9ZZbUCS4l"
+    },
+    {
+      "id": "29300437789540582",
+      "title": "WHEN HONORING YOUR PASTOR BECOMES IDOLATRY: THE DANGEROUS MOMENT A SERVANT OF GOD TAKES THE PLACE OF GOD",
+      "date": "2026-10-17T07:53:52+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0372LqfmqFdyfttobRvvJeYGa8ca14HipV68A91SCP7kCvaMngaXCcz16KaV5Ve3eWl"
+    },
+    {
+      "id": "29300211946229833",
+      "title": "THE SIN YOU KEEP SECRET MAY BE DESTROYING THE INTIMACY WITH GOD YOU KEEP PRAYING FOR",
+      "date": "2026-10-17T07:29:55+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KkvycQN7nqYohDbKgkUWoWTiN1DWMSrwmo4DjnGyBeaibgWzyqhGnkyMFijWDzjLl"
+    },
+    {
+      "id": "29299503122967382",
+      "title": "JESUS CALLED IT ADULTERY BEFORE ANYONE TOUCHED ANYONE: THE TERRIFYING TRUTH ABOUT PORNOGRAPHY THAT THE CHURCH CANNOT AFFORD TO IGNORE",
+      "date": "2026-10-17T06:11:44+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06o8XHhJrAejdMG3GDPjGHXcxYehamTEjUEHybp2ogJj3FJU2cBPC36ZNxHhXCBmel"
-    },
-    {
-      "id": "29298923403025354",
-      "title": "SHOULD CHRISTIANS DATE NON-CHRISTIANS? THE LOVE STORY THAT COULD COST YOU MORE THAN YOUR HEART",
-      "date": "2026-10-17T05:08:46+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029TLJuQTMkd4TDkyncx31BvRYBrVLPSSvDdzVWmVWxadJJgRJjTLYQcrskHhVs9PBl"
-    },
-    {
-      "id": "29298452176405810",
-      "title": "THE ARK WAS CAPTURED BY ISRAEL’S ENEMIES—BUT GOD DIDN’T NEED AN ARMY TO DEFEND HIS GLORY",
-      "date": "2026-10-17T04:17:57+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027t9GGBFYZfiZv3mF7D9pebvuHdFdZYXfj7FqdSsbar3z5RzGSvsqKBM6nPq2yiuQl"
-    },
-    {
-      "id": "29298163349768026",
-      "title": "GOD NEVER SAID WHAT BROKE YOU WAS GOOD—SO WHY DOES ROMANS 8:28 SAY ALL THINGS WORK TOGETHER FOR GOOD?",
-      "date": "2026-10-17T03:47:48+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028KUo5CMFwnTPXvP3oeXJt91RMqRnAEgLNjc5UaLwVAS5V9CF7CLcChrxQmoGrPXXl"
-    },
-    {
-      "id": "29297013766549651",
-      "title": "EVEN DEMONS BELIEVE IN JESUS—SO WHY ARE THEY STILL LOST?",
-      "date": "2026-10-17T01:47:21+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035VmnnB6vtUbLc6mC67twGae2TkpRopBfKq1EVxWVJUbY3Sx3PhYdgnSucTuR1WFXl"
-    },
-    {
-      "id": "29296932663224428",
-      "title": "THE BIBLE GETS STRANGER THE MORE YOU READ IT—AND THE STRANGEST PART IS HOW EVERY STORY EXPOSES SOMETHING ABOUT YOU",
-      "date": "2026-10-17T01:38:52+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jn8E5pn6bS2616HP72GoxVVA7jPZZBcnLBgWyhRuZQsEiE6g9rVsFXYAPdATS4oGl"
-    },
-    {
-      "id": "29296792536571774",
-      "title": "WOULD YOU STILL FOLLOW JESUS IF HE NEVER MADE YOU FINANCIALLY SUCCESSFUL?",
-      "date": "2026-10-17T01:23:58+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Z5GQGtkSenkLBWdMVQCufH3EaMRh88DDCUrC1f3ZfWnKVbFQ5jJdhQ1ziNdMyVPWl"
-    },
-    {
-      "id": "29296710539913307",
-      "title": "IF GOSPEL WARRIOR EVER BECOMES ABOUT ME, THEN WE HAVE ALREADY LOST SIGHT OF JESUS.",
-      "date": "2026-10-17T01:14:41+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08H5W7xeNxFUdVLPdhu6hCgk6N1H4a47uhQoGA3P1qESWV9pMz6sWD4uF7sFwfhZgl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02981BamWMGmcRbEMXVXohFJW9jfPtBAwPp9GLPjveGsxcg1eYWCZ5ydHsmz6RFtjxl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-17T05:34:41Z",
-  "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
+  "lastCheckStarted": "2026-10-17T10:38:48Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
   "pagesScanned": 2,
   "latest": {
-    "id": "29299137876337240",
-    "title": "HOW FAR IS “TOO FAR” BEFORE MARRIAGE? THE QUESTION CHRISTIANS KEEP ASKING—AND THE TRUTH MANY ARE AFRAID TO HEAR",
-    "date": "2026-10-17T05:31:43+00:00"
+    "id": "29301985322719162",
+    "title": "IF OBEDIENCE PROVES YOU’RE SAVED… WHY DID JESUS SAVE A THIEF WHO COULDN’T OBEY ANOTHER COMMAND?",
+    "date": "2026-10-17T10:35:14+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-17T05:35:31Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-10-17T10:39:47Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9230,
+  "structuredMetadata": 9243,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-b9a6b8316b371a8260dab7a5b951029165e476b2647348e521959b08ee0d17c3",
-  "statusGeneratedAt": "2026-10-17T05:35:31Z"
+  "contentRevision": "sha256-699eb9d9c9ed7d18ce39a44991b94fcc999efdddb30e14f5005f03ba98b78068",
+  "statusGeneratedAt": "2026-10-17T10:39:47Z"
 }
