@@ -1,65 +1,107 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 4 new public studies.",
+  "message": "Added 10 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-18T14:00:00Z",
-  "lastSuccess": "2026-10-18T14:00:00Z",
-  "currentTotal": 9278,
-  "totalWords": 13619974,
+  "lastCheck": "2026-10-18T17:21:41Z",
+  "lastSuccess": "2026-10-18T17:21:41Z",
+  "currentTotal": 9288,
+  "totalWords": 13669919,
   "subjects": 17,
-  "addedLastRun": 4,
+  "addedLastRun": 10,
   "recentAdded": [
     {
-      "id": "29317225454528482",
-      "title": "SAUL SPARED KING AGAG AND THE BEST LIVESTOCK—THEN LOOKED SAMUEL IN THE EYE AND SAID, “I HAVE OBEYED GOD.”",
-      "date": "2026-10-18T12:28:56+00:00",
+      "id": "29320148677569493",
+      "title": "DAVID DIDN’T ENTER SAUL’S PALACE WITH A SWORD—HE ENTERED WITH A HARP. AND THE REASON WILL CHANGE HOW YOU SEE YOUR WAITING SEASON.",
+      "date": "2026-10-18T16:33:34+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02y3Wan6uV3WXEG21v1Zi5nzDYWML4BqiaRjWTt99KVY6RPpXqhADkUQSfU19a6RiXl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FQL666CfkDvcGac3CxGW6w4whG3uY7TATnqRcQy3wQrDeQ4rgfBtdFna5r91tmWJl"
     },
     {
-      "id": "29315798948004466",
-      "title": "A DYING MOTHER NAMED HER BABY ICHABOD—“THE GLORY HAS DEPARTED”",
-      "date": "2026-10-18T10:10:28+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GbZuKMocu4Ufpp9fvQDfYbTR9ZHPGwiaMWiB971HUVxPXx6SGcsVCVuUeUifAyx3l"
+      "id": "29320032837581077",
+      "title": "“YOUR BODY IS A TEMPLE”—BUT PAUL WASN’T TALKING ABOUT YOUR WEIGHT, YOUR WORKOUTS, OR YOUR DIET",
+      "date": "2026-10-18T16:23:48+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Hv1riTkxbaFUBCD9Jcj8GY2Se7WC6ucwmsfAcwyQDTgF9jVNP6JE4Xz2eENCvwLLl"
     },
     {
-      "id": "29315721144678913",
-      "title": "WHAT IF THE PERSON EVERYONE GAVE UP ON IS THE ONE GOD IS RESTORING?",
-      "date": "2026-10-18T10:02:14+00:00",
+      "id": "29319744364276591",
+      "title": "“WE WALK BY FAITH, NOT BY SIGHT” — THE VERSE YOU'VE BEEN TAUGHT TO USE FOR YOUR DREAMS WAS ACTUALLY WRITTEN FOR SOMETHING FAR MORE SERIOUS",
+      "date": "2026-10-18T15:59:48+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cL6G1mxyV6CQrK7jGX1ynLwHJqCtvNPNxCUVyGw3yu3zN61KtLHD8L7Hcqa5N2yml"
+    },
+    {
+      "id": "29319486194302408",
+      "title": "PAUL SAID HE WAS CRUSHED BEYOND HIS STRENGTH. SO WHY DO WE KEEP TELLING BROKEN PEOPLE, “GOD WON’T GIVE YOU MORE THAN YOU CAN HANDLE”?",
+      "date": "2026-10-18T15:38:22+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eop3nVCPDfHjwkLpd98xYKj5odaeRUPn9WpDk8RciUAzmV5Vyy4yELrMt2eNtrbMl"
+    },
+    {
+      "id": "29319023034348724",
+      "title": "“GOD WON’T GIVE YOU MORE THAN YOU CAN HANDLE” — THE BIBLE NEVER PROMISED YOU THAT. AND BELIEVING IT MAY BE BREAKING YOU.",
+      "date": "2026-10-18T15:00:33+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MUCn1s4MX3b1XtL2ncmUtfZYFJSQV5JaAYcXzrx51ULEcCB3SNNuiNdV1ZdfeSyTl"
+    },
+    {
+      "id": "29318828254368202",
+      "title": "GOD NEVER PROMISED YOU AN ESCAPE FROM EVERY STORM—SO WHY DO WE KEEP QUOTING 1 CORINTHIANS 10:13 AS IF HE DID?",
+      "date": "2026-10-18T14:44:28+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FSx7GxKG2LKZ4aXE9NeTRNnEfuFbaDpBaTnYdKUaYUdFb6c1uLipu6kcPuTiAF6Jl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aRu4mHSNkzEcA7ZZ24o7rFYJ4xj8ENQWdj4zB5iQ49oVhXt83MqNUWoDKSrca9uGl"
     },
     {
-      "id": "29315527268031634",
-      "title": "HE CAME HOME REHEARSING AN APOLOGY… BUT HIS FATHER WAS ALREADY RUNNING.",
-      "date": "2026-10-18T09:41:51+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FAZvPLCuLbsdcwgffT3TxgC2BkG6ZXADnxRqMfDqDwCvbk4XVst3P15zFwXtDcgRl"
+      "id": "29318701181047576",
+      "title": "“WHEN I AM WEAK, THEN I AM STRONG” — THE PARADOX MOST SUCCESS CULTURE CANNOT UNDERSTAND",
+      "date": "2026-10-18T14:33:50+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02h3DzwRf9uPp1QLLRADtH5mRQrvPrRjkiDRr1qqmNNLwGX1LFyxz8iWoJqVqwcTJCl"
+    },
+    {
+      "id": "29318615794389448",
+      "title": "GOD ALLOWED SATAN TO TORMENT PAUL… BUT THE REASON WILL CHANGE HOW YOU SEE YOUR OWN SUFFERING",
+      "date": "2026-10-18T14:26:45+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tpzKF6QzauGttGK63JozGXzVprsEttqFthDtfFkUJAwQLz4TD7F9aPGrCVhgt3pFl"
+    },
+    {
+      "id": "29318474264403601",
+      "title": "666 DIDN’T BEGIN IN REVELATION: THE ANCIENT BIBLICAL WARNING MOST CHRISTIANS HAVE NEVER NOTICED",
+      "date": "2026-10-18T14:14:59+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ygRWjNNCzcJxZ2VqF4VkHn9xovHeNjFgDGdkNTtYDzQL84RQqZ21Z2REC2iWU1Trl"
+    },
+    {
+      "id": "29318411931076501",
+      "title": "WHAT WAS PAUL’S “THORN IN THE FLESH”? THE BIBLE NEVER TELLS US—AND THE REASON MAY CHANGE HOW YOU SEE YOUR OWN SUFFERING",
+      "date": "2026-10-18T14:09:45+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XiJowbiVHNrwB4QZ3YZsbAWugMGpv2oVy3pAnm6wPLRaYQoagc7icu1g3gfHsAW9l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-18T13:59:25Z",
-  "discovered": 4,
-  "processed": 4,
-  "discoveredLastRun": 4,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-18T17:20:47Z",
+  "discovered": 10,
+  "processed": 10,
+  "discoveredLastRun": 10,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29317225454528482",
-    "title": "SAUL SPARED KING AGAG AND THE BEST LIVESTOCK—THEN LOOKED SAMUEL IN THE EYE AND SAID, “I HAVE OBEYED GOD.”",
-    "date": "2026-10-18T12:28:56+00:00"
+    "id": "29320148677569493",
+    "title": "DAVID DIDN’T ENTER SAUL’S PALACE WITH A SWORD—HE ENTERED WITH A HARP. AND THE REASON WILL CHANGE HOW YOU SEE YOUR WAITING SEASON.",
+    "date": "2026-10-18T16:33:34+00:00"
   },
-  "lastImportCount": 4,
-  "lastImportAt": "2026-10-18T14:00:00Z",
+  "lastImportCount": 10,
+  "lastImportAt": "2026-10-18T17:21:41Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9278,
+  "structuredMetadata": 9288,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-6b342a30b3c177f03f63a798f852c980b32c0f517592d70e6240727a779027e1",
-  "statusGeneratedAt": "2026-10-18T14:00:00Z"
+  "contentRevision": "sha256-a68945972faea5d2c7b77ce07ef677f7440a19e529ccf16e4e93fe83836de681",
+  "statusGeneratedAt": "2026-10-18T17:21:42Z"
 }
