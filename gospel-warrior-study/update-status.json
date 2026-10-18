@@ -1,128 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 13 new public studies.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-18T04:28:25Z",
-  "lastSuccess": "2026-10-18T04:28:25Z",
-  "currentTotal": 9266,
-  "totalWords": 13557399,
+  "lastCheck": "2026-10-18T09:34:41Z",
+  "lastSuccess": "2026-10-18T09:34:41Z",
+  "currentTotal": 9274,
+  "totalWords": 13599499,
   "subjects": 17,
-  "addedLastRun": 13,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29312265158357845",
-      "title": "FAITH WITHOUT WORKS IS DEAD… BUT WHAT IF THE DEAD FAITH JAMES WARNED ABOUT IS THE VERY FAITH YOU'VE BEEN CALLING ALIVE?",
-      "date": "2026-10-18T03:41:20+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04xyidwM1de6yGACcZQJXn8TfAY3d4F4zUov2bZAd3ypgcLai3C4o9wCvhLgiDbXvl"
+      "id": "29315453788038982",
+      "title": "PETER DENIED JESUS THREE TIMES. SO WHY DID JESUS STILL WANT HIM BACK?",
+      "date": "2026-10-18T09:33:45+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zA483sDMJWR31D6nxj5y5U1U32Jf5d3JRfjJszoVYJtCnXPsveEozoUM4oQJzaSRl"
     },
     {
-      "id": "29311901938394167",
-      "title": "ONCE SAVED, ALWAYS SAVED: WHAT IF THE MOST COMFORTING WORDS YOU BELIEVE ARE HIDING THE MOST DANGEROUS LIE?",
-      "date": "2026-10-18T03:01:31+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vngCk56P24orxXFNB8fYsvR6uJPPny1vs4ur8x2tYA8qEwvmuakFTsM9RTTSBMShl"
+      "id": "29315258331391861",
+      "title": "EVERYONE REMEMBERED WHAT SHE DID… BUT JESUS SAW WHO SHE COULD BECOME.",
+      "date": "2026-10-18T09:12:47+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nWorAmgqCE5CSsnBmfjB9jxsJmenBm64g6UJJny7JUN9YntkCXZFAh8JwiycT1N9l"
     },
     {
-      "id": "29311643118420049",
-      "title": "ARE WE FUNDING THE GREAT COMMISSION… OR BUILDING EMPIRES AROUND RELIGIOUS CELEBRITIES?",
-      "date": "2026-10-18T02:35:57+00:00",
+      "id": "29314963784754649",
+      "title": "DOES GOD STILL SPEAK THROUGH DREAMS—OR ARE WE CALLING SOMETHING “GOD” THAT HE NEVER SAID?",
+      "date": "2026-10-18T08:41:19+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zLDAcj9L3nFQNN2oPGqBHWAQPva875XtuGZ8nMpMX1RAHCVKCbhvcc94PaqcWUQ7l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xgS7vyW3TsVYUYeY7ZBYM1a92fgCK5L3JFMq1kEPzUMMXoT4By79MzRpTrNLCrmCl"
     },
     {
-      "id": "29311584685092559",
-      "title": "THEY MOVED ONE STONE… AND STOLE A FAMILY’S FUTURE",
-      "date": "2026-10-18T02:29:35+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BzmWZUdJjNkKryLBA3nSFFmxA9pAD4japptZVXGHRHvXxHXXt3Nxw2kc4cqGeZoul"
-    },
-    {
-      "id": "29311478345103193",
-      "title": "DAVID SAW HER. ASKED ABOUT HER. THEN TOOK HER. AND BY THE TIME HE REALIZED WHAT HIS DESIRE HAD COST, A MAN WAS DEAD.",
-      "date": "2026-10-18T02:17:53+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02gs4tuLq1j1TKgTzV9U1nuoiEVYxFVMUMonqSeyQbT5pXLV6GNUH8gTUj82gVY1wql"
-    },
-    {
-      "id": "29311420691775625",
-      "title": "“MY POWER IS MADE PERFECT IN WEAKNESS” — CHRISTIANITY NEVER TAUGHT YOU TO PRETEND YOU’RE STRONG",
-      "date": "2026-10-18T02:11:37+00:00",
+      "id": "29314712168113144",
+      "title": "SHOULD CHRISTIANS CELEBRATE CHRISTMAS IF JESUS NEVER COMMANDED IT? THE BIBLICAL TRUTH THAT COULD CHANGE HOW YOU SEE DECEMBER 25 FOREVER",
+      "date": "2026-10-18T08:13:59+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024GMLmKggr3mYGsW5FVBD3r7TmSSUkAwDJn5c51wx6NVKvPg94j62kWrgWALbjJjFl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dTYJoxNZahjM61Ybk1dXrJjADP5aQPHxr6edFPj8jszBrXxRNueovyveJA96W88l"
     },
     {
-      "id": "29311342798450081",
-      "title": "PAUL BEGGED GOD THREE TIMES TO TAKE AWAY HIS THORN. GOD SAID NO. AND THE REASON WILL CHANGE HOW YOU SEE YOUR OWN SUFFERING.",
-      "date": "2026-10-18T02:03:05+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0painVJPNYZe4VkiA6D4Jr2VurJmQ4eBTcr1JznGzzQHt63AvECLua3yd47qpuwjgl"
+      "id": "29314271044823923",
+      "title": "ARE TONGUES AND PROPHECY STILL REAL TODAY—OR HAVE WE BEEN MISTAKING EMOTION FOR THE HOLY SPIRIT?",
+      "date": "2026-10-18T07:25:10+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02R9i8qKCrKbh9ghXxWn4PDnLeaczqdXmSNmunPKazqiftJRxnr6rDNYPXy3Lwv3xZl"
     },
     {
-      "id": "29311236935127334",
-      "title": "JESUS WAS ASKED FOR THE GREATEST COMMANDMENT. HIS ANSWER EXPOSES THE ONE THING MANY CHRISTIANS ARE STILL MISSING.",
-      "date": "2026-10-18T01:51:08+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02rDJ8Xb635nKhKiM6Y5g3WaToGzWJC3mHqjv6xBSh5z1uVNw4FkxrQ1hibMtKK2Dbl"
-    },
-    {
-      "id": "29311166251801069",
-      "title": "CAN YOU LUST AFTER YOUR OWN SPOUSE? THE ANSWER MAY EXPOSE SOMETHING YOUR WEDDING VOWS NEVER FIXED.",
-      "date": "2026-10-18T01:43:29+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0k9y7Wq1Dx1BP1DAMkvyTYKthuFij6PzyLE2Dc5iDK5jNxKg5SyPrt1NYEdwNtHngl"
-    },
-    {
-      "id": "29311102641807430",
-      "title": "NOT EVERY CLOSED DOOR IS THE DEVIL—AND NOT EVERY OPEN DOOR IS GOD.",
-      "date": "2026-10-18T01:35:56+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0udqmNVja8RMHUid5CYFG5yz5vwDUjarv8zgAAid7mTGG6ddFSSyg9hNt4UQgSZmTl"
-    },
-    {
-      "id": "29311010095150018",
-      "title": "THE SIN YOU HATE… AND THE SIN YOU KEEP DEFENDING: JESUS KNOWS THE DIFFERENCE",
-      "date": "2026-10-18T01:25:18+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mdv4K75h9FPjczkXCxoL41mae693xbPy7D7CJiZytyTCiyA3VnkNKoBkCwfwyZZsl"
-    },
-    {
-      "id": "29310895015161526",
-      "title": "“THE ARK HAS BEEN CAPTURED!” — THE FOUR WORDS THAT BROKE AN OLD PRIEST AND EXPOSED A NATION THAT HAD FORGOTTEN GOD",
-      "date": "2026-10-18T01:12:16+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ff4mRtajusumF5U1fPobvwmSkLfyagyCCHCQyvfLgKM7ueVY5V8ZtL99iPYsptsil"
-    },
-    {
-      "id": "29310769621840732",
-      "title": "THE PASTOR WEARS GOLD. THE CONGREGATION GOES HUNGRY. DOES HEAVEN CALL THAT A BLESSING?",
-      "date": "2026-10-18T00:58:20+00:00",
+      "id": "29314165491501145",
+      "title": "CAN WOMEN PREACH AND SERVE AS PASTORS? THE BIBLE'S ANSWER MAY CHALLENGE WHAT YOU'VE ALWAYS BELIEVED",
+      "date": "2026-10-18T07:13:53+00:00",
       "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uPRZwHa4K7ZPmkELWPsJa2UX6Fh9RuEemE5rX5fHZYbKyR8kUNuDcdHwWrXmhEuRl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XcJRtTCtDjHat1K4v1sLutxJpcLJoyM5pvyCmDtq1PsvCrH837Dvm3RKPbkSB7vml"
+    },
+    {
+      "id": "29314038284847199",
+      "title": "IF YOU DIED BEFORE YOU REACHED THE WATER… WOULD JESUS STILL SAVE YOU?",
+      "date": "2026-10-18T06:59:46+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02r8pRqH9H1waQVNFDfrRFTvk6uYZYXAwQPcfLMyRc9XnziqMntfR2P5GfU5ppzKpVl"
+    },
+    {
+      "id": "29313978791519815",
+      "title": "SATURDAY, SUNDAY, OR NEITHER? THE SABBATH QUESTION THAT COULD CHANGE EVERYTHING YOU THOUGHT YOU KNEW ABOUT FOLLOWING JESUS",
+      "date": "2026-10-18T06:53:22+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LF7HH9dEakTeku4evNNtYfZfhWEdFbQpkqZmhu6GwfExW5BJkoY3GeCGzhia7DNSl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-18T04:27:33Z",
-  "discovered": 13,
-  "processed": 13,
-  "discoveredLastRun": 13,
+  "lastCheckStarted": "2026-10-18T09:34:08Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
   "pagesScanned": 2,
   "latest": {
-    "id": "29312265158357845",
-    "title": "FAITH WITHOUT WORKS IS DEAD… BUT WHAT IF THE DEAD FAITH JAMES WARNED ABOUT IS THE VERY FAITH YOU'VE BEEN CALLING ALIVE?",
-    "date": "2026-10-18T03:41:20+00:00"
+    "id": "29315453788038982",
+    "title": "PETER DENIED JESUS THREE TIMES. SO WHY DID JESUS STILL WANT HIM BACK?",
+    "date": "2026-10-18T09:33:45+00:00"
   },
-  "lastImportCount": 13,
-  "lastImportAt": "2026-10-18T04:28:25Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-10-18T09:34:41Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9266,
+  "structuredMetadata": 9274,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-6294d115440e92cf85ed7991a441f27507a67eecaa80d2f97ea0099e8dd8adf6",
-  "statusGeneratedAt": "2026-10-18T04:28:25Z"
+  "contentRevision": "sha256-4db5ca9215a6cb718e7376488242945f0a70acd0ed9b00721213108d83df18e8",
+  "statusGeneratedAt": "2026-10-18T09:34:41Z"
 }
