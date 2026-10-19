@@ -1,58 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-19T06:12:30Z",
-  "lastSuccess": "2026-10-19T06:12:30Z",
-  "currentTotal": 9291,
-  "totalWords": 13683178,
+  "lastCheck": "2026-10-19T13:07:49Z",
+  "lastSuccess": "2026-10-19T13:07:49Z",
+  "currentTotal": 9304,
+  "totalWords": 13745013,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29323956040522090",
-      "title": "THE BIBLE SAYS ADULTERY IS LIKE HOLDING FIRE AGAINST YOUR CHEST—SO WHY DO PEOPLE STILL BELIEVE THEY WON’T GET BURNED?",
-      "date": "2026-10-18T22:50:54+00:00",
+      "id": "29331581659759528",
+      "title": "GOD COMMANDED AN ENTIRE NATION TO CURSE THESE SINS OUT LOUD—BUT WHAT HAPPENS WHEN THE GUILTY PERSON IS SOMEONE YOU LOVE?",
+      "date": "2026-10-19T12:15:58+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tjCepph94YnxRkFEPYSpBGyCf3mqRsqm5tXhS9SJrabxLhGYV89FSdC1PXt6FGYyl"
+    },
+    {
+      "id": "29331443393106688",
+      "title": "THE WOMAN THE LAW DID NOT TREAT THE SAME: THE DISTURBING QUESTION HIDDEN IN LEVITICUS 19",
+      "date": "2026-10-19T12:03:38+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021tdxUzbz1jRmJ5TGfZAHHP53AFvx38e8cPgtch9VYW1Yowh3s999kNh94q98ZjEcl"
+    },
+    {
+      "id": "29331311079786586",
+      "title": "SHE WAS PROMISED TO ANOTHER MAN. SHE WAS NOT FREE. THEN A MAN TOOK HER TO BED—AND GOD SAID SOMETHING THAT SHOULD MAKE US TREMBLE.",
+      "date": "2026-10-19T11:51:21+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FUUqWGAJhmvy5XbdnnVV8wgjN4G792Lf4vEbv4Lz9GUTiq5JihTefKAmA2qGzoPbl"
+    },
+    {
+      "id": "29331190483131979",
+      "title": "WHY DID GOD’S LAW MENTION SEX WITH A GRANDDAUGHTER? THE DISTURBING TRUTH BEHIND LEVITICUS 18:10",
+      "date": "2026-10-19T11:39:38+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033eRLMRUfyxhDHLLZwRimA6YmVXQea6uLAzdjBA7v4vx5xpR4MM7khgokQg9L4iz6l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KhSMfd8dbsNsQwSCitDhsANiBDh7uWUT8z2ZZhQc98cK2EEuK3NNBh39UJmRivm6l"
     },
     {
-      "id": "29323905343860493",
-      "title": "CAN A BEAUTIFUL WOMAN REALLY CAPTURE A MAN WITH HER EYELASHES? THE BIBLE SAYS YES—BUT THE REAL DANGER IS SOMETHING MOST PEOPLE NEVER SEE COMING.",
-      "date": "2026-10-18T22:45:09+00:00",
+      "id": "29330959173155110",
+      "title": "THE BIBLE FORBIDS A FATHER FROM SLEEPING WITH HIS SON’S WIFE—AND THE REASON BEHIND THIS COMMANDMENT EXPOSES A DARK REALITY ABOUT ANCIENT FAMILIES",
+      "date": "2026-10-19T11:18:45+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bu5knbmgj8rFPU7qnxTtHRwZNycZtvw2rMbz793m5wsLQCUF2tRN3VgjE2YRHeb5l"
+    },
+    {
+      "id": "29330869356497425",
+      "title": "WHY DID GOD FORBID A MAN FROM HAVING SEX WITH A WOMAN AND HER DAUGHTER? THE DISTURBING TRUTH BEHIND LEVITICUS 18:17",
+      "date": "2026-10-19T11:09:47+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0odTjfDmcUDZ5aoGYGM5jjmjzSnkx6UbTG6ZxmieRzPHuG46Wjj39faLXXVUcaCizl"
+    },
+    {
+      "id": "29330788169838877",
+      "title": "THE BIBLE SAYS A MAN CAN BE DESTROYED BY HIS OWN UNCONTROLLED DESIRE—BUT THE MOST TERRIFYING PART IS HOW IT HAPPENS WITHOUT HIM NOTICING",
+      "date": "2026-10-19T11:01:33+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09rvdN7J9EPYnepZQbacsc89ifPcW2pa5djwBjYqefEaF96J7FFzdnatr8HAJLG7Nl"
+    },
+    {
+      "id": "29330693086515052",
+      "title": "“BETTER TO LIVE ON A ROOFTOP THAN WITH SOMEONE WHO NEVER STOPS QUARRELING?” — THE BIBLE VERSE THAT EXPOSES WHAT IS SILENTLY DESTROYING OUR HOMES",
+      "date": "2026-10-19T10:51:56+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tcYKwgZ3rz6PsUPt4HQ34BM5MvTdBWXACWyP6t1bkM1nn18haHPgMiRSeC9cZzSnl"
+    },
+    {
+      "id": "29330585046525856",
+      "title": "“A QUARRELSOME WIFE AND A LEAKING ROOF”—THE BIBLE’S UNCOMFORTABLE WARNING ABOUT THE KIND OF PAIN THAT DESTROYS A HOME FROM WITHIN",
+      "date": "2026-10-19T10:41:04+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tguhFnk2zn8ZbYccEuJ8UYV93VALgY8JtwHtE826foSdE2pG1ztWw7eH3bDYDdGfl"
+    },
+    {
+      "id": "29330304996553861",
+      "title": "SHE WAS BEAUTIFUL… BUT GOD COMPARED HER TO A GOLD RING IN A PIG’S SNOUT. WHY?",
+      "date": "2026-10-19T10:13:47+00:00",
       "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TMvVgUuN4sUqm34tPRrLFsTcZJoQXeeuiT1FmpYuaaLHj3C7Ydgumue8XZJgqL4cl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XsUvy6PkwpK7pd1eECs7wpz9gUc67N6mTsszio18HcTn3dUpmxRTHGtoiTYuZmMWl"
     },
     {
-      "id": "29323854597198901",
-      "title": "“DO NOT GIVE YOUR STRENGTH TO WOMEN”—THE WARNING A MOTHER GAVE A FUTURE KING THAT MEN TODAY ARE STILL IGNORING",
-      "date": "2026-10-18T22:39:21+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0353fzbSe6XTVgUwpPVc3eYU6p1p74NWU6HVr5dDJTGCHnLdE4miEhfHh45xXcDsHvl"
+      "id": "29330240146560346",
+      "title": "“I HAVE DONE NO WRONG.” — THE TERRIFYING WORDS OF A WOMAN WHO COMMITTED ADULTERY",
+      "date": "2026-10-19T10:07:38+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dVN9FrXFCZrXPYyKxSWAYjZ2gAGdvj6nJxsUFVxCuRnYrG58tfNnoK7PWECYdjHwl"
+    },
+    {
+      "id": "29330141359903558",
+      "title": "“SHE ABANDONED THE COMPANION OF HER YOUTH”—THE MARRIAGE BETRAYAL HIDDEN IN PROVERBS 2 THAT STILL DESTROYS HOMES TODAY",
+      "date": "2026-10-19T09:57:31+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TitfBPp6K54gfwiCdTAseECx8L4TkYyjnUeLpNs4igzt1YmJcAGNXCcXCreviv41l"
+    },
+    {
+      "id": "29329912539926440",
+      "title": "WHY DOES THE BIBLE CALL A PROSTITUTE A “DEEP PIT”? THE TERRIFYING WARNING MOST PEOPLE MISS—AND THE GRACE THAT CAN STILL PULL YOU OUT",
+      "date": "2026-10-19T09:33:16+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033QYvAvGPvF5eRX3PrVzUrNzsF7TMnYRhYGtb5Xi3TqpyN4zLY3UzRvZuNGKWvhPQl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-19T06:12:12Z",
-  "discovered": 3,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-19T13:06:59Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29323956040522090",
-    "title": "THE BIBLE SAYS ADULTERY IS LIKE HOLDING FIRE AGAINST YOUR CHEST—SO WHY DO PEOPLE STILL BELIEVE THEY WON’T GET BURNED?",
-    "date": "2026-10-18T22:50:54+00:00"
+    "id": "29331581659759528",
+    "title": "GOD COMMANDED AN ENTIRE NATION TO CURSE THESE SINS OUT LOUD—BUT WHAT HAPPENS WHEN THE GUILTY PERSON IS SOMEONE YOU LOVE?",
+    "date": "2026-10-19T12:15:58+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-10-18T23:09:40Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-10-19T13:07:49Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9291,
+  "structuredMetadata": 9304,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-2134ef800434546a4f02dfe3f5071ea2f29ef3cfe871d78e865742c53495fa23",
-  "statusGeneratedAt": "2026-10-19T06:12:30Z"
+  "contentRevision": "sha256-2329eb547857319992d732636e156044e358cc112b85354bfa3aba9068494231",
+  "statusGeneratedAt": "2026-10-19T13:07:49Z"
 }
