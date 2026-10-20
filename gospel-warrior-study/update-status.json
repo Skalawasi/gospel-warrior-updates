@@ -1,58 +1,142 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 15 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-20T10:01:23Z",
-  "lastSuccess": "2026-10-20T10:01:23Z",
-  "currentTotal": 9317,
-  "totalWords": 13805492,
+  "lastCheck": "2026-10-20T15:03:50Z",
+  "lastSuccess": "2026-10-20T15:03:50Z",
+  "currentTotal": 9332,
+  "totalWords": 13881143,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 15,
   "recentAdded": [
     {
-      "id": "29338376759080018",
-      "title": "WHY DID GOD TELL MEN NOT TO HAVE SEX BEFORE HE CAME DOWN ON MOUNT SINAI? THE ANSWER IS DEEPER THAN YOU THINK.",
-      "date": "2026-10-19T22:07:23+00:00",
+      "id": "29348000858117608",
+      "title": "THE PROPHET WHO EXPOSED MEN VISITING PROSTITUTES WHILE BLAMING WOMEN FOR SEXUAL SIN",
+      "date": "2026-10-20T14:32:05+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0iEFHmyByuVj5ARu4Hy7GuYqircAQt9xpWHdFjuobv3HbpXjECNv1GyqKyER6XJoQl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KVKHcMzkPtNEzk4q4gWLZBJNVR5Vz2Ci9wBCKWkEmFkWSu5aJ96MYY6xJKxaZWv5l"
     },
     {
-      "id": "29338204539097240",
-      "title": "A MAN COULD BE UNCLEAN UNTIL EVENING AFTER A BODILY EMISSION—BUT DID GOD REALLY CALL HIM A SINNER?",
-      "date": "2026-10-19T21:48:31+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GkCMRqi1vMehRHpxeAJvvSLbkNkaZHHZAKv26ja561gRKQitGtXHuXsBzKr6rKzhl"
+      "id": "29347867078130986",
+      "title": "GOD DIVORCED HIS UNFAITHFUL WIFE… THEN SAID SOMETHING THAT SHOULD HAVE LEFT HER SPEECHLESS",
+      "date": "2026-10-20T14:20:15+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZJbEga8HgPDDtdvDkjweVDMs2ncRBA7MFKXdEoBeUR5oNwD2SxNmKCko4kfJShBhl"
     },
     {
-      "id": "29338116025772758",
-      "title": "THE BIBLE ACTUALLY COMMANDS PEOPLE TO BURY THEIR EXCREMENT—AND THE REASON SHOULD MAKE EVERY CHRISTIAN STOP AND THINK.",
-      "date": "2026-10-19T21:39:03+00:00",
+      "id": "29347770754807285",
+      "title": "GOD CALLED HIS PEOPLE AN UNFAITHFUL SPOUSE—BUT WHAT HE SAID NEXT SHOULD MAKE EVERY CHRISTIAN TREMBLE",
+      "date": "2026-10-20T14:11:43+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02j69xFNCpjpa82o9Xrojq5XSzoR7Q4v6UBuD9r8KCe12hvQZcV7wojnN9pcisMXgXl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0CwbP4ugXt9YCVtPbEYW3eWc6gHasfFkCkCK46dhYQAG5f5HMBqAgDJfusWx6bb3Fl"
+    },
+    {
+      "id": "29347677558149938",
+      "title": "THE PROPHET WHO EXPOSED THE ADULTERY OF GOD’S OWN RELIGIOUS LEADERS—AND THE TERRIFYING LIE THEY WERE LIVING",
+      "date": "2026-10-20T14:03:16+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024sxLRs1RAy2iahqM3RRuSyN4mGSTd6Eedafqw62P5sXhfJcTGLmUyPNgvu68YHLxl"
+    },
+    {
+      "id": "29347525071498520",
+      "title": "JEREMIAH SAW JUDAH’S NAKEDNESS EXPOSED—AND THE REASON GOD ALLOWED IT SHOULD TERRIFY EVERY HEART STILL HIDING SIN",
+      "date": "2026-10-20T13:49:55+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zuX9F1cntEzBhvz2j8MkkF1UK8P6bTZSnJgpnSpfZHjX93KwivbDsQMZ2a1EP1BPl"
+    },
+    {
+      "id": "29347052288212465",
+      "title": "A BARREN WOMAN WAS COMMANDED TO SING—BUT GOD WASN’T TALKING ABOUT A BABY. HE WAS REVEALING SOMETHING FAR GREATER.",
+      "date": "2026-10-20T13:07:46+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mTen6yxLpwUFXrv7TJSDksyGnHdDNRY9b4XJpnDq8QzQRukKnqxjK8SHqDSR46uCl"
+    },
+    {
+      "id": "29346905971560430",
+      "title": "ISAIAH SAW WOMEN WEARING ANKLE JEWELRY, PERFUME, VEILS, AND EXPENSIVE CLOTHES—THEN GOD ANNOUNCED A JUDGMENT THAT SHOULD TERRIFY EVERY GENERATION",
+      "date": "2026-10-20T12:54:24+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Z17oU8dQjbFyYJjHaZnDWtVPWDHHnw3SadJvdXNHHQEzBXBZL92E4ZVJi6PmmxQTl"
+    },
+    {
+      "id": "29346833448234349",
+      "title": "SHE WAS CALLED A WIFE, TREATED LIKE PROPERTY, AND LEFT TO DIE: THE DISTURBING TRUTH ABOUT WOMEN IN THE BIBLE",
+      "date": "2026-10-20T12:47:41+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ywpi1ehjQyy7N1311LtSvZ3SnFh5LfPTVvojgj2mjRx1CUmqPRPZGmPyWSutZE2Sl"
+    },
+    {
+      "id": "29346713521579675",
+      "title": "SHE WAS PROMISED TO A MAN… BUT SHE WAS STILL SOMEONE ELSE’S PROPERTY. THEN THE BIBLE RECORDS A SEXUAL OFFENSE THAT MOST CHRISTIANS HAVE NEVER HEARD PREACHED.",
+      "date": "2026-10-20T12:36:41+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oCnCYfaauWKPeE7NwzAo3AAtyCjz21wTtcfvZQosGsjVnWSWgLkbMRQxeVQVmxpdl"
+    },
+    {
+      "id": "29346576704926690",
+      "title": "DAVID ASKED FOR HOLY BREAD—BUT THE PRIEST ASKED IF HIS MEN HAD BEEN WITH WOMEN. WHY?",
+      "date": "2026-10-20T12:23:46+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021ujMBVRvybizL5ZiNksGqjFn3yfWG2E8teoupbNTx2fbMTZMBsVjdgdbC67QpwPEl"
+    },
+    {
+      "id": "29346481944936166",
+      "title": "Is Masturbation a Sin? The Bible Never Uses the Word—So What Exactly Should Christians Examine?",
+      "date": "2026-10-20T12:14:46+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027CcQrzEdhBHfDnVPCb2PbbWfc2Z4HXBK8UmUxx9C51i5YQ5cBG4pWjKfVyVZRiHQl"
+    },
+    {
+      "id": "29346405838277110",
+      "title": "CHRISTIAN WOMEN WATCH PORN TOO. SO WHY DOES THE CHURCH KEEP ACTING LIKE ONLY MEN NEED DELIVERANCE?",
+      "date": "2026-10-20T12:07:44+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tEvBankmtQvpZpAnFYrnHPpAE5hMSkJNm1EnxTT3wMtwLfxEHGDQkGbTSfpZpuZXl"
+    },
+    {
+      "id": "29346334591617568",
+      "title": "WE TAUGHT THEM HOW TO GET TO HEAVEN… BUT DID WE FORGET TO TEACH THEM HOW TO FOLLOW JESUS ON EARTH?",
+      "date": "2026-10-20T12:00:56+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ks2qkjhnXtEPMCNyNToWC5bpADWX1Ld4qdTXeKhqMZvLYiApTVvSNewdCvGD1QFyl"
+    },
+    {
+      "id": "29346217181629309",
+      "title": "GOD TOLD ABRAHAM TO KILL HIS OWN SON… BUT THE MOST TERRIFYING PART OF THE STORY IS WHAT GOD WAS ACTUALLY REVEALING",
+      "date": "2026-10-20T11:49:44+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SNhQXX4ZSYU9BXryFm6LjGha5BPcPXfbZPZUfsEJcdSKHFBj2hLrwrLujDDSZEMql"
+    },
+    {
+      "id": "29345987924985568",
+      "title": "MANY WILL SAY, “LORD, LORD”… BUT JESUS WILL SAY, “I NEVER KNEW YOU.”",
+      "date": "2026-10-20T11:27:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jjwfbwt7E8qFZByYE3URjTyW5mrwSd5J8omuSQViCbKf2WYP6DofXxfYD9uHpx5bl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-20T10:01:10Z",
-  "discovered": 3,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-20T15:02:51Z",
+  "discovered": 15,
+  "processed": 15,
+  "discoveredLastRun": 15,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29338376759080018",
-    "title": "WHY DID GOD TELL MEN NOT TO HAVE SEX BEFORE HE CAME DOWN ON MOUNT SINAI? THE ANSWER IS DEEPER THAN YOU THINK.",
-    "date": "2026-10-19T22:07:23+00:00"
+    "id": "29348000858117608",
+    "title": "THE PROPHET WHO EXPOSED MEN VISITING PROSTITUTES WHILE BLAMING WOMEN FOR SEXUAL SIN",
+    "date": "2026-10-20T14:32:05+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-10-19T23:38:05Z",
+  "lastImportCount": 15,
+  "lastImportAt": "2026-10-20T15:03:50Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9317,
+  "structuredMetadata": 9332,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-069008494baa132d93ec508d4a14dc07e49a90a1d601dfe307305a4e6a207375",
-  "statusGeneratedAt": "2026-10-20T10:01:23Z"
+  "contentRevision": "sha256-c79e2354ad3c1c2873b7bd1579b87e25a98565ec2bd17ac8e18424634fc317d3",
+  "statusGeneratedAt": "2026-10-20T15:03:50Z"
 }
