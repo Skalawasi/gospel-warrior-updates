@@ -1,142 +1,79 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 15 new public studies.",
+  "message": "Added 6 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-20T15:03:50Z",
-  "lastSuccess": "2026-10-20T15:03:50Z",
-  "currentTotal": 9332,
-  "totalWords": 13881143,
+  "lastCheck": "2026-10-20T19:14:05Z",
+  "lastSuccess": "2026-10-20T19:14:05Z",
+  "currentTotal": 9338,
+  "totalWords": 13906949,
   "subjects": 17,
-  "addedLastRun": 15,
+  "addedLastRun": 6,
   "recentAdded": [
     {
-      "id": "29348000858117608",
-      "title": "THE PROPHET WHO EXPOSED MEN VISITING PROSTITUTES WHILE BLAMING WOMEN FOR SEXUAL SIN",
-      "date": "2026-10-20T14:32:05+00:00",
+      "id": "29349175058000188",
+      "title": "“FLEE SEXUAL IMMORALITY” — THE SIN GOD NEVER TOLD YOU TO STAND STILL AND FIGHT",
+      "date": "2026-10-20T16:16:13+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KVKHcMzkPtNEzk4q4gWLZBJNVR5Vz2Ci9wBCKWkEmFkWSu5aJ96MYY6xJKxaZWv5l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0z2xVudiQKTYPciiHapsoT1G32PNxi34fnnmdjFS9EtAoqx8YWDekm7aggT8Mvkicl"
     },
     {
-      "id": "29347867078130986",
-      "title": "GOD DIVORCED HIS UNFAITHFUL WIFE… THEN SAID SOMETHING THAT SHOULD HAVE LEFT HER SPEECHLESS",
-      "date": "2026-10-20T14:20:15+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZJbEga8HgPDDtdvDkjweVDMs2ncRBA7MFKXdEoBeUR5oNwD2SxNmKCko4kfJShBhl"
+      "id": "29349093764674984",
+      "title": "PAUL EXPOSED A FORGOTTEN TRUTH ABOUT PETER: THE APOSTLES HAD THE RIGHT TO TRAVEL WITH THEIR WIVES—AND THE CHURCH NEEDS TO READ THIS AGAIN.",
+      "date": "2026-10-20T16:09:15+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hzAAo5D6Pr1tETg8ztQCT7JRwz9cgnfMBUy9qKrqVmzFP9y88Fdg63ZGeQu3pnnxl"
     },
     {
-      "id": "29347770754807285",
-      "title": "GOD CALLED HIS PEOPLE AN UNFAITHFUL SPOUSE—BUT WHAT HE SAID NEXT SHOULD MAKE EVERY CHRISTIAN TREMBLE",
-      "date": "2026-10-20T14:11:43+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0CwbP4ugXt9YCVtPbEYW3eWc6gHasfFkCkCK46dhYQAG5f5HMBqAgDJfusWx6bb3Fl"
+      "id": "29348987558018938",
+      "title": "THE BIBLE’S SHOCKING ACCUSATION AGAINST MEN WHO USED POWER TO EXPLOIT WOMEN",
+      "date": "2026-10-20T15:59:50+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0BAPbkd6cQvT3V92sFqZTFXusL2TCdwfvMvXAb8sLf324LwnYFFxtwk8xumkMx5dul"
     },
     {
-      "id": "29347677558149938",
-      "title": "THE PROPHET WHO EXPOSED THE ADULTERY OF GOD’S OWN RELIGIOUS LEADERS—AND THE TERRIFYING LIE THEY WERE LIVING",
-      "date": "2026-10-20T14:03:16+00:00",
+      "id": "29348798451371182",
+      "title": "PORNOGRAPHY PROMISES VARIETY. MARRIAGE REQUIRES FAITHFULNESS. WHICH DESIRE ARE YOU TRAINING?",
+      "date": "2026-10-20T15:43:12+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024sxLRs1RAy2iahqM3RRuSyN4mGSTd6Eedafqw62P5sXhfJcTGLmUyPNgvu68YHLxl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FjDv9dnpSRjzjdviHrxjLa2HmFS83G5dEs83Efp9vDyTY5VXtPLYzX92aVP9YLfMl"
     },
     {
-      "id": "29347525071498520",
-      "title": "JEREMIAH SAW JUDAH’S NAKEDNESS EXPOSED—AND THE REASON GOD ALLOWED IT SHOULD TERRIFY EVERY HEART STILL HIDING SIN",
-      "date": "2026-10-20T13:49:55+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zuX9F1cntEzBhvz2j8MkkF1UK8P6bTZSnJgpnSpfZHjX93KwivbDsQMZ2a1EP1BPl"
-    },
-    {
-      "id": "29347052288212465",
-      "title": "A BARREN WOMAN WAS COMMANDED TO SING—BUT GOD WASN’T TALKING ABOUT A BABY. HE WAS REVEALING SOMETHING FAR GREATER.",
-      "date": "2026-10-20T13:07:46+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mTen6yxLpwUFXrv7TJSDksyGnHdDNRY9b4XJpnDq8QzQRukKnqxjK8SHqDSR46uCl"
-    },
-    {
-      "id": "29346905971560430",
-      "title": "ISAIAH SAW WOMEN WEARING ANKLE JEWELRY, PERFUME, VEILS, AND EXPENSIVE CLOTHES—THEN GOD ANNOUNCED A JUDGMENT THAT SHOULD TERRIFY EVERY GENERATION",
-      "date": "2026-10-20T12:54:24+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Z17oU8dQjbFyYJjHaZnDWtVPWDHHnw3SadJvdXNHHQEzBXBZL92E4ZVJi6PmmxQTl"
-    },
-    {
-      "id": "29346833448234349",
-      "title": "SHE WAS CALLED A WIFE, TREATED LIKE PROPERTY, AND LEFT TO DIE: THE DISTURBING TRUTH ABOUT WOMEN IN THE BIBLE",
-      "date": "2026-10-20T12:47:41+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ywpi1ehjQyy7N1311LtSvZ3SnFh5LfPTVvojgj2mjRx1CUmqPRPZGmPyWSutZE2Sl"
-    },
-    {
-      "id": "29346713521579675",
-      "title": "SHE WAS PROMISED TO A MAN… BUT SHE WAS STILL SOMEONE ELSE’S PROPERTY. THEN THE BIBLE RECORDS A SEXUAL OFFENSE THAT MOST CHRISTIANS HAVE NEVER HEARD PREACHED.",
-      "date": "2026-10-20T12:36:41+00:00",
+      "id": "29348707361380291",
+      "title": "IF NOBODY ELSE IS INVOLVED, CAN A SEXUAL SIN REALLY HURT ANYBODY?",
+      "date": "2026-10-20T15:35:10+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oCnCYfaauWKPeE7NwzAo3AAtyCjz21wTtcfvZQosGsjVnWSWgLkbMRQxeVQVmxpdl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aadnnkCPH45q7VMq72nCbCfi78PaKYNXE4o9eKc69wGEdQNm8Fu2FYi8DQtgcZ5Al"
     },
     {
-      "id": "29346576704926690",
-      "title": "DAVID ASKED FOR HOLY BREAD—BUT THE PRIEST ASKED IF HIS MEN HAD BEEN WITH WOMEN. WHY?",
-      "date": "2026-10-20T12:23:46+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021ujMBVRvybizL5ZiNksGqjFn3yfWG2E8teoupbNTx2fbMTZMBsVjdgdbC67QpwPEl"
-    },
-    {
-      "id": "29346481944936166",
-      "title": "Is Masturbation a Sin? The Bible Never Uses the Word—So What Exactly Should Christians Examine?",
-      "date": "2026-10-20T12:14:46+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027CcQrzEdhBHfDnVPCb2PbbWfc2Z4HXBK8UmUxx9C51i5YQ5cBG4pWjKfVyVZRiHQl"
-    },
-    {
-      "id": "29346405838277110",
-      "title": "CHRISTIAN WOMEN WATCH PORN TOO. SO WHY DOES THE CHURCH KEEP ACTING LIKE ONLY MEN NEED DELIVERANCE?",
-      "date": "2026-10-20T12:07:44+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tEvBankmtQvpZpAnFYrnHPpAE5hMSkJNm1EnxTT3wMtwLfxEHGDQkGbTSfpZpuZXl"
-    },
-    {
-      "id": "29346334591617568",
-      "title": "WE TAUGHT THEM HOW TO GET TO HEAVEN… BUT DID WE FORGET TO TEACH THEM HOW TO FOLLOW JESUS ON EARTH?",
-      "date": "2026-10-20T12:00:56+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ks2qkjhnXtEPMCNyNToWC5bpADWX1Ld4qdTXeKhqMZvLYiApTVvSNewdCvGD1QFyl"
-    },
-    {
-      "id": "29346217181629309",
-      "title": "GOD TOLD ABRAHAM TO KILL HIS OWN SON… BUT THE MOST TERRIFYING PART OF THE STORY IS WHAT GOD WAS ACTUALLY REVEALING",
-      "date": "2026-10-20T11:49:44+00:00",
+      "id": "29348581761392851",
+      "title": "GOD SAW WHAT THE MEN WERE DOING—SO WHY DID HE REFUSE TO SINGLE OUT THE DAUGHTERS FOR PUNISHMENT?",
+      "date": "2026-10-20T15:24:04+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SNhQXX4ZSYU9BXryFm6LjGha5BPcPXfbZPZUfsEJcdSKHFBj2hLrwrLujDDSZEMql"
-    },
-    {
-      "id": "29345987924985568",
-      "title": "MANY WILL SAY, “LORD, LORD”… BUT JESUS WILL SAY, “I NEVER KNEW YOU.”",
-      "date": "2026-10-20T11:27:32+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jjwfbwt7E8qFZByYE3URjTyW5mrwSd5J8omuSQViCbKf2WYP6DofXxfYD9uHpx5bl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0YrGktx8mNeZHiLQN9AzKdLTXRugCAdtSqGmSnxq9ivRPvRKp621A8B5P9RtzL735l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-20T15:02:51Z",
-  "discovered": 15,
-  "processed": 15,
-  "discoveredLastRun": 15,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-20T19:13:33Z",
+  "discovered": 6,
+  "processed": 6,
+  "discoveredLastRun": 6,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29348000858117608",
-    "title": "THE PROPHET WHO EXPOSED MEN VISITING PROSTITUTES WHILE BLAMING WOMEN FOR SEXUAL SIN",
-    "date": "2026-10-20T14:32:05+00:00"
+    "id": "29349175058000188",
+    "title": "“FLEE SEXUAL IMMORALITY” — THE SIN GOD NEVER TOLD YOU TO STAND STILL AND FIGHT",
+    "date": "2026-10-20T16:16:13+00:00"
   },
-  "lastImportCount": 15,
-  "lastImportAt": "2026-10-20T15:03:50Z",
+  "lastImportCount": 6,
+  "lastImportAt": "2026-10-20T19:14:05Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9332,
+  "structuredMetadata": 9338,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-c79e2354ad3c1c2873b7bd1579b87e25a98565ec2bd17ac8e18424634fc317d3",
-  "statusGeneratedAt": "2026-10-20T15:03:50Z"
+  "contentRevision": "sha256-39957b3764c872c5be0b7e9e90f95a191431a5fa9dbc4adcd101f6d3181c4c8e",
+  "statusGeneratedAt": "2026-10-20T19:14:05Z"
 }
