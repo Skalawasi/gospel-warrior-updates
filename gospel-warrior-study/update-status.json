@@ -1,79 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-20T22:17:37Z",
-  "lastSuccess": "2026-10-20T22:17:37Z",
-  "currentTotal": 9338,
-  "totalWords": 13906949,
+  "lastCheck": "2026-10-21T01:33:25Z",
+  "lastSuccess": "2026-10-21T01:33:25Z",
+  "currentTotal": 9340,
+  "totalWords": 13916197,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29349175058000188",
-      "title": "“FLEE SEXUAL IMMORALITY” — THE SIN GOD NEVER TOLD YOU TO STAND STILL AND FIGHT",
-      "date": "2026-10-20T16:16:13+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0z2xVudiQKTYPciiHapsoT1G32PNxi34fnnmdjFS9EtAoqx8YWDekm7aggT8Mvkicl"
+      "id": "29352802064304154",
+      "title": "I DON'T WRITE TO IMPRESS PEOPLE. I WRITE BECAUSE SOMEWHERE, SOMEONE IS ONE PRAYER AWAY FROM GIVING UP.",
+      "date": "2026-10-20T22:30:47+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fL4df7H6TrLvTq44XYC8cHzLVrjNgDoL43qX8mu1jxVEeV7H6hupMvWpHS2dfNhyl"
     },
     {
-      "id": "29349093764674984",
-      "title": "PAUL EXPOSED A FORGOTTEN TRUTH ABOUT PETER: THE APOSTLES HAD THE RIGHT TO TRAVEL WITH THEIR WIVES—AND THE CHURCH NEEDS TO READ THIS AGAIN.",
-      "date": "2026-10-20T16:09:15+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hzAAo5D6Pr1tETg8ztQCT7JRwz9cgnfMBUy9qKrqVmzFP9y88Fdg63ZGeQu3pnnxl"
-    },
-    {
-      "id": "29348987558018938",
-      "title": "THE BIBLE’S SHOCKING ACCUSATION AGAINST MEN WHO USED POWER TO EXPLOIT WOMEN",
-      "date": "2026-10-20T15:59:50+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0BAPbkd6cQvT3V92sFqZTFXusL2TCdwfvMvXAb8sLf324LwnYFFxtwk8xumkMx5dul"
-    },
-    {
-      "id": "29348798451371182",
-      "title": "PORNOGRAPHY PROMISES VARIETY. MARRIAGE REQUIRES FAITHFULNESS. WHICH DESIRE ARE YOU TRAINING?",
-      "date": "2026-10-20T15:43:12+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FjDv9dnpSRjzjdviHrxjLa2HmFS83G5dEs83Efp9vDyTY5VXtPLYzX92aVP9YLfMl"
-    },
-    {
-      "id": "29348707361380291",
-      "title": "IF NOBODY ELSE IS INVOLVED, CAN A SEXUAL SIN REALLY HURT ANYBODY?",
-      "date": "2026-10-20T15:35:10+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aadnnkCPH45q7VMq72nCbCfi78PaKYNXE4o9eKc69wGEdQNm8Fu2FYi8DQtgcZ5Al"
-    },
-    {
-      "id": "29348581761392851",
-      "title": "GOD SAW WHAT THE MEN WERE DOING—SO WHY DID HE REFUSE TO SINGLE OUT THE DAUGHTERS FOR PUNISHMENT?",
-      "date": "2026-10-20T15:24:04+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0YrGktx8mNeZHiLQN9AzKdLTXRugCAdtSqGmSnxq9ivRPvRKp621A8B5P9RtzL735l"
+      "id": "29352733284311032",
+      "title": "HE HAD JUST MARRIED A WIFE—SO HE TURNED DOWN THE KINGDOM’S INVITATION. WHAT DID JESUS SEE IN THAT EXCUSE?",
+      "date": "2026-10-20T22:21:50+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qG3C3Cee7mespNCvMtn5dULEQxRnoyTbsA6mS4ykVAgFUknLHhKF8eJyRhLWcwtql"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-20T22:17:19Z",
-  "discovered": 6,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-10-21T01:32:52Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
   "pagesScanned": 1,
   "latest": {
-    "id": "29349175058000188",
-    "title": "“FLEE SEXUAL IMMORALITY” — THE SIN GOD NEVER TOLD YOU TO STAND STILL AND FIGHT",
-    "date": "2026-10-20T16:16:13+00:00"
+    "id": "29352802064304154",
+    "title": "I DON'T WRITE TO IMPRESS PEOPLE. I WRITE BECAUSE SOMEWHERE, SOMEONE IS ONE PRAYER AWAY FROM GIVING UP.",
+    "date": "2026-10-20T22:30:47+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-10-20T19:14:05Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-10-21T01:33:25Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9338,
+  "structuredMetadata": 9340,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-39957b3764c872c5be0b7e9e90f95a191431a5fa9dbc4adcd101f6d3181c4c8e",
-  "statusGeneratedAt": "2026-10-20T22:17:37Z"
+  "contentRevision": "sha256-5ea3b493b1d59711640ac272aa98cbc257a33cccac4824e767471e38043285ef",
+  "statusGeneratedAt": "2026-10-21T01:33:26Z"
 }
