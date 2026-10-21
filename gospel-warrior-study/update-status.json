@@ -1,100 +1,156 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 17 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-21T18:36:13Z",
-  "lastSuccess": "2026-10-21T18:36:13Z",
-  "currentTotal": 9349,
-  "totalWords": 13961043,
+  "lastCheck": "2026-10-21T22:19:34Z",
+  "lastSuccess": "2026-10-21T22:19:34Z",
+  "currentTotal": 9366,
+  "totalWords": 14048246,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 17,
   "recentAdded": [
     {
-      "id": "29361261723458188",
-      "title": "“DO NOT GRIEVE THE HOLY SPIRIT” — WHAT IF THE SIN YOU KEEP EXCUSING IS BREAKING THE HEART OF THE ONE WHO REFUSES TO ABANDON YOU?",
-      "date": "2026-10-21T13:42:37+00:00",
+      "id": "29366682629582764",
+      "title": "HE SENT AWAY TWO WOMEN… THEN HAD MORE CHILDREN. WHY DID GOD PRESERVE THIS FAMILY’S COMPLICATED STORY?",
+      "date": "2026-10-21T22:17:03+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02b7emp1TgT76zHY7KKjB99RE9zp2pFe8Xhj9WBZxD4UURwnFxMpdWUCws3QRdLqwQl"
+    },
+    {
+      "id": "29366625846255109",
+      "title": "ONE DAY, YOUR LAST POST WILL BE PUBLISHED… AND YOU WON’T BE HERE TO SEE WHO READS IT.",
+      "date": "2026-10-21T22:10:10+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07XqK97cEMejPqGTozxjNqNeenRX9e5MRvpJWb7Z8SnxqVxi2nMi6811gfvs9DRHel"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kBArS1c5vkTW2pHVDyZkegKx73utSzCD8hWc2oUxSsDBoj7zNPPx6qXsZkgVSpBCl"
     },
     {
-      "id": "29361203340130693",
-      "title": "HE LEFT THE NINETY-NINE FOR ONE… BUT WHAT IF THE ONE JESUS WAS TALKING ABOUT IS YOU?",
-      "date": "2026-10-21T13:37:28+00:00",
+      "id": "29366569042927456",
+      "title": "WHEN YOU STAND BEFORE GOD, WILL YOUR MILLION FOLLOWERS MATTER—OR WILL JESUS ASK WHAT YOU DID WITH THE ONE SOUL HE ENTRUSTED TO YOU?",
+      "date": "2026-10-21T22:03:36+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0AeaPgXhEos3ku3AfRoVSw54RXxv6UT2itcengsNSsaEL2CAwx6Z1NwF9DwUSVwDYl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TpF7F2iMKjPawnEW7auBNFdixFMgfrobEE4ruCW5BAC5AafURZAHSLezXpDLoBrtl"
     },
     {
-      "id": "29360731346844559",
-      "title": "THE TREE THAT LOOKED ALIVE… UNTIL JESUS CAME CLOSE ENOUGH TO SEE THE TRUTH",
-      "date": "2026-10-21T12:56:13+00:00",
+      "id": "29362854526632241",
+      "title": "“THE JOY OF THE LORD IS YOUR STRENGTH”—BUT WHY DID GOD SAY IT TO PEOPLE WHO WERE CRYING?",
+      "date": "2026-10-21T16:03:00+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024kXfGYxwj3uRgDBJwWGQoC8hHGdCUpdtVfBXvmjujASxMzqnKasasC22rect1B9kl"
+    },
+    {
+      "id": "29362780586639635",
+      "title": "GOD NEVER ASKED YOU TO BE THANKFUL FOR WHAT BROKE YOU",
+      "date": "2026-10-21T15:56:25+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UYBVi5RyFKear7gA147mBkk76AKserYX9iTTDJRb7iWYCWJ8JXnh16YA24GhUrtal"
+    },
+    {
+      "id": "29362702876647406",
+      "title": "HE HAD NO SONS… SO HE GAVE HIS DAUGHTER TO HIS EGYPTIAN SERVANT. BUT THE FAMILY LINE THAT FOLLOWED REVEALS SOMETHING WE CANNOT AFFORD TO MISS.",
+      "date": "2026-10-21T15:49:37+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vcXFKQ6qsvGxvb5n1ynpmGJFnP7WQvYP1G91SenonqmbjdnKPjYarCZ29EvsYkFxl"
+    },
+    {
+      "id": "29362634443320916",
+      "title": "MANASSEH HAD A CONCUBINE FROM ARAM—AND HER SON'S NAME WAS MACHIR. WHY DID GOD PRESERVE THIS FAMILY DETAIL IN SCRIPTURE?",
+      "date": "2026-10-21T15:43:31+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mJ3MpPvDNp4Djizxkyd8BKTdcvrSQDDT77RksaDom7ALFVE9f1QNNeqYEJzc6fvMl"
+    },
+    {
+      "id": "29362522769998750",
+      "title": "THE EGYPTIAN PRINCESS WHO ENTERED THE FAMILY OF JUDAH—AND THE ONE SENTENCE IN THE BIBLE THAT CHANGES EVERYTHING",
+      "date": "2026-10-21T15:33:33+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NmfucYKPVXURuW6KpwTAqWDMQPnMYg57c3NVFJNTxbkcJJxLjm9ygd8zyrPS8Ecdl"
+    },
+    {
+      "id": "29362413696676324",
+      "title": "THE PROVERBS 31 WOMAN IS FAMOUS—BUT THE WARNING ABOUT SEXUAL DESTRUCTION BEFORE HER STORY IS ALMOST NEVER PREACHED.",
+      "date": "2026-10-21T15:23:49+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028KvHDRCxhNitL9Gsa8J55Rfe5YqijBh4naYV6jXMeoxqf2TYy7X5bXK71hytGtb2l"
+    },
+    {
+      "id": "29362308976686796",
+      "title": "A KING’S MOTHER WARNED HIM ABOUT WOMEN, WINE, AND JUSTICE—BUT HER GREATEST FEAR WAS WHAT POWER COULD DO TO HIS SOUL",
+      "date": "2026-10-21T15:14:33+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02snAJCPE2gTvr9F8jhSyhMECR9W82swBQKjUzJ7UdsAAh2Jbb7EKegEiNa7sP1anJl"
+    },
+    {
+      "id": "29362198966697797",
+      "title": "BABYLON CALLED HERSELF A QUEEN WHO WOULD NEVER BE A WIDOW—THEN JUDGMENT CAME.",
+      "date": "2026-10-21T15:04:41+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026N1ix322QYxE9NweMtk1X3BQRRMJC7pBERNugwT5TXKJZuUNgzU9DLLpGh9ce7Fbl"
+    },
+    {
+      "id": "29362096400041387",
+      "title": "THE MOST DANGEROUS LIE ABOUT GOD’S GRACE IS THE ONE THAT MAKES YOU COMFORTABLE IN YOUR SIN",
+      "date": "2026-10-21T14:55:37+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05rdtSjtp7E2249L7iJuHPjVG3WpukK4PdeoTKzNwLPt73RjuapuKRgEbZy3JK1ZTl"
+    },
+    {
+      "id": "29361757360075291",
+      "title": "THE BIBLE WAS NEVER MEANT TO BE A HANDFUL OF VERSES THAT MAKE YOU FEEL BETTER. IT WAS WRITTEN TO CONFRONT THE LIFE YOU KEEP TRYING TO HIDE.",
+      "date": "2026-10-21T14:25:48+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WMtvo37eUkS1RYFpvfD2EWm5bx5pgnDh6ZHsbw8PZroL4Layrf7dNbD9s3yDviS8l"
+    },
+    {
+      "id": "29361664186751275",
+      "title": "IF THE GOSPEL MUST CHANGE TO MAKE PEOPLE HAPPY, IS IT STILL THE GOSPEL OF JESUS CHRIST?",
+      "date": "2026-10-21T14:17:41+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0QSecg3F4CwV2SQoB8AfgUCeTCkLvN2Djx7VHe2tcdDBSMfHLhSEUE2sAaeUWXDPPl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mrUfyoySXxmQmzM672655XRKxNP3PqXq5FkRMxPHbyHF6JxQ9NuT2JxSXBjH5zz8l"
     },
     {
-      "id": "29360618633522497",
-      "title": "“DO NOT QUENCH THE SPIRIT” — WHAT IF THE FIRE YOU’VE BEEN PRAYING FOR IS THE VERY FIRE YOU KEEP PUTTING OUT?",
-      "date": "2026-10-21T12:46:21+00:00",
+      "id": "29361569913427369",
+      "title": "ARE WE MORE AFRAID OF OFFENDING PEOPLE THAN WE ARE OF MISREPRESENTING THE GOSPEL?",
+      "date": "2026-10-21T14:09:37+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LQ4kNip6UYizy7nqqZsrh2PQmXCf8sMCfNLCS8otFcypRzrzRYUp8cjZP5N2LJszl"
+    },
+    {
+      "id": "29361413990109628",
+      "title": "SHE LIVED CLOSE TO HEROD’S PALACE—BUT HER HEART BELONGED TO JESUS.",
+      "date": "2026-10-21T13:56:06+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02CqNKec3RDNoYUbvNnCDgKHP6hxrb2Mos4JgprHVuQCkyLnBieQYtwFbsQnD59VTvl"
+    },
+    {
+      "id": "29361338943450466",
+      "title": "“PRAY WITHOUT CEASING” — DOES GOD REALLY EXPECT YOU TO PRAY EVERY SECOND? THEN WHY DO SO MANY CHRISTIANS FEEL GUILTY WHEN THEY STOP?",
+      "date": "2026-10-21T13:49:27+00:00",
       "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0266iuvRiUbY6LvgnZh4h3wyDUU5W9ErYnZCDf23z1Y4gpK7ViKVvhHWoac8kCb2mwl"
-    },
-    {
-      "id": "29360522200198807",
-      "title": "THE TERRIFYING REASON JESUS SAID THE FIRST WILL BE LAST—AND WHY SOME PEOPLE WHO THINK THEY'RE CLOSEST TO HEAVEN MAY BE THE MOST SURPRISED",
-      "date": "2026-10-21T12:37:56+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EksW4HzDEpYJPZtNn58N2ZPtB1dp8dgDoybckX5RCwDXz47sazDDkUUJJZniXaMVl"
-    },
-    {
-      "id": "29360415503542810",
-      "title": "YOU SAID, “I CAN STOP ANYTIME.” THEN WHY HAVEN’T YOU?",
-      "date": "2026-10-21T12:28:21+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0261oshJkcpehbpQqbjMaKdevSf37fkE99FWZJP18T8sBBPzhik2LLGchkJinAfv3al"
-    },
-    {
-      "id": "29360332710217756",
-      "title": "HAS “LOVE EVERYONE” BEEN TWISTED INTO “AFFIRM EVERYTHING”? JESUS NEVER ASKED YOU TO CHOOSE BETWEEN LOVE AND TRUTH.",
-      "date": "2026-10-21T12:20:56+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MMyuqi8sETyrrKc3GcV4xSdaDdTk5zec5nw2DcXh8Zqk3Rfqov6njMiDuPuvznX2l"
-    },
-    {
-      "id": "29360229766894717",
-      "title": "JESUS TURNED WATER INTO WINE AT A WEDDING—BUT THE REAL MIRACLE WAS BIGGER THAN ANYONE IN THE ROOM REALIZED",
-      "date": "2026-10-21T12:11:54+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0U4zHPcW65oNkZF3s7e32gdUwmon2qpFhkPucT4mx168dZeSxhP2X5HFvep9NtUGxl"
-    },
-    {
-      "id": "29360066516911042",
-      "title": "WOULD YOU STILL FOLLOW JESUS IF OBEYING HIM DESTROYED THE LIFE YOU WORKED SO HARD TO BUILD?",
-      "date": "2026-10-21T11:57:23+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0n5N79j2r5fyPEEb6mmD4sDzSpup225J4SASrA6sTuLHH1oH1Qi6zKKNj8MNDDTU1l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0BdNAjvA3ZXpmmWTo7HkmWhHQJ2LykdbyGR5aZzbW6aBe1NpB3iYh5iJ237os2aUQl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-21T18:35:48Z",
-  "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
+  "lastCheckStarted": "2026-10-21T22:18:32Z",
+  "discovered": 17,
+  "processed": 17,
+  "discoveredLastRun": 17,
   "pagesScanned": 2,
   "latest": {
-    "id": "29361261723458188",
-    "title": "“DO NOT GRIEVE THE HOLY SPIRIT” — WHAT IF THE SIN YOU KEEP EXCUSING IS BREAKING THE HEART OF THE ONE WHO REFUSES TO ABANDON YOU?",
-    "date": "2026-10-21T13:42:37+00:00"
+    "id": "29366682629582764",
+    "title": "HE SENT AWAY TWO WOMEN… THEN HAD MORE CHILDREN. WHY DID GOD PRESERVE THIS FAMILY’S COMPLICATED STORY?",
+    "date": "2026-10-21T22:17:03+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-21T13:45:47Z",
+  "lastImportCount": 17,
+  "lastImportAt": "2026-10-21T22:19:34Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9349,
+  "structuredMetadata": 9366,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-2da5bae23d6c1ae7d355c4a104d51d1dcf63f7cf8161d65e671025884e8f26ec",
-  "statusGeneratedAt": "2026-10-21T18:36:13Z"
+  "contentRevision": "sha256-385dd4d69ea4078eb4e3101af15c1eca863e5d003a9da7b45e26f748742115fb",
+  "statusGeneratedAt": "2026-10-21T22:19:34Z"
 }
