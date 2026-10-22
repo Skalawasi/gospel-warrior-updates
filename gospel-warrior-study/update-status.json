@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 11 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-22T18:31:22Z",
-  "lastSuccess": "2026-10-22T18:31:22Z",
+  "lastCheck": "2026-10-22T22:17:53Z",
+  "lastSuccess": "2026-10-22T22:17:53Z",
   "currentTotal": 9391,
   "totalWords": 14154455,
   "subjects": 17,
-  "addedLastRun": 11,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29377348555182838",
@@ -90,11 +90,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-22T18:30:42Z",
+  "lastCheckStarted": "2026-10-22T22:17:39Z",
   "discovered": 11,
-  "processed": 11,
-  "discoveredLastRun": 11,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29377348555182838",
     "title": "THE 40,000 HORSE STALLS THAT SHOULDN’T EXIST? THE BIBLE’S SHOCKING NUMBER THAT FORCES US TO LOOK DEEPER",
@@ -110,5 +110,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-46259aac678e7a48cfd7c7dfe8f5c483983644b1ba5be7eb467efb36c2a63c24",
-  "statusGeneratedAt": "2026-10-22T18:31:22Z"
+  "statusGeneratedAt": "2026-10-22T22:17:53Z"
 }
