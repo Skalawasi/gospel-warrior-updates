@@ -1,128 +1,114 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 13 new public studies.",
+  "message": "Added 11 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-22T13:45:56Z",
-  "lastSuccess": "2026-10-22T13:45:56Z",
-  "currentTotal": 9380,
-  "totalWords": 14109413,
+  "lastCheck": "2026-10-22T18:31:22Z",
+  "lastSuccess": "2026-10-22T18:31:22Z",
+  "currentTotal": 9391,
+  "totalWords": 14154455,
   "subjects": 17,
-  "addedLastRun": 13,
+  "addedLastRun": 11,
   "recentAdded": [
     {
-      "id": "29374562838794743",
-      "title": "WHY DID FIVE BRIDESMAIDS RUN OUT OF OIL? THE TERRIFYING NIGHT WHEN THE DOOR CLOSED",
-      "date": "2026-10-22T12:40:53+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0349N1yJgTCPuLkSForQEqxrE6hCpwhexy821YWkxjnfwBmLsqfqo1aSrgyCT1gCqel"
+      "id": "29377348555182838",
+      "title": "THE 40,000 HORSE STALLS THAT SHOULDN’T EXIST? THE BIBLE’S SHOCKING NUMBER THAT FORCES US TO LOOK DEEPER",
+      "date": "2026-10-22T16:39:05+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vgZdv8fc4uaPZdBMiGeBxtB2EgjkX2f9x9ZJctjVi6enGbLPYsLrBycgnRUSXEMYl"
     },
     {
-      "id": "29374365802147780",
-      "title": "THE MAN JESUS MADE THE HERO WAS THE MAN EVERYONE LEAST EXPECTED",
-      "date": "2026-10-22T12:22:53+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eSJFeHB2FtMZzjFLtCsQYhjyftTF6pFXLGdMGGCTM6FaxjkWaGoyXGJtB417tgAsl"
-    },
-    {
-      "id": "29374249892159371",
-      "title": "HE NEVER LEFT HIS FATHER’S HOUSE… SO WHY WAS HE THE ONE STANDING OUTSIDE?",
-      "date": "2026-10-22T12:12:27+00:00",
+      "id": "29377259751858385",
+      "title": "JOB LOST TEN CHILDREN… SO WHY DID GOD GIVE HIM ONLY TEN MORE? THE ANSWER IS MORE HEARTBREAKING THAN YOU THINK.",
+      "date": "2026-10-22T16:31:26+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HisvHCcYwcMXVnFYy1QJEUFhtWQ2Wg84S8c5M5w13yQL1cqK1reSjSaamyFxTApYl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0CjFh7iKJVuFMiezLD3vfeVUbJvazgRVM6xysaoNdMjiQkcvEcNKV3nDnP3SNYusQl"
     },
     {
-      "id": "29374176125500081",
-      "title": "WHY DID THE FATHER GIVE THE PRODIGAL SON A RING? THE ANSWER WILL BREAK THE HEART OF EVERYONE WHO HAS EVER FELT UNWORTHY OF GOD'S LOVE",
-      "date": "2026-10-22T12:05:46+00:00",
+      "id": "29377178378533189",
+      "title": "KING DAVID HAD 19 NAMED SONS—BUT ONE NAME IN HIS FAMILY TREE REVEALS A SCANDAL THAT GRACE WOULD NEVER FORGET",
+      "date": "2026-10-22T16:24:27+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xYgUtmrV9o7zPiH39hLDM6Kvhir1kfJygmXcy8gS9zb76X8gMdzPkiXnZnBA1kNtl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sb8bQPGzbTphR9dVDpQ7ARzBeLDfmQXrei6W6PP5xL23YK2PQogvsFLp2zQDq2xUl"
     },
     {
-      "id": "29374101188840908",
-      "title": "WHY DID THE FATHER RUN TOWARD THE PRODIGAL SON? — THE MOMENT MERCY OUTRAN SHAME",
-      "date": "2026-10-22T11:58:49+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ys9Uq3TAUy4bo4VoNiJ9KZRRATMv3mLYeKH8kcRYmnZP5jQB71LYH2azjX56LQcml"
+      "id": "29377097241874636",
+      "title": "JESUS ASKED PETER, “DO YOU LOVE ME MORE THAN THESE?” — BUT THE QUESTION WAS HIDING SOMETHING THAT COULD BREAK YOUR HEART",
+      "date": "2026-10-22T16:17:30+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02H9gJUMXxsmajLCS8AYE3mJi3Y1mv4iDiRyQAWwWcMX911uwP3KfCiKoQvFY5Pc84l"
     },
     {
-      "id": "29374031102181250",
-      "title": "SHE WASN’T LOOKING FOR TREASURE. SHE WAS LOOKING FOR ONE LOST COIN. AND JESUS SAID HEAVEN CELEBRATES WHEN IT IS FOUND.",
-      "date": "2026-10-22T11:52:27+00:00",
+      "id": "29376928005224893",
+      "title": "JESUS ASKED ONE QUESTION THAT EXPOSED EVERY HEART IN THE ROOM—AND HE IS STILL WAITING FOR YOUR ANSWER",
+      "date": "2026-10-22T16:03:27+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ZGJKz1TPJ9naiuMHz8UDMMYmGxghNXKEsaGF5ez6bXVYEhPJMQtjZry8W345FQatl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SsK6bYcydDgyYdsJ3JJnvScjtLeXfJCZRQC7NbhL9GP5198XoqKFHg71wwwZHacul"
     },
     {
-      "id": "29373950868855940",
-      "title": "JESUS SAW SOMETHING IN NATHANAEL THAT NO ONE ELSE COULD SEE—AND WHAT HE SAID NEXT CHANGES EVERYTHING",
-      "date": "2026-10-22T11:44:39+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ns2HNUJLyrUygmg8oGxXLo2ApoiEkb33grUfdcJRHyBBc5YY668raqBxAYv3Qhudl"
-    },
-    {
-      "id": "29373849808866046",
-      "title": "“GREAT IS YOUR FAITHFULNESS” WAS WRITTEN WHILE JERUSALEM WAS IN RUINS",
-      "date": "2026-10-22T11:34:55+00:00",
+      "id": "29376853428565684",
+      "title": "GOD SAVED THE PEOPLE JONAH WANTED DESTROYED—AND THEN ASKED HIM ONE QUESTION THAT EXPOSED HIS HEART",
+      "date": "2026-10-22T15:57:18+00:00",
       "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ePgKMsbhFAuojdDnNKSKyzNdfmzo47oG63hwh7QdzHwukbv6SnDX1vVEWik4AdrZl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08Ea1oBQNKT2mTo5Ru2HFgGn9as9oBK641hABbMwBw6GEWh7LEDm241SRDWCdRWeKl"
     },
     {
-      "id": "29373764358874591",
-      "title": "WHY DID JESUS TALK ABOUT MONEY SO OFTEN? THE ANSWER MAY EXPOSE THE ONE THING YOU HAVEN’T FULLY SURRENDERED TO GOD.",
-      "date": "2026-10-22T11:27:07+00:00",
+      "id": "29376658535251840",
+      "title": "GOD ASKED MOSES ONE QUESTION THAT COULD CHANGE THE WAY YOU SEE YOUR ENTIRE LIFE: “WHAT IS THAT IN YOUR HAND?”",
+      "date": "2026-10-22T15:40:56+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Qo5A8Qf7VQCzYMAyDeWgG8wqt2ntCHgX6ctbXpZS4xUSbHq7aYtyxRb5tNTFCyxAl"
+    },
+    {
+      "id": "29376584458592581",
+      "title": "HE GUARDED THE CLOTHES OF STEPHEN’S KILLERS… THEN JESUS CALLED HIM BY NAME",
+      "date": "2026-10-22T15:34:28+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xp5fLaAsV5qYXfQp6x9t1M7VGSBcXtJw9EZitfRFYfbsLuCv7B1EZnCbu27ZXVyul"
+    },
+    {
+      "id": "29376265575291136",
+      "title": "WHY DID STEPHEN SEE JESUS STANDING—WHEN THE BIBLE SAYS HE IS SEATED AT GOD’S RIGHT HAND?",
+      "date": "2026-10-22T15:07:02+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MtTCWizBve8CqqnXETUdEfrPuFnnfbMjAT2UjN8PnZAXUkeSPAGd1cxySNhcETS3l"
+    },
+    {
+      "id": "29375728568678170",
+      "title": "THEY SOLD WHAT THEY OWNED… BECAUSE SOMEONE ELSE WAS HUNGRY. WHAT DID THE FIRST CHRISTIANS UNDERSTAND THAT WE HAVE FORGOTTEN?",
+      "date": "2026-10-22T14:21:17+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0skR4QqKzwTVYVLoFTZNvra2Z7QQ9uvziFkzh875SK1yuHQE9NyC2U6zJVsQ8sjvsl"
+    },
+    {
+      "id": "29375478465369847",
+      "title": "HE DIDN’T STEAL THE MONEY. HE DIDN’T LOSE IT. HE BURIED IT. SO WHY DID JESUS CALL HIM WICKED?",
+      "date": "2026-10-22T13:59:40+00:00",
       "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032nJ4paFd4C9xjQjSd37zPqXXvgjSCQ3vVp7mavUKyHmPGVeVWPe67Rf5uG5H1mAMl"
-    },
-    {
-      "id": "29373646438886383",
-      "title": "YOU DIDN’T “ACCIDENTALLY” HAVE AN AFFAIR. THERE WERE A HUNDRED SMALLER YESES BEFORE THE BIG ONE.",
-      "date": "2026-10-22T11:15:44+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036ewVFTk2iGQXBoL7xpRYgZA1ycefsp32GGmdqGYxw8dsyWYjVxq9utdoqeUYWiXtl"
-    },
-    {
-      "id": "29373574935560200",
-      "title": "IS FEELING GUILTY THE SAME THING AS REPENTING? THE TERRIFYING DIFFERENCE THAT COULD CHANGE YOUR ETERNITY",
-      "date": "2026-10-22T11:08:48+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nXuLcD5BWuHXUnKgKyW6jBAf934gzrVjUHhTKeeACJ2hV62W3rafqN2j6As7hgeel"
-    },
-    {
-      "id": "29373505955567098",
-      "title": "THE BIBLE RECORDED MEN WITH MULTIPLE WIVES… SO WHY DID GOD SOMETIMES SAY NOTHING?",
-      "date": "2026-10-22T11:02:07+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LRAB7Cu72oCxcw2Gj6ATW9me8uFAwViB2RLnXi765dyCJXgi69gu48o6kT47SUWpl"
-    },
-    {
-      "id": "29373420058909021",
-      "title": "IS YOUR FAITH TRANSFORMING YOUR CHARACTER… OR JUST IMPROVING YOUR PUBLIC IMAGE?",
-      "date": "2026-10-22T10:53:44+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0juLUq5i2aj3NefuXn5ehqb1VDWDXtTjZ4TCrGsJEpSY9UdszKvDmkwrxAV49mStwl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Y2f3PqT4rTfXY1QdyAnzAsyiX9SDeYiJjMixKorVPqTNgYifSzEFEW8iDPjfmLqLl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-22T13:45:12Z",
-  "discovered": 13,
-  "processed": 13,
-  "discoveredLastRun": 13,
+  "lastCheckStarted": "2026-10-22T18:30:42Z",
+  "discovered": 11,
+  "processed": 11,
+  "discoveredLastRun": 11,
   "pagesScanned": 2,
   "latest": {
-    "id": "29374562838794743",
-    "title": "WHY DID FIVE BRIDESMAIDS RUN OUT OF OIL? THE TERRIFYING NIGHT WHEN THE DOOR CLOSED",
-    "date": "2026-10-22T12:40:53+00:00"
+    "id": "29377348555182838",
+    "title": "THE 40,000 HORSE STALLS THAT SHOULDN’T EXIST? THE BIBLE’S SHOCKING NUMBER THAT FORCES US TO LOOK DEEPER",
+    "date": "2026-10-22T16:39:05+00:00"
   },
-  "lastImportCount": 13,
-  "lastImportAt": "2026-10-22T13:45:56Z",
+  "lastImportCount": 11,
+  "lastImportAt": "2026-10-22T18:31:22Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9380,
+  "structuredMetadata": 9391,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-6b0c3b9d3f13d38b72f2c54ea8bbb9aa4d612705baab0a129a242719b98100a6",
-  "statusGeneratedAt": "2026-10-22T13:45:56Z"
+  "contentRevision": "sha256-46259aac678e7a48cfd7c7dfe8f5c483983644b1ba5be7eb467efb36c2a63c24",
+  "statusGeneratedAt": "2026-10-22T18:31:22Z"
 }
