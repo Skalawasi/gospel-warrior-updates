@@ -1,114 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-22T22:17:53Z",
-  "lastSuccess": "2026-10-22T22:17:53Z",
-  "currentTotal": 9391,
-  "totalWords": 14154455,
+  "lastCheck": "2026-10-23T01:29:14Z",
+  "lastSuccess": "2026-10-23T01:29:14Z",
+  "currentTotal": 9399,
+  "totalWords": 14189674,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29377348555182838",
-      "title": "THE 40,000 HORSE STALLS THAT SHOULDN’T EXIST? THE BIBLE’S SHOCKING NUMBER THAT FORCES US TO LOOK DEEPER",
-      "date": "2026-10-22T16:39:05+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vgZdv8fc4uaPZdBMiGeBxtB2EgjkX2f9x9ZJctjVi6enGbLPYsLrBycgnRUSXEMYl"
+      "id": "29381910521393308",
+      "title": "NAAMAN ALMOST WALKED AWAY FROM HIS MIRACLE—BECAUSE GOD REFUSED TO HEAL HIM THE WAY HE EXPECTED",
+      "date": "2026-10-23T00:10:17+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rRRTXxEtSTawmtWU4hUMPW45zQy9cngSu5GV9tXssTnzx37ZDpPDt1D9YTHHjhD9l"
     },
     {
-      "id": "29377259751858385",
-      "title": "JOB LOST TEN CHILDREN… SO WHY DID GOD GIVE HIM ONLY TEN MORE? THE ANSWER IS MORE HEARTBREAKING THAN YOU THINK.",
-      "date": "2026-10-22T16:31:26+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0CjFh7iKJVuFMiezLD3vfeVUbJvazgRVM6xysaoNdMjiQkcvEcNKV3nDnP3SNYusQl"
-    },
-    {
-      "id": "29377178378533189",
-      "title": "KING DAVID HAD 19 NAMED SONS—BUT ONE NAME IN HIS FAMILY TREE REVEALS A SCANDAL THAT GRACE WOULD NEVER FORGET",
-      "date": "2026-10-22T16:24:27+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sb8bQPGzbTphR9dVDpQ7ARzBeLDfmQXrei6W6PP5xL23YK2PQogvsFLp2zQDq2xUl"
-    },
-    {
-      "id": "29377097241874636",
-      "title": "JESUS ASKED PETER, “DO YOU LOVE ME MORE THAN THESE?” — BUT THE QUESTION WAS HIDING SOMETHING THAT COULD BREAK YOUR HEART",
-      "date": "2026-10-22T16:17:30+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02H9gJUMXxsmajLCS8AYE3mJi3Y1mv4iDiRyQAWwWcMX911uwP3KfCiKoQvFY5Pc84l"
-    },
-    {
-      "id": "29376928005224893",
-      "title": "JESUS ASKED ONE QUESTION THAT EXPOSED EVERY HEART IN THE ROOM—AND HE IS STILL WAITING FOR YOUR ANSWER",
-      "date": "2026-10-22T16:03:27+00:00",
+      "id": "29381838128067214",
+      "title": "WHY DID ELISHA FEED 100 HUNGRY MEN WITH ONLY 20 LOAVES? THE ANSWER REVEALS SOMETHING ABOUT GOD THAT MANY CHRISTIANS HAVE FORGOTTEN",
+      "date": "2026-10-23T00:02:41+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SsK6bYcydDgyYdsJ3JJnvScjtLeXfJCZRQC7NbhL9GP5198XoqKFHg71wwwZHacul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qHtwrMQ7RAyWH9RBmyiMEaA8EbEyCCKbEnwDK4q9y4hkGm58EnAZxU3C3ctCQx1ml"
     },
     {
-      "id": "29376853428565684",
-      "title": "GOD SAVED THE PEOPLE JONAH WANTED DESTROYED—AND THEN ASKED HIM ONE QUESTION THAT EXPOSED HIS HEART",
-      "date": "2026-10-22T15:57:18+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08Ea1oBQNKT2mTo5Ru2HFgGn9as9oBK641hABbMwBw6GEWh7LEDm241SRDWCdRWeKl"
+      "id": "29381762351408125",
+      "title": "THEY WERE STARVING… THEN SOMEONE POISONED THE ONLY FOOD THEY HAD.",
+      "date": "2026-10-22T23:54:27+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BhdAdqLCBEbYBiQjXM3AYvm4RKXniMeqEg4vLNJYTthjQEyLey47rMWpirvtUAy9l"
     },
     {
-      "id": "29376658535251840",
-      "title": "GOD ASKED MOSES ONE QUESTION THAT COULD CHANGE THE WAY YOU SEE YOUR ENTIRE LIFE: “WHAT IS THAT IN YOUR HAND?”",
-      "date": "2026-10-22T15:40:56+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Qo5A8Qf7VQCzYMAyDeWgG8wqt2ntCHgX6ctbXpZS4xUSbHq7aYtyxRb5tNTFCyxAl"
+      "id": "29381656414752052",
+      "title": "THE MIRACLE DIDN’T BEGIN WITH THE OIL. IT BEGAN WITH THE EMPTY JARS.",
+      "date": "2026-10-22T23:42:29+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pawbs7jXSMgaSGx74RJhzZ7mJLyZTMvPh1fyycEtuRVev3dPUM4ozi7QT4dfWfgWl"
     },
     {
-      "id": "29376584458592581",
-      "title": "HE GUARDED THE CLOTHES OF STEPHEN’S KILLERS… THEN JESUS CALLED HIM BY NAME",
-      "date": "2026-10-22T15:34:28+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xp5fLaAsV5qYXfQp6x9t1M7VGSBcXtJw9EZitfRFYfbsLuCv7B1EZnCbu27ZXVyul"
+      "id": "29381573148093712",
+      "title": "WHY DID ELISHA ASK FOR A MUSICIAN BEFORE PROPHESYING? THE DISTURBING MOMENT BEFORE GOD SPOKE",
+      "date": "2026-10-22T23:32:55+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Di9k65dikL5cs35WLzxYct1F5rRDZQegDWU4saNtkxySb8zyZAvu29yvw6YafASsl"
     },
     {
-      "id": "29376265575291136",
-      "title": "WHY DID STEPHEN SEE JESUS STANDING—WHEN THE BIBLE SAYS HE IS SEATED AT GOD’S RIGHT HAND?",
-      "date": "2026-10-22T15:07:02+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MtTCWizBve8CqqnXETUdEfrPuFnnfbMjAT2UjN8PnZAXUkeSPAGd1cxySNhcETS3l"
+      "id": "29381482181436142",
+      "title": "THE LION KILLED THE PROPHET… BUT REFUSED TO EAT HIS BODY. WHY? THE ANSWER IS MORE TERRIFYING THAN THE ATTACK ITSELF.",
+      "date": "2026-10-22T23:22:31+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LbXs1EhXo3jmiF2E9TR9jP4qxtmDwYiVDm2Xnh9AwsUjwM1APdXX6VVeYkztw7Eql"
     },
     {
-      "id": "29375728568678170",
-      "title": "THEY SOLD WHAT THEY OWNED… BECAUSE SOMEONE ELSE WAS HUNGRY. WHAT DID THE FIRST CHRISTIANS UNDERSTAND THAT WE HAVE FORGOTTEN?",
-      "date": "2026-10-22T14:21:17+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0skR4QqKzwTVYVLoFTZNvra2Z7QQ9uvziFkzh875SK1yuHQE9NyC2U6zJVsQ8sjvsl"
+      "id": "29381366844781009",
+      "title": "THE PROPHET WHO LOST HIS SIGHT—BUT SAW THE SIN A KING TRIED TO HIDE",
+      "date": "2026-10-22T23:08:46+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qNouB1phvTdMJ2Qpi9j1VfmfMEd9zaUNRhTP9WrEeRksvdMUNYYkuhBtZP7SbgCol"
     },
     {
-      "id": "29375478465369847",
-      "title": "HE DIDN’T STEAL THE MONEY. HE DIDN’T LOSE IT. HE BURIED IT. SO WHY DID JESUS CALL HIM WICKED?",
-      "date": "2026-10-22T13:59:40+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Y2f3PqT4rTfXY1QdyAnzAsyiX9SDeYiJjMixKorVPqTNgYifSzEFEW8iDPjfmLqLl"
+      "id": "29381298214787872",
+      "title": "HE TORE A BRAND-NEW CLOAK INTO TWELVE PIECES… AND WHAT GOD SAID NEXT SHOOK AN ENTIRE KINGDOM",
+      "date": "2026-10-22T23:00:58+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kssDcsyh5v9esskFn1qmLa2vPokzAExhknUWDRcTcq5Z5vW9D9XWisMECWHbWaHl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-22T22:17:39Z",
-  "discovered": 11,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-23T01:28:39Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29377348555182838",
-    "title": "THE 40,000 HORSE STALLS THAT SHOULDN’T EXIST? THE BIBLE’S SHOCKING NUMBER THAT FORCES US TO LOOK DEEPER",
-    "date": "2026-10-22T16:39:05+00:00"
+    "id": "29381910521393308",
+    "title": "NAAMAN ALMOST WALKED AWAY FROM HIS MIRACLE—BECAUSE GOD REFUSED TO HEAL HIM THE WAY HE EXPECTED",
+    "date": "2026-10-23T00:10:17+00:00"
   },
-  "lastImportCount": 11,
-  "lastImportAt": "2026-10-22T18:31:22Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-10-23T01:29:14Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9391,
+  "structuredMetadata": 9399,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-46259aac678e7a48cfd7c7dfe8f5c483983644b1ba5be7eb467efb36c2a63c24",
-  "statusGeneratedAt": "2026-10-22T22:17:53Z"
+  "contentRevision": "sha256-3efaeaadbc5961b4f736e77900e5f4667282859c3a2128c9de8b3e7e2ab2bcdc",
+  "statusGeneratedAt": "2026-10-23T01:29:15Z"
 }
