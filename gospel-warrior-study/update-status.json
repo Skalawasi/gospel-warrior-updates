@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 20 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-23T18:19:05Z",
-  "lastSuccess": "2026-10-23T18:19:05Z",
+  "lastCheck": "2026-10-23T22:07:34Z",
+  "lastSuccess": "2026-10-23T22:07:34Z",
   "currentTotal": 9445,
   "totalWords": 14392016,
   "subjects": 17,
-  "addedLastRun": 20,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29392343737016653",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-23T18:18:12Z",
+  "lastCheckStarted": "2026-10-23T22:07:16Z",
   "discovered": 20,
-  "processed": 20,
-  "discoveredLastRun": 20,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29392343737016653",
     "title": "THEY CAME TO COMFORT JOB… THEN MADE HIS SUFFERING WORSE",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-de2f4eb28ff2bbff774c85b1bc5a05174bbab31ab028bf23e1c4c499bb797f21",
-  "statusGeneratedAt": "2026-10-23T18:19:05Z"
+  "statusGeneratedAt": "2026-10-23T22:07:35Z"
 }
