@@ -1,114 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 11 new public studies.",
+  "message": "Added 20 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-23T13:23:57Z",
-  "lastSuccess": "2026-10-23T13:23:57Z",
-  "currentTotal": 9425,
-  "totalWords": 14302763,
+  "lastCheck": "2026-10-23T18:19:05Z",
+  "lastSuccess": "2026-10-23T18:19:05Z",
+  "currentTotal": 9445,
+  "totalWords": 14392016,
   "subjects": 17,
-  "addedLastRun": 11,
+  "addedLastRun": 20,
   "recentAdded": [
     {
-      "id": "29388378707413156",
-      "title": "WHEN HONORING YOUR PASTOR BECOMES BETRAYING YOUR CONSCIENCE: THE DANGEROUS LINE BETWEEN SPIRITUAL AUTHORITY AND BLIND LOYALTY",
-      "date": "2026-10-23T11:28:45+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02C8XPMH3ugeL2vZCT8akKEHZyNhRNYCTcTATQLgz2WVb5zzgm5UbtVLGcHuJLHSz5l"
+      "id": "29392343737016653",
+      "title": "THEY CAME TO COMFORT JOB… THEN MADE HIS SUFFERING WORSE",
+      "date": "2026-10-23T17:15:32+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023U3o4oWrFiX8GrZCQ35vVwWTN2wybNah2wHEBFEMusqa2a44Ych5XXvRwqNga4LNl"
     },
     {
-      "id": "29388138467437180",
-      "title": "SHOULD YOU EVER LEAVE A CHURCH BECAUSE OF ITS PASTOR? THE BIBLICAL TRUTH THAT COULD SAVE YOUR FAITH—OR EXPOSE WHAT YOU'VE BEEN AFRAID TO FACE",
-      "date": "2026-10-23T11:05:33+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Y78pzbw6Bt3hm1dDxhTKR3uc6wcF3TcdpoMzVXc5j3zG93XMQCACQmu8pfrrUrQxl"
+      "id": "29392247130359647",
+      "title": "JOB’S FRIENDS SOUNDED SO SPIRITUAL… SO WHY WAS GOD ANGRY WITH THEM?",
+      "date": "2026-10-23T17:06:35+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0F6rpKYZXvLWEYZLv3YynejpCwiQNBgVVgMjEXnieWDBnemHJwTUtchqtvN72dtWzl"
     },
     {
-      "id": "29388057704111923",
-      "title": "YOU KNOW THE SIGNS OF THE END TIMES… BUT WHAT IF JESUS IS ASKING WHY YOU IGNORED THE PERSON RIGHT IN FRONT OF YOU?",
-      "date": "2026-10-23T10:57:40+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Xun5BXSXduxcomq3CJ2rdeyU4PTGtaVgUQY33bryUWuCUTaVKiGJ3YPBrbCSnFMDl"
+      "id": "29392160327034994",
+      "title": "“I KNOW THAT MY REDEEMER LIVES” — BUT WHAT IF JOB WAS SAYING SOMETHING FAR MORE DESPERATE THAN WE EVER REALIZED?",
+      "date": "2026-10-23T16:58:50+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0owmfgFLiqQbdo9DdN7uWeADnm4qtK1cQuVKLPCtBPNb9z7kLyidgwknw2RJqhgil"
     },
     {
-      "id": "29387989567452070",
-      "title": "WHAT IF SOMEONE DIED WITHOUT EVER HEARING THE NAME OF JESUS? WOULD GOD STILL CONDEMN THEM?",
-      "date": "2026-10-23T10:51:03+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0x1ff5g3kmYvU7LYUZvhqtmeGRhpdvWZGihD2EdaaC6SwEnqG4ffrUJKjkRavSPKDl"
-    },
-    {
-      "id": "29387807454136948",
-      "title": "HE HAD 14 WIVES, 22 SONS, AND 16 DAUGHTERS… BUT THE MOST SHOCKING THING ABOUT THIS KING WASN’T HIS FAMILY.",
-      "date": "2026-10-23T10:33:08+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028K3f2GSxx4p8wxHXpPSrkLEZTCu5849EhU8t8LiGpUmywsFmDNgkgVpQbt3uqU3Sl"
-    },
-    {
-      "id": "29387720270812333",
-      "title": "WHY DID A HIGH PRIEST CHOOSE TWO WIVES FOR A YOUNG KING? THE DISTURBING TRUTH BEHIND A MARRIAGE ARRANGED IN THE HOUSE OF GOD",
-      "date": "2026-10-23T10:24:23+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04QmHKZY6oU2f3eyM7ZQ6HWP5vq2PiHXmyoJXAyMocgEFxkBrJ6vRcktCJE72kuVCl"
-    },
-    {
-      "id": "29387541287496898",
-      "title": "THEY TOOK THE KING’S WIVES. THEY TOOK HIS SONS. BUT GOD ALLOWED ONE SON TO REMAIN.",
-      "date": "2026-10-23T10:05:59+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jpe8obtpW5UPVToAxZ1H5RQSJKbNtVXwu4Vpxi6wgfyYEzcQbhUAP12up3vyWdjvl"
-    },
-    {
-      "id": "29387454160838944",
-      "title": "HE MURDERED SEVENTY BROTHERS TO BECOME KING… BUT ONE BROTHER ESCAPED TO DELIVER A WARNING THAT WOULD HAUNT HIM UNTIL DEATH",
-      "date": "2026-10-23T09:57:02+00:00",
+      "id": "29392087363708957",
+      "title": "ELISHA LOOKED INTO THE EYES OF A FUTURE KING… AND BEGAN TO WEEP. WHAT HE SAW SHOULD TERRIFY EVERY HEART THAT THINKS IT COULD NEVER FALL.",
+      "date": "2026-10-23T16:52:15+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mL1RaWnMmUTLKz8QF5a3cf4yU9WBZtiepbANsTrKcPzp89cYu5J5o7poJ7bpMUjul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dSCbmPUPKEEQECr5pyxhdbDRX6AibDT9HRU6aL1VAgoroM22gTFLK3Pta3Xkf8uSl"
     },
     {
-      "id": "29387324567518570",
-      "title": "THE MAN WHO HAD SIXTY CHILDREN… AND SENT THIRTY DAUGHTERS AWAY TO MARRY OUTSIDE HIS FAMILY",
-      "date": "2026-10-23T09:43:39+00:00",
+      "id": "29392015500382810",
+      "title": "HE LAUGHED AT GOD’S PROMISE. THE NEXT DAY, HE WATCHED IT COME TRUE—AND DIED BEFORE HE COULD ENJOY IT.",
+      "date": "2026-10-23T16:45:49+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TWLQoV7gBYa4nYWJ8uA6x1BBXCHJ5yMQzukCwkhoKoYjkgvMqfp65gZxdGDuH7hBl"
+    },
+    {
+      "id": "29391872860397074",
+      "title": "THE MOTHER WHO ATE HER OWN SON… AND THE GOD WHO WATCHED A NATION FALL APART",
+      "date": "2026-10-23T16:32:58+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kntCuzKh2FKtGdsQK6R3hnMoSdNznerYd2cQL6wbKGHBgSYjtSMv2wXzYhESfP8kl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WmGZ46onG7FY71H83GnT1xp6vuPp4bM2kysueRxyycPgYeqbXC2cXYFv3dLt3bqBl"
     },
     {
-      "id": "29386928284224865",
-      "title": "SHE WAS GIVEN LAND IN MARRIAGE—BUT ONE BOLD REQUEST CHANGED HER FUTURE",
-      "date": "2026-10-23T09:01:08+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TexkaGqi6FfBwtsscmEtJX7du4Ck97w3XpMtG8MVxCxyWuNJ9jJTD9tLd6dmWx6dl"
+      "id": "29391694790414881",
+      "title": "JEZEBEL WAS THROWN FROM A WINDOW. WHEN THEY CAME BACK FOR HER BODY, THE DOGS HAD LEFT ALMOST NOTHING.",
+      "date": "2026-10-23T16:17:30+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032trAfCpJSQW118NSxoPwsVmqHxYb8JNqwsKE5AEmgsN8kyqqpvwp7yqyhFy94ZwXl"
     },
     {
-      "id": "29386822230902137",
-      "title": "A FATHER OFFERED HIS DAUGHTER TO THE MAN WHO COULD CAPTURE A CITY. BUT THE MOST SHOCKING PART OF THIS BIBLE STORY COMES AFTER THE WEDDING.",
-      "date": "2026-10-23T08:49:26+00:00",
+      "id": "29391585773759116",
+      "title": "MOST TERRIFYING PART OF JEZEBEL’S STORY WASN’T HER DEATH.",
+      "date": "2026-10-23T16:08:41+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mgsH8TaQvb1jWXx1sW6FNVb4waCwUY5fYsFMK5QxhRByvvuvyrpBhehYYxSPhbnNl"
+    },
+    {
+      "id": "29391461913771502",
+      "title": "SHE USED HER HUSBAND’S SEAL TO MURDER AN INNOCENT MAN—BUT SHE FORGOT THAT HEAVEN HAD WITNESSED EVERYTHING.",
+      "date": "2026-10-23T15:58:21+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0D7rvE8prMGe2Xq8g9Nkf8Z96wQGJYsbemP1hraeaDCd2FEKZ46ZAYSFwPhkPPBVpl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0x2Kgp8DWBJ8Tmo6M5k9aVLXMQyCjU61hCSgKhwyKTdwcmYsc2sNNT2hXGwgafEanl"
+    },
+    {
+      "id": "29391270553790638",
+      "title": "PETER BEGGED JESUS TO LEAVE HIM—BUT WHAT JESUS DID NEXT CHANGED EVERYTHING",
+      "date": "2026-10-23T15:41:44+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PmE5DpLpRN6RppjbpV1AVAAhuvuhvBUfeMmxwXTPbGfqQedmMpxjaqbYDuuBguVAl"
+    },
+    {
+      "id": "29391105270473833",
+      "title": "JESUS CALLED THEM “SONS OF THUNDER”—BUT WHAT HE DID WITH THEIR ANGER WILL LEAVE YOU SPEECHLESS",
+      "date": "2026-10-23T15:27:43+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ex1istngtDm13Qcqt6oR3A89dWbggQv6ZEtqXHoBD8b6zTbDSTZENNUtJrHpqRvnl"
+    },
+    {
+      "id": "29391004133817280",
+      "title": "THE NIGHT HEAVEN OPENED OVER A BROKEN WORLD: Why Jesus Said Angels Would Ascend and Descend Upon Him",
+      "date": "2026-10-23T15:19:13+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kCvJtwrqthXogkMMmXjjLrysaLoc9oJ4vdD7ZqhAUfcY5jFK6LmsbyRZiMsRisJpl"
+    },
+    {
+      "id": "29390916600492700",
+      "title": "SOMETIMES THE MOST BEAUTIFUL WORSHIP COMES FROM THE MIDDLE OF RUINS",
+      "date": "2026-10-23T15:11:43+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tuUDRHUZN8zn4GpePRj2TdGhroUGgxPShDMgmGuh4gh8BThZAfCqv8WgEfQSRNs6l"
+    },
+    {
+      "id": "29390835560500804",
+      "title": "WHY DID JESUS SAY, “BLESSED ARE THE POOR IN SPIRIT”? THE ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS YOUR SOUL",
+      "date": "2026-10-23T15:04:37+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02X7gzAn3US3ENsw3zTknZFivEKypDMFaUhAi2HpRdLH9m6TVvqPFj1BUjyY51ciy6l"
+    },
+    {
+      "id": "29390750877175939",
+      "title": "YOU LOVE JESUS… SO WHY DO YOU KEEP GOING BACK TO MASTURBATION?",
+      "date": "2026-10-23T14:57:27+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FcEdPc3eP335s9wigUtNVzP9KabuSTuXyLrxumB9P8dH44sViUHJ6nS6DWaXPjGLl"
+    },
+    {
+      "id": "29390599203857773",
+      "title": "WHY DOES THE BIBLE CALL SEX “ONE FLESH” WHEN OUR CULTURE CALLS IT “JUST SEX”?",
+      "date": "2026-10-23T14:44:30+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MWHMoamwU7vRbmvtVRSCmdJc3W9iJpZyibjn9jJR2V2iGcoVNqGYVq1ByBBxp7myl"
+    },
+    {
+      "id": "29390468500537510",
+      "title": "CAN YOU LOVE TWO PEOPLE AT ONCE? MAYBE. BUT THAT DOESN’T MEAN YOU’RE FREE TO BETRAY ONE OF THEM.",
+      "date": "2026-10-23T14:33:31+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aPPZ1GZGHKY6tEGZ54wXWQvGNvjrivNZRzGPg1uMXM3djGKs4bMrxmxTm55fR8Msl"
+    },
+    {
+      "id": "29390086783909015",
+      "title": "THE PERSON YOU MARRIED STILL SLEEPS BESIDE YOU… BUT NO LONGER BELIEVES IN THE GOD WHO BROUGHT YOU TOGETHER",
+      "date": "2026-10-23T14:01:51+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0csDgABYSwvvUJnw2TSX2cSZpwG5g77Jdo9dg6NhajsFHaq9997Xr6jxAdqpf2hwzl"
+    },
+    {
+      "id": "29389973330587027",
+      "title": "THE QUEEN MOTHER WHO LOST HER THRONE BECAUSE SHE REFUSED TO LET GO OF HER IDOL",
+      "date": "2026-10-23T13:52:10+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xD8miBwC65hXJxv3dQ4Eu33JDeheMVpoWTa5gmUoZqPXCiosSBtJpc7gJbyHMfzAl"
+    },
+    {
+      "id": "29389875547263472",
+      "title": "THE CHURCH THAT SILENCED THE WOUNDED TO PROTECT THE ANOINTED",
+      "date": "2026-10-23T13:43:29+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XYNbb39oX1hHj2xR13QZ59Z5iP1FynzAJoqPkeF5f5d6pp4m1qpNuc5ag7V8gbrUl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-23T13:23:00Z",
-  "discovered": 11,
-  "processed": 11,
-  "discoveredLastRun": 11,
+  "lastCheckStarted": "2026-10-23T18:18:12Z",
+  "discovered": 20,
+  "processed": 20,
+  "discoveredLastRun": 20,
   "pagesScanned": 2,
   "latest": {
-    "id": "29388378707413156",
-    "title": "WHEN HONORING YOUR PASTOR BECOMES BETRAYING YOUR CONSCIENCE: THE DANGEROUS LINE BETWEEN SPIRITUAL AUTHORITY AND BLIND LOYALTY",
-    "date": "2026-10-23T11:28:45+00:00"
+    "id": "29392343737016653",
+    "title": "THEY CAME TO COMFORT JOB… THEN MADE HIS SUFFERING WORSE",
+    "date": "2026-10-23T17:15:32+00:00"
   },
-  "lastImportCount": 11,
-  "lastImportAt": "2026-10-23T13:23:57Z",
+  "lastImportCount": 20,
+  "lastImportAt": "2026-10-23T18:19:05Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9425,
+  "structuredMetadata": 9445,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-db1ba70471d39c54ecfe7c0b25a2c999e5856de8d6d815c92f919e10139b2042",
-  "statusGeneratedAt": "2026-10-23T13:23:57Z"
+  "contentRevision": "sha256-de2f4eb28ff2bbff774c85b1bc5a05174bbab31ab028bf23e1c4c499bb797f21",
+  "statusGeneratedAt": "2026-10-23T18:19:05Z"
 }
