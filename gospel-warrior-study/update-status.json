@@ -1,93 +1,142 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 15 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-23T01:29:14Z",
-  "lastSuccess": "2026-10-23T01:29:14Z",
-  "currentTotal": 9399,
-  "totalWords": 14189674,
+  "lastCheck": "2026-10-23T07:28:29Z",
+  "lastSuccess": "2026-10-23T07:28:29Z",
+  "currentTotal": 9414,
+  "totalWords": 14253511,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 15,
   "recentAdded": [
     {
-      "id": "29381910521393308",
-      "title": "NAAMAN ALMOST WALKED AWAY FROM HIS MIRACLE—BECAUSE GOD REFUSED TO HEAL HIM THE WAY HE EXPECTED",
-      "date": "2026-10-23T00:10:17+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rRRTXxEtSTawmtWU4hUMPW45zQy9cngSu5GV9tXssTnzx37ZDpPDt1D9YTHHjhD9l"
+      "id": "29384971044420589",
+      "title": "AARON MARRIED A WOMAN MOST CHRISTIANS HAVE NEVER HEARD OF—AND HER BROTHER WOULD HELP LEAD AN ENTIRE NATION",
+      "date": "2026-10-23T05:25:47+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021HUUPun4GzvQKmmqg8MMLHdYcw734NUTw6JfQJ8ho4NsfAVdqmRaPjZCX3WgXw5Xl"
     },
     {
-      "id": "29381838128067214",
-      "title": "WHY DID ELISHA FEED 100 HUNGRY MEN WITH ONLY 20 LOAVES? THE ANSWER REVEALS SOMETHING ABOUT GOD THAT MANY CHRISTIANS HAVE FORGOTTEN",
-      "date": "2026-10-23T00:02:41+00:00",
+      "id": "29384843637766663",
+      "title": "WHY DID GOD FORBID A MAN FROM MARRYING HIS OWN AUNT? THE DISTURBING FAMILY SECRET BEHIND LEVITICUS 18",
+      "date": "2026-10-23T05:12:06+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033SdPcwockj1bNF9YFpEttgwpLKaH1E9E52hQ12rmsTBCjmYJGwUZFa1xFBfucVVql"
+    },
+    {
+      "id": "29384644714453222",
+      "title": "A MAN MARRIED HIS OWN SISTER—AND GOD STILL CHOSE THEIR SON TO LEAD ISRAEL?",
+      "date": "2026-10-23T04:51:39+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024WmbuV9YRj8XzF5yBNuVhvqZe6X3YKEVGEywshCt5qHbAPaBc17rwGx1D5QVX83ql"
+    },
+    {
+      "id": "29384535847797442",
+      "title": "THE PROPHETS CONDEMNED SEXUAL SIN—BUT WHAT THEY SAID ABOUT GREEDY, EXPLOITATIVE, AND HYPOCRITICAL BELIEVERS SHOULD TERRIFY THE CHURCH",
+      "date": "2026-10-23T04:40:03+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dXfG33vv3yXmUgs7evV7x7ghTp3UzYEHmMe75oNRLrDfmY6YVRrB5nrsgHjwZ47Ql"
+    },
+    {
+      "id": "29384407044476989",
+      "title": "THE BIBLE’S MOST UNCOMFORTABLE SEXUAL LAWS REQUIRE CONTEXT—NOT EMBARRASSMENT, NOT EXCUSES.",
+      "date": "2026-10-23T04:26:33+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NTsNkHPxjerTtXHJgDX7cUnkVA8ekGP2xeQGjbkLiUKmoB1jZzSwxWxcWcTBoeoEl"
+    },
+    {
+      "id": "29384273811156979",
+      "title": "THE BIBLE NAMES WOMEN WHO WERE CONCUBINES—BUT NEVER TELLS US IF THEY HAD A CHOICE. AND THAT SILENCE SHOULD BREAK OUR HEARTS.",
+      "date": "2026-10-23T04:12:40+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eSWwqvKfx5LXGm63AKGZemkRvQ4VwLyo2uE8LxRF6oZZK3PL8oKvhB5NVZs7qVepl"
+    },
+    {
+      "id": "29384023474515346",
+      "title": "GOD DIDN’T REBUKE ELIJAH FOR WANTING TO DIE. HE SENT AN ANGEL TO TOUCH HIM AND TELL HIM TO EAT.",
+      "date": "2026-10-23T03:46:34+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid099eRqgCqWKgnZBLH6dAzaKMrPKSmLvR4Mxd1F3r7dQGzrxX4v7gqtLiRnFX4hTU7l"
+    },
+    {
+      "id": "29383865087864518",
+      "title": "JESUS CALLED HIM AN ISRAELITE WITHOUT DECEIT—BUT WHAT HAPPENED NEXT REVEALS A SECRET HIDDEN IN JACOB’S STORY",
+      "date": "2026-10-23T03:30:28+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qHtwrMQ7RAyWH9RBmyiMEaA8EbEyCCKbEnwDK4q9y4hkGm58EnAZxU3C3ctCQx1ml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vrcU3Ee8kTjNBAYcNScbgQadjgQhr68rT3nbCnGPBQJXcAbFaNXAGnC4f3mE8sL7l"
     },
     {
-      "id": "29381762351408125",
-      "title": "THEY WERE STARVING… THEN SOMEONE POISONED THE ONLY FOOD THEY HAD.",
-      "date": "2026-10-22T23:54:27+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BhdAdqLCBEbYBiQjXM3AYvm4RKXniMeqEg4vLNJYTthjQEyLey47rMWpirvtUAy9l"
+      "id": "29383727921211568",
+      "title": "THE KING WHISPERED HIS WAR PLANS BEHIND CLOSED DOORS… BUT SOMEONE WHO WASN’T THERE HEARD EVERYTHING.",
+      "date": "2026-10-23T03:16:38+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KgTWRxoE3D9c5WEy3ZmXuE46nMyFjYdGEpUZ3L1QwddGJTDLKX7iwcymymrnG66cl"
     },
     {
-      "id": "29381656414752052",
-      "title": "THE MIRACLE DIDN’T BEGIN WITH THE OIL. IT BEGAN WITH THE EMPTY JARS.",
-      "date": "2026-10-22T23:42:29+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pawbs7jXSMgaSGx74RJhzZ7mJLyZTMvPh1fyycEtuRVev3dPUM4ozi7QT4dfWfgWl"
+      "id": "29383639267887100",
+      "title": "CAN A MARRIAGE SURVIVE ADULTERY? YES. BUT SOMETIMES THE MOST DANGEROUS LIE IS “LET’S JUST FORGET IT EVER HAPPENED.”",
+      "date": "2026-10-23T03:07:55+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0QAAEB9CPYNgEeBGnfQf6HDMoVvHP65KRxPrGWN9ZPMxEbXZyx5QMh2ebsbqyKM2Ml"
     },
     {
-      "id": "29381573148093712",
-      "title": "WHY DID ELISHA ASK FOR A MUSICIAN BEFORE PROPHESYING? THE DISTURBING MOMENT BEFORE GOD SPOKE",
-      "date": "2026-10-22T23:32:55+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Di9k65dikL5cs35WLzxYct1F5rRDZQegDWU4saNtkxySb8zyZAvu29yvw6YafASsl"
+      "id": "29383418554575838",
+      "title": "The Affair Began With “We’re Just Friends.”",
+      "date": "2026-10-23T02:45:40+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XJijqFGiCUrGhRvgucSjYne2ApbMXuYk8CEoMaDEczaA9wsiSKadrKgAppp8BjM5l"
     },
     {
-      "id": "29381482181436142",
-      "title": "THE LION KILLED THE PROPHET… BUT REFUSED TO EAT HIS BODY. WHY? THE ANSWER IS MORE TERRIFYING THAN THE ATTACK ITSELF.",
-      "date": "2026-10-22T23:22:31+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LbXs1EhXo3jmiF2E9TR9jP4qxtmDwYiVDm2Xnh9AwsUjwM1APdXX6VVeYkztw7Eql"
+      "id": "29383213114596382",
+      "title": "They Never Had Sex. So Was It Really an Affair?",
+      "date": "2026-10-23T02:24:54+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08dirx9Qb8hGkN5mH3K7jyM5KQYhe3smS3Ka5neGmp6Vdp6MEcZo4Jk3DHYV2NAH2l"
     },
     {
-      "id": "29381366844781009",
-      "title": "THE PROPHET WHO LOST HIS SIGHT—BUT SAW THE SIN A KING TRIED TO HIDE",
-      "date": "2026-10-22T23:08:46+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qNouB1phvTdMJ2Qpi9j1VfmfMEd9zaUNRhTP9WrEeRksvdMUNYYkuhBtZP7SbgCol"
+      "id": "29383113727939654",
+      "title": "IF GOD IS LOVE, WHY DOES THE BIBLE SPEAK ABOUT HELL?",
+      "date": "2026-10-23T02:14:51+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EQtRJunksM62icGdNxBaT94n4uiBvWj5eoAjvbCoUBKMZbfnKp3Pk9VDLPNP763nl"
     },
     {
-      "id": "29381298214787872",
-      "title": "HE TORE A BRAND-NEW CLOAK INTO TWELVE PIECES… AND WHAT GOD SAID NEXT SHOOK AN ENTIRE KINGDOM",
-      "date": "2026-10-22T23:00:58+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kssDcsyh5v9esskFn1qmLa2vPokzAExhknUWDRcTcq5Z5vW9D9XWisMECWHbWaHl"
+      "id": "29382818351302525",
+      "title": "YOU CAN BELIEVE IN GOD, LIVE A GOOD LIFE… AND STILL HEAR JESUS SAY, “I NEVER KNEW YOU.”",
+      "date": "2026-10-23T01:45:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DKSFuAHhUzYnRjtgoEDs7o6wAEiqygiAEySKUkbM1ySQyuUtt1u3uG6uJ68Y3z77l"
+    },
+    {
+      "id": "29382651894652504",
+      "title": "WHEN DID BEING A CHRISTIAN BECOME MORE ABOUT WINNING ARGUMENTS THAN LOVING PEOPLE?",
+      "date": "2026-10-23T01:28:53+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nytu9gLeJrpwvWySGUtUkN6LFhNkLKvxUpCgnfTvir6R6Ny2BB3G4tDnF3UDkmSDl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-23T01:28:39Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
+  "lastCheckStarted": "2026-10-23T07:27:44Z",
+  "discovered": 15,
+  "processed": 15,
+  "discoveredLastRun": 15,
   "pagesScanned": 2,
   "latest": {
-    "id": "29381910521393308",
-    "title": "NAAMAN ALMOST WALKED AWAY FROM HIS MIRACLE—BECAUSE GOD REFUSED TO HEAL HIM THE WAY HE EXPECTED",
-    "date": "2026-10-23T00:10:17+00:00"
+    "id": "29384971044420589",
+    "title": "AARON MARRIED A WOMAN MOST CHRISTIANS HAVE NEVER HEARD OF—AND HER BROTHER WOULD HELP LEAD AN ENTIRE NATION",
+    "date": "2026-10-23T05:25:47+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-10-23T01:29:14Z",
+  "lastImportCount": 15,
+  "lastImportAt": "2026-10-23T07:28:29Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9399,
+  "structuredMetadata": 9414,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3efaeaadbc5961b4f736e77900e5f4667282859c3a2128c9de8b3e7e2ab2bcdc",
-  "statusGeneratedAt": "2026-10-23T01:29:15Z"
+  "contentRevision": "sha256-cc2b67e84b219bbd30818fbd5bc0e4e49ed1be773ec0c50e40353aae2aff07ab",
+  "statusGeneratedAt": "2026-10-23T07:28:29Z"
 }
