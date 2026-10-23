@@ -1,142 +1,114 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 15 new public studies.",
+  "message": "Added 11 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-23T07:28:29Z",
-  "lastSuccess": "2026-10-23T07:28:29Z",
-  "currentTotal": 9414,
-  "totalWords": 14253511,
+  "lastCheck": "2026-10-23T13:23:57Z",
+  "lastSuccess": "2026-10-23T13:23:57Z",
+  "currentTotal": 9425,
+  "totalWords": 14302763,
   "subjects": 17,
-  "addedLastRun": 15,
+  "addedLastRun": 11,
   "recentAdded": [
     {
-      "id": "29384971044420589",
-      "title": "AARON MARRIED A WOMAN MOST CHRISTIANS HAVE NEVER HEARD OF—AND HER BROTHER WOULD HELP LEAD AN ENTIRE NATION",
-      "date": "2026-10-23T05:25:47+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021HUUPun4GzvQKmmqg8MMLHdYcw734NUTw6JfQJ8ho4NsfAVdqmRaPjZCX3WgXw5Xl"
+      "id": "29388378707413156",
+      "title": "WHEN HONORING YOUR PASTOR BECOMES BETRAYING YOUR CONSCIENCE: THE DANGEROUS LINE BETWEEN SPIRITUAL AUTHORITY AND BLIND LOYALTY",
+      "date": "2026-10-23T11:28:45+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02C8XPMH3ugeL2vZCT8akKEHZyNhRNYCTcTATQLgz2WVb5zzgm5UbtVLGcHuJLHSz5l"
     },
     {
-      "id": "29384843637766663",
-      "title": "WHY DID GOD FORBID A MAN FROM MARRYING HIS OWN AUNT? THE DISTURBING FAMILY SECRET BEHIND LEVITICUS 18",
-      "date": "2026-10-23T05:12:06+00:00",
+      "id": "29388138467437180",
+      "title": "SHOULD YOU EVER LEAVE A CHURCH BECAUSE OF ITS PASTOR? THE BIBLICAL TRUTH THAT COULD SAVE YOUR FAITH—OR EXPOSE WHAT YOU'VE BEEN AFRAID TO FACE",
+      "date": "2026-10-23T11:05:33+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Y78pzbw6Bt3hm1dDxhTKR3uc6wcF3TcdpoMzVXc5j3zG93XMQCACQmu8pfrrUrQxl"
+    },
+    {
+      "id": "29388057704111923",
+      "title": "YOU KNOW THE SIGNS OF THE END TIMES… BUT WHAT IF JESUS IS ASKING WHY YOU IGNORED THE PERSON RIGHT IN FRONT OF YOU?",
+      "date": "2026-10-23T10:57:40+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Xun5BXSXduxcomq3CJ2rdeyU4PTGtaVgUQY33bryUWuCUTaVKiGJ3YPBrbCSnFMDl"
+    },
+    {
+      "id": "29387989567452070",
+      "title": "WHAT IF SOMEONE DIED WITHOUT EVER HEARING THE NAME OF JESUS? WOULD GOD STILL CONDEMN THEM?",
+      "date": "2026-10-23T10:51:03+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0x1ff5g3kmYvU7LYUZvhqtmeGRhpdvWZGihD2EdaaC6SwEnqG4ffrUJKjkRavSPKDl"
+    },
+    {
+      "id": "29387807454136948",
+      "title": "HE HAD 14 WIVES, 22 SONS, AND 16 DAUGHTERS… BUT THE MOST SHOCKING THING ABOUT THIS KING WASN’T HIS FAMILY.",
+      "date": "2026-10-23T10:33:08+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033SdPcwockj1bNF9YFpEttgwpLKaH1E9E52hQ12rmsTBCjmYJGwUZFa1xFBfucVVql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028K3f2GSxx4p8wxHXpPSrkLEZTCu5849EhU8t8LiGpUmywsFmDNgkgVpQbt3uqU3Sl"
     },
     {
-      "id": "29384644714453222",
-      "title": "A MAN MARRIED HIS OWN SISTER—AND GOD STILL CHOSE THEIR SON TO LEAD ISRAEL?",
-      "date": "2026-10-23T04:51:39+00:00",
+      "id": "29387720270812333",
+      "title": "WHY DID A HIGH PRIEST CHOOSE TWO WIVES FOR A YOUNG KING? THE DISTURBING TRUTH BEHIND A MARRIAGE ARRANGED IN THE HOUSE OF GOD",
+      "date": "2026-10-23T10:24:23+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024WmbuV9YRj8XzF5yBNuVhvqZe6X3YKEVGEywshCt5qHbAPaBc17rwGx1D5QVX83ql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04QmHKZY6oU2f3eyM7ZQ6HWP5vq2PiHXmyoJXAyMocgEFxkBrJ6vRcktCJE72kuVCl"
     },
     {
-      "id": "29384535847797442",
-      "title": "THE PROPHETS CONDEMNED SEXUAL SIN—BUT WHAT THEY SAID ABOUT GREEDY, EXPLOITATIVE, AND HYPOCRITICAL BELIEVERS SHOULD TERRIFY THE CHURCH",
-      "date": "2026-10-23T04:40:03+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dXfG33vv3yXmUgs7evV7x7ghTp3UzYEHmMe75oNRLrDfmY6YVRrB5nrsgHjwZ47Ql"
+      "id": "29387541287496898",
+      "title": "THEY TOOK THE KING’S WIVES. THEY TOOK HIS SONS. BUT GOD ALLOWED ONE SON TO REMAIN.",
+      "date": "2026-10-23T10:05:59+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jpe8obtpW5UPVToAxZ1H5RQSJKbNtVXwu4Vpxi6wgfyYEzcQbhUAP12up3vyWdjvl"
     },
     {
-      "id": "29384407044476989",
-      "title": "THE BIBLE’S MOST UNCOMFORTABLE SEXUAL LAWS REQUIRE CONTEXT—NOT EMBARRASSMENT, NOT EXCUSES.",
-      "date": "2026-10-23T04:26:33+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NTsNkHPxjerTtXHJgDX7cUnkVA8ekGP2xeQGjbkLiUKmoB1jZzSwxWxcWcTBoeoEl"
-    },
-    {
-      "id": "29384273811156979",
-      "title": "THE BIBLE NAMES WOMEN WHO WERE CONCUBINES—BUT NEVER TELLS US IF THEY HAD A CHOICE. AND THAT SILENCE SHOULD BREAK OUR HEARTS.",
-      "date": "2026-10-23T04:12:40+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eSWwqvKfx5LXGm63AKGZemkRvQ4VwLyo2uE8LxRF6oZZK3PL8oKvhB5NVZs7qVepl"
-    },
-    {
-      "id": "29384023474515346",
-      "title": "GOD DIDN’T REBUKE ELIJAH FOR WANTING TO DIE. HE SENT AN ANGEL TO TOUCH HIM AND TELL HIM TO EAT.",
-      "date": "2026-10-23T03:46:34+00:00",
+      "id": "29387454160838944",
+      "title": "HE MURDERED SEVENTY BROTHERS TO BECOME KING… BUT ONE BROTHER ESCAPED TO DELIVER A WARNING THAT WOULD HAUNT HIM UNTIL DEATH",
+      "date": "2026-10-23T09:57:02+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid099eRqgCqWKgnZBLH6dAzaKMrPKSmLvR4Mxd1F3r7dQGzrxX4v7gqtLiRnFX4hTU7l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mL1RaWnMmUTLKz8QF5a3cf4yU9WBZtiepbANsTrKcPzp89cYu5J5o7poJ7bpMUjul"
     },
     {
-      "id": "29383865087864518",
-      "title": "JESUS CALLED HIM AN ISRAELITE WITHOUT DECEIT—BUT WHAT HAPPENED NEXT REVEALS A SECRET HIDDEN IN JACOB’S STORY",
-      "date": "2026-10-23T03:30:28+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vrcU3Ee8kTjNBAYcNScbgQadjgQhr68rT3nbCnGPBQJXcAbFaNXAGnC4f3mE8sL7l"
+      "id": "29387324567518570",
+      "title": "THE MAN WHO HAD SIXTY CHILDREN… AND SENT THIRTY DAUGHTERS AWAY TO MARRY OUTSIDE HIS FAMILY",
+      "date": "2026-10-23T09:43:39+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kntCuzKh2FKtGdsQK6R3hnMoSdNznerYd2cQL6wbKGHBgSYjtSMv2wXzYhESfP8kl"
     },
     {
-      "id": "29383727921211568",
-      "title": "THE KING WHISPERED HIS WAR PLANS BEHIND CLOSED DOORS… BUT SOMEONE WHO WASN’T THERE HEARD EVERYTHING.",
-      "date": "2026-10-23T03:16:38+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KgTWRxoE3D9c5WEy3ZmXuE46nMyFjYdGEpUZ3L1QwddGJTDLKX7iwcymymrnG66cl"
+      "id": "29386928284224865",
+      "title": "SHE WAS GIVEN LAND IN MARRIAGE—BUT ONE BOLD REQUEST CHANGED HER FUTURE",
+      "date": "2026-10-23T09:01:08+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TexkaGqi6FfBwtsscmEtJX7du4Ck97w3XpMtG8MVxCxyWuNJ9jJTD9tLd6dmWx6dl"
     },
     {
-      "id": "29383639267887100",
-      "title": "CAN A MARRIAGE SURVIVE ADULTERY? YES. BUT SOMETIMES THE MOST DANGEROUS LIE IS “LET’S JUST FORGET IT EVER HAPPENED.”",
-      "date": "2026-10-23T03:07:55+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0QAAEB9CPYNgEeBGnfQf6HDMoVvHP65KRxPrGWN9ZPMxEbXZyx5QMh2ebsbqyKM2Ml"
-    },
-    {
-      "id": "29383418554575838",
-      "title": "The Affair Began With “We’re Just Friends.”",
-      "date": "2026-10-23T02:45:40+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XJijqFGiCUrGhRvgucSjYne2ApbMXuYk8CEoMaDEczaA9wsiSKadrKgAppp8BjM5l"
-    },
-    {
-      "id": "29383213114596382",
-      "title": "They Never Had Sex. So Was It Really an Affair?",
-      "date": "2026-10-23T02:24:54+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08dirx9Qb8hGkN5mH3K7jyM5KQYhe3smS3Ka5neGmp6Vdp6MEcZo4Jk3DHYV2NAH2l"
-    },
-    {
-      "id": "29383113727939654",
-      "title": "IF GOD IS LOVE, WHY DOES THE BIBLE SPEAK ABOUT HELL?",
-      "date": "2026-10-23T02:14:51+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EQtRJunksM62icGdNxBaT94n4uiBvWj5eoAjvbCoUBKMZbfnKp3Pk9VDLPNP763nl"
-    },
-    {
-      "id": "29382818351302525",
-      "title": "YOU CAN BELIEVE IN GOD, LIVE A GOOD LIFE… AND STILL HEAR JESUS SAY, “I NEVER KNEW YOU.”",
-      "date": "2026-10-23T01:45:52+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DKSFuAHhUzYnRjtgoEDs7o6wAEiqygiAEySKUkbM1ySQyuUtt1u3uG6uJ68Y3z77l"
-    },
-    {
-      "id": "29382651894652504",
-      "title": "WHEN DID BEING A CHRISTIAN BECOME MORE ABOUT WINNING ARGUMENTS THAN LOVING PEOPLE?",
-      "date": "2026-10-23T01:28:53+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nytu9gLeJrpwvWySGUtUkN6LFhNkLKvxUpCgnfTvir6R6Ny2BB3G4tDnF3UDkmSDl"
+      "id": "29386822230902137",
+      "title": "A FATHER OFFERED HIS DAUGHTER TO THE MAN WHO COULD CAPTURE A CITY. BUT THE MOST SHOCKING PART OF THIS BIBLE STORY COMES AFTER THE WEDDING.",
+      "date": "2026-10-23T08:49:26+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0D7rvE8prMGe2Xq8g9Nkf8Z96wQGJYsbemP1hraeaDCd2FEKZ46ZAYSFwPhkPPBVpl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-23T07:27:44Z",
-  "discovered": 15,
-  "processed": 15,
-  "discoveredLastRun": 15,
+  "lastCheckStarted": "2026-10-23T13:23:00Z",
+  "discovered": 11,
+  "processed": 11,
+  "discoveredLastRun": 11,
   "pagesScanned": 2,
   "latest": {
-    "id": "29384971044420589",
-    "title": "AARON MARRIED A WOMAN MOST CHRISTIANS HAVE NEVER HEARD OF—AND HER BROTHER WOULD HELP LEAD AN ENTIRE NATION",
-    "date": "2026-10-23T05:25:47+00:00"
+    "id": "29388378707413156",
+    "title": "WHEN HONORING YOUR PASTOR BECOMES BETRAYING YOUR CONSCIENCE: THE DANGEROUS LINE BETWEEN SPIRITUAL AUTHORITY AND BLIND LOYALTY",
+    "date": "2026-10-23T11:28:45+00:00"
   },
-  "lastImportCount": 15,
-  "lastImportAt": "2026-10-23T07:28:29Z",
+  "lastImportCount": 11,
+  "lastImportAt": "2026-10-23T13:23:57Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9414,
+  "structuredMetadata": 9425,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-cc2b67e84b219bbd30818fbd5bc0e4e49ed1be773ec0c50e40353aae2aff07ab",
-  "statusGeneratedAt": "2026-10-23T07:28:29Z"
+  "contentRevision": "sha256-db1ba70471d39c54ecfe7c0b25a2c999e5856de8d6d815c92f919e10139b2042",
+  "statusGeneratedAt": "2026-10-23T13:23:57Z"
 }
