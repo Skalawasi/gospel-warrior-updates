@@ -1,100 +1,107 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Added 10 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-24T10:54:42Z",
-  "lastSuccess": "2026-10-24T10:54:42Z",
-  "currentTotal": 9479,
-  "totalWords": 14543376,
+  "lastCheck": "2026-10-24T14:30:50Z",
+  "lastSuccess": "2026-10-24T14:30:50Z",
+  "currentTotal": 9489,
+  "totalWords": 14584287,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 10,
   "recentAdded": [
     {
-      "id": "29402056662712027",
-      "title": "“HIS LEFT HAND IS UNDER MY HEAD, AND HIS RIGHT HAND EMBRACES ME”—THE BIBLE’S UNEMBARRASSED LANGUAGE OF AFFECTION",
-      "date": "2026-10-24T10:44:02+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05cYrNJTBsPx825LJB8ZZmE7dKfh8MSkbRrhfz5mNDcaeS2N2azZN1JRJrgnBrRisl"
+      "id": "29404397869144573",
+      "title": "GOD TOOK EZEKIEL’S WIFE… THEN TOLD HIM NOT TO CRY? THE HEARTBREAKING TRUTH BEHIND ONE OF THE BIBLE’S MOST DISTURBING COMMANDS",
+      "date": "2026-10-24T14:25:38+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JBXa2LwvaMAyynyd99Ga7f7UAFnqW7MNwzZSiEeouxsYqVbvTT95aLqZ4Hr16Wnol"
     },
     {
-      "id": "29401932719391088",
-      "title": "SHE WAS NO LONGER BEGGING TO BE LOVED—SHE KNEW SHE WAS DESIRED. AND THAT CHANGES EVERYTHING.",
-      "date": "2026-10-24T10:30:36+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027jJRAsshvRtCSCrtTZAoJ6C8yhoFkiyMsgFZPT7DGy3PvWVVNSMjrNMkSchoxHMwl"
+      "id": "29404225539161806",
+      "title": "GOD TOLD EZEKIEL TO DIG THROUGH A WALL—BUT THE MOST TERRIFYING PART WAS WHAT HE CARRIED OUT",
+      "date": "2026-10-24T14:10:18+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02awPQhRo4s7RR7YDBSbsucLHZyXA1H7mZHrqrB18y2a1oDq7Q7G7Zm5aep4PFk3cml"
     },
     {
-      "id": "29401856992731994",
-      "title": "“HIS MOUTH IS MOST SWEET”—THE BIBLE VERSE THAT PROVES GOD NEVER ASKED YOU TO BE ASHAMED OF ROMANTIC ATTRACTION",
-      "date": "2026-10-24T10:22:27+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cPNTYW5vDHnDwsaNx2mH1HGWNrYZ77MACYe2bTi6jmzo74rfPHcKPf7gDQEiA58Fl"
+      "id": "29404076605843366",
+      "title": "GOD TOLD EZEKIEL TO SHAVE HIS HEAD—THEN BURN HIS HAIR. THE REASON SHOULD MAKE EVERY CHRISTIAN TREMBLE.",
+      "date": "2026-10-24T13:57:13+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DXyngum68MqVikau9LsgxWrVDDH1JEE1hDiLX8X1BZhjtLJfNfPtakAWFM1ccbKl"
     },
     {
-      "id": "29401679846083042",
-      "title": "“EAT, FRIENDS, DRINK, AND BE DRUNK WITH LOVE!” — WHY WOULD GOD PUT THESE WORDS IN THE BIBLE?",
-      "date": "2026-10-24T10:03:16+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NEmQateUHFNa87Vzne4rNbHaoAYMRxchAz5h1PTF8ztAS1nki2dWs1tucXxWcT3ml"
+      "id": "29403992509185109",
+      "title": "WHY DID GOD MAKE EZEKIEL LIE ON HIS RIGHT SIDE FOR 40 DAYS? THE TERRIFYING MESSAGE MOST CHRISTIANS HAVE NEVER UNDERSTOOD",
+      "date": "2026-10-24T13:49:40+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tLGhx8aLQv5Q1r5dR6Jw1MpNVwWftf9sdFGXzkGkuwhoRbmoWbFSmbsHmu3Cvc5Jl"
     },
     {
-      "id": "29401629786088048",
-      "title": "THE BIBLE’S MOST DANGEROUS SEDUCTION SCENE ISN’T IN SONG OF SONGS—IT’S A WARNING IN PROVERBS 7.",
-      "date": "2026-10-24T09:57:46+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029rbiMgyG3xLxus8mFxvjKmB2fCypPknpDi7SW6mATsfTXr4nm85mFpKbs12eRyMCl"
+      "id": "29403825469201813",
+      "title": "WHY DID GOD MAKE EZEKIEL LIE ON HIS LEFT SIDE FOR 390 DAYS? THE TERRIFYING WARNING MOST CHRISTIANS NEVER NOTICE",
+      "date": "2026-10-24T13:34:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mTDXiMsgibVFeTqNpZwddNtoekofrmZuLmTAqhhTUSNZTiJPzfJfajyG2PrRwVZ4l"
     },
     {
-      "id": "29401126249471735",
-      "title": "SOLOMON SAW THE TRAP BEFORE HIS SON EVER TOOK THE FIRST STEP—BUT DID HE SEE THE SAME DANGER COMING FOR HIMSELF?",
-      "date": "2026-10-24T09:00:52+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nwAbT5kUmxpKab654pTnjp21XE6Tq7N1FoEm2pfBjSMzB8A5iaKAfQKMB5NQJzVzl"
+      "id": "29403709252546768",
+      "title": "GOD TOLD ISAIAH TO TAKE OFF HIS CLOTHES—AND WALK INTO PUBLIC VIEW. THE REASON SHOULD TERRIFY EVERYONE WHO TRUSTS IN THE WRONG SAVIOR.",
+      "date": "2026-10-24T13:24:42+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BCMeuzLo3wVFMReCVJaE3QFQvX9ZLMeSSRrjm8dyZwuiaVQ29k7un41zEFgGjyBsl"
     },
     {
-      "id": "29401063682811325",
-      "title": "SHE DIDN’T NEED A WEAPON TO DESTROY HIM. SHE ONLY NEEDED THE WORDS HE WANTED TO HEAR.",
-      "date": "2026-10-24T08:53:51+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Yd4Mr9UGyDwA3Kdx2487fBkZxMCspzQ5Lnv7cLqbnzNnftCagfqAjbGZwY2tgAQxl"
+      "id": "29403507702566923",
+      "title": "JERICHO’S WALLS FELL… SO WHY DID GOD ALLOW ISRAEL TO BLEED AT AI?",
+      "date": "2026-10-24T13:06:35+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qmdsxJP4uKjLuHy93njsSSf9zg47YK84ZUnhi65NwHp9GeiWzkhduFNKDn9BJvt8l"
     },
     {
-      "id": "29400636616187365",
-      "title": "HE THOUGHT HE WAS WALKING INTO PLEASURE. GOD SAW AN OX WALKING TO SLAUGHTER.",
-      "date": "2026-10-24T08:05:06+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HwDhyLYBgk2XFLAgartHTSvLdzjnumsQsBJXQzRViBT1yh7V79HKohHu3odv46P5l"
-    },
-    {
-      "id": "29400508479533512",
-      "title": "WE REBUKE THE DEVIL LOUDLY… BUT WHY ARE WE SO QUIET ABOUT OUR OWN PRIDE?",
-      "date": "2026-10-24T07:50:21+00:00",
+      "id": "29403303335920693",
+      "title": "WHY DID AN ANGEL STRIKE PETER’S SIDE IN PRISON? THE DISTURBING DETAIL IN ACTS 12:7 THAT REVEALS SOMETHING EXTRAORDINARY ABOUT GOD’S DELIVERANCE",
+      "date": "2026-10-24T12:47:46+00:00",
       "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tQxzWPVP4WWvfUb7YrouVjR24ZUNdiuFntbyu6hE9kw7zzbvNMiM4DSFKpUNmFX4l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zAVf4ZMFjW5r4LsEeCE9WCUzLi5a7nqD5ji7nztZznS8ycp73CgbKPDtX9gpGh85l"
+    },
+    {
+      "id": "29402411519343208",
+      "title": "YOUR FAMILY'S CURSE DID NOT SURVIVE YOUR SAVIOR: Are Generational Curses Still Binding on Those Who Belong to Christ?",
+      "date": "2026-10-24T11:20:45+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0241B632tpX6tjwk8SEZMFddTS4mHpTquyJCQhJ7rLgmgsj4DV5wBepcBKXMwwPvqnl"
+    },
+    {
+      "id": "29402274662690227",
+      "title": "THE BIBLE’S MOST ROMANTIC BOOK CONTAINS A WARNING THAT COULD SAVE YOUR HEART: LOVE CANNOT BE BOUGHT, EVEN WITH ALL THE WEALTH IN THE WORLD.",
+      "date": "2026-10-24T11:06:56+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid098t7bVZWrCsfw6mb3bbPBAyHGesxNUjcxscoEXV6k8gMf8ZeZc26g8pi1qWidb8Hl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-24T10:54:04Z",
-  "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
+  "lastCheckStarted": "2026-10-24T14:30:01Z",
+  "discovered": 10,
+  "processed": 10,
+  "discoveredLastRun": 10,
   "pagesScanned": 2,
   "latest": {
-    "id": "29402056662712027",
-    "title": "“HIS LEFT HAND IS UNDER MY HEAD, AND HIS RIGHT HAND EMBRACES ME”—THE BIBLE’S UNEMBARRASSED LANGUAGE OF AFFECTION",
-    "date": "2026-10-24T10:44:02+00:00"
+    "id": "29404397869144573",
+    "title": "GOD TOOK EZEKIEL’S WIFE… THEN TOLD HIM NOT TO CRY? THE HEARTBREAKING TRUTH BEHIND ONE OF THE BIBLE’S MOST DISTURBING COMMANDS",
+    "date": "2026-10-24T14:25:38+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-24T10:54:42Z",
+  "lastImportCount": 10,
+  "lastImportAt": "2026-10-24T14:30:50Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9479,
+  "structuredMetadata": 9489,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3425bbb428648898136a8d246715607318dc0e1616e8f332a77929355701bd7d",
-  "statusGeneratedAt": "2026-10-24T10:54:42Z"
+  "contentRevision": "sha256-7e8916cc7deb52b75f5863c22cf400a289e6bbd504c3f25a3395ac8312ac1da3",
+  "statusGeneratedAt": "2026-10-24T14:30:50Z"
 }
