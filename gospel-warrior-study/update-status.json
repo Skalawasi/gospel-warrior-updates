@@ -1,114 +1,135 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 11 new public studies.",
+  "message": "Added 14 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-24T00:39:58Z",
-  "lastSuccess": "2026-10-24T00:39:58Z",
-  "currentTotal": 9456,
-  "totalWords": 14443340,
+  "lastCheck": "2026-10-24T05:49:30Z",
+  "lastSuccess": "2026-10-24T05:49:30Z",
+  "currentTotal": 9470,
+  "totalWords": 14504609,
   "subjects": 17,
-  "addedLastRun": 11,
+  "addedLastRun": 14,
   "recentAdded": [
     {
-      "id": "29396535889930771",
-      "title": "WHY WAS MICHAEL CALLED “ONE OF THE CHIEF PRINCES”? THE SHOCKING DETAIL IN DANIEL 10:13 THAT MANY CHRISTIANS READ BUT NEVER QUESTION",
-      "date": "2026-10-24T00:35:13+00:00",
+      "id": "29399363322981361",
+      "title": "WHY DID HEAVEN SEND AN ANGEL TO STRENGTHEN JESUS… BUT NOT TO RESCUE HIM?",
+      "date": "2026-10-24T05:37:16+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02631eeUcYPgaSbu4GwJkZYUwLFG1eoppbvxB5cya5qRKyZdbVw8PQS4MkLxvCWdFYl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0YZg4T5yRd6X6ykNp7SJWnd3D4nG2TNswto4zcbgyUzUaM5NXWVMUoCU23h36c9Xnl"
     },
     {
-      "id": "29396434959940864",
-      "title": "THE ANGEL WAS STOPPED FOR 21 DAYS—BUT WHO WAS POWERFUL ENOUGH TO STAND AGAINST HIM?",
-      "date": "2026-10-24T00:23:52+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0R2ceU1XNHYm1tNhmtfwoGvWnHwmhpFSR6XcEWkjWCHQqNRiUJCvrozzmGFtXVkgXl"
-    },
-    {
-      "id": "29396344683283225",
-      "title": "THE ANGEL WAS DELAYED FOR 21 DAYS—BUT THE MOST TERRIFYING PART OF DANIEL'S VISION WASN'T THE DELAY",
-      "date": "2026-10-24T00:13:40+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VkjNQFNRDnUHugyGoqkiiwni89C4XN1vBP7ZVHX1qKnxaR6E8qNe3ddPBv9Wv9zrl"
-    },
-    {
-      "id": "29396265083291185",
-      "title": "WHY DID AN ANGEL SHUT THE LIONS’ MOUTHS FOR DANIEL? THE ANSWER MAY CHANGE HOW YOU SEE YOUR OWN SUFFERING",
-      "date": "2026-10-24T00:04:47+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yaCdxTpkxKUafzGfz9zT1xN22VvEtqdLj9Vrdk7u3GzqpiMHjKh8sPFCaV9JiimKl"
-    },
-    {
-      "id": "29396206603297033",
-      "title": "JACOB SAW A STAIRWAY TO HEAVEN. THEN JESUS REVEALED SOMETHING THAT CHANGES EVERYTHING.",
-      "date": "2026-10-23T23:57:55+00:00",
+      "id": "29399301472987546",
+      "title": "CAN A CHRISTIAN BELONG TO JESUS… AND STILL BE UNDER SPIRITUAL ATTACK?",
+      "date": "2026-10-24T05:30:34+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KYV6tR5iWhzfUahpTN6fxbkcCCEUPzwcN1uJn7wwT4Kjp8tWMQbtXtp1i58ejwZ3l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LxhpUESDZAVjXY6yNd53E2RoozQ5uG6u3wT53YwHTR9XdiwcSz7SSiNpJpJgbk1l"
     },
     {
-      "id": "29396135596637467",
-      "title": "“ALL THINGS WORK TOGETHER FOR GOOD” — PAUL NEVER SAID YOU WOULD CALL EVERYTHING GOOD",
-      "date": "2026-10-23T23:49:19+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TXKSgYYkNiqWn6Gz4w34NEAr76zEg7Ccws1t2CGkmK26dQtYQwa8KrWKuqFp5m8El"
-    },
-    {
-      "id": "29396071503310543",
-      "title": "THE DAY JESUS STOPPED EVERYTHING FOR THE PEOPLE EVERYONE ELSE THOUGHT WERE TOO SMALL",
-      "date": "2026-10-23T23:41:42+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ggogQB11BDdyuL18i81x3E2r9LVRJsR4qfGJvwZTkT4nr2YbdJLcwD5SxhkgsK4Al"
-    },
-    {
-      "id": "29396011919983168",
-      "title": "If Two People Truly Love Each Other, Why Would God Care Whether They’re Married?",
-      "date": "2026-10-23T23:35:10+00:00",
+      "id": "29398240166427010",
+      "title": "JOB SAID ANOTHER MAN COULD HAVE HIS WIFE IF HE HAD BEEN UNFAITHFUL—BUT THE TERRIFYING TRUTH BEHIND HIS OATH GOES MUCH DEEPER",
+      "date": "2026-10-24T03:32:31+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02H2adTekpDNA4JxAyyGSj1XgbVk2ByJaGdo2eoLCyKhDNh4QNMS5ALSXZJ2aJXdial"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bZyPNZGfi4niGLXGUS5qLGJ9DSQ42rGFkojrFP5p4dWdtnBXBjphvHUE2Nme34gol"
     },
     {
-      "id": "29395960249988335",
-      "title": "CAN YOU REALLY LOVE JESUS AND STILL BE ADDICTED TO PORNOGRAPHY? THE ANSWER MAY BREAK YOUR HEART BEFORE IT SETS YOU FREE.",
-      "date": "2026-10-23T23:28:47+00:00",
+      "id": "29397970543120639",
+      "title": "SHE CHASED OTHER LOVERS FOR BREAD AND WATER… BUT THE GOD SHE BETRAYED WAS THE ONE FEEDING HER ALL ALONG.",
+      "date": "2026-10-24T03:03:45+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jKvEXYn8b4yoMej1ubzS4jYjKJa7is9w4saXQYW9cJe5piNxNd4HsdKD7BGqTwXgl"
+    },
+    {
+      "id": "29397659483151745",
+      "title": "WOULD YOU STILL CALL IT LOVE IF SEX WERE REMOVED FROM THE RELATIONSHIP?",
+      "date": "2026-10-24T02:30:56+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0EB24bdUeEjPRLYuUwAdPhLMfZhaSGXTehx4bQHfxANgnqxAo4B6gYHPdyaHmUJ5rl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XgfumyyQoPz1QBwBFT9YQRzEhWYMCxUGo7V9pPoctZfPkCbKFgXKnca831U46HKHl"
     },
     {
-      "id": "29395908586660168",
-      "title": "A SERVANT ACCUSED A DISABLED PRINCE OF BETRAYAL—THEN THE KING RETURNED, AND ONE SENTENCE CHANGED EVERYTHING",
-      "date": "2026-10-23T23:22:44+00:00",
+      "id": "29397545869829773",
+      "title": "THE VERSE EVERYONE LOVES TO QUOTE… BUT THE WORDS WE KEEP LEAVING OUT COULD CHANGE EVERYTHING",
+      "date": "2026-10-24T02:19:25+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NdvAqQ7Rpu7WC9UAW6KBcv8XEntDUZ1EK79GBjRafacyRdQY9xowh1BtdVhg7HcRl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0q57sVsjae2VMbYV36FtZG2cfkzwLyKPJ8AVc2b8j81C2GfAhLHT1dYETVEvwUjVGl"
     },
     {
-      "id": "29395858579998502",
-      "title": "“TOUCH NOT GOD’S ANOINTED!” — THE VERSE THAT HAS SILENCED TOO MANY WOUNDED CHRISTIANS",
-      "date": "2026-10-23T23:16:47+00:00",
+      "id": "29397490476501979",
+      "title": "THE DEVIL LEFT JESUS ALONE IN THE WILDERNESS… BUT HEAVEN DID NOT.",
+      "date": "2026-10-24T02:13:53+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wSU47JzJnuQNw6d6ArB1V9VVRWrYrCdLdreqRfVQoyKseH19QiTuknaBD7LNDEz1l"
+    },
+    {
+      "id": "29397409183176775",
+      "title": "WHY DID GOD SEND JESUS TO EGYPT IN THE MIDDLE OF THE NIGHT? THE TERRIFYING TRUTH BEHIND THE ANGEL’S WARNING TO JOSEPH",
+      "date": "2026-10-24T02:05:31+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NEDiEeEVoUerUSjWkio1Q33n4YjUSJwYBjZZ2F3T7Z9yaNQh3YpNcCsLBYVbLf5ql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ztkvjmXsahT8BYntqgqTkqqJi8vycDqoTy1u9ZEnLVwgsT2viaqm3LNMBNNMhuthl"
+    },
+    {
+      "id": "29397345139849846",
+      "title": "GOD SILENCED A PRIEST… BUT THE REASON WAS MORE TERRIFYING THAN HIS DOUBT",
+      "date": "2026-10-24T01:58:56+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LfTwf19ctr3AGu21w9ftgT6LP6dtqTkYytqjUtxbYXUh9X4JngvKDU741qYf6HB1l"
+    },
+    {
+      "id": "29397281416522885",
+      "title": "IS FLIRTING WITH SOMEONE ELSE CHEATING WHEN YOU’RE MARRIED? JESUS HAS SOMETHING TO SAY ABOUT THE LINE YOU THINK YOU HAVEN’T CROSSED.",
+      "date": "2026-10-24T01:52:32+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035SpzMpUvNyMf88GXR4K9XDr8P9G6XZFqewVu9adTcnXEm9X9atQ9a7oB14Y5Srsjl"
+    },
+    {
+      "id": "29397076939876666",
+      "title": "THE KING’S SISTER. THE REBEL’S MOTHER. THE GENERAL WHO STOOD AGAINST HIS OWN BLOOD.",
+      "date": "2026-10-24T01:32:07+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oqavHuV38CA4WKLWWyrPm8RcvxqAHnPUjYb3Bi4VRgK1oxtu9KrWaXVaG7jbyHq4l"
+    },
+    {
+      "id": "29396920133225680",
+      "title": "IS THE DEVIL REALLY ATTACKING YOU… OR ARE YOU REAPING WHAT YOU REFUSED TO REPENT OF?",
+      "date": "2026-10-24T01:15:44+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LPxaCgWtLW345Kzp2WDAYmNizxrcAkJEmnno4BaNhpHbPqdsvPL42N5Qbe8LUTVrl"
+    },
+    {
+      "id": "29396801816570845",
+      "title": "WHAT IF THE SERMON THAT MADE EVERYONE CLAP WAS THE VERY SERMON HEAVEN WANTED THEM TO QUESTION?",
+      "date": "2026-10-24T01:03:31+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bLkz62Czy2PeHhbViyyWazA2jP6eQsvSmeSXc2jQgUkFoZXVK4xioGHNh3JaCnFtl"
+    },
+    {
+      "id": "29396602603257433",
+      "title": "THE CROWD FELT THE FIRE… BUT WAS GOD EVEN IN THE ROOM?",
+      "date": "2026-10-24T00:42:24+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033boVDCqnaPjAJwGZ94R7EDv8joVg3Kz2QNedfSheUb4VPxxhaMNbt9XwePyjs5stl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-24T00:39:10Z",
-  "discovered": 11,
-  "processed": 11,
-  "discoveredLastRun": 11,
+  "lastCheckStarted": "2026-10-24T05:48:30Z",
+  "discovered": 14,
+  "processed": 14,
+  "discoveredLastRun": 14,
   "pagesScanned": 2,
   "latest": {
-    "id": "29396535889930771",
-    "title": "WHY WAS MICHAEL CALLED “ONE OF THE CHIEF PRINCES”? THE SHOCKING DETAIL IN DANIEL 10:13 THAT MANY CHRISTIANS READ BUT NEVER QUESTION",
-    "date": "2026-10-24T00:35:13+00:00"
+    "id": "29399363322981361",
+    "title": "WHY DID HEAVEN SEND AN ANGEL TO STRENGTHEN JESUS… BUT NOT TO RESCUE HIM?",
+    "date": "2026-10-24T05:37:16+00:00"
   },
-  "lastImportCount": 11,
-  "lastImportAt": "2026-10-24T00:39:58Z",
+  "lastImportCount": 14,
+  "lastImportAt": "2026-10-24T05:49:30Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9456,
+  "structuredMetadata": 9470,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-e5283c865e699bab44153578cef612f5c228de9ed15cd8f149be68ec84a73029",
-  "statusGeneratedAt": "2026-10-24T00:39:58Z"
+  "contentRevision": "sha256-c2092840d1eb23700051cd40157fde4f1d1c37e51823b7647bf5cc90fc54d799",
+  "statusGeneratedAt": "2026-10-24T05:49:30Z"
 }
