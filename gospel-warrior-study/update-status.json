@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-24T18:07:22Z",
-  "lastSuccess": "2026-10-24T18:07:22Z",
+  "lastCheck": "2026-10-24T20:45:10Z",
+  "lastSuccess": "2026-10-24T20:45:10Z",
   "currentTotal": 9498,
   "totalWords": 14621652,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29405868428997517",
@@ -76,11 +76,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-24T18:06:37Z",
+  "lastCheckStarted": "2026-10-24T20:45:00Z",
   "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29405868428997517",
     "title": "PAUL SAW WHAT HEAVEN WOULD NOT LET HIM TELL — AND THE REASON MAY CHANGE HOW YOU SEE YOUR SUFFERING FOREVER",
@@ -96,5 +96,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-60c8e935c88c7990cda9004e92113115606c0c785def2a9f63ee4ff2c2248b39",
-  "statusGeneratedAt": "2026-10-24T18:07:22Z"
+  "statusGeneratedAt": "2026-10-24T20:45:10Z"
 }
