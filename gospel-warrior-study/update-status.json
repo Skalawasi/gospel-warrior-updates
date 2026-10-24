@@ -1,177 +1,114 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 11 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-23T22:07:34Z",
-  "lastSuccess": "2026-10-23T22:07:34Z",
-  "currentTotal": 9445,
-  "totalWords": 14392016,
+  "lastCheck": "2026-10-24T00:39:58Z",
+  "lastSuccess": "2026-10-24T00:39:58Z",
+  "currentTotal": 9456,
+  "totalWords": 14443340,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 11,
   "recentAdded": [
     {
-      "id": "29392343737016653",
-      "title": "THEY CAME TO COMFORT JOB… THEN MADE HIS SUFFERING WORSE",
-      "date": "2026-10-23T17:15:32+00:00",
+      "id": "29396535889930771",
+      "title": "WHY WAS MICHAEL CALLED “ONE OF THE CHIEF PRINCES”? THE SHOCKING DETAIL IN DANIEL 10:13 THAT MANY CHRISTIANS READ BUT NEVER QUESTION",
+      "date": "2026-10-24T00:35:13+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02631eeUcYPgaSbu4GwJkZYUwLFG1eoppbvxB5cya5qRKyZdbVw8PQS4MkLxvCWdFYl"
+    },
+    {
+      "id": "29396434959940864",
+      "title": "THE ANGEL WAS STOPPED FOR 21 DAYS—BUT WHO WAS POWERFUL ENOUGH TO STAND AGAINST HIM?",
+      "date": "2026-10-24T00:23:52+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0R2ceU1XNHYm1tNhmtfwoGvWnHwmhpFSR6XcEWkjWCHQqNRiUJCvrozzmGFtXVkgXl"
+    },
+    {
+      "id": "29396344683283225",
+      "title": "THE ANGEL WAS DELAYED FOR 21 DAYS—BUT THE MOST TERRIFYING PART OF DANIEL'S VISION WASN'T THE DELAY",
+      "date": "2026-10-24T00:13:40+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VkjNQFNRDnUHugyGoqkiiwni89C4XN1vBP7ZVHX1qKnxaR6E8qNe3ddPBv9Wv9zrl"
+    },
+    {
+      "id": "29396265083291185",
+      "title": "WHY DID AN ANGEL SHUT THE LIONS’ MOUTHS FOR DANIEL? THE ANSWER MAY CHANGE HOW YOU SEE YOUR OWN SUFFERING",
+      "date": "2026-10-24T00:04:47+00:00",
       "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023U3o4oWrFiX8GrZCQ35vVwWTN2wybNah2wHEBFEMusqa2a44Ych5XXvRwqNga4LNl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yaCdxTpkxKUafzGfz9zT1xN22VvEtqdLj9Vrdk7u3GzqpiMHjKh8sPFCaV9JiimKl"
     },
     {
-      "id": "29392247130359647",
-      "title": "JOB’S FRIENDS SOUNDED SO SPIRITUAL… SO WHY WAS GOD ANGRY WITH THEM?",
-      "date": "2026-10-23T17:06:35+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0F6rpKYZXvLWEYZLv3YynejpCwiQNBgVVgMjEXnieWDBnemHJwTUtchqtvN72dtWzl"
+      "id": "29396206603297033",
+      "title": "JACOB SAW A STAIRWAY TO HEAVEN. THEN JESUS REVEALED SOMETHING THAT CHANGES EVERYTHING.",
+      "date": "2026-10-23T23:57:55+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KYV6tR5iWhzfUahpTN6fxbkcCCEUPzwcN1uJn7wwT4Kjp8tWMQbtXtp1i58ejwZ3l"
     },
     {
-      "id": "29392160327034994",
-      "title": "“I KNOW THAT MY REDEEMER LIVES” — BUT WHAT IF JOB WAS SAYING SOMETHING FAR MORE DESPERATE THAN WE EVER REALIZED?",
-      "date": "2026-10-23T16:58:50+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0owmfgFLiqQbdo9DdN7uWeADnm4qtK1cQuVKLPCtBPNb9z7kLyidgwknw2RJqhgil"
-    },
-    {
-      "id": "29392087363708957",
-      "title": "ELISHA LOOKED INTO THE EYES OF A FUTURE KING… AND BEGAN TO WEEP. WHAT HE SAW SHOULD TERRIFY EVERY HEART THAT THINKS IT COULD NEVER FALL.",
-      "date": "2026-10-23T16:52:15+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0dSCbmPUPKEEQECr5pyxhdbDRX6AibDT9HRU6aL1VAgoroM22gTFLK3Pta3Xkf8uSl"
-    },
-    {
-      "id": "29392015500382810",
-      "title": "HE LAUGHED AT GOD’S PROMISE. THE NEXT DAY, HE WATCHED IT COME TRUE—AND DIED BEFORE HE COULD ENJOY IT.",
-      "date": "2026-10-23T16:45:49+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TWLQoV7gBYa4nYWJ8uA6x1BBXCHJ5yMQzukCwkhoKoYjkgvMqfp65gZxdGDuH7hBl"
-    },
-    {
-      "id": "29391872860397074",
-      "title": "THE MOTHER WHO ATE HER OWN SON… AND THE GOD WHO WATCHED A NATION FALL APART",
-      "date": "2026-10-23T16:32:58+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WmGZ46onG7FY71H83GnT1xp6vuPp4bM2kysueRxyycPgYeqbXC2cXYFv3dLt3bqBl"
-    },
-    {
-      "id": "29391694790414881",
-      "title": "JEZEBEL WAS THROWN FROM A WINDOW. WHEN THEY CAME BACK FOR HER BODY, THE DOGS HAD LEFT ALMOST NOTHING.",
-      "date": "2026-10-23T16:17:30+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032trAfCpJSQW118NSxoPwsVmqHxYb8JNqwsKE5AEmgsN8kyqqpvwp7yqyhFy94ZwXl"
-    },
-    {
-      "id": "29391585773759116",
-      "title": "MOST TERRIFYING PART OF JEZEBEL’S STORY WASN’T HER DEATH.",
-      "date": "2026-10-23T16:08:41+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mgsH8TaQvb1jWXx1sW6FNVb4waCwUY5fYsFMK5QxhRByvvuvyrpBhehYYxSPhbnNl"
-    },
-    {
-      "id": "29391461913771502",
-      "title": "SHE USED HER HUSBAND’S SEAL TO MURDER AN INNOCENT MAN—BUT SHE FORGOT THAT HEAVEN HAD WITNESSED EVERYTHING.",
-      "date": "2026-10-23T15:58:21+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0x2Kgp8DWBJ8Tmo6M5k9aVLXMQyCjU61hCSgKhwyKTdwcmYsc2sNNT2hXGwgafEanl"
-    },
-    {
-      "id": "29391270553790638",
-      "title": "PETER BEGGED JESUS TO LEAVE HIM—BUT WHAT JESUS DID NEXT CHANGED EVERYTHING",
-      "date": "2026-10-23T15:41:44+00:00",
+      "id": "29396135596637467",
+      "title": "“ALL THINGS WORK TOGETHER FOR GOOD” — PAUL NEVER SAID YOU WOULD CALL EVERYTHING GOOD",
+      "date": "2026-10-23T23:49:19+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PmE5DpLpRN6RppjbpV1AVAAhuvuhvBUfeMmxwXTPbGfqQedmMpxjaqbYDuuBguVAl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TXKSgYYkNiqWn6Gz4w34NEAr76zEg7Ccws1t2CGkmK26dQtYQwa8KrWKuqFp5m8El"
     },
     {
-      "id": "29391105270473833",
-      "title": "JESUS CALLED THEM “SONS OF THUNDER”—BUT WHAT HE DID WITH THEIR ANGER WILL LEAVE YOU SPEECHLESS",
-      "date": "2026-10-23T15:27:43+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ex1istngtDm13Qcqt6oR3A89dWbggQv6ZEtqXHoBD8b6zTbDSTZENNUtJrHpqRvnl"
-    },
-    {
-      "id": "29391004133817280",
-      "title": "THE NIGHT HEAVEN OPENED OVER A BROKEN WORLD: Why Jesus Said Angels Would Ascend and Descend Upon Him",
-      "date": "2026-10-23T15:19:13+00:00",
+      "id": "29396071503310543",
+      "title": "THE DAY JESUS STOPPED EVERYTHING FOR THE PEOPLE EVERYONE ELSE THOUGHT WERE TOO SMALL",
+      "date": "2026-10-23T23:41:42+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kCvJtwrqthXogkMMmXjjLrysaLoc9oJ4vdD7ZqhAUfcY5jFK6LmsbyRZiMsRisJpl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ggogQB11BDdyuL18i81x3E2r9LVRJsR4qfGJvwZTkT4nr2YbdJLcwD5SxhkgsK4Al"
     },
     {
-      "id": "29390916600492700",
-      "title": "SOMETIMES THE MOST BEAUTIFUL WORSHIP COMES FROM THE MIDDLE OF RUINS",
-      "date": "2026-10-23T15:11:43+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tuUDRHUZN8zn4GpePRj2TdGhroUGgxPShDMgmGuh4gh8BThZAfCqv8WgEfQSRNs6l"
-    },
-    {
-      "id": "29390835560500804",
-      "title": "WHY DID JESUS SAY, “BLESSED ARE THE POOR IN SPIRIT”? THE ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS YOUR SOUL",
-      "date": "2026-10-23T15:04:37+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02X7gzAn3US3ENsw3zTknZFivEKypDMFaUhAi2HpRdLH9m6TVvqPFj1BUjyY51ciy6l"
-    },
-    {
-      "id": "29390750877175939",
-      "title": "YOU LOVE JESUS… SO WHY DO YOU KEEP GOING BACK TO MASTURBATION?",
-      "date": "2026-10-23T14:57:27+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FcEdPc3eP335s9wigUtNVzP9KabuSTuXyLrxumB9P8dH44sViUHJ6nS6DWaXPjGLl"
-    },
-    {
-      "id": "29390599203857773",
-      "title": "WHY DOES THE BIBLE CALL SEX “ONE FLESH” WHEN OUR CULTURE CALLS IT “JUST SEX”?",
-      "date": "2026-10-23T14:44:30+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MWHMoamwU7vRbmvtVRSCmdJc3W9iJpZyibjn9jJR2V2iGcoVNqGYVq1ByBBxp7myl"
-    },
-    {
-      "id": "29390468500537510",
-      "title": "CAN YOU LOVE TWO PEOPLE AT ONCE? MAYBE. BUT THAT DOESN’T MEAN YOU’RE FREE TO BETRAY ONE OF THEM.",
-      "date": "2026-10-23T14:33:31+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aPPZ1GZGHKY6tEGZ54wXWQvGNvjrivNZRzGPg1uMXM3djGKs4bMrxmxTm55fR8Msl"
-    },
-    {
-      "id": "29390086783909015",
-      "title": "THE PERSON YOU MARRIED STILL SLEEPS BESIDE YOU… BUT NO LONGER BELIEVES IN THE GOD WHO BROUGHT YOU TOGETHER",
-      "date": "2026-10-23T14:01:51+00:00",
+      "id": "29396011919983168",
+      "title": "If Two People Truly Love Each Other, Why Would God Care Whether They’re Married?",
+      "date": "2026-10-23T23:35:10+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0csDgABYSwvvUJnw2TSX2cSZpwG5g77Jdo9dg6NhajsFHaq9997Xr6jxAdqpf2hwzl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02H2adTekpDNA4JxAyyGSj1XgbVk2ByJaGdo2eoLCyKhDNh4QNMS5ALSXZJ2aJXdial"
     },
     {
-      "id": "29389973330587027",
-      "title": "THE QUEEN MOTHER WHO LOST HER THRONE BECAUSE SHE REFUSED TO LET GO OF HER IDOL",
-      "date": "2026-10-23T13:52:10+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xD8miBwC65hXJxv3dQ4Eu33JDeheMVpoWTa5gmUoZqPXCiosSBtJpc7gJbyHMfzAl"
+      "id": "29395960249988335",
+      "title": "CAN YOU REALLY LOVE JESUS AND STILL BE ADDICTED TO PORNOGRAPHY? THE ANSWER MAY BREAK YOUR HEART BEFORE IT SETS YOU FREE.",
+      "date": "2026-10-23T23:28:47+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0EB24bdUeEjPRLYuUwAdPhLMfZhaSGXTehx4bQHfxANgnqxAo4B6gYHPdyaHmUJ5rl"
     },
     {
-      "id": "29389875547263472",
-      "title": "THE CHURCH THAT SILENCED THE WOUNDED TO PROTECT THE ANOINTED",
-      "date": "2026-10-23T13:43:29+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XYNbb39oX1hHj2xR13QZ59Z5iP1FynzAJoqPkeF5f5d6pp4m1qpNuc5ag7V8gbrUl"
+      "id": "29395908586660168",
+      "title": "A SERVANT ACCUSED A DISABLED PRINCE OF BETRAYAL—THEN THE KING RETURNED, AND ONE SENTENCE CHANGED EVERYTHING",
+      "date": "2026-10-23T23:22:44+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NdvAqQ7Rpu7WC9UAW6KBcv8XEntDUZ1EK79GBjRafacyRdQY9xowh1BtdVhg7HcRl"
+    },
+    {
+      "id": "29395858579998502",
+      "title": "“TOUCH NOT GOD’S ANOINTED!” — THE VERSE THAT HAS SILENCED TOO MANY WOUNDED CHRISTIANS",
+      "date": "2026-10-23T23:16:47+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NEDiEeEVoUerUSjWkio1Q33n4YjUSJwYBjZZ2F3T7Z9yaNQh3YpNcCsLBYVbLf5ql"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-23T22:07:16Z",
-  "discovered": 20,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-24T00:39:10Z",
+  "discovered": 11,
+  "processed": 11,
+  "discoveredLastRun": 11,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29392343737016653",
-    "title": "THEY CAME TO COMFORT JOB… THEN MADE HIS SUFFERING WORSE",
-    "date": "2026-10-23T17:15:32+00:00"
+    "id": "29396535889930771",
+    "title": "WHY WAS MICHAEL CALLED “ONE OF THE CHIEF PRINCES”? THE SHOCKING DETAIL IN DANIEL 10:13 THAT MANY CHRISTIANS READ BUT NEVER QUESTION",
+    "date": "2026-10-24T00:35:13+00:00"
   },
-  "lastImportCount": 20,
-  "lastImportAt": "2026-10-23T18:19:05Z",
+  "lastImportCount": 11,
+  "lastImportAt": "2026-10-24T00:39:58Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9445,
+  "structuredMetadata": 9456,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-de2f4eb28ff2bbff774c85b1bc5a05174bbab31ab028bf23e1c4c499bb797f21",
-  "statusGeneratedAt": "2026-10-23T22:07:35Z"
+  "contentRevision": "sha256-e5283c865e699bab44153578cef612f5c228de9ed15cd8f149be68ec84a73029",
+  "statusGeneratedAt": "2026-10-24T00:39:58Z"
 }
