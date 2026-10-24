@@ -1,135 +1,100 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 14 new public studies.",
+  "message": "Added 9 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-24T05:49:30Z",
-  "lastSuccess": "2026-10-24T05:49:30Z",
-  "currentTotal": 9470,
-  "totalWords": 14504609,
+  "lastCheck": "2026-10-24T10:54:42Z",
+  "lastSuccess": "2026-10-24T10:54:42Z",
+  "currentTotal": 9479,
+  "totalWords": 14543376,
   "subjects": 17,
-  "addedLastRun": 14,
+  "addedLastRun": 9,
   "recentAdded": [
     {
-      "id": "29399363322981361",
-      "title": "WHY DID HEAVEN SEND AN ANGEL TO STRENGTHEN JESUS… BUT NOT TO RESCUE HIM?",
-      "date": "2026-10-24T05:37:16+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0YZg4T5yRd6X6ykNp7SJWnd3D4nG2TNswto4zcbgyUzUaM5NXWVMUoCU23h36c9Xnl"
+      "id": "29402056662712027",
+      "title": "“HIS LEFT HAND IS UNDER MY HEAD, AND HIS RIGHT HAND EMBRACES ME”—THE BIBLE’S UNEMBARRASSED LANGUAGE OF AFFECTION",
+      "date": "2026-10-24T10:44:02+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05cYrNJTBsPx825LJB8ZZmE7dKfh8MSkbRrhfz5mNDcaeS2N2azZN1JRJrgnBrRisl"
     },
     {
-      "id": "29399301472987546",
-      "title": "CAN A CHRISTIAN BELONG TO JESUS… AND STILL BE UNDER SPIRITUAL ATTACK?",
-      "date": "2026-10-24T05:30:34+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LxhpUESDZAVjXY6yNd53E2RoozQ5uG6u3wT53YwHTR9XdiwcSz7SSiNpJpJgbk1l"
-    },
-    {
-      "id": "29398240166427010",
-      "title": "JOB SAID ANOTHER MAN COULD HAVE HIS WIFE IF HE HAD BEEN UNFAITHFUL—BUT THE TERRIFYING TRUTH BEHIND HIS OATH GOES MUCH DEEPER",
-      "date": "2026-10-24T03:32:31+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bZyPNZGfi4niGLXGUS5qLGJ9DSQ42rGFkojrFP5p4dWdtnBXBjphvHUE2Nme34gol"
-    },
-    {
-      "id": "29397970543120639",
-      "title": "SHE CHASED OTHER LOVERS FOR BREAD AND WATER… BUT THE GOD SHE BETRAYED WAS THE ONE FEEDING HER ALL ALONG.",
-      "date": "2026-10-24T03:03:45+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jKvEXYn8b4yoMej1ubzS4jYjKJa7is9w4saXQYW9cJe5piNxNd4HsdKD7BGqTwXgl"
-    },
-    {
-      "id": "29397659483151745",
-      "title": "WOULD YOU STILL CALL IT LOVE IF SEX WERE REMOVED FROM THE RELATIONSHIP?",
-      "date": "2026-10-24T02:30:56+00:00",
+      "id": "29401932719391088",
+      "title": "SHE WAS NO LONGER BEGGING TO BE LOVED—SHE KNEW SHE WAS DESIRED. AND THAT CHANGES EVERYTHING.",
+      "date": "2026-10-24T10:30:36+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XgfumyyQoPz1QBwBFT9YQRzEhWYMCxUGo7V9pPoctZfPkCbKFgXKnca831U46HKHl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027jJRAsshvRtCSCrtTZAoJ6C8yhoFkiyMsgFZPT7DGy3PvWVVNSMjrNMkSchoxHMwl"
     },
     {
-      "id": "29397545869829773",
-      "title": "THE VERSE EVERYONE LOVES TO QUOTE… BUT THE WORDS WE KEEP LEAVING OUT COULD CHANGE EVERYTHING",
-      "date": "2026-10-24T02:19:25+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0q57sVsjae2VMbYV36FtZG2cfkzwLyKPJ8AVc2b8j81C2GfAhLHT1dYETVEvwUjVGl"
+      "id": "29401856992731994",
+      "title": "“HIS MOUTH IS MOST SWEET”—THE BIBLE VERSE THAT PROVES GOD NEVER ASKED YOU TO BE ASHAMED OF ROMANTIC ATTRACTION",
+      "date": "2026-10-24T10:22:27+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cPNTYW5vDHnDwsaNx2mH1HGWNrYZ77MACYe2bTi6jmzo74rfPHcKPf7gDQEiA58Fl"
     },
     {
-      "id": "29397490476501979",
-      "title": "THE DEVIL LEFT JESUS ALONE IN THE WILDERNESS… BUT HEAVEN DID NOT.",
-      "date": "2026-10-24T02:13:53+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wSU47JzJnuQNw6d6ArB1V9VVRWrYrCdLdreqRfVQoyKseH19QiTuknaBD7LNDEz1l"
+      "id": "29401679846083042",
+      "title": "“EAT, FRIENDS, DRINK, AND BE DRUNK WITH LOVE!” — WHY WOULD GOD PUT THESE WORDS IN THE BIBLE?",
+      "date": "2026-10-24T10:03:16+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NEmQateUHFNa87Vzne4rNbHaoAYMRxchAz5h1PTF8ztAS1nki2dWs1tucXxWcT3ml"
     },
     {
-      "id": "29397409183176775",
-      "title": "WHY DID GOD SEND JESUS TO EGYPT IN THE MIDDLE OF THE NIGHT? THE TERRIFYING TRUTH BEHIND THE ANGEL’S WARNING TO JOSEPH",
-      "date": "2026-10-24T02:05:31+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ztkvjmXsahT8BYntqgqTkqqJi8vycDqoTy1u9ZEnLVwgsT2viaqm3LNMBNNMhuthl"
+      "id": "29401629786088048",
+      "title": "THE BIBLE’S MOST DANGEROUS SEDUCTION SCENE ISN’T IN SONG OF SONGS—IT’S A WARNING IN PROVERBS 7.",
+      "date": "2026-10-24T09:57:46+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029rbiMgyG3xLxus8mFxvjKmB2fCypPknpDi7SW6mATsfTXr4nm85mFpKbs12eRyMCl"
     },
     {
-      "id": "29397345139849846",
-      "title": "GOD SILENCED A PRIEST… BUT THE REASON WAS MORE TERRIFYING THAN HIS DOUBT",
-      "date": "2026-10-24T01:58:56+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LfTwf19ctr3AGu21w9ftgT6LP6dtqTkYytqjUtxbYXUh9X4JngvKDU741qYf6HB1l"
-    },
-    {
-      "id": "29397281416522885",
-      "title": "IS FLIRTING WITH SOMEONE ELSE CHEATING WHEN YOU’RE MARRIED? JESUS HAS SOMETHING TO SAY ABOUT THE LINE YOU THINK YOU HAVEN’T CROSSED.",
-      "date": "2026-10-24T01:52:32+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035SpzMpUvNyMf88GXR4K9XDr8P9G6XZFqewVu9adTcnXEm9X9atQ9a7oB14Y5Srsjl"
-    },
-    {
-      "id": "29397076939876666",
-      "title": "THE KING’S SISTER. THE REBEL’S MOTHER. THE GENERAL WHO STOOD AGAINST HIS OWN BLOOD.",
-      "date": "2026-10-24T01:32:07+00:00",
+      "id": "29401126249471735",
+      "title": "SOLOMON SAW THE TRAP BEFORE HIS SON EVER TOOK THE FIRST STEP—BUT DID HE SEE THE SAME DANGER COMING FOR HIMSELF?",
+      "date": "2026-10-24T09:00:52+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oqavHuV38CA4WKLWWyrPm8RcvxqAHnPUjYb3Bi4VRgK1oxtu9KrWaXVaG7jbyHq4l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nwAbT5kUmxpKab654pTnjp21XE6Tq7N1FoEm2pfBjSMzB8A5iaKAfQKMB5NQJzVzl"
     },
     {
-      "id": "29396920133225680",
-      "title": "IS THE DEVIL REALLY ATTACKING YOU… OR ARE YOU REAPING WHAT YOU REFUSED TO REPENT OF?",
-      "date": "2026-10-24T01:15:44+00:00",
+      "id": "29401063682811325",
+      "title": "SHE DIDN’T NEED A WEAPON TO DESTROY HIM. SHE ONLY NEEDED THE WORDS HE WANTED TO HEAR.",
+      "date": "2026-10-24T08:53:51+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Yd4Mr9UGyDwA3Kdx2487fBkZxMCspzQ5Lnv7cLqbnzNnftCagfqAjbGZwY2tgAQxl"
+    },
+    {
+      "id": "29400636616187365",
+      "title": "HE THOUGHT HE WAS WALKING INTO PLEASURE. GOD SAW AN OX WALKING TO SLAUGHTER.",
+      "date": "2026-10-24T08:05:06+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HwDhyLYBgk2XFLAgartHTSvLdzjnumsQsBJXQzRViBT1yh7V79HKohHu3odv46P5l"
+    },
+    {
+      "id": "29400508479533512",
+      "title": "WE REBUKE THE DEVIL LOUDLY… BUT WHY ARE WE SO QUIET ABOUT OUR OWN PRIDE?",
+      "date": "2026-10-24T07:50:21+00:00",
       "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LPxaCgWtLW345Kzp2WDAYmNizxrcAkJEmnno4BaNhpHbPqdsvPL42N5Qbe8LUTVrl"
-    },
-    {
-      "id": "29396801816570845",
-      "title": "WHAT IF THE SERMON THAT MADE EVERYONE CLAP WAS THE VERY SERMON HEAVEN WANTED THEM TO QUESTION?",
-      "date": "2026-10-24T01:03:31+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bLkz62Czy2PeHhbViyyWazA2jP6eQsvSmeSXc2jQgUkFoZXVK4xioGHNh3JaCnFtl"
-    },
-    {
-      "id": "29396602603257433",
-      "title": "THE CROWD FELT THE FIRE… BUT WAS GOD EVEN IN THE ROOM?",
-      "date": "2026-10-24T00:42:24+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033boVDCqnaPjAJwGZ94R7EDv8joVg3Kz2QNedfSheUb4VPxxhaMNbt9XwePyjs5stl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tQxzWPVP4WWvfUb7YrouVjR24ZUNdiuFntbyu6hE9kw7zzbvNMiM4DSFKpUNmFX4l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-24T05:48:30Z",
-  "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
+  "lastCheckStarted": "2026-10-24T10:54:04Z",
+  "discovered": 9,
+  "processed": 9,
+  "discoveredLastRun": 9,
   "pagesScanned": 2,
   "latest": {
-    "id": "29399363322981361",
-    "title": "WHY DID HEAVEN SEND AN ANGEL TO STRENGTHEN JESUS… BUT NOT TO RESCUE HIM?",
-    "date": "2026-10-24T05:37:16+00:00"
+    "id": "29402056662712027",
+    "title": "“HIS LEFT HAND IS UNDER MY HEAD, AND HIS RIGHT HAND EMBRACES ME”—THE BIBLE’S UNEMBARRASSED LANGUAGE OF AFFECTION",
+    "date": "2026-10-24T10:44:02+00:00"
   },
-  "lastImportCount": 14,
-  "lastImportAt": "2026-10-24T05:49:30Z",
+  "lastImportCount": 9,
+  "lastImportAt": "2026-10-24T10:54:42Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9470,
+  "structuredMetadata": 9479,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-c2092840d1eb23700051cd40157fde4f1d1c37e51823b7647bf5cc90fc54d799",
-  "statusGeneratedAt": "2026-10-24T05:49:30Z"
+  "contentRevision": "sha256-3425bbb428648898136a8d246715607318dc0e1616e8f332a77929355701bd7d",
+  "statusGeneratedAt": "2026-10-24T10:54:42Z"
 }
