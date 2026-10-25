@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 21 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-25T19:02:39Z",
-  "lastSuccess": "2026-10-25T19:02:39Z",
+  "lastCheck": "2026-10-25T21:45:04Z",
+  "lastSuccess": "2026-10-25T21:45:04Z",
   "currentTotal": 9558,
   "totalWords": 14890766,
   "subjects": 17,
-  "addedLastRun": 21,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29419239307660429",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-25T19:01:33Z",
+  "lastCheckStarted": "2026-10-25T21:44:50Z",
   "discovered": 21,
-  "processed": 21,
-  "discoveredLastRun": 21,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29419239307660429",
     "title": "THE STRANGEST SACRIFICE GOD EVER ASKED FOR: HE WANTS YOU ON THE ALTAR… BUT HE DOESN’T WANT YOU DEAD.",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-9bf5a9b01e4d753265e18ab199c6402b0179529c3246c3c5dfd68fae4d1d485e",
-  "statusGeneratedAt": "2026-10-25T19:02:39Z"
+  "statusGeneratedAt": "2026-10-25T21:45:04Z"
 }
