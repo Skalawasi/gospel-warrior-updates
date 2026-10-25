@@ -1,149 +1,135 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 16 new public studies.",
+  "message": "Added 14 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-25T06:05:30Z",
-  "lastSuccess": "2026-10-25T06:05:30Z",
-  "currentTotal": 9523,
-  "totalWords": 14734793,
+  "lastCheck": "2026-10-25T11:21:52Z",
+  "lastSuccess": "2026-10-25T11:21:52Z",
+  "currentTotal": 9537,
+  "totalWords": 14797413,
   "subjects": 17,
-  "addedLastRun": 16,
+  "addedLastRun": 14,
   "recentAdded": [
     {
-      "id": "29412794461638247",
-      "title": "THE DEAD STICK THAT CAME BACK TO LIFE: Why God Made Aaron’s Staff Produce Almonds Overnight",
-      "date": "2026-10-25T06:04:17+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021XZf5m4HZ1V1uoP9Ew4cPVM4QUBV6xJrENMZSju32BQ1A6v7AxAhRa5m5KeGgGuql"
-    },
-    {
-      "id": "29412030265048000",
-      "title": "THE NAMES DAVID REFUSED TO ERASE: WHY GOD PLACED FOREIGNERS, OUTSIDERS, AND BROKEN MEN AMONG ISRAEL’S MIGHTIEST WARRIORS",
-      "date": "2026-10-25T04:34:35+00:00",
+      "id": "29415310708053289",
+      "title": "DAVID WAS STARVING, THE BREAD WAS HOLY, AND THE PRIEST HAD A DECISION TO MAKE",
+      "date": "2026-10-25T10:49:47+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EYrs8BAWKPo5X38HPWmQANZ6HXJVtfDHsrJbH4HjLkU2PYS66TPPr9gugJWkjNB3l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xKMqxybSqyej2fPzhkymDhFeaPGiBYcbR1LXowbQSV5HynMLqsRu6LZToVSkAnoul"
     },
     {
-      "id": "29411966878387672",
-      "title": "THREE MEN RISKED THEIR LIVES FOR ONE DRINK OF WATER… BUT DAVID POURED IT ON THE GROUND. WHY?",
-      "date": "2026-10-25T04:27:34+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02L9YRdwdaCTCkm2vvyipVZq7QrNuZvfqfpxgu3BA8h63iLhQeBBHQ7eEmJGpxxUurl"
+      "id": "29415096028074757",
+      "title": "WHY DID MICHAL PUT AN IDOL IN DAVID’S BED? THE DISTURBING DETAIL THAT EXPOSES A TRUTH MANY CHRISTIANS ARE AFRAID TO FACE",
+      "date": "2026-10-25T10:27:39+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ga3Xn6XwjEJgEpCXtmsPRPxzQLbRuPSwKjaJ2zed3H6Uw3m4p3Y4cfseSPM7ja7Yl"
     },
     {
-      "id": "29411904825060544",
-      "title": "THREE MEN RISKED THEIR LIVES FOR A DRINK OF WATER—BUT WHAT DAVID DID NEXT REVEALS SOMETHING FAR GREATER THAN COURAGE",
-      "date": "2026-10-25T04:20:21+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rQzCJr96FByGUawKZJL4BSNVCf7YWDiPFfghA5GPibReXKLqkMMuQZ5CwYj3LNb4l"
-    },
-    {
-      "id": "29411849755066051",
-      "title": "HE CAME WITH A SPEAR. HE LEFT WITHOUT IT. THE BIBLE NEVER EVEN TELLS US HIS NAME.",
-      "date": "2026-10-25T04:13:59+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pfrgMxMd98z3VzUaJGRrJPA2sz7vGm5TgvPGL85CsBcRjmGM2zpqbJrPm5GoM4kpl"
-    },
-    {
-      "id": "29411681028416257",
-      "title": "EVERYONE RAN. ONE MAN STOOD. AND GOD TURNED A FIELD OF LENTILS INTO A BATTLEFIELD OF GLORY.",
-      "date": "2026-10-25T03:54:57+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yb5MtZ9A4VWTwVoK62tSZizWzE4s6d3yL9DiqG5AVdMV9RrVNgDdcTra5rhnjDWwl"
-    },
-    {
-      "id": "29411561445094882",
-      "title": "HIS HAND FROZE AROUND THE SWORD—BUT THE GREATEST MIRACLE WASN’T THAT HE KEPT FIGHTING",
-      "date": "2026-10-25T03:41:39+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JagScYbFEDAm51kGZu9jHqa5Dk3sH4UfaJioQdyJvpq394otN3yD39pbdnHpd2zal"
-    },
-    {
-      "id": "29411391695111857",
-      "title": "HE WENT DOWN INTO A PIT WITH A LION ON A SNOWY DAY—BUT THE MOST SHOCKING PART OF BENAIAH’S STORY IS WHAT HAPPENED AFTER",
-      "date": "2026-10-25T03:23:24+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eLJ2oJ7yzAPqC6rG1uwSmFq9jJVtQpWh7FdZmNyYY9Hvod6Z1ia85smMYK9M8G8bl"
-    },
-    {
-      "id": "29411288281788865",
-      "title": "THE SHEEP WERE STILL BLEATING… BUT SAUL WAS ALREADY TELLING EVERYONE HE HAD OBEYED GOD.",
-      "date": "2026-10-25T03:11:39+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033busTssmBmUfmBHW7Vwy9oJTzXvnE1cdG3MBmhDCX6e212AhDQDKQSAN8HcNKuYil"
-    },
-    {
-      "id": "29411201948464165",
-      "title": "IF GOD IS REALLY WITH ME, WHY IS MY LIFE FALLING APART?",
-      "date": "2026-10-25T03:02:07+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GW15i9527B4YPL8RGiu5fnDuAbBHzopKJztgUMrKJd5mv7vKZtukZ86SXdGofQhXl"
-    },
-    {
-      "id": "29411064305144596",
-      "title": "JOSHUA HAD HIS SWORD READY… UNTIL ONE WORD FROM A STRANGER BROUGHT HIM TO HIS KNEES",
-      "date": "2026-10-25T02:46:14+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031ty5D2SrF4dDjgMjAz2xbyqFQQnqRBU2fJUS4bPbCTgZiDfzzyoNDTHg3kiiVKSbl"
-    },
-    {
-      "id": "29410856371832056",
-      "title": "THE DONKEY SAW THE ANGEL. THE PROPHET SAW NOTHING.",
-      "date": "2026-10-25T02:21:29+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034HzWxFs3u1H2Y2bm8m6gWHGMBDHRLYdVKXYvZrUuLSEzeDVmcUNuMt1j7aQL5kwWl"
-    },
-    {
-      "id": "29410800051837688",
-      "title": "GOD ASKED BALAAM, “WHO ARE THESE MEN WITH YOU?” — BUT THE REAL DANGER WAS WHAT BALAAM WAS HIDING IN HIS HEART",
-      "date": "2026-10-25T02:15:09+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0p76TZ9CJDwrWj6RXmjSQqpHZZGxm9yvKvvK2z3XSN2Gq1fEXB8ihLXneKdeYr7Ztl"
-    },
-    {
-      "id": "29410620185189008",
-      "title": "MOSES ASKED GOD, “WHO AM I?” — BUT GOD’S ANSWER REVEALS SOMETHING THAT COULD CHANGE YOUR LIFE FOREVER",
-      "date": "2026-10-25T01:54:04+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023QZ9gneGE5SXNz55dAQqGh5qfMXBfAjPtjdPETeqoGwbmu3vMeQE16M3yFUQCxwtl"
-    },
-    {
-      "id": "29410546668529693",
-      "title": "“IS MY FATHER STILL ALIVE?” — THE QUESTION JOSEPH ASKED WHEN HE FINALLY FACED THE BROTHERS WHO DESTROYED HIS LIFE",
-      "date": "2026-10-25T01:45:16+00:00",
+      "id": "29414815551436138",
+      "title": "SAUL WAS READY TO KILL HIS OWN SON—AND THE REASON SHOULD TERRIFY EVERY CHRISTIAN",
+      "date": "2026-10-25T09:57:13+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ceLGRW89EjYQxG5kAe3DC4eVaj34vqDEp6tRDkCYZC4Zq1GBoMyZcJ9kUn2Bz1Stl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GerB9nqs9LcfdG9re4z7rNEy1e9jEyZ3kekqmuRivpQ5ttYVnrsMeKQ1z2dU3qxNl"
     },
     {
-      "id": "29410483088536051",
-      "title": "JACOB REFUSED TO LET GO OF GOD—BUT THE REASON HE WAS WRESTLING WILL BREAK YOUR HEART",
-      "date": "2026-10-25T01:37:37+00:00",
+      "id": "29414654084785618",
+      "title": "HE ATE ONE DROP OF HONEY—AND HIS OWN FATHER WANTED HIM DEAD",
+      "date": "2026-10-25T09:38:32+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eTW64fw7FyVoKHEzf26eH1sRhPmEUKUiCd158Wi8GBxKRDcNoMTiJ5pFZtfJZJcGl"
+    },
+    {
+      "id": "29414193888164971",
+      "title": "SAUL BUILT AN ALTAR AFTER HIS SOLDIERS SINNED—BUT THE MOST DISTURBING PART IS WHAT HAPPENED BEFORE THEY BROKE GOD’S LAW",
+      "date": "2026-10-25T08:45:26+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xXbEogs9EGQ9nM6vASwLreaY5VFP3hCVUg2x7RubJb6fADrm4UoXmne4PbBryLxEl"
+    },
+    {
+      "id": "29413603594890667",
+      "title": "THEY STOLE THE ARK OF GOD… THEN FOUND THEIR GOD LYING FACE DOWN BEFORE IT",
+      "date": "2026-10-25T07:39:25+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0a86pHNB1zWrzbf9C18VZg8yRkHU9nMzuczcKCYYQTci3PMj2NZZwWFuG9N1zp2THl"
+    },
+    {
+      "id": "29413500751567618",
+      "title": "GOD SENT THUNDER DURING THE HARVEST—AND WHAT HAPPENED NEXT SHOULD TERRIFY EVERY HEART THAT HAS GROWN COMFORTABLE WITHOUT HIM",
+      "date": "2026-10-25T07:27:32+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028tMf5nZXd1XNRGxW7XSNVKg9un5yXiJ3iphuc9oXZH7ANWGyTgxR4nejby2YgbZhl"
+    },
+    {
+      "id": "29413432324907794",
+      "title": "WHY DID SAMSON FIND HONEY INSIDE A DEAD LION? THE DISTURBING SECRET BEHIND ONE OF THE BIBLE’S STRANGEST MIRACLES",
+      "date": "2026-10-25T07:19:39+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vR4HJJ41bYoxQJQMMnfjiD5YEUNa69tAax2aMekXAtgS5SapZuo5vfT99jFwos8Nl"
+    },
+    {
+      "id": "29413315158252844",
+      "title": "WHY DID FIRE COME OUT OF A ROCK WHEN GIDEON OFFERED GOD A MEAL? THE TERRIFYING TRUTH ABOUT THE FIRE THAT CONSUMED HIS OFFERING BUT SPARED HIS LIFE",
+      "date": "2026-10-25T07:06:09+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MvrdEtWXsHtDrztasm2b7fSGSngbYfKrEztm3dS3ku3Q3Lu6s3p3datL5HVbCQqCl"
+    },
+    {
+      "id": "29413223974928629",
+      "title": "WHY DID GOD MAKE GIDEON’S FLEECE WET WHILE THE GROUND STAYED DRY? THE ANSWER IS MORE HEARTBREAKING THAN YOU THINK.",
+      "date": "2026-10-25T06:55:23+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02af1L9Vs5HeCqNmAHDyVtccpJ9VKQtbZvwc6Q7sjT2jJ6wRQ1ZnKnP6vrGvcSi9t4l"
+    },
+    {
+      "id": "29413154624935564",
+      "title": "THE DAY GOD STOPPED A RIVER AT A PLACE CALLED ADAM — AND WHY THAT DETAIL SHOULD MAKE EVERY SINNER TREMBLE WITH HOPE",
+      "date": "2026-10-25T06:47:16+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zSmSW1BiJxFoy3x3KNdhF5vfkQJyyupAg7vtauLR4pvEwAKcFzwBvZiPqguCzwQCl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02x5P2w3jERFHqBLppf7QULuBe9LVLdLUroBpK85EQrq8cNUcBqRRVBvnocZ44pbRUl"
+    },
+    {
+      "id": "29412986108285749",
+      "title": "HE RAN TOWARD THE PEOPLE GOD WAS JUDGING—AND STOOD WHERE DEATH HAD TO STOP",
+      "date": "2026-10-25T06:26:57+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0M2sZ2RFoxsihgG3NrobVA57zDiKstVYbx7UMDZVZqbxoePFJVvVMGoEo3DMcSE3Al"
+    },
+    {
+      "id": "29412910901626603",
+      "title": "THEY WATCHED THE EARTH SWALLOW THE REBELS… THEN ACCUSED GOD OF MURDER. WHAT HAPPENED NEXT SHOULD TERRIFY AND COMFORT EVERY CHRISTIAN.",
+      "date": "2026-10-25T06:17:56+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021juRLfLpTWwRAGzrgQnPeSqwTdhGnn8Z44CoHEQsrNFoe5ZKDGRRat9zvknhGszsl"
+    },
+    {
+      "id": "29412860658298294",
+      "title": "THE DAY THE EARTH OPENED ITS MOUTH: THE TERRIFYING REBELLION THAT GOD REFUSED TO IGNORE",
+      "date": "2026-10-25T06:11:57+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pg5M8MsAzrQmwrkPxT6EKDnVxDfYVWHfJ1F7fRgnkDxrY1bUAveh1nU4TxXPeiASl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-25T06:04:30Z",
-  "discovered": 16,
-  "processed": 16,
-  "discoveredLastRun": 16,
+  "lastCheckStarted": "2026-10-25T11:21:08Z",
+  "discovered": 14,
+  "processed": 14,
+  "discoveredLastRun": 14,
   "pagesScanned": 2,
   "latest": {
-    "id": "29412794461638247",
-    "title": "THE DEAD STICK THAT CAME BACK TO LIFE: Why God Made Aaron’s Staff Produce Almonds Overnight",
-    "date": "2026-10-25T06:04:17+00:00"
+    "id": "29415310708053289",
+    "title": "DAVID WAS STARVING, THE BREAD WAS HOLY, AND THE PRIEST HAD A DECISION TO MAKE",
+    "date": "2026-10-25T10:49:47+00:00"
   },
-  "lastImportCount": 16,
-  "lastImportAt": "2026-10-25T06:05:30Z",
+  "lastImportCount": 14,
+  "lastImportAt": "2026-10-25T11:21:52Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9523,
+  "structuredMetadata": 9537,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-a011bface71e5e1fdfd8a6b0c9c0382d99c08b5b7f41641e9c9ff212024e07a0",
-  "statusGeneratedAt": "2026-10-25T06:05:30Z"
+  "contentRevision": "sha256-306a0a11894fa680203048251b6b5071c5839cf9c96e3ad666c31cfc131f891d",
+  "statusGeneratedAt": "2026-10-25T11:21:52Z"
 }
