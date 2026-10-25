@@ -1,100 +1,149 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 9 new public studies.",
+  "message": "Added 16 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-25T01:08:47Z",
-  "lastSuccess": "2026-10-25T01:08:47Z",
-  "currentTotal": 9507,
-  "totalWords": 14661619,
+  "lastCheck": "2026-10-25T06:05:30Z",
+  "lastSuccess": "2026-10-25T06:05:30Z",
+  "currentTotal": 9523,
+  "totalWords": 14734793,
   "subjects": 17,
-  "addedLastRun": 9,
+  "addedLastRun": 16,
   "recentAdded": [
     {
-      "id": "29410208978563462",
-      "title": "GOD HEARD SARAH LAUGH BEHIND THE TENT—THEN ASKED ONE QUESTION THAT STILL SHAKES HEAVEN AND EARTH",
-      "date": "2026-10-25T01:04:14+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035Xdk5CyCub851FhMSjMVUaEiKzYY6TdxgGyUwEe6tSHK3x5ZLZYz1Wrr6shxx2zLl"
+      "id": "29412794461638247",
+      "title": "THE DEAD STICK THAT CAME BACK TO LIFE: Why God Made Aaron’s Staff Produce Almonds Overnight",
+      "date": "2026-10-25T06:04:17+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021XZf5m4HZ1V1uoP9Ew4cPVM4QUBV6xJrENMZSju32BQ1A6v7AxAhRa5m5KeGgGuql"
     },
     {
-      "id": "29410025681915125",
-      "title": "HE WAITED 45 YEARS FOR WHAT GOD PROMISED—AND AT 85, HE WAS STILL READY TO FIGHT",
-      "date": "2026-10-25T00:40:54+00:00",
+      "id": "29412030265048000",
+      "title": "THE NAMES DAVID REFUSED TO ERASE: WHY GOD PLACED FOREIGNERS, OUTSIDERS, AND BROKEN MEN AMONG ISRAEL’S MIGHTIEST WARRIORS",
+      "date": "2026-10-25T04:34:35+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02A7TBrVFi9e3iFgbasKcmGWdwuyfkf7W734EpYj4vx144isTiJu6biTxM3vGPcPYFl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EYrs8BAWKPo5X38HPWmQANZ6HXJVtfDHsrJbH4HjLkU2PYS66TPPr9gugJWkjNB3l"
     },
     {
-      "id": "29409903588594001",
-      "title": "WHY DID GOD COMMAND 12 STONES TO BE TAKEN FROM THE JORDAN RIVER? THE ANSWER IS MORE PERSONAL THAN YOU THINK.",
-      "date": "2026-10-25T00:25:06+00:00",
+      "id": "29411966878387672",
+      "title": "THREE MEN RISKED THEIR LIVES FOR ONE DRINK OF WATER… BUT DAVID POURED IT ON THE GROUND. WHY?",
+      "date": "2026-10-25T04:27:34+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02L9YRdwdaCTCkm2vvyipVZq7QrNuZvfqfpxgu3BA8h63iLhQeBBHQ7eEmJGpxxUurl"
+    },
+    {
+      "id": "29411904825060544",
+      "title": "THREE MEN RISKED THEIR LIVES FOR A DRINK OF WATER—BUT WHAT DAVID DID NEXT REVEALS SOMETHING FAR GREATER THAN COURAGE",
+      "date": "2026-10-25T04:20:21+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rQzCJr96FByGUawKZJL4BSNVCf7YWDiPFfghA5GPibReXKLqkMMuQZ5CwYj3LNb4l"
+    },
+    {
+      "id": "29411849755066051",
+      "title": "HE CAME WITH A SPEAR. HE LEFT WITHOUT IT. THE BIBLE NEVER EVEN TELLS US HIS NAME.",
+      "date": "2026-10-25T04:13:59+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pfrgMxMd98z3VzUaJGRrJPA2sz7vGm5TgvPGL85CsBcRjmGM2zpqbJrPm5GoM4kpl"
+    },
+    {
+      "id": "29411681028416257",
+      "title": "EVERYONE RAN. ONE MAN STOOD. AND GOD TURNED A FIELD OF LENTILS INTO A BATTLEFIELD OF GLORY.",
+      "date": "2026-10-25T03:54:57+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yb5MtZ9A4VWTwVoK62tSZizWzE4s6d3yL9DiqG5AVdMV9RrVNgDdcTra5rhnjDWwl"
+    },
+    {
+      "id": "29411561445094882",
+      "title": "HIS HAND FROZE AROUND THE SWORD—BUT THE GREATEST MIRACLE WASN’T THAT HE KEPT FIGHTING",
+      "date": "2026-10-25T03:41:39+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JagScYbFEDAm51kGZu9jHqa5Dk3sH4UfaJioQdyJvpq394otN3yD39pbdnHpd2zal"
+    },
+    {
+      "id": "29411391695111857",
+      "title": "HE WENT DOWN INTO A PIT WITH A LION ON A SNOWY DAY—BUT THE MOST SHOCKING PART OF BENAIAH’S STORY IS WHAT HAPPENED AFTER",
+      "date": "2026-10-25T03:23:24+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Hq73QTZ1NnuwwTEAYhJS7NLM3BwCUnaFPBZnpFZNcu1CKPoQMWunYDA6p6QbLS8el"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eLJ2oJ7yzAPqC6rG1uwSmFq9jJVtQpWh7FdZmNyYY9Hvod6Z1ia85smMYK9M8G8bl"
     },
     {
-      "id": "29409862801931413",
-      "title": "WHY DID GOD COUNT 603,550 MEN IN THE WILDERNESS? THE TERRIFYING TRUTH BEHIND A NUMBER MOST CHRISTIANS SKIP",
-      "date": "2026-10-25T00:19:51+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TNujeB5CjQZWamTcFBcYkFdVhXgNYYthXHREWdmkEbmyEXGtyVUpaga36vu2Jay9l"
+      "id": "29411288281788865",
+      "title": "THE SHEEP WERE STILL BLEATING… BUT SAUL WAS ALREADY TELLING EVERYONE HE HAD OBEYED GOD.",
+      "date": "2026-10-25T03:11:39+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033busTssmBmUfmBHW7Vwy9oJTzXvnE1cdG3MBmhDCX6e212AhDQDKQSAN8HcNKuYil"
     },
     {
-      "id": "29409674681950225",
-      "title": "MOSES WENT 40 DAYS WITHOUT FOOD OR WATER ON MOUNT SINAI—BUT THE MOST SHOCKING PART IS WHAT HAPPENED WHEN HE CAME DOWN",
-      "date": "2026-10-24T23:56:20+00:00",
+      "id": "29411201948464165",
+      "title": "IF GOD IS REALLY WITH ME, WHY IS MY LIFE FALLING APART?",
+      "date": "2026-10-25T03:02:07+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GW15i9527B4YPL8RGiu5fnDuAbBHzopKJztgUMrKJd5mv7vKZtukZ86SXdGofQhXl"
+    },
+    {
+      "id": "29411064305144596",
+      "title": "JOSHUA HAD HIS SWORD READY… UNTIL ONE WORD FROM A STRANGER BROUGHT HIM TO HIS KNEES",
+      "date": "2026-10-25T02:46:14+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031ty5D2SrF4dDjgMjAz2xbyqFQQnqRBU2fJUS4bPbCTgZiDfzzyoNDTHg3kiiVKSbl"
+    },
+    {
+      "id": "29410856371832056",
+      "title": "THE DONKEY SAW THE ANGEL. THE PROPHET SAW NOTHING.",
+      "date": "2026-10-25T02:21:29+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034HzWxFs3u1H2Y2bm8m6gWHGMBDHRLYdVKXYvZrUuLSEzeDVmcUNuMt1j7aQL5kwWl"
+    },
+    {
+      "id": "29410800051837688",
+      "title": "GOD ASKED BALAAM, “WHO ARE THESE MEN WITH YOU?” — BUT THE REAL DANGER WAS WHAT BALAAM WAS HIDING IN HIS HEART",
+      "date": "2026-10-25T02:15:09+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04RrhTJ19byBQYwAh14nm8PVkXdtwJoxp6adSb7FEp7PNuBNNdEBVyosJVRZfzw4Ql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0p76TZ9CJDwrWj6RXmjSQqpHZZGxm9yvKvvK2z3XSN2Gq1fEXB8ihLXneKdeYr7Ztl"
     },
     {
-      "id": "29409620458622314",
-      "title": "HOW MANY YEARS DID ISRAEL REALLY LIVE IN EGYPT? THE 430-YEAR MYSTERY THAT REVEALS SOMETHING GREATER THAN A DATE",
-      "date": "2026-10-24T23:49:03+00:00",
+      "id": "29410620185189008",
+      "title": "MOSES ASKED GOD, “WHO AM I?” — BUT GOD’S ANSWER REVEALS SOMETHING THAT COULD CHANGE YOUR LIFE FOREVER",
+      "date": "2026-10-25T01:54:04+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ZN67aTNk26g95VHdcAdTKT2aGu9wQBxmPzAyo9kSRWHu4X8jrWmeVWpmrFsxJNvHl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023QZ9gneGE5SXNz55dAQqGh5qfMXBfAjPtjdPETeqoGwbmu3vMeQE16M3yFUQCxwtl"
     },
     {
-      "id": "29409574801960213",
-      "title": "WHY DID JOSEPH’S BROTHERS GO TO EGYPT AS TEN MEN—AND LEAVE THE ONE BROTHER WHO COULD HAVE CHANGED EVERYTHING BEHIND?",
-      "date": "2026-10-24T23:42:41+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0X1o5Gm77FfAs636nDUF15ThC5etJaUbotbHwywoR1M8x84XychG5bkERZzJcgGnZl"
+      "id": "29410546668529693",
+      "title": "“IS MY FATHER STILL ALIVE?” — THE QUESTION JOSEPH ASKED WHEN HE FINALLY FACED THE BROTHERS WHO DESTROYED HIS LIFE",
+      "date": "2026-10-25T01:45:16+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ceLGRW89EjYQxG5kAe3DC4eVaj34vqDEp6tRDkCYZC4Zq1GBoMyZcJ9kUn2Bz1Stl"
     },
     {
-      "id": "29409519761965717",
-      "title": "EGYPT MOURNED JACOB FOR 70 DAYS—BUT THE MOST POWERFUL PART OF HIS STORY HAPPENED BEFORE HE DIED",
-      "date": "2026-10-24T23:35:07+00:00",
+      "id": "29410483088536051",
+      "title": "JACOB REFUSED TO LET GO OF GOD—BUT THE REASON HE WAS WRESTLING WILL BREAK YOUR HEART",
+      "date": "2026-10-25T01:37:37+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02j45n2ALoyffKLYY9p1hNsp6aoRsVwdrxmBVSciUVQgdmAqE8x9CcMNu77CCbMiuyl"
-    },
-    {
-      "id": "29409430595307967",
-      "title": "WHY DID JACOB BOW SEVEN TIMES BEFORE MEETING ESAU? THE HEARTBREAKING TRUTH ABOUT A MAN WHO COULD FACE GOD BUT WAS TERRIFIED TO FACE HIS BROTHER",
-      "date": "2026-10-24T23:23:12+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02joDnEDTngUi3BFu5a82VNjcXyCoAHuzoUtDNrwFy3XvHWe1EcebEmgR7CCMAuuJyl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zSmSW1BiJxFoy3x3KNdhF5vfkQJyyupAg7vtauLR4pvEwAKcFzwBvZiPqguCzwQCl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-25T01:07:51Z",
-  "discovered": 9,
-  "processed": 9,
-  "discoveredLastRun": 9,
+  "lastCheckStarted": "2026-10-25T06:04:30Z",
+  "discovered": 16,
+  "processed": 16,
+  "discoveredLastRun": 16,
   "pagesScanned": 2,
   "latest": {
-    "id": "29410208978563462",
-    "title": "GOD HEARD SARAH LAUGH BEHIND THE TENT—THEN ASKED ONE QUESTION THAT STILL SHAKES HEAVEN AND EARTH",
-    "date": "2026-10-25T01:04:14+00:00"
+    "id": "29412794461638247",
+    "title": "THE DEAD STICK THAT CAME BACK TO LIFE: Why God Made Aaron’s Staff Produce Almonds Overnight",
+    "date": "2026-10-25T06:04:17+00:00"
   },
-  "lastImportCount": 9,
-  "lastImportAt": "2026-10-25T01:08:47Z",
+  "lastImportCount": 16,
+  "lastImportAt": "2026-10-25T06:05:30Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9507,
+  "structuredMetadata": 9523,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-6d86abd9370bfa32020d7c8d7524d466c4154c807b3ed95f573a193aa3435fa9",
-  "statusGeneratedAt": "2026-10-25T01:08:47Z"
+  "contentRevision": "sha256-a011bface71e5e1fdfd8a6b0c9c0382d99c08b5b7f41641e9c9ff212024e07a0",
+  "statusGeneratedAt": "2026-10-25T06:05:30Z"
 }
