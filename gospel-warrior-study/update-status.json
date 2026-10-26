@@ -1,177 +1,163 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 18 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-26T12:55:22Z",
-  "lastSuccess": "2026-10-26T12:55:22Z",
-  "currentTotal": 9558,
-  "totalWords": 14890766,
+  "lastCheck": "2026-10-26T19:16:33Z",
+  "lastSuccess": "2026-10-26T19:16:33Z",
+  "currentTotal": 9576,
+  "totalWords": 14969822,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 18,
   "recentAdded": [
     {
-      "id": "29419239307660429",
-      "title": "THE STRANGEST SACRIFICE GOD EVER ASKED FOR: HE WANTS YOU ON THE ALTAR… BUT HE DOESN’T WANT YOU DEAD.",
-      "date": "2026-10-25T16:44:29+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Egix819NzxSdzGJeJhf9frQ2AfwNZGBVvxvXy2NPEApvdvYifyxHuP8ckhSAWso2l"
+      "id": "29432610586323301",
+      "title": "HIS HAND WITHERED BEFORE HIS EYES… SO WHY DID HE STILL REFUSE TO REPENT?",
+      "date": "2026-10-26T17:05:35+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BmtKjuxuaXKn29ZxtFDGs5JGJbTkqYJcZs4NqE1xPqULkJ4gqacQTUjDiHb1B8kwl"
     },
     {
-      "id": "29419152061002487",
-      "title": "ROMANS 8 NEVER PROMISED YOU WOULDN’T SUFFER—IT PROMISED SOMETHING THE DEVIL CANNOT TAKE AWAY",
-      "date": "2026-10-25T16:36:41+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02m1mgxNfJFRZ3xoJxnFSGxYcCTa9b2j2FTvPrxMVZxYMfwN3FDM4i3WpLYBQ8R24hl"
+      "id": "29432523439665349",
+      "title": "HE STOOD BESIDE DAVID WHEN DEATH WAS NEAR—SO WHY DID SOLOMON STRIP HIM OF THE PRIESTHOOD?",
+      "date": "2026-10-26T16:56:56+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0L6NpSXHNYhNPCjd66nygCUWkCJcL4RaFbTGELv6f78geWtcwZ4csJBbtAg4oA8HMl"
     },
     {
-      "id": "29419027421014951",
-      "title": "“MORE THAN CONQUERORS” WAS WRITTEN TO CHRISTIANS WHO WERE BEING CRUSHED, PERSECUTED, AND KILLED—NOT PEOPLE WHO HAD EASY LIVES",
-      "date": "2026-10-25T16:25:36+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023tBkQXsSnKM47kLSA57QFNwpy4hcVnU5Mm8XNAVvpe4wuTmcU2ZeScrQhMEaseX1l"
+      "id": "29432458546338505",
+      "title": "SOLOMON EXECUTED HIS OWN BROTHER OVER A WOMAN—BUT THE REAL REASON WAS FAR MORE DANGEROUS",
+      "date": "2026-10-26T16:50:36+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zSspkgDgv66YMb38L4VtyEoiSHWNskitapUSVJYiv6eFEk9rJBgncoMi8sK6qET5l"
     },
     {
-      "id": "29418834301034263",
-      "title": "“IF GOD IS FOR US, WHO CAN BE AGAINST US?” — THEN WHY DID PAUL IMMEDIATELY LIST EVERYTHING THAT CAME AGAINST CHRISTIANS?",
-      "date": "2026-10-25T16:09:01+00:00",
+      "id": "29432376066346753",
+      "title": "HIS SON TRIED TO KILL HIM. THEN DAVID CRIED THE WORDS THAT BROKE A KING.",
+      "date": "2026-10-26T16:42:34+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XpkmHA2EhNrptAkds9MENynH6T92qUaKYcjxDxxyhnsjdB9Hxu9Cu5pycFq4gbjdl"
+    },
+    {
+      "id": "29432309206353439",
+      "title": "THE MOST DANGEROUS BETRAYAL BEGINS WITH SOMEONE WHO MAKES YOU FEEL UNDERSTOOD",
+      "date": "2026-10-26T16:36:05+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HKqXgcZcFjwYY8g5XiTiKow6zhmitfwroSPLboAix52EuLXep3tTy4cVC2yXi2qdl"
+    },
+    {
+      "id": "29431860236398336",
+      "title": "HE CURSED THE KING, THREW STONES AT HIM, AND WALKED AWAY ALIVE. WHY DID DAVID LET HIM?",
+      "date": "2026-10-26T15:52:52+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0soarFemsDrfPPZrMHf3BSyMn2c3jF9SWEHYQcSNvghBMvKVWpTdfJmLWChoW9NKSl"
+    },
+    {
+      "id": "29431775039740189",
+      "title": "HE GREW UP SURROUNDED BY CORRUPT PRIESTS… SO WHY DID SAMUEL REFUSE TO WALK AWAY FROM GOD?",
+      "date": "2026-10-26T15:44:51+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Rt67BXLaMZ7azzCVVSdkV9efHgMecP3e6TwYpCDqWHveqaSdqrCFVXMccUKth2sJl"
+    },
+    {
+      "id": "29431585246425835",
+      "title": "GOD DIDN’T REJECT ELI’S HOUSEHOLD WITHOUT WARNING—HE REJECTED WHAT THEY REFUSED TO REPENT OF",
+      "date": "2026-10-26T15:27:13+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tAZ3BoKhJrZpqdT2eTDVMeVdkDxgjTpqEJkj8rF4rGpxvzQgyD1kJFbiXkEp7dmjl"
+    },
+    {
+      "id": "29431414953109531",
+      "title": "HE WAS ONE BREATH AWAY FROM SUICIDE—THEN A PRISONER CRIED OUT AND CHANGED HIS ETERNITY",
+      "date": "2026-10-26T15:11:29+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0367vj9KEe6Ls4xkp9e79gHXmdt7qbzbPVCpbt9NbxnD41hpySRCTwrp6wofgAKuF4l"
+    },
+    {
+      "id": "29431193723131654",
+      "title": "HE TRIED TO BUY THE POWER OF GOD—BUT PETER SAW SOMETHING TERRIFYING INSIDE HIS HEART",
+      "date": "2026-10-26T14:51:14+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mLSrrGMrqdF5RVfkhReNzxkQVLLrVCzJucmnTVsN6cHyG7QWt5QLkFWduAFjFhEul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02k4BcYT97YhittRsppVWG6drgtrr5LeKxrwdt2HGLW2dniP6Q8V6KWYMBeVtHYPHwl"
     },
     {
-      "id": "29418711284379898",
-      "title": "WHEN THE HOUSE OF GOD BECOMES A BUSINESS EMPIRE: DID JESUS DIE TO SAVE SOULS OR TO BUILD SOMEONE ELSE’S KINGDOM?",
-      "date": "2026-10-25T15:58:17+00:00",
+      "id": "29431105913140435",
+      "title": "THEY THOUGHT THEY WERE DEFENDING GOD… UNTIL ONE MAN WARNED THEM THEY MIGHT BE FIGHTING HIM",
+      "date": "2026-10-26T14:43:00+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Ps88jF7ne7HWtnrwg1SSw29nimz11xFw2dJdredixBo72vDebUpFibvCEvGEjzWol"
+    },
+    {
+      "id": "29430995326484827",
+      "title": "THEY CALLED PETER AND JOHN UNEDUCATED—UNTIL THEY REALIZED WHO HAD BEEN WITH THEM",
+      "date": "2026-10-26T14:32:48+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Dvph8zHF4ihRGwLysozDnCv5qtUDpptdG4deKRjxHn5hQMUyz7BCh4PVMZXrgyU7l"
+    },
+    {
+      "id": "29430895366494823",
+      "title": "THEY WALKED PAST HIM FOR YEARS… UNTIL THE NAME OF JESUS CHANGED EVERYTHING",
+      "date": "2026-10-26T14:23:35+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021VpJxWythVucWWZyg2KSgGBfEoD49ZiexDNCMtFcncpTJmWugMyGZK4d7EHGcqT4l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0BMKDWmgsy1tQEwac9fY4eCS9uYnfPWcudjsvREN4cHm2JRYRCgE8cwr8w8uGS3Qdl"
     },
     {
-      "id": "29418586651059028",
-      "title": "WHY DID GOD COMMAND POMEGRANATES ON THE HIGH PRIEST’S ROBE? THE ANSWER REVEALS SOMETHING ABOUT JESUS MOST CHRISTIANS HAVE NEVER NOTICED",
-      "date": "2026-10-25T15:47:20+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032vhu37vfu7vZLH7VPSfQAvRPu5vPqCHbrbqfYxAyE5AxAQhuVhPCqYM4EXqa6KJJl"
+      "id": "29430822689835424",
+      "title": "THEY HEARD GOD SPEAK IN THEIR OWN LANGUAGE… BUT THE GREATEST MIRACLE WAS WHAT HE WAS SAYING",
+      "date": "2026-10-26T14:16:57+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02prfp8VMWjKFdNBf3VTMYCW9GL9eth6s8dt1Nf95xqe6vo5St4pgrp3PTpkRQgrGtl"
     },
     {
-      "id": "29418479451069748",
-      "title": "WHY DID MOSES PUT A JAR OF MANNA BEFORE THE LORD? THE SECRET GOD HID IN THE WILDERNESS THAT POINTED STRAIGHT TO JESUS CHRIST",
-      "date": "2026-10-25T15:37:48+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RrT1Y2UhA9fn9rderecwjMVFZE4ncVwodx8ms1RhUrx5r8sKmajfb74cXV1Raavcl"
-    },
-    {
-      "id": "29418334064417620",
-      "title": "WHY WAS SATAN ALLOWED TO STAND BEFORE GOD? THE TERRIFYING TRUTH HIDDEN IN JOB 1:6–12",
-      "date": "2026-10-25T15:25:08+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pCE8WgQeGKGNYK5n3ziVMjT8RJ8Ann5HxmovsMb5xSvNKrGqUpQPLraQCGCx4cWpl"
-    },
-    {
-      "id": "29418261524424874",
-      "title": "THEY MARKED A DAY FOR THEIR DEATH. GOD TURNED IT INTO A DAY THEY WOULD NEVER FORGET.",
-      "date": "2026-10-25T15:18:48+00:00",
+      "id": "29430739223177104",
+      "title": "WHY DID THE HOLY SPIRIT COME AS TONGUES OF FIRE? THE TERRIFYING BEAUTY OF WHAT GOD WAS REALLY DOING AT PENTECOST",
+      "date": "2026-10-26T14:09:19+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wwdNDt3PwJqzTUoFwDEHda49J1yJTaJS8NtVPh1FpsPoR8JF3pA3ppqnPQcRWymVl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XpY6WkWgqoS4N73FhMjbyfdYuDRh8kHuFA6uyepqniu639GfuCeYbT8gTxcXiZxil"
     },
     {
-      "id": "29418138871103806",
-      "title": "WHY DID MORDECAI SIT AT THE KING’S GATE? THE SECRET ASSIGNMENT THAT SAVED A NATION BEFORE ANYONE KNEW IT WAS IN DANGER",
-      "date": "2026-10-25T15:08:21+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Ph7G1P17EcB8gMQ583WHTgcyGS2LAcJ6CdHWy4zGLDPzE8RQk9uHAnntbv77z2Al"
+      "id": "29430654053185621",
+      "title": "JUDAS LEFT AN EMPTY SEAT… BUT WHY DID GOD ALLOW MATTHIAS TO TAKE HIS PLACE?",
+      "date": "2026-10-26T14:01:34+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02CiP5m3aSqVQJsQu9fMKYYpTx3S6HFdFiUxvNTFba3QexxDhvWcScfJRVt5Ge7SSfl"
     },
     {
-      "id": "29417970974453929",
-      "title": "SHE SPENT 12 MONTHS PREPARING FOR ONE NIGHT WITH A KING—BUT THE REAL STORY OF ESTHER WILL BREAK YOUR HEART",
-      "date": "2026-10-25T14:54:07+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jQcdRVsYMHwrJW3Gh16hkt68zJkBZwjhucHp6sRAnD94L1vCAV5zPjo12nQbkzaal"
-    },
-    {
-      "id": "29417881271129566",
-      "title": "SHE HID WHO SHE WAS… UNTIL THE DAY HER SILENCE COULD COST AN ENTIRE NATION ITS LIFE",
-      "date": "2026-10-25T14:46:26+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SAgsw6RDdQh3MP9EbUpTwbvA9LR2Ez7vWSw8dkWvS9dvoAo5XF6HNWF7vndoN53gl"
-    },
-    {
-      "id": "29417690867815273",
-      "title": "SHE WORE TROUSERS TO CHURCH… AND SOMEONE QUESTIONED HER HOLINESS. BUT WHAT DOES GOD ACTUALLY SAY?",
-      "date": "2026-10-25T14:30:05+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0316t56jb4Jy8CoUTy3RG4daB6igVkPybWp2vLbZiYzoqRnaQsYUFgsz3hLcfXKF5Hl"
-    },
-    {
-      "id": "29417608027823557",
-      "title": "THEY CALLED VASHTI REBELLIOUS. BUT DID GOD EVER CALL HER THAT?",
-      "date": "2026-10-25T14:22:55+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pgWk8PnS9NQuqSBNxfVCGAWDK24RyuC7SqzEMBDMcJ3UrqouQfUVDzxZpSm9eQrFl"
-    },
-    {
-      "id": "29417535274497499",
-      "title": "THE QUEEN WHO SAID NO: WHY DID VASHTI REFUSE THE KING—AND WHAT WAS REALLY HAPPENING BEHIND THE PALACE DOORS?",
-      "date": "2026-10-25T14:16:34+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033BtNgXUSnMGnvzw7GVkg1jcabiJQmTh4hW5QhASxDnu68greRpMbGzNGMwrVk5SCl"
-    },
-    {
-      "id": "29417453797838980",
-      "title": "DAVID HAD 600 WARRIORS, A BURNING CITY, AND EVERY REASON TO FIGHT—SO WHY DID HE STOP TO ASK GOD?",
-      "date": "2026-10-25T14:09:32+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FQZ1Cr7DzhyLew2BvwuRx4pATjateFMwgjeaw2knYFw6CouyBGQVFWUY5Q4K58RCl"
-    },
-    {
-      "id": "29417329341184759",
-      "title": "WHY DID SAUL ORDER THE SLAUGHTER OF 85 PRIESTS? THE TERRIFYING DAY A KING TURNED AGAINST GOD",
-      "date": "2026-10-25T13:58:46+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06ycrPWADggSPTQCMopmYbiLKWeiRSoWXhQWjFxCjQ4ydmrtE6EeXjbcP6Grfs9vXl"
-    },
-    {
-      "id": "29417256041192089",
-      "title": "WHY DID DAVID HIDE IN A CAVE WITH 400 BROKEN MEN? THE ANSWER REVEALS WHAT GOD DOES WITH PEOPLE THE WORLD HAS GIVEN UP ON",
-      "date": "2026-10-25T13:52:25+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aLfFJfy6kk5CVV6qoTY8o8KmhYcaXLanUHxWtiz3gVEc1TxHL8qcyZaw2DQXFppnl"
-    },
-    {
-      "id": "29417159164535110",
-      "title": "SHOULD CHRISTIANS LEARN TO FIGHT? THE BIBLICAL TRUTH ABOUT SELF-DEFENSE, MARTIAL ARTS, AND THE MOMENT YOUR FAITH IS TESTED",
-      "date": "2026-10-25T13:43:57+00:00",
+      "id": "29430571059860587",
+      "title": "WHY DID GOD CHOOSE ACACIA WOOD? THE HIDDEN MESSAGE IN THE TABERNACLE THAT POINTS STRAIGHT TO JESUS CHRIST",
+      "date": "2026-10-26T13:53:57+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MPJ53Z2mQjcr3JZV3NXwc7tupjiTDfzK2eh89Uue5xapRYsA2zTKmoY7tkchVz5Jl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hCqiSqNVRhDd6mWFwFnJyRweniSzZUh847KYAJYNYbJVFvSQH7yxKFutrncLgMMtl"
     },
     {
-      "id": "29417076047876755",
-      "title": "SHOULD CHRISTIANS OWN A GUN? THE QUESTION THAT COULD EXPOSE WHAT WE REALLY TRUST",
-      "date": "2026-10-25T13:36:35+00:00",
+      "id": "29430428113208215",
+      "title": "GOD COMMANDED TWO STONES TO BE PLACED ON THE HIGH PRIEST’S SHOULDERS—AND THE REASON WILL CHANGE HOW YOU SEE JESUS CARRYING YOU",
+      "date": "2026-10-26T13:40:26+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0usVm8wqJjKSy2TQZJgTaHZf7Tmr3UwBJbrp5vCVramuf3G4NKmJHNNbPievV6B7ml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ndUSqVs2dSCfXLuiTTtypbHvidBNjb4hH4P3BqgrK9QJS6a5zhG3cyfpHigHoCy5l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-26T12:55:08Z",
-  "discovered": 21,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-26T19:15:44Z",
+  "discovered": 18,
+  "processed": 18,
+  "discoveredLastRun": 18,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29419239307660429",
-    "title": "THE STRANGEST SACRIFICE GOD EVER ASKED FOR: HE WANTS YOU ON THE ALTAR… BUT HE DOESN’T WANT YOU DEAD.",
-    "date": "2026-10-25T16:44:29+00:00"
+    "id": "29432610586323301",
+    "title": "HIS HAND WITHERED BEFORE HIS EYES… SO WHY DID HE STILL REFUSE TO REPENT?",
+    "date": "2026-10-26T17:05:35+00:00"
   },
-  "lastImportCount": 21,
-  "lastImportAt": "2026-10-25T19:02:39Z",
+  "lastImportCount": 18,
+  "lastImportAt": "2026-10-26T19:16:33Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9558,
+  "structuredMetadata": 9576,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-9bf5a9b01e4d753265e18ab199c6402b0179529c3246c3c5dfd68fae4d1d485e",
-  "statusGeneratedAt": "2026-10-26T12:55:23Z"
+  "contentRevision": "sha256-51cbc18d1fc2a2107d26fab245380a845b42b9fa855f31133096d0ad3ca64d98",
+  "statusGeneratedAt": "2026-10-26T19:16:33Z"
 }
