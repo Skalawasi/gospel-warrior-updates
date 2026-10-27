@@ -4,8 +4,8 @@
   "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-27T07:48:09Z",
-  "lastSuccess": "2026-10-27T07:48:09Z",
+  "lastCheck": "2026-10-27T14:28:12Z",
+  "lastSuccess": "2026-10-27T14:28:12Z",
   "currentTotal": 9579,
   "totalWords": 14981919,
   "subjects": 17,
@@ -34,11 +34,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-27T07:47:52Z",
-  "discovered": 3,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-27T14:27:40Z",
+  "discovered": 12,
+  "processed": 12,
+  "discoveredLastRun": 12,
+  "pagesScanned": 2,
   "latest": {
     "id": "29435691332681893",
     "title": "“BE TRANSFORMED BY THE RENEWING OF YOUR MIND” — JESUS NEVER TOLD YOU TO JUST THINK POSITIVE",
@@ -54,5 +54,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-9865d1326e1cf8e5a7bf6c3bcd1ab7112ae98178ac4e75e2897fff2eead5f4c1",
-  "statusGeneratedAt": "2026-10-27T07:48:09Z"
+  "statusGeneratedAt": "2026-10-27T14:28:12Z"
 }
