@@ -1,177 +1,58 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 20 new public studies.",
+  "message": "Added 3 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-27T20:04:50Z",
-  "lastSuccess": "2026-10-27T20:04:50Z",
-  "currentTotal": 9599,
-  "totalWords": 15069487,
+  "lastCheck": "2026-10-27T23:45:31Z",
+  "lastSuccess": "2026-10-27T23:45:31Z",
+  "currentTotal": 9602,
+  "totalWords": 15081866,
   "subjects": 17,
-  "addedLastRun": 20,
+  "addedLastRun": 3,
   "recentAdded": [
     {
-      "id": "29447667164817643",
-      "title": "THE KING WHO TRUSTED GOD FOR VICTORY… BUT COULDN’T TRUST HIM WITH HIS PAIN",
-      "date": "2026-10-27T18:36:58+00:00",
+      "id": "29449825387935154",
+      "title": "THE FAMILY SECRETS, FORBIDDEN DESIRES, AND SEXUAL SCANDALS GOD REFUSED TO ERASE FROM THE BIBLE",
+      "date": "2026-10-27T22:23:56+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DFWNjGxR6mEbBHo6oXUXKeZaiQTEx6PgGKcxB4jHiyokJN6qk1qoqV95xTZ18s8Ul"
+    },
+    {
+      "id": "29449784304605929",
+      "title": "THE DESIRE YOU KEEP HIDING MAY NOT BE THE SIN—BUT WHERE IT'S TAKING YOU COULD DESTROY EVERYTHING",
+      "date": "2026-10-27T22:19:46+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035ahCXpfJFvpBRGRC6bibDo5UX16dQ458Fun4iU9Jchvxw9bvYnzjLBJZgxsXPgWDl"
+    },
+    {
+      "id": "29449718561279170",
+      "title": "HIS BODY BEGAN TO FALL APART… BUT HIS HEART HAD ALREADY TURNED AWAY FROM GOD",
+      "date": "2026-10-27T22:12:38+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02D1xwG9NMz12N51SwEXW9ksWanyYJbsw9wBw91rvYoKsfR3iBZojL259CNfmcQSmzl"
-    },
-    {
-      "id": "29447430661507960",
-      "title": "“OBEY THE GOVERNMENT”—EVEN WHEN IT TELLS YOU TO DISOBEY GOD? THE TERRIFYING MISUSE OF ROMANS 13",
-      "date": "2026-10-27T18:14:40+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Tx7QKVRzUT3p2eH2XEwFxindoANFwpu5gfHcELhpw1XtzNUAKi2hTaz2WURnAst1l"
-    },
-    {
-      "id": "29446886231562403",
-      "title": "THE PERSON WHO BROKE YOU MAY NEVER APOLOGIZE. DOES GOD STILL EXPECT YOU TO FORGIVE?",
-      "date": "2026-10-27T17:26:10+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Wn2ysi2eN69TeGi3TWWxbSvCYqwqgmidUnGmQGhcgAzPc5wrMmiGtzuGGvyQvyjNl"
-    },
-    {
-      "id": "29445339451717081",
-      "title": "THEY TRIED TO DESTROY YOU. JESUS SAID TO BLESS THEM.",
-      "date": "2026-10-27T15:10:06+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XZuKDbNtSVnQWAXir1cJx7d1v785dx435u9ZVJRtHGuQQjZ8k64uHZZidq6nKXhTl"
-    },
-    {
-      "id": "29445257468391946",
-      "title": "THE KING WHO POINTED AT GOD’S PROPHET—AND WATCHED HIS OWN HAND DIE BEFORE HIS EYES",
-      "date": "2026-10-27T15:02:59+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid038MfmMKVzqPBboVJwjMLgv6Ewm6sjJbtgjuHnzJthFiHvcLoJ9xwo18gowMf2jEbhl"
-    },
-    {
-      "id": "29445152951735731",
-      "title": "SHE GAVE TWO COINS. THE RICH GAVE FORTUNES. SO WHY DID JESUS SAY SHE GAVE MORE?",
-      "date": "2026-10-27T14:53:58+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02He5N3hF58Repk62FajinfNRtQopeNJ6uQAxHySPMY7acRdJz6MBAKn2W1P8HKAMUl"
-    },
-    {
-      "id": "29445053571745669",
-      "title": "JESUS TOLD PETER TO CATCH A FISH… BUT WHAT WAS INSIDE ITS MOUTH REVEALED SOMETHING FAR GREATER THAN MONEY",
-      "date": "2026-10-27T14:45:16+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SEHysVF5nLzK4QxqK4gnyX23FGuDpsfxHpcd2yrFDo5smy8Um4Qrvowudzpt4FW4l"
-    },
-    {
-      "id": "29444970915087268",
-      "title": "JUDAS SOLD JESUS FOR 30 PIECES OF SILVER… BUT THE MOST TERRIFYING PART IS WHY HE DID IT",
-      "date": "2026-10-27T14:38:06+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025aUZoQQozavkkXkg4SWtV2mgqUET4RVCnrNog5BQF5x7sN1EANyRvjfLnU4FjGFGl"
-    },
-    {
-      "id": "29444742751776751",
-      "title": "HE PAID 400 PIECES OF SILVER TO BURY THE WOMAN HE LOVED—BUT THE REAL STORY IS WHAT GOD HAD PROMISED HIM",
-      "date": "2026-10-27T14:18:28+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02r9okwAFZHcxPAE8ZNMfxqy2JLwMWWTUEo4fLVfDmMohNc95f7DLj761g7r4EGgC2l"
-    },
-    {
-      "id": "29444673555117004",
-      "title": "THE FAMILY TREE THEY WOULD HAVE HIDDEN… BUT GOD PUT IT ON THE FIRST PAGE OF JESUS’ STORY",
-      "date": "2026-10-27T14:12:17+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033sy53NjwAzaYggFupA5U5PRp51fNCRU9N5p1nxpn7jpXU6YKRLMo4s1oAuF5v8iKl"
-    },
-    {
-      "id": "29444416928476000",
-      "title": "ISHMAEL HAD 12 SONS… BUT WHAT HAPPENED TO THEM? THE FORGOTTEN FAMILY TREE THAT REVEALS SOMETHING ABOUT GOD YOU MAY HAVE NEVER NOTICED",
-      "date": "2026-10-27T13:50:07+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wMt7mjrBA3rfGReEQBRvjYTvwXzFVE5S9Eqmxb6XPjSbdi5Rrj5G6fu3tXRSdhZGl"
-    },
-    {
-      "id": "29444355885148771",
-      "title": "ABRAHAM GAVE HIS OTHER SONS GIFTS… BUT ISAAC GOT EVERYTHING. WAS THIS FAVORITISM, OR WAS GOD REVEALING SOMETHING FAR GREATER?",
-      "date": "2026-10-27T13:44:50+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TUvC12W7Jv8m6DSD1KpX5AdBTPqBHy4cmtrTBbXYFrADYvuCPdo9MWgVr2how5ihl"
-    },
-    {
-      "id": "29444280241823002",
-      "title": "WHY DID ABRAHAM MARRY ANOTHER WOMAN AFTER SARAH DIED? THE FORGOTTEN CHAPTER THAT REVEALS SOMETHING STUNNING ABOUT GOD’S PROMISES",
-      "date": "2026-10-27T13:38:25+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Y5VsxWup2hT2J76t9ib7cTMxtfahzNyohqtW8QqfYDf6EbiyfPK37QHpd64qk81sl"
-    },
-    {
-      "id": "29444167688500924",
-      "title": "THE FIRST CITY IN THE BIBLE WAS BUILT BY A MURDERER’S SON—BUT THE NAME BEHIND IT REVEALS SOMETHING EVEN MORE DISTURBING",
-      "date": "2026-10-27T13:28:46+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oe7xGoSCqwegshJj8DzCjwGEXfdqtweei1pyWy1HDYkuqYVegjGi5bpJ1sHdxQ1ml"
-    },
-    {
-      "id": "29444085688509124",
-      "title": "WHY DID GOD TAKE ENOCH AT JUST 365 YEARS OLD? THE MAN WHO NEVER DIED—AND THE TERRIFYING QUESTION HIS STORY LEAVES FOR EVERYONE STILL ALIVE",
-      "date": "2026-10-27T13:21:44+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0k1M2vshLXDuPzrKLMAh6W4YBqAv2qRBzvZqcm4rwWsvhGKg851GSHk4hu8WeYwZwl"
-    },
-    {
-      "id": "29443879528529740",
-      "title": "HOW MANY GENERATIONS PASSED FROM ADAM TO NOAH? THE TEN NAMES THAT BURIED A WORLD—AND THE GRACE THAT REFUSED TO DIE",
-      "date": "2026-10-27T13:04:14+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02w7aLdByhYTt82JjgqCaRo9vuLCBhamXH3psXuEfFUFwwrM91phhZD5nhXM2EozJZl"
-    },
-    {
-      "id": "29443468908570802",
-      "title": "NEVER BE LACKING IN ZEAL: THE DANGEROUS DIFFERENCE BETWEEN BEING ON FIRE FOR GOD AND JUST FEELING THE HEAT",
-      "date": "2026-10-27T12:29:42+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZAjQ36YRPs5uPKwYAq3HoWzCRdiTLrxY3YenbeDTQmqB4gZ1ryKpA4HCH2qtxRGkl"
-    },
-    {
-      "id": "29443416725242687",
-      "title": "THE VERSE AFTER “RENEW YOUR MIND” THAT MOST CHRISTIANS AREN’T READY TO FACE",
-      "date": "2026-10-27T12:24:55+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cFBX1UgKnLbJS9suN8KyRxbpHRJ9aPhkG1jWZ3p2fGoL6enX8rzxHmNTEjXXo2x9l"
-    },
-    {
-      "id": "29442990088618684",
-      "title": "GOD’S GOOD, PLEASING, AND PERFECT WILL: HAVE WE BEEN BELIEVING A LIE ABOUT ROMANS 12:2?",
-      "date": "2026-10-27T11:45:40+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037NmdUVeKKD3dzLpap1NeBrFytASojk55TMmZ5hzeGgzTAdYdUZgQcpuHx79LMnAol"
-    },
-    {
-      "id": "29442937801957246",
-      "title": "THE FIRST MAN IN THE BIBLE TO HAVE TWO WIVES—AND THE TERRIFYING WORDS HE SPOKE AFTERWARD",
-      "date": "2026-10-27T11:40:41+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0A811yfV9adiZkbkAuLpNk2APh2DpCzCV1SDsYkkkdtwYRXb4duYKiDYg1SkNjFNdl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FnHXDfKWq74xbcL1FNviiVDmqcF5fgv3wavyj9kmNgFBeuUjNcGfnGc2EF6YZePKl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-27T20:03:56Z",
-  "discovered": 21,
-  "processed": 21,
-  "discoveredLastRun": 21,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-27T23:45:00Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29447667164817643",
-    "title": "THE KING WHO TRUSTED GOD FOR VICTORY… BUT COULDN’T TRUST HIM WITH HIS PAIN",
-    "date": "2026-10-27T18:36:58+00:00"
+    "id": "29449825387935154",
+    "title": "THE FAMILY SECRETS, FORBIDDEN DESIRES, AND SEXUAL SCANDALS GOD REFUSED TO ERASE FROM THE BIBLE",
+    "date": "2026-10-27T22:23:56+00:00"
   },
-  "lastImportCount": 20,
-  "lastImportAt": "2026-10-27T20:04:50Z",
+  "lastImportCount": 3,
+  "lastImportAt": "2026-10-27T23:45:31Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9599,
+  "structuredMetadata": 9602,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-872703a877b32a7664e6fd502587d83ef8398443c39f0bf4518a4e61db1bfe97",
-  "statusGeneratedAt": "2026-10-27T20:04:50Z"
+  "contentRevision": "sha256-411d8b2e43b3df4c8ed1c6aa6c8a43b9c190a1620d944538b3a55519b41b4237",
+  "statusGeneratedAt": "2026-10-27T23:45:31Z"
 }
