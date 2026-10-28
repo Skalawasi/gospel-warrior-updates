@@ -1,58 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-28T18:51:08Z",
-  "lastSuccess": "2026-10-28T18:51:08Z",
-  "currentTotal": 9602,
-  "totalWords": 15081866,
+  "lastCheck": "2026-10-28T23:13:03Z",
+  "lastSuccess": "2026-10-28T23:13:03Z",
+  "currentTotal": 9615,
+  "totalWords": 15137690,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29449825387935154",
-      "title": "THE FAMILY SECRETS, FORBIDDEN DESIRES, AND SEXUAL SCANDALS GOD REFUSED TO ERASE FROM THE BIBLE",
-      "date": "2026-10-27T22:23:56+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DFWNjGxR6mEbBHo6oXUXKeZaiQTEx6PgGKcxB4jHiyokJN6qk1qoqV95xTZ18s8Ul"
+      "id": "29464242926493400",
+      "title": "DID GOD COMMAND AN ABORTION RITUAL? THE DISTURBING PASSAGE IN NUMBERS 5 THAT CHRISTIANS CANNOT AFFORD TO MISUNDERSTAND",
+      "date": "2026-10-28T22:19:25+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02i1anZJ4GhHUUxx8GhQRg3m7wSHVHEjYnY5AxuEHWT9Nc7jfRADM7anjQjRsrreubl"
     },
     {
-      "id": "29449784304605929",
-      "title": "THE DESIRE YOU KEEP HIDING MAY NOT BE THE SIN—BUT WHERE IT'S TAKING YOU COULD DESTROY EVERYTHING",
-      "date": "2026-10-27T22:19:46+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035ahCXpfJFvpBRGRC6bibDo5UX16dQ458Fun4iU9Jchvxw9bvYnzjLBJZgxsXPgWDl"
+      "id": "29464201209830905",
+      "title": "HE SLEPT WITH HER. BUT HER FATHER COULD STILL SAY NO.",
+      "date": "2026-10-28T22:15:01+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02phPUty7yLWBXHZz9DsHHespQzpy7KtoseDe1EhDhMWF5pfmVVdV7TbDgtmS44V81l"
     },
     {
-      "id": "29449718561279170",
-      "title": "HIS BODY BEGAN TO FALL APART… BUT HIS HEART HAD ALREADY TURNED AWAY FROM GOD",
-      "date": "2026-10-27T22:12:38+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FnHXDfKWq74xbcL1FNviiVDmqcF5fgv3wavyj9kmNgFBeuUjNcGfnGc2EF6YZePKl"
+      "id": "29460299230221103",
+      "title": "DID THE BIBLE FORCE A RAPE VICTIM TO MARRY HER ATTACKER? THE DISTURBING VERSE THAT DESERVES MORE THAN A QUICK ANSWER",
+      "date": "2026-10-28T16:16:46+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RBgZHUeNDfsLP4C1DHWjFVdQRsoQmeF6qpxtoWsFBmy1HEdtDGveZ22aUDPDKwPFl"
+    },
+    {
+      "id": "29459329853651374",
+      "title": "A HIGH PRIEST WAS FORBIDDEN TO MARRY A WOMAN WITH A PAST—BUT THE REASON WILL LEAD YOU STRAIGHT TO JESUS",
+      "date": "2026-10-28T14:55:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02baCCkNcpbucaAoVbSZsBQAZtSZJGV87p5KxsMDXgPq4p4ZkPdZwaPKPeDhVG1EQJl"
+    },
+    {
+      "id": "29459191333665226",
+      "title": "GOD COMMANDED A PENALTY FOR SEX DURING MENSTRUATION—BUT THE REASON IS DEEPER THAN MOST CHRISTIANS REALIZE",
+      "date": "2026-10-28T14:44:11+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dJ1dCNojHxgBDeszaJC8x25awTuhKqBHN9cszwfuWatUst8UtEwNMLPhupnovgfnl"
+    },
+    {
+      "id": "29459128493671510",
+      "title": "THEY WERE UNCLEAN… BUT HAD THEY SINNED? THE SHOCKING TRUTH ABOUT LEVITICUS 15 THAT MANY CHRISTIANS HAVE NEVER BEEN TAUGHT",
+      "date": "2026-10-28T14:39:00+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hKiqsJqbS6jpzZvnmV7CCLbWB2JHBtgaUSKuKCjoqJDLiAhcgGQDgiNb2SSdVNL1l"
+    },
+    {
+      "id": "29459013557016337",
+      "title": "GOD CALLED IT UNCLEAN—BUT DID HE EVER CALL THE WOMAN WORTHLESS?",
+      "date": "2026-10-28T14:29:33+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SWnU7Kr9oiDnvJJqSiFHzkFcnFPPGyTyPhaSvwKtabs1zskLGGzwAGSgeGiQhc56l"
+    },
+    {
+      "id": "29458904050360621",
+      "title": "THE BIBLE FORBIDS A MAN FROM SLEEPING WITH A WOMAN AND HER GRANDDAUGHTER—WHY WOULD GOD GET THAT SPECIFIC?",
+      "date": "2026-10-28T14:20:39+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yzSzz6rRvsXiRbjkeVFG24ytp7Uh5CZ8BWvrsYWBKpXSPMVNrJo1BtdKhU5apADnl"
+    },
+    {
+      "id": "29458422113742148",
+      "title": "GOD CALLED IT WICKEDNESS: THE FORBIDDEN FAMILY RELATIONSHIP THAT LEVITICUS EXPOSED",
+      "date": "2026-10-28T13:41:15+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05x6qwE2YvRsEPRNQ63fMfbd2vNm6gRpasmVSLV6dwhxJ2FdQiCW4eaW5D32gNtPnl"
+    },
+    {
+      "id": "29458342117083481",
+      "title": "THE FAMILY SECRET GOD REFUSED TO KEEP: WHY DID GOD FORBID SEX BETWEEN CLOSE RELATIVES WHEN EVEN BIBLICAL FAMILIES HAD PRACTICED IT?",
+      "date": "2026-10-28T13:34:54+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bwALp3tT1WQgBAyqQ2PTWZFhjweFDESjt5WPFaTyhAapefc5TThshC2itiSfeLe2l"
+    },
+    {
+      "id": "29457965397121153",
+      "title": "THE LAW THAT FORBADE A MAN FROM SLEEPING WITH HIS BROTHER’S WIFE—AND THE EXCEPTION THAT CHANGES EVERYTHING",
+      "date": "2026-10-28T13:02:47+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0T8VkHbeTPKh3MzGvuybXBEkamFrHf3nJTevfEWsexvRa96zGL72y6ogt6hGqcnADl"
+    },
+    {
+      "id": "29457861093798250",
+      "title": "HE WAS SLEEPING WITH HIS FATHER’S WIFE… AND THE CHURCH WAS PROUD OF IT.",
+      "date": "2026-10-28T12:54:03+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0uWkN9NzXhVPyUec5SqwURYACWJrVF31A4PLXBYLkxhmE15Z912z9bWMfeZLkVcqql"
+    },
+    {
+      "id": "29457794753804884",
+      "title": "GOD FORBADE A MAN FROM MARRYING TWO SISTERS WHILE BOTH WERE ALIVE—SO WHY DID JACOB MARRY LEAH AND RACHEL?",
+      "date": "2026-10-28T12:48:24+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oAGnXbFsnauLxSHTtPjzYNxnqCntpGT4qKdxKbB1oTC6JHQn7dtS5dhMgrN5gD7Yl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-28T18:50:33Z",
-  "discovered": 12,
-  "processed": 12,
-  "discoveredLastRun": 12,
+  "lastCheckStarted": "2026-10-28T23:11:59Z",
+  "discovered": 14,
+  "processed": 14,
+  "discoveredLastRun": 14,
   "pagesScanned": 2,
   "latest": {
-    "id": "29449825387935154",
-    "title": "THE FAMILY SECRETS, FORBIDDEN DESIRES, AND SEXUAL SCANDALS GOD REFUSED TO ERASE FROM THE BIBLE",
-    "date": "2026-10-27T22:23:56+00:00"
+    "id": "29464242926493400",
+    "title": "DID GOD COMMAND AN ABORTION RITUAL? THE DISTURBING PASSAGE IN NUMBERS 5 THAT CHRISTIANS CANNOT AFFORD TO MISUNDERSTAND",
+    "date": "2026-10-28T22:19:25+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-10-27T23:45:31Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-10-28T23:13:03Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9602,
+  "structuredMetadata": 9615,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-411d8b2e43b3df4c8ed1c6aa6c8a43b9c190a1620d944538b3a55519b41b4237",
-  "statusGeneratedAt": "2026-10-28T18:51:08Z"
+  "contentRevision": "sha256-4646f42902787b658ba89fb587bd63ed65b487edc7ecb52ed0377b712f0f9ea2",
+  "statusGeneratedAt": "2026-10-28T23:13:03Z"
 }
