@@ -4,8 +4,8 @@
   "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-28T12:47:47Z",
-  "lastSuccess": "2026-10-28T12:47:47Z",
+  "lastCheck": "2026-10-28T18:51:08Z",
+  "lastSuccess": "2026-10-28T18:51:08Z",
   "currentTotal": 9602,
   "totalWords": 15081866,
   "subjects": 17,
@@ -34,11 +34,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-28T12:47:26Z",
-  "discovered": 1,
-  "processed": 1,
-  "discoveredLastRun": 1,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-28T18:50:33Z",
+  "discovered": 12,
+  "processed": 12,
+  "discoveredLastRun": 12,
+  "pagesScanned": 2,
   "latest": {
     "id": "29449825387935154",
     "title": "THE FAMILY SECRETS, FORBIDDEN DESIRES, AND SEXUAL SCANDALS GOD REFUSED TO ERASE FROM THE BIBLE",
@@ -54,5 +54,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-411d8b2e43b3df4c8ed1c6aa6c8a43b9c190a1620d944538b3a55519b41b4237",
-  "statusGeneratedAt": "2026-10-28T12:47:47Z"
+  "statusGeneratedAt": "2026-10-28T18:51:08Z"
 }
