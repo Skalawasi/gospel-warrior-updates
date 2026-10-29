@@ -1,128 +1,58 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 13 new public studies.",
+  "message": "Added 3 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-29T16:55:26Z",
-  "lastSuccess": "2026-10-29T16:55:26Z",
-  "currentTotal": 9628,
-  "totalWords": 15194989,
+  "lastCheck": "2026-10-29T21:48:10Z",
+  "lastSuccess": "2026-10-29T21:48:10Z",
+  "currentTotal": 9631,
+  "totalWords": 15207821,
   "subjects": 17,
-  "addedLastRun": 13,
+  "addedLastRun": 3,
   "recentAdded": [
     {
-      "id": "29474940378756988",
-      "title": "“YOUR BODY IS A TEMPLE OF THE HOLY SPIRIT”—BUT WHAT IF THE SIN YOU KEEP EXCUSING IS THE VERY SIN PAUL WAS WARNING ABOUT?",
-      "date": "2026-10-29T15:36:50+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034FoyuccANEirM4HLNGLWG3hGdJnbW8gnmQCWzpkuc44vDdVK1WCtTst9135dn1J7l"
-    },
-    {
-      "id": "29474829225434770",
-      "title": "“THE TWO SHALL BECOME ONE FLESH”—SO WHY DID PAUL USE GOD’S MARRIAGE VERSE TO DESCRIBE SEX WITH A PROSTITUTE?",
-      "date": "2026-10-29T15:28:18+00:00",
+      "id": "29478913458359680",
+      "title": "THE SEXUAL SCANDAL THE CHURCH REFUSED TO CONFRONT—AND THE TERRIFYING REASON PAUL SAID SILENCE WAS NOT LOVE",
+      "date": "2026-10-29T21:46:25+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0239hrEdqX1PCCE3RNkV2rrzK33DbH2qoYzq7EtXWz6QNN5ZvXsFyRAbTkB895eA2Bl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xiWqjMSGhF9JEckeUEQ1z8FVyLvZSHmeo3Qq9aMSzuvLK2Lo46Trt1QQvvthqgN3l"
     },
     {
-      "id": "29474696862114673",
-      "title": "JESUS SAID THERE WILL BE NO MARRIAGE IN HEAVEN—BUT WHAT HE REVEALED NEXT CHANGES EVERYTHING",
-      "date": "2026-10-29T15:18:11+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PL7KkdLCLnystNjgMq2kq7JarHtTj2asTXCCgZgD9Jv859837uEEemGdC7b14HVvl"
+      "id": "29478861045031588",
+      "title": "YOUR BODY WAS NEVER MEANT TO BE THROWN AWAY: THE TERRIFYING AND BEAUTIFUL TRUTH BEHIND PAUL’S WORDS",
+      "date": "2026-10-29T21:40:29+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05rCphWupdXmrzZNuNHc4Fudg6ukKtYGsEMyUQaL84WduXaqqyRXdGW79Sy1BK7Mbl"
     },
     {
-      "id": "29474606122123747",
-      "title": "SHE BURIED SEVEN HUSBANDS. THEN JESUS REVEALED SOMETHING ABOUT ETERNITY THAT LEFT HIS ENEMIES SPEECHLESS.",
-      "date": "2026-10-29T15:11:19+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VYq9A3DnkJFHM79HC6AFYzRSx4DmvddJyZisRk7VdNG2UGvupQL8udJLPjYjdS33l"
-    },
-    {
-      "id": "29474504832133876",
-      "title": "A WIDOW, A BROTHER-IN-LAW, AND A SANDAL REMOVED IN PUBLIC—THE BIBLICAL CEREMONY OF SHAME MOST CHRISTIANS NEVER STUDY",
-      "date": "2026-10-29T15:03:52+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09NRj7GdGquJDRWYqiTyKqjQy1yk2HqJAgBPbFKVJCY8cgVBcg4xeVYemG6gXoh6kl"
-    },
-    {
-      "id": "29474069752177384",
-      "title": "GOD TOLD A NEW HUSBAND TO STAY HOME FOR ONE YEAR—AND THE REASON SHOULD SHAKE EVERY MARRIAGE TODAY",
-      "date": "2026-10-29T14:31:25+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02g7icteS6ba5FBZQ2kGLV1xq7YMyDnocH2dxTeXo9QcMj4kWVruow3cuG9Uvqcf7il"
-    },
-    {
-      "id": "29473987455518947",
-      "title": "TWO WIVES. ONE LOVED. ONE UNLOVED. AND A GOD WHO REFUSED TO LET FAVORITISM HAVE THE FINAL WORD.",
-      "date": "2026-10-29T14:24:53+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0myFfVxoaLAdE4eig67CG5TozRYE6GUWX5tHAkJkkqdukGVFxWpb3kXgwhALjmqD1l"
-    },
-    {
-      "id": "29473886368862389",
-      "title": "THE FATHER LOVED ANOTHER WOMAN MORE—BUT GOD REFUSED TO LET HER SON STEAL THE FIRSTBORN’S INHERITANCE",
-      "date": "2026-10-29T14:17:02+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025csy6LJ46b9fehZHcotXTVf5AGtCYhXfmgiKDVnG4cNoRLMnC6KQvgjHEYB9zWYfl"
-    },
-    {
-      "id": "29473767522207607",
-      "title": "THEY SEARCHED FOR ELIJAH FOR THREE DAYS… BUT GOD HAD ALREADY TAKEN HIM",
-      "date": "2026-10-29T14:07:50+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033yRq3yksGmk92xsDjdDv8i4nuaatSmd6ZzdVKcSej5hyCdQovh6XCjAW18V9cTXvl"
-    },
-    {
-      "id": "29473246905593002",
-      "title": "EVERYONE IN HIS FAMILY DIED… EXCEPT ENOCH. WHAT DID GOD SEE IN THE MAN WHO DISAPPEARED?",
-      "date": "2026-10-29T13:27:41+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gtPLVXNytdXkewb5GPWJXCAh9GdCAw5iKz1bg5y8SrMdqx3rUcon12EnCQTjSRcnl"
-    },
-    {
-      "id": "29473134922270867",
-      "title": "PAUL TOLD TIMOTHY TO DRINK WINE—BUT THE REASON MAY EXPOSE SOMETHING THE CHURCH HAS FORGOTTEN",
-      "date": "2026-10-29T13:19:06+00:00",
+      "id": "29478815238369502",
+      "title": "“EVERYTHING IS PERMISSIBLE”—THE DANGEROUS LIE THAT ALMOST DESTROYED THE CORINTHIAN CHURCH",
+      "date": "2026-10-29T21:35:25+00:00",
       "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jKp5BzW4Y9F8yvAtszPchmYzd7fjPtwcBmVV2mBDqmr9K7cCXZGJfEQRWU7fzowvl"
-    },
-    {
-      "id": "29473015008949525",
-      "title": "HE WALKED AWAY WITH SILVER… BUT CAME HOME WITH A CURSE: THE TERRIFYING TRUTH ABOUT GEHAZI THAT EVERY CHRISTIAN NEEDS TO HEAR",
-      "date": "2026-10-29T13:09:55+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wSMtmkiEjustzBzRYbQSVg9QqFqBYeNbecpE3963sya9MEZrxcQULcAfHpDHjRPol"
-    },
-    {
-      "id": "29472948448956181",
-      "title": "MIRIAM SPOKE AGAINST MOSES… THEN GOD CALLED HER OUT. WHAT HAPPENED NEXT SHOULD TERRIFY EVERY BELIEVER WHO THINKS THEIR WORDS ARE HARMLESS.",
-      "date": "2026-10-29T13:04:46+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dTN6xKD7m3btD5C5pXxhfoEMLx7VRJp2qhbDVPXM7GrSMq917qHbiwKMED5L1Acl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zn6jsHcRfkoGhMcecx2z3qRUP7N7L94EXkNtzbYVKds1mzS8oiw56L7s3v9uTv42l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-29T16:54:34Z",
-  "discovered": 15,
-  "processed": 15,
-  "discoveredLastRun": 15,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-29T21:47:41Z",
+  "discovered": 3,
+  "processed": 3,
+  "discoveredLastRun": 3,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29474940378756988",
-    "title": "“YOUR BODY IS A TEMPLE OF THE HOLY SPIRIT”—BUT WHAT IF THE SIN YOU KEEP EXCUSING IS THE VERY SIN PAUL WAS WARNING ABOUT?",
-    "date": "2026-10-29T15:36:50+00:00"
+    "id": "29478913458359680",
+    "title": "THE SEXUAL SCANDAL THE CHURCH REFUSED TO CONFRONT—AND THE TERRIFYING REASON PAUL SAID SILENCE WAS NOT LOVE",
+    "date": "2026-10-29T21:46:25+00:00"
   },
-  "lastImportCount": 13,
-  "lastImportAt": "2026-10-29T16:55:26Z",
+  "lastImportCount": 3,
+  "lastImportAt": "2026-10-29T21:48:10Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9628,
+  "structuredMetadata": 9631,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-29600519d50d366f867e9c1d6fbe3f67eb92cf8ad6b4944c2c6141e26b79bb75",
-  "statusGeneratedAt": "2026-10-29T16:55:26Z"
+  "contentRevision": "sha256-7f730e07f72948f663d268e506d424958b8d1e9983d8c779aecab4eace64340f",
+  "statusGeneratedAt": "2026-10-29T21:48:10Z"
 }
