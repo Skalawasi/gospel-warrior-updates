@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 13 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-28T23:13:03Z",
-  "lastSuccess": "2026-10-28T23:13:03Z",
+  "lastCheck": "2026-10-29T02:25:06Z",
+  "lastSuccess": "2026-10-29T02:25:06Z",
   "currentTotal": 9615,
   "totalWords": 15137690,
   "subjects": 17,
-  "addedLastRun": 13,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29464242926493400",
@@ -104,11 +104,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-28T23:11:59Z",
+  "lastCheckStarted": "2026-10-29T02:24:51Z",
   "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29464242926493400",
     "title": "DID GOD COMMAND AN ABORTION RITUAL? THE DISTURBING PASSAGE IN NUMBERS 5 THAT CHRISTIANS CANNOT AFFORD TO MISUNDERSTAND",
@@ -124,5 +124,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-4646f42902787b658ba89fb587bd63ed65b487edc7ecb52ed0377b712f0f9ea2",
-  "statusGeneratedAt": "2026-10-28T23:13:03Z"
+  "statusGeneratedAt": "2026-10-29T02:25:06Z"
 }
