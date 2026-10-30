@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 25 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-30T15:55:35Z",
-  "lastSuccess": "2026-10-30T15:55:35Z",
+  "lastCheck": "2026-10-30T20:46:23Z",
+  "lastSuccess": "2026-10-30T20:46:23Z",
   "currentTotal": 9658,
   "totalWords": 15320703,
   "subjects": 17,
-  "addedLastRun": 25,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29489645807286445",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-30T15:54:16Z",
-  "discovered": 25,
-  "processed": 25,
-  "discoveredLastRun": 25,
-  "pagesScanned": 3,
+  "lastCheckStarted": "2026-10-30T20:46:05Z",
+  "discovered": 6,
+  "processed": 6,
+  "discoveredLastRun": 6,
+  "pagesScanned": 1,
   "latest": {
     "id": "29489645807286445",
     "title": "HE MARRIED TWO SISTERS… BUT ONE WENT TO BED EVERY NIGHT KNOWING SHE WAS NEVER HIS FIRST CHOICE",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-b62bad37339520d37cdbb903f7cf4bfc1726ac490c82017c7696a82ac31e3dbc",
-  "statusGeneratedAt": "2026-10-30T15:55:35Z"
+  "statusGeneratedAt": "2026-10-30T20:46:24Z"
 }
