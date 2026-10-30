@@ -1,51 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 25 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-30T08:36:10Z",
-  "lastSuccess": "2026-10-30T08:36:10Z",
-  "currentTotal": 9633,
-  "totalWords": 15216420,
+  "lastCheck": "2026-10-30T15:55:35Z",
+  "lastSuccess": "2026-10-30T15:55:35Z",
+  "currentTotal": 9658,
+  "totalWords": 15320703,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 25,
   "recentAdded": [
     {
-      "id": "29479023681681991",
-      "title": "THE BEDROOM WARNING MOST CHRISTIAN COUPLES NEVER HEAR: WHY DID PAUL SAY, “DO NOT DEPRIVE ONE ANOTHER”?",
-      "date": "2026-10-29T21:59:08+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gziihH9ujkyaJSiUSkjhsNR7wtwJeW1fe3zEWJ9nUJYTuCbUtX5Xz8KnnwAkdELRl"
+      "id": "29489645807286445",
+      "title": "HE MARRIED TWO SISTERS… BUT ONE WENT TO BED EVERY NIGHT KNOWING SHE WAS NEVER HIS FIRST CHOICE",
+      "date": "2026-10-30T15:41:52+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0R76a5SE2uWb6MiHEGJ8EJLiYDWY5JgPUmCGZ31tmBtTyNGMUE4xZe2zCFmVMBENNl"
     },
     {
-      "id": "29478978331686526",
-      "title": "PAUL SAID YOUR BODY DOESN’T BELONG TO YOU ALONE—THEN HE SAID SOMETHING THAT CHANGED THE ENTIRE MEANING OF MARRIAGE.",
-      "date": "2026-10-29T21:53:44+00:00",
+      "id": "29489556547295371",
+      "title": "THREE GENERATIONS. THE SAME FEAR. THREE MARRIAGES PUT IN DANGER. WHY DID GOD’S CHOSEN FAMILY KEEP REPEATING THE SAME SIN?",
+      "date": "2026-10-30T15:34:32+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02f32oAKDTiHwz8RGLr5aqDu4vsDCAV1iahTjgTtCzDBC1kXXbz3KUatfi1Ui4pJ1Ml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wARBnd4QU9gFvkEAVg56hfuN4onyPT4L6CtB6D5gtTxyPzcWFkebw5Jw85HoW87sl"
+    },
+    {
+      "id": "29489397703977922",
+      "title": "A KING LOOKED THROUGH A WINDOW… AND SAW WHAT A HUSBAND WAS DESPERATELY TRYING TO HIDE",
+      "date": "2026-10-30T15:20:58+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036DHCeBmzwe44mVkF46SDwrcGpJcfUs6n26Boc5aCiengPZHQx8uStKhWeP6FNvErl"
+    },
+    {
+      "id": "29489252913992401",
+      "title": "SHE WAS BEAUTIFUL ENOUGH TO CATCH PHARAOH’S EYE—BUT THE MAN WHO LOVED HER WAS TOO AFRAID TO CALL HER HIS WIFE.",
+      "date": "2026-10-30T15:08:32+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037G7NJJoZtFcEgJLpq9Azdw4gb62Qex7AvNMEFq26FNv6ZVFLrX4T6ayxqZYwb8T4l"
+    },
+    {
+      "id": "29489152550669104",
+      "title": "GOD CLOSED EVERY WOMB IN A KING’S HOUSEHOLD—BECAUSE OF ONE WOMAN HE HAD NO RIGHT TO TOUCH.",
+      "date": "2026-10-30T15:00:06+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NGdHaDbSnHkt5WdMosj2NDXHou8S8V5qqEaD3iVmNFWyPGAWmeJinGmHNYqVccXhl"
+    },
+    {
+      "id": "29489003717350654",
+      "title": "A KING TOOK ANOTHER MAN’S WIFE INTO HIS HOUSE—THEN GOD VISITED HIM IN A DREAM WITH A TERRIFYING WARNING.",
+      "date": "2026-10-30T14:47:47+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ruiB8LaG1axbYXXcGcHDogBi8Kto84y2f9Y42QNXn2Y7Whqv3aa98gX1JCF7csUdl"
+    },
+    {
+      "id": "29488906267360399",
+      "title": "ABRAHAM MARRIED HIS FATHER’S DAUGHTER—BUT NOT HIS MOTHER’S. WHY WOULD THE BIBLE REVEAL SOMETHING THIS DISTURBING?",
+      "date": "2026-10-30T14:39:36+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0292mYAoWn9LjcSd7gL7xNFZ8b4ztCtSEqmd7idByfjTeih3mpBRB8vht7CxAYSJZDl"
+    },
+    {
+      "id": "29488788297372196",
+      "title": "ABRAHAM SAID, “SHE IS MY SISTER”—BUT THE TRUTH ABOUT SARAH WAS FAR MORE COMPLICATED THAN YOU THINK",
+      "date": "2026-10-30T14:29:47+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xNy1cKiemGCUyt3XvjhSv2n3Ag16PsBWLowh2UPR9JgataxHDFHuHBoEcogeFVUjl"
+    },
+    {
+      "id": "29488692270715132",
+      "title": "A KING HAD HIS OWN SISTER AS HIS WIFE—AND THE BIBLE EVEN NAMES THEIR CHILDREN. BUT IS THAT REALLY WHAT SCRIPTURE SAYS?",
+      "date": "2026-10-30T14:21:37+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0386bkGHuW5Z4TDR12krB5UpPCKMSnXbJHmzQHb2zvqhA7UJj8RXkZnuoVGT96CJvol"
+    },
+    {
+      "id": "29488546867396339",
+      "title": "THE BIBLE TALKS ABOUT RAPE, MENSTRUATION, PROSTITUTION, VIRGINITY, POLYGAMY, AND DIVORCE—BUT THE TRUTH HIDING IN THESE PASSAGES MAY CHANGE HOW YOU SEE GOD FOREVER",
+      "date": "2026-10-30T14:09:10+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tzPWbWTPHruVCpAAuZMo48JEGaHJo2xbo1wpG6pFdmPsbt8kb1gw8DW9dTkrXMp1l"
+    },
+    {
+      "id": "29488435384074154",
+      "title": "JESUS SAID MOSES PERMITTED DIVORCE… BUT THEN HE EXPOSED THE HEARTBREAKING REASON GOD NEVER WANTED IT THIS WAY",
+      "date": "2026-10-30T13:59:40+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jevcegUnS8PQUZ2aesr823F5f4qKD3vaB1mxWNhCo54UnsRqgg9UCFg8DaeJrsKil"
+    },
+    {
+      "id": "29488232284094464",
+      "title": "THE BED GOD CALLED HOLY: WHY HEBREWS 13:4 IS A WARNING OUR GENERATION CANNOT AFFORD TO IGNORE",
+      "date": "2026-10-30T13:42:40+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FRY8E6Ujo8r7aTiahEUj6QUpUs4qkNpXAohHGjtsHW8eRB9TTXzEZbTn3Ct79Ctnl"
+    },
+    {
+      "id": "29488142827436743",
+      "title": "SHE LEARNED HOW TO KEEP A HOUSE… BUT NO ONE TAUGHT HER HOW TO SURVIVE A BREAKING MARRIAGE.",
+      "date": "2026-10-30T13:35:08+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Ju2hW1xve2jSYB9mgbSkAfDDqAYsmgymcdz9eYgW3HdDRgsNe1tQeCYSTYo7zM75l"
+    },
+    {
+      "id": "29487963424121350",
+      "title": "TWO WOMEN. ONE CHURCH. A CONFLICT PAUL REFUSED TO IGNORE.",
+      "date": "2026-10-30T13:19:57+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uBxu91CS7BXjm3VHwKsBfCqBDRq8puh39t8subHcJusUxfbxnpUp4fB2BSuXv3x8l"
+    },
+    {
+      "id": "29487869144130778",
+      "title": "HER NAME WAS NYMPHA. HER HOUSE BECAME A CHURCH. AND ONE VERSE EXPOSES SOMETHING WE MAY HAVE FORGOTTEN ABOUT FOLLOWING JESUS.",
+      "date": "2026-10-30T13:11:58+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SksdMwVHFHSFZDy2MzHWDdAykVovtLnYU6Z3HeVu2NsZWn3n2hsFKFF6zmnZRfkkl"
+    },
+    {
+      "id": "29487737264143966",
+      "title": "PAUL REMEMBERED THEIR NAMES. WHY HAS THE CHURCH ALMOST FORGOTTEN THEM?",
+      "date": "2026-10-30T13:00:42+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FaGqR5DcE8AoMyn2yqYQfa5Juauhp1uoqvuUewb8U4AajgoRXhBNTBYjdKrofDhYl"
+    },
+    {
+      "id": "29487608127490213",
+      "title": "JUNIA WAS CALLED “OUTSTANDING AMONG THE APOSTLES”—SO WHY DID HER NAME BECOME A BATTLEFIELD?",
+      "date": "2026-10-30T12:49:43+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027W6BLEfnJrh8CFhYnfknAGaYFPqQTzdow5C9nGVf4ppUPLrCksDYMFcoNfDQ1Y3Pl"
+    },
+    {
+      "id": "29487475957503430",
+      "title": "PAUL TRUSTED HER WITH THE CHURCH. HISTORY BARELY REMEMBERS HER NAME. BUT HEAVEN NEVER FORGOT PHOEBE.",
+      "date": "2026-10-30T12:38:22+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08EMZwtej25dQWVAniK9vcyLn9DrhC9kdgBAphAkAozfFaKaGYL1napWRqYLmB7Pbl"
+    },
+    {
+      "id": "29487397377511288",
+      "title": "WHY DID THE BIBLE PUT THE WIFE’S NAME FIRST? THE SURPRISING TRUTH ABOUT PRISCILLA AND AQUILA THAT MANY CHRISTIANS HAVE MISSED",
+      "date": "2026-10-30T12:31:40+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06i1DFw53y1LsSojS6x2WTakD1Uh2SYmorGLMNHHxRmuwQAYYNHVm5oyBCkqpqn33l"
+    },
+    {
+      "id": "29487310274186665",
+      "title": "SHE SOLD PURPLE TO THE WEALTHY… BUT WHAT SHE OPENED TO JESUS WAS WORTH MORE THAN EVERYTHING SHE OWNED",
+      "date": "2026-10-30T12:24:05+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034obFjpsgMyJDDUsejo8HD4PzbJDnyNVpyM5BKXDSKskRyRagfDCATFJQNCMb4UTsl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-30T08:35:50Z",
-  "discovered": 2,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-10-30T15:54:16Z",
+  "discovered": 25,
+  "processed": 25,
+  "discoveredLastRun": 25,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29479023681681991",
-    "title": "THE BEDROOM WARNING MOST CHRISTIAN COUPLES NEVER HEAR: WHY DID PAUL SAY, “DO NOT DEPRIVE ONE ANOTHER”?",
-    "date": "2026-10-29T21:59:08+00:00"
+    "id": "29489645807286445",
+    "title": "HE MARRIED TWO SISTERS… BUT ONE WENT TO BED EVERY NIGHT KNOWING SHE WAS NEVER HIS FIRST CHOICE",
+    "date": "2026-10-30T15:41:52+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-10-30T01:57:10Z",
+  "lastImportCount": 25,
+  "lastImportAt": "2026-10-30T15:55:35Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9633,
+  "structuredMetadata": 9658,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-826045a8c8b6200b2c3267bf0b105ed82749fbaeba86aee9e8f0de4128d6c36c",
-  "statusGeneratedAt": "2026-10-30T08:36:10Z"
+  "contentRevision": "sha256-b62bad37339520d37cdbb903f7cf4bfc1726ac490c82017c7696a82ac31e3dbc",
+  "statusGeneratedAt": "2026-10-30T15:55:35Z"
 }
