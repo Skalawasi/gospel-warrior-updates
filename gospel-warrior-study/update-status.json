@@ -1,58 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 3 new public studies.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-29T21:48:10Z",
-  "lastSuccess": "2026-10-29T21:48:10Z",
-  "currentTotal": 9631,
-  "totalWords": 15207821,
+  "lastCheck": "2026-10-30T01:57:10Z",
+  "lastSuccess": "2026-10-30T01:57:10Z",
+  "currentTotal": 9633,
+  "totalWords": 15216420,
   "subjects": 17,
-  "addedLastRun": 3,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29478913458359680",
-      "title": "THE SEXUAL SCANDAL THE CHURCH REFUSED TO CONFRONT—AND THE TERRIFYING REASON PAUL SAID SILENCE WAS NOT LOVE",
-      "date": "2026-10-29T21:46:25+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xiWqjMSGhF9JEckeUEQ1z8FVyLvZSHmeo3Qq9aMSzuvLK2Lo46Trt1QQvvthqgN3l"
-    },
-    {
-      "id": "29478861045031588",
-      "title": "YOUR BODY WAS NEVER MEANT TO BE THROWN AWAY: THE TERRIFYING AND BEAUTIFUL TRUTH BEHIND PAUL’S WORDS",
-      "date": "2026-10-29T21:40:29+00:00",
+      "id": "29479023681681991",
+      "title": "THE BEDROOM WARNING MOST CHRISTIAN COUPLES NEVER HEAR: WHY DID PAUL SAY, “DO NOT DEPRIVE ONE ANOTHER”?",
+      "date": "2026-10-29T21:59:08+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05rCphWupdXmrzZNuNHc4Fudg6ukKtYGsEMyUQaL84WduXaqqyRXdGW79Sy1BK7Mbl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gziihH9ujkyaJSiUSkjhsNR7wtwJeW1fe3zEWJ9nUJYTuCbUtX5Xz8KnnwAkdELRl"
     },
     {
-      "id": "29478815238369502",
-      "title": "“EVERYTHING IS PERMISSIBLE”—THE DANGEROUS LIE THAT ALMOST DESTROYED THE CORINTHIAN CHURCH",
-      "date": "2026-10-29T21:35:25+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zn6jsHcRfkoGhMcecx2z3qRUP7N7L94EXkNtzbYVKds1mzS8oiw56L7s3v9uTv42l"
+      "id": "29478978331686526",
+      "title": "PAUL SAID YOUR BODY DOESN’T BELONG TO YOU ALONE—THEN HE SAID SOMETHING THAT CHANGED THE ENTIRE MEANING OF MARRIAGE.",
+      "date": "2026-10-29T21:53:44+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02f32oAKDTiHwz8RGLr5aqDu4vsDCAV1iahTjgTtCzDBC1kXXbz3KUatfi1Ui4pJ1Ml"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-29T21:47:41Z",
-  "discovered": 3,
-  "processed": 3,
-  "discoveredLastRun": 3,
+  "lastCheckStarted": "2026-10-30T01:56:26Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
   "pagesScanned": 1,
   "latest": {
-    "id": "29478913458359680",
-    "title": "THE SEXUAL SCANDAL THE CHURCH REFUSED TO CONFRONT—AND THE TERRIFYING REASON PAUL SAID SILENCE WAS NOT LOVE",
-    "date": "2026-10-29T21:46:25+00:00"
+    "id": "29479023681681991",
+    "title": "THE BEDROOM WARNING MOST CHRISTIAN COUPLES NEVER HEAR: WHY DID PAUL SAY, “DO NOT DEPRIVE ONE ANOTHER”?",
+    "date": "2026-10-29T21:59:08+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-10-29T21:48:10Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-10-30T01:57:10Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9631,
+  "structuredMetadata": 9633,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-7f730e07f72948f663d268e506d424958b8d1e9983d8c779aecab4eace64340f",
-  "statusGeneratedAt": "2026-10-29T21:48:10Z"
+  "contentRevision": "sha256-826045a8c8b6200b2c3267bf0b105ed82749fbaeba86aee9e8f0de4128d6c36c",
+  "statusGeneratedAt": "2026-10-30T01:57:10Z"
 }
