@@ -1,93 +1,163 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 18 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-31T06:59:05Z",
-  "lastSuccess": "2026-10-31T06:59:05Z",
-  "currentTotal": 9683,
-  "totalWords": 15419517,
+  "lastCheck": "2026-10-31T13:38:37Z",
+  "lastSuccess": "2026-10-31T13:38:37Z",
+  "currentTotal": 9701,
+  "totalWords": 15497920,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 18,
   "recentAdded": [
     {
-      "id": "29498829753034717",
-      "title": "JOSEPH CALLED IT A SIN AGAINST GOD—EVEN WHEN NO ONE ELSE WAS IN THE ROOM.",
-      "date": "2026-10-31T06:54:33+00:00",
+      "id": "29502878862629806",
+      "title": "IF YOUR LIFE WERE THE ONLY BIBLE SOMEONE EVER ENCOUNTERED, WOULD THEY WANT TO KNOW YOUR JESUS?",
+      "date": "2026-10-31T13:35:08+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wQcbWyv3ZjKn7rhFd5m4tw3FAytDtbYGMnxCZkYw727vvaHZ4pXsRzJnpxoewPVpl"
+    },
+    {
+      "id": "29502753685975657",
+      "title": "WOULD YOU STILL FOLLOW JESUS IF NOBODY EVER LIKED, SHARED, OR APPLAUDED YOUR FAITH?",
+      "date": "2026-10-31T13:24:29+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tYHfYJiMFNxU9RGVHLpLAtVNcVVp5a4aeKqZ9er7wwuDWngGvsk7THyaJKjRy3phl"
+    },
+    {
+      "id": "29502557535995272",
+      "title": "WHEN THE ELECTION IS OVER, WILL YOU STILL CALL THEM BROTHER?",
+      "date": "2026-10-31T13:07:45+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DrM5asGvcC1BHfXKk4Wu73v37b34c94uLFodCyr5KkNoJ3J6hCB1NC9agmjJDBy3l"
+    },
+    {
+      "id": "29502432452674447",
+      "title": "THEY TOLD YOU TO STOP TALKING ABOUT THE PASTOR. BUT WHAT IF YOUR SILENCE IS PROTECTING THE WRONG PERSON?",
+      "date": "2026-10-31T12:56:55+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mSZkLG6whwhqZy23a3VwvMPmHwm4rVWLbYWzPs8M5kDdC2CYfgUBvQP3b4iBuUUzl"
+    },
+    {
+      "id": "29502173866033639",
+      "title": "WHAT IF THE JESUS YOU’VE BEEN LOOKING AT IS NOT THE JESUS YOU’VE BEEN WORSHIPING?",
+      "date": "2026-10-31T12:34:17+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aHH2T3njFrCPwvP2froXanPEp6sKA3pYmTjd4smxfyepmLTSTxc2czA44vvUJdBCl"
+    },
+    {
+      "id": "29500700386180987",
+      "title": "CAN YOU REALLY FOLLOW JESUS WITHOUT BELONGING TO A CHURCH? THE ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS IT.",
+      "date": "2026-10-31T10:12:45+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wCPAeHPHawjXiiP5zvC3HdP7ei5wK3CcQZU3BTrsK7DkCFw48zwLBqkvsbyPJcwml"
+    },
+    {
+      "id": "29500651252852567",
+      "title": "IS IT BIBLICAL TO PRAY FOR THE DEAD? THE TRUTH ABOUT DEATH, MERCY, AND THE PRAYERS THAT CANNOT CHANGE ETERNITY",
+      "date": "2026-10-31T10:07:48+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oajh9TbbRVtwsnUSPEufQsYouVqsmamDhYMgoup2YZ3FDzGDHuHX6rT5wq3YCaBMl"
+    },
+    {
+      "id": "29500577436193282",
+      "title": "HALLOWEEN: THE NIGHT THE WORLD DRESSES UP AS DARKNESS—BUT WHAT IF THE REAL DANGER IS WHAT WE'VE STOPPED QUESTIONING?",
+      "date": "2026-10-31T10:00:15+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0toU9BiG88nNgrNm4cCzqiq682AjD1WQzY8CTaBLSNyaGTP6R1t9dJx9mM5qPwYxxl"
+    },
+    {
+      "id": "29500509536200072",
+      "title": "HALLOWEEN: THE NIGHT CHRISTIANS ARE DIVIDED—AND THE QUESTION JESUS MAY BE ASKING YOU",
+      "date": "2026-10-31T09:53:06+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024BmheaDmHjiSDHY6RzhgzMae4uKyVmzC1deiRWo5wnpg7eDo8w1nc7hb54i2h5Yql"
+    },
+    {
+      "id": "29500446382873054",
+      "title": "JESUS TURNED WATER INTO WINE… SO WHY ARE SOME CHRISTIANS SAYING EVEN ONE DRINK IS A SIN?",
+      "date": "2026-10-31T09:46:38+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034a3qhvvj5h6NkUgLHKnmqr8JUQUzyesG4gefF3hPgNgvTjguszFNHMPa37xNvKTMl"
+    },
+    {
+      "id": "29500381169546242",
+      "title": "CAN CHRISTIANS LISTEN TO SECULAR MUSIC WITHOUT COMPROMISING THEIR FAITH? THE ANSWER MAY EXPOSE WHAT HAS BEEN QUIETLY HAPPENING TO YOUR HEART.",
+      "date": "2026-10-31T09:39:47+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pihZo76ZzpFre3JYsc2Y7euBvFymugiexDdMkVAp1Fg4iLcm5spBTZ3GkfH8Gkchl"
+    },
+    {
+      "id": "29500298229554536",
+      "title": "IS GOD STILL DEMANDING 10% OF YOUR MONEY—OR HAVE CHRISTIANS MISUNDERSTOOD WHAT JESUS ACTUALLY REQUIRES?",
+      "date": "2026-10-31T09:31:02+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04CyTmG4YmhFTndRzMC4hcrEwh1ecETxKqysEENRPP9rW5vWNJCJESafghSxRetE6l"
+    },
+    {
+      "id": "29500217932895899",
+      "title": "THEY TOLD YOU THAT IF YOU DON'T SPEAK IN TONGUES, YOU DON'T HAVE THE HOLY SPIRIT. BUT IS THAT WHAT JESUS ACTUALLY SAID?",
+      "date": "2026-10-31T09:22:45+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02J3feUQpo1z3Drby2x83HwedFGFmzpEbyXb7MwYRHRVZRwuHF3UtsgPovN7Ekvh4il"
+    },
+    {
+      "id": "29499199412997751",
+      "title": "A MARRIAGE BETRAYAL. THREE HUNDRED FOXES. AN ENTIRE HARVEST SET ON FIRE.",
+      "date": "2026-10-31T07:35:43+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sz53aXomnqc1LWJsYKGLoKgbqjou17rasTqP6Qksu4t7bUjqYLbfi6oUBqcVK6Ujl"
+    },
+    {
+      "id": "29499124469671912",
+      "title": "SHE CRIED FOR SEVEN DAYS… UNTIL SAMSON GAVE AWAY THE SECRET THAT WOULD DESTROY HIS TRUST",
+      "date": "2026-10-31T07:27:26+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03XYpa6budY5nvpE3mmYEKRAUqWmT3NqYpenxLuKCjsTZ5TtBsrYRxd5k8PR3Q8fbl"
+    },
+    {
+      "id": "29499072929677066",
+      "title": "SAMSON SAW HER. HE WANTED HER. AND FOUR WORDS EXPOSED THE DANGER OF AN UNCONTROLLED HEART.",
+      "date": "2026-10-31T07:21:45+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05Fuuw7ZgxhzAhjPq7tihZ3CSNTC778XWBg5kSJ6rUN2Qmqp9S9XL1NT9BZjRefFMl"
+    },
+    {
+      "id": "29499021706348855",
+      "title": "HE DID THE RIGHT THING… AND IT DESTROYED HIS LIFE. SO WHERE WAS GOD?",
+      "date": "2026-10-31T07:15:58+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Hbg7NBCS4fj3hbegg5bWozdDMuPRH7K7F2LcmXpZPnXrK9ZpWMbrfKbKawu1yizfl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pJnSRwi67bz8MSk5U94em2dvdXPaFa13yCsHtBbzhQJddA5dGgs6YrJ35FSPbVDQl"
     },
     {
-      "id": "29498777566373269",
-      "title": "SHE GRABBED HIS CLOAK AND DEMANDED HIS BODY. HE RAN. THEN SHE DESTROYED HIS LIFE WITH A LIE.",
-      "date": "2026-10-31T06:48:33+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037ZoWK954HCns4aQXkksinXWEm26D3FGGazkra3QKjF19nSU6ButjfPQHW1qWWrjVl"
-    },
-    {
-      "id": "29498586616392364",
-      "title": "JACOB CONDEMNED HIS SONS’ VIOLENCE—BUT WHO WAS CRYING FOR DINAH?",
-      "date": "2026-10-31T06:26:37+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qSkCju2haaFpcw8AssysEzbGwNwbWcxGAXk8gPp8qbA8pjm9Zu13CAqcrWjargRel"
-    },
-    {
-      "id": "29498506146400411",
-      "title": "THEY USED GOD’S COVENANT AS A WEAPON—AND TURNED A WHOLE CITY INTO A BLOODBATH",
-      "date": "2026-10-31T06:17:22+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fexnyToWpqJK4zkTx2kpXbi7M5uudNa1sVfv4ct651WPheCUFGpZTdS2s6tQiNGYl"
-    },
-    {
-      "id": "29496585989925760",
-      "title": "HE VIOLATED HER… THEN ASKED TO MARRY HER. BUT WHAT HER BROTHERS DID NEXT TURNED ONE FAMILY’S SHAME INTO A BLOODBATH.",
-      "date": "2026-10-31T02:53:18+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RgJ8R4QTY8tUZcXeSb95NYML4XXMCVEQnyE8WfarxgpkhXVSgv1YqmAnkFnZGuyQl"
-    },
-    {
-      "id": "29496504276600598",
-      "title": "GOD STRUCK ONAN DEAD… BUT WAS IT REALLY BECAUSE OF WHAT HE DID IN BED?",
-      "date": "2026-10-31T02:45:15+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028iK7M2F4vmCxwyAVnypZcdZsKBUvyGhccUYfsJ5Wq3QdB4WGw4ujbCvQRoZvKiHql"
-    },
-    {
-      "id": "29496445253273167",
-      "title": "THE MAN GOD STRUCK DEAD AFTER HE BETRAYED HIS BROTHER’S WIDOW",
-      "date": "2026-10-31T02:39:43+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02QwhmgnRFdgnxCdmM1zmVJJDoN3WrXvaTHNgrpWDK7qdvhfCXWLLFpaQRnQYu2crrl"
-    },
-    {
-      "id": "29496388893278803",
-      "title": "THE FAMILY SECRET GOD REFUSED TO HIDE: WHY IS JUDAH AND TAMAR’S SCANDAL IN THE BLOODLINE OF JESUS CHRIST?",
-      "date": "2026-10-31T02:34:18+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GQSJ8ubUuiovx7Lc6b1uPbig3ZGf65RKjCGfZVfcJZqCocW3ahkiT9MqSDcNucatl"
+      "id": "29498957176355308",
+      "title": "THE BIBLE NEVER SAYS POTIPHAR’S WIFE LOVED JOSEPH—AND WHAT IT ACTUALLY SAYS IS FAR MORE DISTURBING",
+      "date": "2026-10-31T07:08:50+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0622x2E7jrxh2VG6gCYab4wbCfFiYCcqbC6y68TtFASFexGbPVbxpAAzdYWAowEAhl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-31T06:58:10Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
+  "lastCheckStarted": "2026-10-31T13:37:26Z",
+  "discovered": 19,
+  "processed": 19,
+  "discoveredLastRun": 19,
   "pagesScanned": 2,
   "latest": {
-    "id": "29498829753034717",
-    "title": "JOSEPH CALLED IT A SIN AGAINST GOD—EVEN WHEN NO ONE ELSE WAS IN THE ROOM.",
-    "date": "2026-10-31T06:54:33+00:00"
+    "id": "29502878862629806",
+    "title": "IF YOUR LIFE WERE THE ONLY BIBLE SOMEONE EVER ENCOUNTERED, WOULD THEY WANT TO KNOW YOUR JESUS?",
+    "date": "2026-10-31T13:35:08+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-10-31T06:59:05Z",
+  "lastImportCount": 18,
+  "lastImportAt": "2026-10-31T13:38:37Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9683,
+  "structuredMetadata": 9701,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-8bace9e96f5d27e956e58d0510d98637afef5c92092844907ad63bc03af03b0d",
-  "statusGeneratedAt": "2026-10-31T06:59:05Z"
+  "contentRevision": "sha256-83156b796ff8e5ed74670a85bfaf2b74b2c44724f2b305f53d07dcd230e546e6",
+  "statusGeneratedAt": "2026-10-31T13:38:37Z"
 }
