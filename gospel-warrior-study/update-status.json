@@ -1,121 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 12 new public studies.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-31T18:32:59Z",
-  "lastSuccess": "2026-10-31T18:32:59Z",
-  "currentTotal": 9713,
-  "totalWords": 15554117,
+  "lastCheck": "2026-10-31T22:28:08Z",
+  "lastSuccess": "2026-10-31T22:28:08Z",
+  "currentTotal": 9715,
+  "totalWords": 15563921,
   "subjects": 17,
-  "addedLastRun": 12,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29505462205704805",
-      "title": "WHAT IF THE SIN YOU FEAR MOST IS THE VERY SIN YOUR FEAR SUGGESTS YOU HAVEN’T COMMITTED?",
-      "date": "2026-10-31T17:19:29+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xCGHXhPqd2h42GYtoosM4wsK6nyR5ZMbb8XxNnetYKmzXjUSNgQmML5fW6fGMQzBl"
-    },
-    {
-      "id": "29505291779055181",
-      "title": "IF JESUS ALREADY PAID FOR YOUR SINS, WHY DOES THE BIBLE STILL WARN YOU ABOUT JUDGMENT?",
-      "date": "2026-10-31T17:03:49+00:00",
+      "id": "29508230078761351",
+      "title": "THE MOST TERRIFYING WORDS JESUS EVER SPOKE TO RELIGIOUS PEOPLE: “I NEVER KNEW YOU.”",
+      "date": "2026-10-31T22:23:11+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G2hqq3gXqwCxD4w9TSf79cdPDUA8uBi2s4EYTeaby47F2zphBA92LxLPTyJ9chTEl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EVUjB1XQ6WzaM11Yu8bJ9e8fJzWt99WFjgP4vkWg6jqtDRPmBcjPvXMga6CL1MCFl"
     },
     {
-      "id": "29504790509105308",
-      "title": "WHEN GIVING TO GOD BECOMES A THREAT: ARE CHRISTIANS BEING TAUGHT GENEROSITY… OR TRAINED TO FEAR THE CURSE?",
-      "date": "2026-10-31T16:18:40+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02CW9pvzXPjZCqb9vrpHwbGnEwao8Kp9YaCdc8SykwJmgpXwyv3CB66XSbCtxK6sZTl"
-    },
-    {
-      "id": "29504626499121709",
-      "title": "THE PASTOR PREACHED ABOUT SACRIFICE… WHILE HIS CONGREGATION STRUGGLED TO PAY THEIR BILLS",
-      "date": "2026-10-31T16:04:32+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KBCF4UCqJrVbo85u4jTuXqAwZQUoteWHAMfMcaCm8EuquRguQnKDgBXgxEQK2KU7l"
-    },
-    {
-      "id": "29504502999134059",
-      "title": "WHEN “GOD TOLD ME” BECOMES MORE POWERFUL THAN “IT IS WRITTEN”",
-      "date": "2026-10-31T15:53:55+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02R52BmbdFfyVGxxfn8AwHyJ7syrU5Sb7DZrHEKYJAC7ChMYMBT2c6bR2aXuKrpesRl"
-    },
-    {
-      "id": "29504352959149063",
-      "title": "IF GOD ALREADY KNOWS EVERYTHING, WHY DOES HE STILL ASK YOU TO PRAY?",
-      "date": "2026-10-31T15:40:55+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02y7bK95wk1h1SuPsmKDosDgTngYrm6AHHJz5iGe3SGLyE5Lmpq9U3BSdEntDLLXml"
-    },
-    {
-      "id": "29504214239162935",
-      "title": "THEY MEMORIZED THE SCRIPTURES… THEN STOOD FACE-TO-FACE WITH THE AUTHOR AND WANTED HIM DEAD.",
-      "date": "2026-10-31T15:28:52+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02L9KxMREq4Qe2n4F16obfbw2S6nUCJB9oEgpxBa9HkSu6qjCUeek3XfQViV7dUjhSl"
-    },
-    {
-      "id": "29504077402509952",
-      "title": "WHY DO WE CALL JESUS “LORD” WHILE NEGOTIATING WHICH OF HIS COMMANDS WE WILL FOLLOW?",
-      "date": "2026-10-31T15:16:59+00:00",
+      "id": "29508175292100163",
+      "title": "ARE THERE SINS GOD WILL NEVER FORGIVE? THE TERRIFYING WARNING OF JESUS THAT MILLIONS OF CHRISTIANS MAY HAVE MISUNDERSTOOD",
+      "date": "2026-10-31T22:16:15+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02efQgEf4HaKeUFyr1d4wAM3Esws2xbrxzQTzcoCXJZ4jnw1vdG97Gvcgg1Q6SX4Uwl"
-    },
-    {
-      "id": "29503954962522196",
-      "title": "JESUS WASHED THEIR FEET. SO WHY DO SOME CHURCH LEADERS EXPECT EVERYONE TO KISS THEIRS?",
-      "date": "2026-10-31T15:06:38+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025C6CwGXciR91hRkiWLkVWCnUAonMpE6uHiFYuvLszF7Bv7BbSCzWyskGYNizt9Szl"
-    },
-    {
-      "id": "29503646809219678",
-      "title": "WHAT IF THE CHRISTIANITY YOU INHERITED IS NOT THE CHRISTIANITY JESUS ACTUALLY TAUGHT?",
-      "date": "2026-10-31T14:40:43+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07qXmp1C2fdJnCMdNGJA8is3ft3hk53b9tnRuxMbB7i3KSgd2pLusxpVRtTPUakuyl"
-    },
-    {
-      "id": "29503555735895452",
-      "title": "YOU SAY YOU FOLLOW JESUS… BUT WHEN WAS THE LAST TIME OBEYING HIM ACTUALLY COST YOU SOMETHING?",
-      "date": "2026-10-31T14:33:13+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid01QMrmVG8RjtupdpjhQgXG68X5H8RvBt4Z5cVri8cX3kv2sFTLwvrhaq79KhBbuXrl"
-    },
-    {
-      "id": "29503479979236361",
-      "title": "JESUS SAID, “LOVE YOUR ENEMIES”… SO WHY ARE SOME CHRISTIANS CHEERING WHEN THEIR ENEMIES SUFFER?",
-      "date": "2026-10-31T14:26:40+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid047J5ripGVm91bqC4b9fAe6ek6BatHd9JKVMJFZrHSWJg8zX5jWjXVj3WCktuN25El"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bnySK1jvAtbMHXaZjaAEDmFJ5cDh299b2FNFgVNZAjwDhjTHhkvfE6aDYWb3gHbjl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-31T18:31:54Z",
-  "discovered": 13,
-  "processed": 13,
-  "discoveredLastRun": 13,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-10-31T22:27:21Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29505462205704805",
-    "title": "WHAT IF THE SIN YOU FEAR MOST IS THE VERY SIN YOUR FEAR SUGGESTS YOU HAVEN’T COMMITTED?",
-    "date": "2026-10-31T17:19:29+00:00"
+    "id": "29508230078761351",
+    "title": "THE MOST TERRIFYING WORDS JESUS EVER SPOKE TO RELIGIOUS PEOPLE: “I NEVER KNEW YOU.”",
+    "date": "2026-10-31T22:23:11+00:00"
   },
-  "lastImportCount": 12,
-  "lastImportAt": "2026-10-31T18:32:59Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-10-31T22:28:08Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9713,
+  "structuredMetadata": 9715,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-f47ffaf451373bdeaeddd5b7191a8017278ca0b7e367f1ce160e9aa882e40cdd",
-  "statusGeneratedAt": "2026-10-31T18:33:00Z"
+  "contentRevision": "sha256-6912b216a7646c9f041a67d2cc0f1d09d802e443de91f9933d30c462a017ad5b",
+  "statusGeneratedAt": "2026-10-31T22:28:08Z"
 }
