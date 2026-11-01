@@ -1,51 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 2 new public studies.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-10-31T22:28:08Z",
-  "lastSuccess": "2026-10-31T22:28:08Z",
-  "currentTotal": 9715,
-  "totalWords": 15563921,
+  "lastCheck": "2026-11-01T02:12:34Z",
+  "lastSuccess": "2026-11-01T02:12:34Z",
+  "currentTotal": 9728,
+  "totalWords": 15622031,
   "subjects": 17,
-  "addedLastRun": 2,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29508230078761351",
-      "title": "THE MOST TERRIFYING WORDS JESUS EVER SPOKE TO RELIGIOUS PEOPLE: “I NEVER KNEW YOU.”",
-      "date": "2026-10-31T22:23:11+00:00",
+      "id": "29509455985305427",
+      "title": "YOU WANT JESUS AS YOUR SAVIOR… BUT DO YOU REALLY WANT HIM AS YOUR LORD?",
+      "date": "2026-11-01T00:43:54+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EVUjB1XQ6WzaM11Yu8bJ9e8fJzWt99WFjgP4vkWg6jqtDRPmBcjPvXMga6CL1MCFl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ESkS5AZCKKTpsKdfqDuhWmAWDAnNzZVepWL5vbXycbTuuVRMLe5PKiKxGbXae8VHl"
     },
     {
-      "id": "29508175292100163",
-      "title": "ARE THERE SINS GOD WILL NEVER FORGIVE? THE TERRIFYING WARNING OF JESUS THAT MILLIONS OF CHRISTIANS MAY HAVE MISUNDERSTOOD",
-      "date": "2026-10-31T22:16:15+00:00",
+      "id": "29509340045317021",
+      "title": "THE GOSPEL THAT PROMISES YOU EVERYTHING—EXCEPT THE CROSS",
+      "date": "2026-11-01T00:30:26+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bnySK1jvAtbMHXaZjaAEDmFJ5cDh299b2FNFgVNZAjwDhjTHhkvfE6aDYWb3gHbjl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MzMYQVRE8hYKN3MitUHqdAW4XgMgxC6QULr14Qr5Mje5RK6otWftdsJiPhVpNSw3l"
+    },
+    {
+      "id": "29509284075322618",
+      "title": "SHOULD WOMEN STILL COVER THEIR HEADS WHEN THEY WORSHIP GOD? THE BIBLE'S ANSWER MAY CHALLENGE BOTH SIDES.",
+      "date": "2026-11-01T00:23:48+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VhEwwMFjkS4Z2xFYyTBTceSQKNFDRoN5NsBY9raPeDEbytvNJr33GbFgH9e97dEvl"
+    },
+    {
+      "id": "29509215471996145",
+      "title": "CAN A CHRISTIAN BE CREMATED AND STILL RISE AGAIN? THE BIBLICAL TRUTH THAT COULD SET THOUSANDS OF GRIEVING FAMILIES FREE",
+      "date": "2026-11-01T00:15:29+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023RDNu7vpMSGdmpc2mvqpp71o7U44uvJrJuo5rm4BEd4En8tbB7avRbMdeQcmqx2Rl"
+    },
+    {
+      "id": "29509143872003305",
+      "title": "THE SUNDAY QUESTION THAT COULD SHAKE WHAT YOU'VE BELIEVED YOUR ENTIRE LIFE",
+      "date": "2026-11-01T00:07:27+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kMDymwFpgd6tfdNre8i49DV8jbue1uYXdvC3ChxYsYgHyj2xGQVzLkUyEDd8kJaol"
+    },
+    {
+      "id": "29508976642020028",
+      "title": "SHOULD CHRISTIANS PRAY TO SAINTS? THE ONE QUESTION THAT COULD CHANGE HOW YOU APPROACH GOD FOREVER",
+      "date": "2026-10-31T23:50:04+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WhzjtPJVDLYrJTjj8zrW6aLWrY9zyzkana3Mk1zppvzUafC9yYy7H7chqPnyQxcul"
+    },
+    {
+      "id": "29508922332025459",
+      "title": "IF YOU DON'T SPEAK IN TONGUES, DO YOU REALLY HAVE THE HOLY SPIRIT? THE BIBLICAL TRUTH THAT COULD SET THOUSANDS OF CHRISTIANS FREE",
+      "date": "2026-10-31T23:44:19+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid064sdyVjt15mfpU7jfyG6APJeKUX25xzvXvvZBjNmxNpzATJGxdkhPaYeAFwn5VnKl"
+    },
+    {
+      "id": "29508822198702139",
+      "title": "SHOULD YOU CONFESS YOUR SINS TO ANOTHER PERSON… OR IS TELLING GOD ENOUGH?",
+      "date": "2026-10-31T23:33:48+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Uhgv713mmcKduB7gqmzu8Ns6orksxFBxjHCjgEUNbVLUozj3FvackDbqDprMEcrel"
+    },
+    {
+      "id": "29508507155400310",
+      "title": "IF JESUS SCROLLED THROUGH YOUR FACEBOOK TONIGHT… WOULD HE RECOGNIZE THE HEART YOU CLAIM BELONGS TO HIM?",
+      "date": "2026-10-31T22:58:21+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05tcFRgSAaHCu9oS5UoahnwqjTEgJMRTmLJLTTHvggxJ2hYohDYahmjt2G83WxQ8sl"
+    },
+    {
+      "id": "29508455802072112",
+      "title": "YOU DEFENDED GOD IN THE COMMENTS… BUT IGNORED HIM AT YOUR DOOR.",
+      "date": "2026-10-31T22:52:00+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BESGyRicvd6kKVcvPPb1j3DSJHqTD4TctPnPVuFCEEcn56HJkqWdAMj5Q1xvxk4Jl"
+    },
+    {
+      "id": "29508392542078438",
+      "title": "YOU POST BIBLE VERSES EVERY DAY… BUT WHAT IF YOUR SOUL IS STILL STARVING?",
+      "date": "2026-10-31T22:43:58+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zPvx2cgNtSxihcxBUc36ao5FtA5xKNbzyKrhVpoaaW6F2BWRSh5y6pg5u116VW9Cl"
+    },
+    {
+      "id": "29508342682083424",
+      "title": "WHAT IF YOUR FAVORITE CHRISTIAN CONTENT CREATOR IS QUIETLY TEACHING YOU TO WORSHIP THEM INSTEAD OF JESUS?",
+      "date": "2026-10-31T22:37:29+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tCdZWJ97pf6z9HeKBQKxKphz7yB4TdidFv7tJ89c8XP3xFRccaA5zQL9v2hPQ9M6l"
+    },
+    {
+      "id": "29508288188755540",
+      "title": "ARE CHRISTIAN INFLUENCERS MAKING DISCIPLES… OR JUST BUILDING PERSONAL BRANDS?",
+      "date": "2026-10-31T22:30:37+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qsYAybXuS1BzByJadGBVKAwi9B8YmCgNys6AdrgG42UyVFxwnXikMsYsujDfLf9sl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-10-31T22:27:21Z",
-  "discovered": 2,
-  "processed": 2,
-  "discoveredLastRun": 2,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-01T02:11:32Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29508230078761351",
-    "title": "THE MOST TERRIFYING WORDS JESUS EVER SPOKE TO RELIGIOUS PEOPLE: “I NEVER KNEW YOU.”",
-    "date": "2026-10-31T22:23:11+00:00"
+    "id": "29509455985305427",
+    "title": "YOU WANT JESUS AS YOUR SAVIOR… BUT DO YOU REALLY WANT HIM AS YOUR LORD?",
+    "date": "2026-11-01T00:43:54+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-10-31T22:28:08Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-11-01T02:12:34Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9715,
+  "structuredMetadata": 9728,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-6912b216a7646c9f041a67d2cc0f1d09d802e443de91f9933d30c462a017ad5b",
-  "statusGeneratedAt": "2026-10-31T22:28:08Z"
+  "contentRevision": "sha256-d15dbb1c01da190cba771ba88e1b5c9699871de4e7f2f5991a1bdf40d48ab0e9",
+  "statusGeneratedAt": "2026-11-01T02:12:34Z"
 }
