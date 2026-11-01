@@ -1,93 +1,65 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 4 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-01T16:00:38Z",
-  "lastSuccess": "2026-11-01T16:00:38Z",
-  "currentTotal": 9744,
-  "totalWords": 15692282,
+  "lastCheck": "2026-11-01T20:29:31Z",
+  "lastSuccess": "2026-11-01T20:29:31Z",
+  "currentTotal": 9748,
+  "totalWords": 15712863,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 4,
   "recentAdded": [
     {
-      "id": "29518083867775972",
-      "title": "ARE WE GIVING SATAN THE ATTENTION THAT BELONGS TO JESUS?",
-      "date": "2026-11-01T15:45:48+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026Gn46qPMSVi5ENSYphYrGMfHZuZUcGtGhDAN9TUH8WURBb48MuUuQKRGYxk7jiXDl"
+      "id": "29518798224371203",
+      "title": "CAN YOU DEFEND THE SANCTITY OF LIFE AND STILL SUPPORT THE DEATH PENALTY? THE BIBLICAL TRUTH THAT MAY CHALLENGE BOTH SIDES",
+      "date": "2026-11-01T16:49:58+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TCsEmt2wiZrUnmVM5xFBuuP99uDvPiYG1eSjBCaZcKJyR3uYgPH3FMgm79bdtxXBl"
     },
     {
-      "id": "29517895694461456",
-      "title": "THE PRODIGAL SON CAME HOME… BUT HIS BROTHER REFUSED TO GO INSIDE. WHAT IF JESUS WAS WARNING US ABOUT THE BROTHER WHO NEVER LEFT?",
-      "date": "2026-11-01T15:28:47+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Hb29wRwzAv3EWRgWxM4VeQMidnoeKqBzFbporUpUkMYaZUfsMC3gzVj2zKASxJuJl"
+      "id": "29518632904387735",
+      "title": "THE FOOD ON YOUR PLATE COULD BE REVEALING SOMETHING ABOUT YOUR FAITH—BUT NOT WHAT YOU THINK",
+      "date": "2026-11-01T16:34:49+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0oZY8GvUSKTeYvfmroicrR9XG1YsGEGmtPKJNLNoGsSJPBvRUXa4YTMnRVVE9zDawl"
     },
     {
-      "id": "29517390624511963",
-      "title": "WHAT IF YOUR MINISTRY'S GREATEST FINANCIAL BLESSING ISN'T MORE MONEY… BUT MORE PEOPLE YOU GET TO SERVE?",
-      "date": "2026-11-01T14:44:02+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02h98VSbvo9eyyMojNf9bb2GAipQHKN5vp5ZVcgDAxAz4t9hvKNoh1di5zMqZtAfrGl"
+      "id": "29518546644396361",
+      "title": "SHOULD WE BAPTIZE BABIES… OR ARE WE PUTTING WATER BEFORE FAITH?",
+      "date": "2026-11-01T16:27:05+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mbrBJittTUZ2yeAHH5LExWXiftH3q8F5kXDHuTEP43nft6hRzU9yhTagVK43WGRLl"
     },
     {
-      "id": "29517305584520467",
-      "title": "WHAT IF THE MONEY YOU EARN ON FACEBOOK COULD HELP SOMEONE FIND JESUS?",
-      "date": "2026-11-01T14:36:29+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0VtAT85GTrgoEcqPtGJfrqSLpoEQW31vwhbcHwBhxSouUuqhKTTrWKptZt3ySXP1ol"
-    },
-    {
-      "id": "29516923397892019",
-      "title": "JESUS SAID, “ASK AND IT WILL BE GIVEN TO YOU.” SO WHY DID GOD SAY NO WHEN YOU NEEDED HIM MOST?",
-      "date": "2026-11-01T14:02:58+00:00",
+      "id": "29518408817743477",
+      "title": "WHAT DOES IT ACTUALLY MEAN TO PUT ON THE FULL ARMOR OF GOD? THE TRUTH MOST CHRISTIANS NEVER REALIZE UNTIL THE BATTLE ALMOST BREAKS THEM",
+      "date": "2026-11-01T16:14:54+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aUk95ZgAaSg9hfZph75qf9FLBc3rnMQj2edECNBW1fwPaampr5ST2XNfmrk1K3m4l"
-    },
-    {
-      "id": "29516297214621304",
-      "title": "WHAT IF JEREMIAH 29:11 WAS NEVER GOD’S PROMISE TO MAKE YOUR DREAMS COME TRUE?",
-      "date": "2026-11-01T13:07:10+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TwgBN6zSCvqy7zcaqPR23HddxyJQsbcqTfraqydYVtudfYqkFMFds4TKcYsjoEuml"
-    },
-    {
-      "id": "29516170771300615",
-      "title": "WHAT IF THE SOULMATE YOU'VE BEEN PRAYING FOR IS A PROMISE GOD NEVER MADE?",
-      "date": "2026-11-01T12:55:32+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FFP9xwU4a3UaQXDY8GuytdaQU3o1RhUdiD2arT48EUhAe35Cyx7Y9dDYx8Dh7pS4l"
-    },
-    {
-      "id": "29514314721486220",
-      "title": "“GOD HELPS THOSE WHO HELP THEMSELVES”—WHAT IF THE SAYING YOU’VE TRUSTED YOUR WHOLE LIFE ISN’T EVEN IN THE BIBLE?",
-      "date": "2026-11-01T09:45:49+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SmCeM2mk7s8FSLf7rFSP7kh8aFY1es45zbZwKebmT2mbPwEqztJMBwcts58DRakel"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qWgHPfUngQfNdEmodys7HUHqCDhdCK9EZVYLodhXQJgGVA5G6pnroC4jZdfD1n83l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-01T15:59:45Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-01T20:28:40Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29518083867775972",
-    "title": "ARE WE GIVING SATAN THE ATTENTION THAT BELONGS TO JESUS?",
-    "date": "2026-11-01T15:45:48+00:00"
+    "id": "29518798224371203",
+    "title": "CAN YOU DEFEND THE SANCTITY OF LIFE AND STILL SUPPORT THE DEATH PENALTY? THE BIBLICAL TRUTH THAT MAY CHALLENGE BOTH SIDES",
+    "date": "2026-11-01T16:49:58+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-11-01T16:00:38Z",
+  "lastImportCount": 4,
+  "lastImportAt": "2026-11-01T20:29:31Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9744,
+  "structuredMetadata": 9748,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-b98ceb34c32eef36347bacea3947f45526037010c5ab89806c6f29863dfe3108",
-  "statusGeneratedAt": "2026-11-01T16:00:38Z"
+  "contentRevision": "sha256-1a65bc602b0317fda52bf1b5ea908280f4173b212d03a3437b37fcb4f5ad94d5",
+  "statusGeneratedAt": "2026-11-01T20:29:31Z"
 }
