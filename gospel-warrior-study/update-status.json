@@ -1,51 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 2 new public studies.",
+  "message": "Added 20 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-02T00:41:26Z",
-  "lastSuccess": "2026-11-02T00:41:26Z",
-  "currentTotal": 9750,
-  "totalWords": 15722883,
+  "lastCheck": "2026-11-02T07:40:21Z",
+  "lastSuccess": "2026-11-02T07:40:21Z",
+  "currentTotal": 9770,
+  "totalWords": 15815185,
   "subjects": 17,
-  "addedLastRun": 2,
+  "addedLastRun": 20,
   "recentAdded": [
     {
-      "id": "29522736540644038",
-      "title": "THE HOLIDAY JESUS NEVER COMMANDED: ARE WE HONORING GOD… OR DEFENDING TRADITIONS HE NEVER ASKED FOR?",
-      "date": "2026-11-02T00:31:05+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jgtjHGd8WB84KBWCZg1kjHFmtefAKnRaqisHhY6NzBNgbX2ekcsqbmqQbfpR1k7wl"
+      "id": "29526358670281825",
+      "title": "“BE STILL AND KNOW THAT I AM GOD”—WHAT IF WE’VE BEEN MISSING THE MOST POWERFUL PART OF THIS VERSE?",
+      "date": "2026-11-02T07:38:47+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025CCbBwZbKhnmLhb67mYA9uy85vTxBZqnCChCVQWZhxhxgG9UEZZDG7aNn7AsB6aTl"
     },
     {
-      "id": "29522326940684998",
-      "title": "WHAT IF YOU’VE BEEN WRONG ABOUT WHO GOD CHOOSES TO SAVE?",
-      "date": "2026-11-01T23:37:10+00:00",
+      "id": "29526292763621749",
+      "title": "THE CHURCH CALLED YOU TO SERVE JESUS… SO WHY DID YOU END UP FEELING USED?",
+      "date": "2026-11-02T07:30:53+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xCA4VBpRoi3UKWDwS3HZjTagcErHexiiYUrjnpemBsFwMsuT2ZjgpCdzkF7AMxMWl"
+    },
+    {
+      "id": "29526056300312062",
+      "title": "THEY CAN CAST OUT DEMONS… BUT CAN THEY CAST OUT THE HATRED IN THEIR OWN HEARTS?",
+      "date": "2026-11-02T07:02:30+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vkwMKXozxWGDQrszoQXPb6NwBMQHKUUkJ3dVLSheRafyggoWfYwzdKYf97spX86Cl"
+    },
+    {
+      "id": "29525856903665335",
+      "title": "THE MAN IN THE EXPENSIVE SUIT GOT THE FRONT ROW. THE POOR MAN GOT IGNORED. BUT JESUS SAW EVERYTHING.",
+      "date": "2026-11-02T06:38:24+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gpEm7zu3p2W9snbNpaqvYpWCQ6xWQcarihWpvvT8Ai3j3h6m4us82ob97nSdSS37l"
+    },
+    {
+      "id": "29525647593686266",
+      "title": "YOU KEEP POSTING ABOUT JESUS… BUT WHEN WAS THE LAST TIME YOU ACTUALLY SAT ALONE WITH HIM?",
+      "date": "2026-11-02T06:11:28+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NGJJG6MG5qzQpoCGTS2n5RtEXBtVPFopzwQ6KTBNQYrGv8EL6znpieugAQwxazABl"
+    },
+    {
+      "id": "29525535810364111",
+      "title": "WILL WE RECOGNIZE OUR LOVED ONES IN HEAVEN? THE BIBLICAL ANSWER THAT COULD CHANGE HOW YOU FACE DEATH FOREVER",
+      "date": "2026-11-02T05:56:47+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02gE46qLmRoP4Tf1xPVXgAYaixQkHZ3iV48BVxTJhbQs8LWuEPJjhbjmKCF5aahLmZl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KHXg8hFxqNEu4Sqkhis6UMnkJtwhtwu8YL22S9VJ4GSKc5wnQ9K4qw6K7oQ66DYrl"
+    },
+    {
+      "id": "29525456850372007",
+      "title": "SHOULD CHRISTIANS STILL ANOINT THE SICK WITH OIL? THE BIBLICAL TRUTH MANY BELIEVERS HAVE NEVER BEEN TAUGHT",
+      "date": "2026-11-02T05:46:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02AAJ9bLuxXJrGDAhJkutDWje44wpPP3ntx6wHEUu5J7TaaMXVhVUebQdva6pVhH7Tl"
+    },
+    {
+      "id": "29525266907057668",
+      "title": "HE REFUSED TO KILL HIS ENEMY—BUT WAS HE DISOBEYING HIS COUNTRY OR OBEYING JESUS?",
+      "date": "2026-11-02T05:22:35+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0BB411brsRJRUQZzExbhiBpJXW1A8Gc7hPynL7K3r3RhyaN6WGtrCf1TsiM5WucVYl"
+    },
+    {
+      "id": "29524618113789214",
+      "title": "JESUS SAID, “DO NOT SWEAR AT ALL.” SO WHY ARE CHRISTIANS STILL MAKING PROMISES TO GOD?",
+      "date": "2026-11-02T04:05:45+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0faACUEmo5zaWJWSXPqXpDaArmf2TaYz1Zix9jiL2etKMAZXkhWhbHSNbFMfFwLJol"
+    },
+    {
+      "id": "29524505797133779",
+      "title": "THE STRANGER AT YOUR DOOR: CAN ANGELS REALLY BECOME HUMAN TODAY? THE BIBLICAL TRUTH MOST CHRISTIANS HAVE NEVER EXAMINED",
+      "date": "2026-11-02T03:53:43+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02QThHn4S16fRKxUVfLxwp8sKfSPy29GgQ4yNBUQSvpgVS48Xi9XS1WDBRbihGj3fl"
+    },
+    {
+      "id": "29524360093815016",
+      "title": "BEFORE YOU EXPOSE THEIR SIN, READ THIS: WHAT IF YOU'RE ABOUT TO WOUND SOMEONE JESUS IS TRYING TO RESTORE?",
+      "date": "2026-11-02T03:38:10+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021kZfzEGURgK8CjkzknaKhDJshxpcrQXmsuJixsLXHnj77A4mbsEziMsz9Px56T3Pl"
+    },
+    {
+      "id": "29524254077158951",
+      "title": "YOU RAISED YOUR CHILD TO LOVE GOD… SO WHY DID THEY WALK AWAY?",
+      "date": "2026-11-02T03:27:04+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xPqnQtKFYpuHcsreMADALYeJF1wsqFnW1bAULr7UE5Lsdzhuo3gWyM8vcRxd6hisl"
+    },
+    {
+      "id": "29523511443899881",
+      "title": "JESUS SAID TO HATE YOUR FATHER AND MOTHER. DID WE MISUNDERSTAND ONE OF HIS MOST DISTURBING COMMANDS?",
+      "date": "2026-11-02T02:01:32+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025qsrpdJjmkox9b18W68eYHBx2JJhZSQCo7Q9vTGqUE2Cr4XFtc4e9AaWaLTG1Cj4l"
+    },
+    {
+      "id": "29523454760572216",
+      "title": "BY HIS STRIPES WE ARE HEALED… SO WHY ARE SOME FAITHFUL CHRISTIANS STILL DYING SICK?",
+      "date": "2026-11-02T01:55:17+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DsLDoctMv2HrC3VFn2MZAW9zHUuNEcGdZn55E78fnRuBzkC555JhvGM6qWWoVN6Vl"
+    },
+    {
+      "id": "29523293180588374",
+      "title": "“WHERE TWO OR THREE ARE GATHERED”—WHAT IF WE’VE BEEN USING JESUS’ WORDS TO MEAN SOMETHING HE WASN’T TALKING ABOUT?",
+      "date": "2026-11-02T01:36:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eyybeoYLWNpzu9F3Qv6V9mVooaqc5Wkmc8zUVpYtXAr6139R3VDyPrGzpWoVuMVDl"
+    },
+    {
+      "id": "29523221203928905",
+      "title": "“I CAN DO ALL THINGS THROUGH CHRIST”—BUT WHAT IF GOD NEVER PROMISED YOU THE LIFE YOU'RE CHASING?",
+      "date": "2026-11-02T01:29:23+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cbAr7DGnYqyALiTNQCwSLPswiUuudgZJbqpcUw13ZwpEWtdu84Ri9oyUj9kYkFhFl"
+    },
+    {
+      "id": "29523163067268052",
+      "title": "“JUDGE NOT!” — THE TWO WORDS JESUS SPOKE THAT MILLIONS HAVE MISUNDERSTOOD",
+      "date": "2026-11-02T01:22:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0T9NbPsAMgx33KxsoJm99L8mLhdPU3tTQMVUFM31r58bgej9ZtC5DYwBpdw3dkDu4l"
+    },
+    {
+      "id": "29523111997273159",
+      "title": "WHAT IF THE CHURCH TRADITION YOU'VE DEFENDED YOUR WHOLE LIFE IS THE VERY THING KEEPING YOU FROM HEARING JESUS?",
+      "date": "2026-11-02T01:16:40+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02d8d2tMjiVQcLqFVXB6Dg1KWNnZNr3KKC121iRoNbLL5DwLZM23Myf39fNKMRrn1Gl"
+    },
+    {
+      "id": "29523046237279735",
+      "title": "YOU DEFEND JESUS IN THE COMMENTS… BUT WOULD HE RECOGNIZE YOU WHEN YOU LOG OFF?",
+      "date": "2026-11-02T01:08:58+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029yvNnraGVEYRTWV7Q6AhHTASbULL4envUwX5Sb5HN1CeYBgp8vXgBSCBf39KMYM9l"
+    },
+    {
+      "id": "29522934317290927",
+      "title": "YOU SAY YOU’RE WAITING ON GOD… BUT WHAT IF GOD IS WAITING FOR YOU TO OBEY?",
+      "date": "2026-11-02T00:55:58+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GpFDto3ep5Ld2W84uaxLfD564CmboXT549j2n9UtSzNjAMbFEtskTm83EAoaqSubl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-02T00:40:41Z",
-  "discovered": 2,
-  "processed": 2,
-  "discoveredLastRun": 2,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-02T07:39:02Z",
+  "discovered": 20,
+  "processed": 20,
+  "discoveredLastRun": 20,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29522736540644038",
-    "title": "THE HOLIDAY JESUS NEVER COMMANDED: ARE WE HONORING GOD… OR DEFENDING TRADITIONS HE NEVER ASKED FOR?",
-    "date": "2026-11-02T00:31:05+00:00"
+    "id": "29526358670281825",
+    "title": "“BE STILL AND KNOW THAT I AM GOD”—WHAT IF WE’VE BEEN MISSING THE MOST POWERFUL PART OF THIS VERSE?",
+    "date": "2026-11-02T07:38:47+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-11-02T00:41:26Z",
+  "lastImportCount": 20,
+  "lastImportAt": "2026-11-02T07:40:21Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9750,
+  "structuredMetadata": 9770,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-bd60503f0c900a60fafd67e1658a10c8cd57ba684ea7f8c4a5686051a90b8161",
-  "statusGeneratedAt": "2026-11-02T00:41:27Z"
+  "contentRevision": "sha256-5bb69ab2276429c892366f6ed9b49cc4e2bfa592b3ecbf157a935f7b8650b9da",
+  "statusGeneratedAt": "2026-11-02T07:40:21Z"
 }
