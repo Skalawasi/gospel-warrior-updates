@@ -1,65 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 4 new public studies.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-01T20:29:31Z",
-  "lastSuccess": "2026-11-01T20:29:31Z",
-  "currentTotal": 9748,
-  "totalWords": 15712863,
+  "lastCheck": "2026-11-02T00:41:26Z",
+  "lastSuccess": "2026-11-02T00:41:26Z",
+  "currentTotal": 9750,
+  "totalWords": 15722883,
   "subjects": 17,
-  "addedLastRun": 4,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29518798224371203",
-      "title": "CAN YOU DEFEND THE SANCTITY OF LIFE AND STILL SUPPORT THE DEATH PENALTY? THE BIBLICAL TRUTH THAT MAY CHALLENGE BOTH SIDES",
-      "date": "2026-11-01T16:49:58+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TCsEmt2wiZrUnmVM5xFBuuP99uDvPiYG1eSjBCaZcKJyR3uYgPH3FMgm79bdtxXBl"
-    },
-    {
-      "id": "29518632904387735",
-      "title": "THE FOOD ON YOUR PLATE COULD BE REVEALING SOMETHING ABOUT YOUR FAITH—BUT NOT WHAT YOU THINK",
-      "date": "2026-11-01T16:34:49+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0oZY8GvUSKTeYvfmroicrR9XG1YsGEGmtPKJNLNoGsSJPBvRUXa4YTMnRVVE9zDawl"
-    },
-    {
-      "id": "29518546644396361",
-      "title": "SHOULD WE BAPTIZE BABIES… OR ARE WE PUTTING WATER BEFORE FAITH?",
-      "date": "2026-11-01T16:27:05+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mbrBJittTUZ2yeAHH5LExWXiftH3q8F5kXDHuTEP43nft6hRzU9yhTagVK43WGRLl"
-    },
-    {
-      "id": "29518408817743477",
-      "title": "WHAT DOES IT ACTUALLY MEAN TO PUT ON THE FULL ARMOR OF GOD? THE TRUTH MOST CHRISTIANS NEVER REALIZE UNTIL THE BATTLE ALMOST BREAKS THEM",
-      "date": "2026-11-01T16:14:54+00:00",
+      "id": "29522736540644038",
+      "title": "THE HOLIDAY JESUS NEVER COMMANDED: ARE WE HONORING GOD… OR DEFENDING TRADITIONS HE NEVER ASKED FOR?",
+      "date": "2026-11-02T00:31:05+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qWgHPfUngQfNdEmodys7HUHqCDhdCK9EZVYLodhXQJgGVA5G6pnroC4jZdfD1n83l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jgtjHGd8WB84KBWCZg1kjHFmtefAKnRaqisHhY6NzBNgbX2ekcsqbmqQbfpR1k7wl"
+    },
+    {
+      "id": "29522326940684998",
+      "title": "WHAT IF YOU’VE BEEN WRONG ABOUT WHO GOD CHOOSES TO SAVE?",
+      "date": "2026-11-01T23:37:10+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02gE46qLmRoP4Tf1xPVXgAYaixQkHZ3iV48BVxTJhbQs8LWuEPJjhbjmKCF5aahLmZl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-01T20:28:40Z",
-  "discovered": 4,
-  "processed": 4,
-  "discoveredLastRun": 4,
+  "lastCheckStarted": "2026-11-02T00:40:41Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
   "pagesScanned": 1,
   "latest": {
-    "id": "29518798224371203",
-    "title": "CAN YOU DEFEND THE SANCTITY OF LIFE AND STILL SUPPORT THE DEATH PENALTY? THE BIBLICAL TRUTH THAT MAY CHALLENGE BOTH SIDES",
-    "date": "2026-11-01T16:49:58+00:00"
+    "id": "29522736540644038",
+    "title": "THE HOLIDAY JESUS NEVER COMMANDED: ARE WE HONORING GOD… OR DEFENDING TRADITIONS HE NEVER ASKED FOR?",
+    "date": "2026-11-02T00:31:05+00:00"
   },
-  "lastImportCount": 4,
-  "lastImportAt": "2026-11-01T20:29:31Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-11-02T00:41:26Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9748,
+  "structuredMetadata": 9750,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-1a65bc602b0317fda52bf1b5ea908280f4173b212d03a3437b37fcb4f5ad94d5",
-  "statusGeneratedAt": "2026-11-01T20:29:31Z"
+  "contentRevision": "sha256-bd60503f0c900a60fafd67e1658a10c8cd57ba684ea7f8c4a5686051a90b8161",
+  "statusGeneratedAt": "2026-11-02T00:41:27Z"
 }
