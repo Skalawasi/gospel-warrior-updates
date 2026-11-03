@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 31 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-02T18:19:46Z",
-  "lastSuccess": "2026-11-02T18:19:46Z",
+  "lastCheck": "2026-11-03T01:33:38Z",
+  "lastSuccess": "2026-11-03T01:33:38Z",
   "currentTotal": 9801,
   "totalWords": 15955172,
   "subjects": 17,
-  "addedLastRun": 31,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29531648889752803",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-02T18:18:02Z",
-  "discovered": 31,
-  "processed": 31,
-  "discoveredLastRun": 31,
-  "pagesScanned": 3,
+  "lastCheckStarted": "2026-11-03T01:33:12Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
+  "pagesScanned": 2,
   "latest": {
     "id": "29531648889752803",
     "title": "SHE WAS A WIDOW FROM A NATION ISRAEL WAS WARNED ABOUT—YET GOD WROTE HER NAME INTO THE BLOODLINE OF JESUS CHRIST.",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-3af7f1b479d3cf06ed58d18b832870ca6389cbff1e28e776fa14db8ba5aa2008",
-  "statusGeneratedAt": "2026-11-02T18:19:46Z"
+  "statusGeneratedAt": "2026-11-03T01:33:38Z"
 }
