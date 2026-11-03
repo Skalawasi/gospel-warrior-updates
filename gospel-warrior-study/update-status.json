@@ -1,177 +1,170 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 19 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-03T01:33:38Z",
-  "lastSuccess": "2026-11-03T01:33:38Z",
-  "currentTotal": 9801,
-  "totalWords": 15955172,
+  "lastCheck": "2026-11-03T09:30:41Z",
+  "lastSuccess": "2026-11-03T09:30:41Z",
+  "currentTotal": 9820,
+  "totalWords": 16034422,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 19,
   "recentAdded": [
     {
-      "id": "29531648889752803",
-      "title": "SHE WAS A WIDOW FROM A NATION ISRAEL WAS WARNED ABOUT—YET GOD WROTE HER NAME INTO THE BLOODLINE OF JESUS CHRIST.",
-      "date": "2026-11-02T16:04:27+00:00",
+      "id": "29540425408875151",
+      "title": "SHE WALKED INTO THE KING’S PALACE WITH A LIE… AND EXPOSED A TRUTH DAVID DIDN’T WANT TO FACE",
+      "date": "2026-11-03T06:36:00+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PtSPg2a6BHqT886zAoxzE6Rm7Kcu3cb5S6MBU3gfE85qsK7Kskccx7ex4gCk3MzTl"
+    },
+    {
+      "id": "29540355942215431",
+      "title": "KING DAVID WAS FURIOUS WHEN HIS DAUGHTER WAS VIOLATED—BUT THE BIBLE NEVER RECORDS HIM PUNISHING THE SON WHO DID IT.",
+      "date": "2026-11-03T06:28:11+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ahxehnvCRjBncD2yJa25KEM5Sg3HfzEc54hAgBbgJ3DjiWAeRVmLMuLVjQTUA7ASl"
+    },
+    {
+      "id": "29540179188899773",
+      "title": "THE FRIEND WHO HELPED DESTROY A PRINCESS: WHEN THE WRONG VOICE TURNS SECRET SIN INTO SOMEONE ELSE’S NIGHTMARE",
+      "date": "2026-11-03T06:08:06+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GSx3eXFe2hLjvxw7M95ShvHuFLUbqL5ARkbiNEvwQAPPRRhNweF8fn85d9yxontAl"
+    },
+    {
+      "id": "29538521515732207",
+      "title": "DEAR JESUS, PLEASE DON'T LET GO OF MY GRANDCHILD. I'M TRYING TO BE STRONG, BUT MY HEART IS BREAKING. 💔🙏",
+      "date": "2026-11-03T03:09:09+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FeRicAzi8hC8VvK2yAwfsKQDbz6DANkpukLNov3zunzzXX5iQE5KKZR4iQu2odWrl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0yESZEJ5876hizrA9tDVSiHYzwtDkP6Qe9E2pAtipmUUTPyemkiiDRK34sVtzNGh4l"
     },
     {
-      "id": "29531401109777581",
-      "title": "“EVERYONE DID WHAT WAS RIGHT IN HIS OWN EYES”—THE BIBLE’S CIVIL WAR THAT ENDED WITH A SENTENCE MORE TERRIFYING THAN THE BLOODSHED",
-      "date": "2026-11-02T15:44:01+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06pLids3V1V4tjpDCcBhjQxzxwKE7sRW14GzLNVcppb8hhhPkWALRfRoRt2qS5Y9wl"
-    },
-    {
-      "id": "29531313106453048",
-      "title": "THEY WERE DANCING BEFORE GOD… THEN MEN CAME OUT OF THE VINEYARDS TO TAKE THEM.",
-      "date": "2026-11-02T15:36:42+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SdZMtY7tF9MH9BmcY8ybfjXGKYGbQWcqRxke1DUK2wy68JgFtUHPMjjiiivL7pxEl"
-    },
-    {
-      "id": "29531210426463316",
-      "title": "ISRAEL ALMOST ERASED ONE OF ITS OWN TWELVE TRIBES—AND THE MOST TERRIFYING PART WAS THAT EVERYONE THOUGHT THEY WERE RIGHT",
-      "date": "2026-11-02T15:27:58+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UAEij6xt5TqtaTpUkd9y7JiGdvbjsLVyQgPEinWFoxh4FFanhv6iYF4DtXSfvZpyl"
-    },
-    {
-      "id": "29531092813141744",
-      "title": "A LEVITE TOOK A WOMAN FROM BETHLEHEM… AND WHAT HAPPENED TO HER EXPOSED ONE OF THE DARKEST NIGHTS IN THE BIBLE",
-      "date": "2026-11-02T15:18:05+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024hESL6KojpTXktrpbA44kExBRugZCGTbg9HE1whAMFoRFPnvPW7P1dzkRN4ARmSl"
-    },
-    {
-      "id": "29530872969830395",
-      "title": "DID JEPHTHAH REALLY SACRIFICE HIS OWN DAUGHTER? THE DISTURBING TRUTH BEHIND JUDGES 11 THAT MANY CHRISTIANS HAVE NEVER FULLY CONFRONTED",
-      "date": "2026-11-02T14:59:16+00:00",
+      "id": "29538106449107047",
+      "title": "DAVID HAD MANY WIVES, MANY SONS… AND ONE THRONE. THEN HIS OWN FAMILY BECAME A BATTLEFIELD.",
+      "date": "2026-11-03T02:28:10+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zkFBY1ym5gZJEBDZWfXAbeuQ35JQMC2m8Uj3v9fuz1UsD646FTfLqz3Na5MnufuGl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02rB7zSi4kyyDC7HsAg8MeY4go4M1G3JcmexR4oK2km7zU1qeA5SksHeswSPJ62RQul"
     },
     {
-      "id": "29530697523181273",
-      "title": "THE BIBLE’S VICTORY SONG MENTIONS WOMEN AS WAR SPOILS—AND THE MOST DISTURBING WORDS COME FROM A MOTHER WAITING FOR HER SON",
-      "date": "2026-11-02T14:44:12+00:00",
+      "id": "29538013082449717",
+      "title": "THE SON OF A FOREIGN KING’S DAUGHTER WHO NEARLY STOLE HIS FATHER’S THRONE",
+      "date": "2026-11-03T02:19:06+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0VqS9RUgJL4TeJj5bCVrehARfRzZv2sNrx2W92gTnmdoeXTvzxDxeH8nkZdXsQGDfl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02idBsxmwQP7vnzTFK5RiATGBvJv38nTJhsBBwNvBq1GC9hbZRbH6YwSDQGudFcjkRl"
     },
     {
-      "id": "29530502909867401",
-      "title": "YOUR BUSINESS DESERVES MORE THAN JUST A FACEBOOK PAGE AND A PRAYER! 😅🔥",
-      "date": "2026-11-02T14:27:39+00:00",
+      "id": "29537953145789044",
+      "title": "DAVID HAD SIX SONS BY SIX DIFFERENT WOMEN BEFORE HE RULED ALL ISRAEL—AND THE BIBLE DIDN’T HIDE A SINGLE NAME",
+      "date": "2026-11-03T02:13:09+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FqEoWEiQ3QwHAxygjv4TqnV3DAiK1B3QSz4Ja7gFprWeJYvfnVTz245QqEGY9xcBl"
+    },
+    {
+      "id": "29537887265795632",
+      "title": "DAVID MARRIED ABIGAIL AFTER HER HUSBAND DIED… BUT THE BIBLE REVEALS SOMETHING ABOUT HIS OTHER WIFE THAT MOST PEOPLE NEVER NOTICE.",
+      "date": "2026-11-03T02:06:39+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gpTTKe3hWPqqKvQfCggPisGeG4QEbkNvjCRCAgjXU2fnAa45KE9bWHv8z1mvUQiwl"
+    },
+    {
+      "id": "29537772102473815",
+      "title": "MICHAL DIED CHILDLESS… BUT THE BIBLE NEVER TELLS US WHY. WHAT REALLY HAPPENED BEHIND THE PALACE WALLS?",
+      "date": "2026-11-03T01:55:54+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021jagye7bukj9XZiftZz3TxBQ95jScqUvcmqznfmTBHxEzyCzLEtkDA7SsvWFEfJil"
+    },
+    {
+      "id": "29537654282485597",
+      "title": "MICHAL SAID DAVID EXPOSED HIMSELF BEFORE THE SERVANT GIRLS. BUT WHAT REALLY HAPPENED THAT DAY WILL MAKE YOU QUESTION EVERYTHING YOU THOUGHT YOU KNEW ABOUT WORSHIP.",
+      "date": "2026-11-03T01:45:02+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0N8KzDknyarhEgeNB4ivaDemnQnMLs7E4VDh2DmePbyUcjTMGreE1vyUxmpJAMioal"
+    },
+    {
+      "id": "29537551682495857",
+      "title": "SAUL STOLE DAVID’S WIFE AND GAVE HER TO ANOTHER MAN—BUT THE MOST HEARTBREAKING PART OF THIS STORY IS WHAT HAPPENED WHEN DAVID CAME BACK",
+      "date": "2026-11-03T01:34:58+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NwciQkEVQbvvF26kpFnJUAFynzFBkBsn8PZkWh2h4B6vVdhYn1hQJswXCytioxJzl"
+    },
+    {
+      "id": "29537395869178105",
+      "title": "SHE LOVED DAVID. HER FATHER SAW A WAY TO KILL HIM.",
+      "date": "2026-11-03T01:19:21+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kDFbfdBQzpWtqaqCZAq3sAZu52cgY995UPhoFssfcAeqUka1cJm1Hmi2kfBMvpgcl"
+    },
+    {
+      "id": "29536813495903009",
+      "title": "ELI HEARD WHAT HIS SONS WERE DOING. HE WARNED THEM. SO WHY DID GOD STILL HOLD HIM RESPONSIBLE?",
+      "date": "2026-11-03T00:19:16+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0awHUsjts7z6NpZHvEaerotBjq12CPG37ez2fm4DZaYs84Er8nqqqJtrQ4pxU8Fphl"
+    },
+    {
+      "id": "29536749135909445",
+      "title": "THEY WORE THE PRIESTLY ROBES… BUT THEIR SIN WAS HIDDEN IN GOD’S HOUSE",
+      "date": "2026-11-03T00:12:14+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nkgovSyKjEV6r2eoLSp1pUZbugnPPz98XDFFvUXAieJ97atZSgdcapb1CxgHJDm4l"
+    },
+    {
+      "id": "29536549865929372",
+      "title": "SHE GAVE GOD THE CHILD SHE PRAYED FOR… THEN GOD WROTE AN ENDING SHE NEVER SAW COMING.",
+      "date": "2026-11-02T23:50:42+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kWQ9fuDJ2Qkt528dUhDSnkb9svgbGeJcyJbuju86wmc7yoSwJn734xm1khiCak6Ql"
+    },
+    {
+      "id": "29536459502605075",
+      "title": "A WOMAN PRAYED SO DESPERATELY THAT A PRIEST THOUGHT SHE WAS DRUNK. BUT GOD HEARD EVERY WORD SHE NEVER SPOKE.",
+      "date": "2026-11-02T23:41:26+00:00",
       "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JTNEr6XBzVc1r6DiayBc1BcpcpowEWFDXRyDuDvNeftETeUxahcBXAanwzD9SmDnl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wrAtqM5iAKjsuQvtwVEBAEjrRogenV3WLCLNBiHUMqdxrPTvPsWafB52o2dfUYzxl"
     },
     {
-      "id": "29530477983203227",
-      "title": "A MOTHER WAITED AT THE WINDOW FOR A SON WHO WOULD NEVER COME HOME.",
-      "date": "2026-11-02T14:25:36+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02u22b3W5LyrtAHaA4P46tetvDkmxyHaVdgZnBms8PDxj4p2y8FTVVqEWrt7yShuucl"
-    },
-    {
-      "id": "29530225676561791",
-      "title": "SHE WAS A PROPHETESS. HE WAS A WAR COMMANDER. BUT HE REFUSED TO FACE THE ENEMY WITHOUT HER.",
-      "date": "2026-11-02T14:04:02+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0JsHWawM6aNkZd3EYghQ6TuCFrFew8LQSkbCPbZTSrjuwEzw9TCt8DDJ6VjjNeN7Gl"
-    },
-    {
-      "id": "29530148366569522",
-      "title": "SHE GOT OFF HER DONKEY AND ASKED FOR WATER—BUT WHAT ACHSAH UNDERSTOOD COULD CHANGE THE WAY YOU PRAY FOREVER",
-      "date": "2026-11-02T13:57:30+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ro3ux9jWaWQtreXThWFEHSGEaq9Gjm8387yZNUM1zYwpwYvdU1SSRYLFHRZdaHYpl"
-    },
-    {
-      "id": "29529768533274172",
-      "title": "A KING OFFERED HIS DAUGHTER TO THE MAN WHO COULD CAPTURE A CITY—BUT WHAT SHE ASKED FOR AFTERWARD REVEALS SOMETHING MOST BELIEVERS MISS ABOUT GOD",
-      "date": "2026-11-02T13:25:54+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mqwLZLY1tmGn933doqUN2pyqRVmFRknYdH3zxNjXp88qXkheAgttWSLwviewEYGcl"
-    },
-    {
-      "id": "29529659219951770",
-      "title": "THE BIBLE EXPOSES THE SEXUAL SINS OF ITS GREATEST HEROES—AND THE REASON SHOULD TERRIFY EVERY CHRISTIAN WHO THINKS THEY COULD NEVER FALL",
-      "date": "2026-11-02T13:17:25+00:00",
+      "id": "29536391172611908",
+      "title": "THE BIBLE NEVER SAYS RUTH AND BOAZ HAD SEX ON THE THRESHING FLOOR—SO WHY ARE PEOPLE SO QUICK TO PUT THEM IN BED?",
+      "date": "2026-11-02T23:34:26+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qPFfhaLUfN8hT2BySNhvDsQMpjNqmYXU5ePvd7Rmj5qKKfWcbWt2FoyFLWXdzcgyl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0273t6dmjNhGckjvneTZqRHdTewdematZ9NVqWoppg6EY5MSGamzCJqF2RodHM6r8El"
     },
     {
-      "id": "29529528296631529",
-      "title": "A KING SAW A WOMAN BATHING FROM HIS ROOFTOP—AND THE SIN HE TRIED TO BURY FOLLOWED HIM HOME.",
-      "date": "2026-11-02T13:06:42+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DRfgqzXKkHN3SyZsAV6JL8bk2xJ3FB1sBPCa4XeJSmtaa4W3iUjnF2GC8wY41vocl"
+      "id": "29536335752617450",
+      "title": "BOAZ SAW SOMETHING IN RUTH THAT MOST PEOPLE WOULD HAVE MISSED… AND HIS WORDS REVEAL WHAT REAL LOVE LOOKS LIKE",
+      "date": "2026-11-02T23:28:19+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VLpZ6PgHWBtxxhYyDbAL9iVQCyxNX8hFmTt112yK39zeH2RFHgmqAhS9gTv6LUwpl"
     },
     {
-      "id": "29529304459987246",
-      "title": "THE BIBLE NEVER CALLED DELILAH A PROSTITUTE—SO WHY HAVE MILLIONS BEEN TOLD SHE WAS?",
-      "date": "2026-11-02T12:48:17+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07V129cDheoMNEHaTnwnZw7m4tSGqSX9fhsGFBKEpgLhtLgNyaWqLmQyAXfRSL1U4l"
-    },
-    {
-      "id": "29529046170013075",
-      "title": "SAMSON FELL ASLEEP ON DELILAH’S LAP—AND WOKE UP WITHOUT HIS HAIR. BUT WHAT HE LOST BEFORE THEY CUT IT WAS FAR MORE TERRIFYING.",
-      "date": "2026-11-02T12:27:46+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WhLnTe43Kg9AEDfERNAaj6BkTJjSLNKyoVLcsU3YUVFD4DMtaD12jcZPoEhJ8WSml"
-    },
-    {
-      "id": "29528953656688993",
-      "title": "SHE KISSED THE MAN SHE WAS SELLING: THE NIGHT SAMSON DISCOVERED THAT THE WOMAN HE LOVED HAD A PRICE",
-      "date": "2026-11-02T12:19:16+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ci3sBzZXSnVspdVrURi9eQJCQWyiNYnz5vUjkRgDRfwhDTuj9NbJnoKFU9qJko6sl"
-    },
-    {
-      "id": "29528876770030015",
-      "title": "THE BIBLE SAID IT. BUT DID GOD MEAN WHAT YOU THINK HE MEANT?",
-      "date": "2026-11-02T12:12:01+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GTH5q7n2QVZKk4ArycUqJvPwh1cjLQ1RTHcTwvi5RFkUhNen2Mn5a6BsGi6gRSWEl"
-    },
-    {
-      "id": "29528796596704699",
-      "title": "MUST YOU CONFESS YOUR SINS TO A PRIEST BEFORE GOD WILL FORGIVE YOU? THE BIBLICAL TRUTH THAT COULD CHANGE HOW YOU APPROACH JESUS FOREVER",
-      "date": "2026-11-02T12:04:28+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0SMPsoJn91E27LN7rjwnQCmm8wKTu2VKwcCgZpLFi9EpQSzTPteVddC2MJ8m7Xjj3l"
-    },
-    {
-      "id": "29528685043382521",
-      "title": "SHOULD CHRISTIANS OBSERVE LENT? THE UNCOMFORTABLE TRUTH ABOUT A TRADITION JESUS NEVER COMMANDED",
-      "date": "2026-11-02T11:53:57+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0P2rhv1BUHoQqWSrx5NpJ1v66vSvNZ9KwDbDmk7bxYWmsqyVC9Kd2LevaP7ni7wQ2l"
+      "id": "29536271522623873",
+      "title": "BOAZ TOLD HIS YOUNG MEN NOT TO TOUCH RUTH—WHAT DANGER WAS HE PROTECTING HER FROM?",
+      "date": "2026-11-02T23:21:15+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KDNxzExZodAvi8Uh8zHvALZ1y3umybwe9rJLuwNiindkNMWxkqZS3Zds7z7n63yrl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-03T01:33:12Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
+  "lastCheckStarted": "2026-11-03T09:29:22Z",
+  "discovered": 19,
+  "processed": 19,
+  "discoveredLastRun": 19,
   "pagesScanned": 2,
   "latest": {
-    "id": "29531648889752803",
-    "title": "SHE WAS A WIDOW FROM A NATION ISRAEL WAS WARNED ABOUT—YET GOD WROTE HER NAME INTO THE BLOODLINE OF JESUS CHRIST.",
-    "date": "2026-11-02T16:04:27+00:00"
+    "id": "29540425408875151",
+    "title": "SHE WALKED INTO THE KING’S PALACE WITH A LIE… AND EXPOSED A TRUTH DAVID DIDN’T WANT TO FACE",
+    "date": "2026-11-03T06:36:00+00:00"
   },
-  "lastImportCount": 31,
-  "lastImportAt": "2026-11-02T18:19:46Z",
+  "lastImportCount": 19,
+  "lastImportAt": "2026-11-03T09:30:41Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9801,
+  "structuredMetadata": 9820,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3af7f1b479d3cf06ed58d18b832870ca6389cbff1e28e776fa14db8ba5aa2008",
-  "statusGeneratedAt": "2026-11-03T01:33:38Z"
+  "contentRevision": "sha256-ebbd662b7bba7fdca667cd9ec69c57996753e40a49ae06536270dc5696e145ab",
+  "statusGeneratedAt": "2026-11-03T09:30:41Z"
 }
