@@ -1,58 +1,135 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 3 new public studies.",
+  "message": "Added 14 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-04T14:28:31Z",
-  "lastSuccess": "2026-11-04T14:28:31Z",
-  "currentTotal": 9849,
-  "totalWords": 16159623,
+  "lastCheck": "2026-11-04T21:18:50Z",
+  "lastSuccess": "2026-11-04T21:18:50Z",
+  "currentTotal": 9863,
+  "totalWords": 16216240,
   "subjects": 17,
-  "addedLastRun": 3,
+  "addedLastRun": 14,
   "recentAdded": [
     {
-      "id": "29560222923562066",
-      "title": "THE NIGHT SODOM TRIED TO VIOLATE ANGELS—AND THE TERRIFYING TRUTH ABOUT THE SIN GOD WOULD NOT IGNORE",
-      "date": "2026-11-04T14:27:40+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gyrDgJbRBtQWdqx3ePK7jeK7CMGgeYmVaih18qDu2yqxJtB7YpUs8mLcqBKMG1XGl"
-    },
-    {
-      "id": "29560109130240112",
-      "title": "A FATHER OFFERED HIS TWO VIRGIN DAUGHTERS TO A VIOLENT MOB—AND THE BIBLE DID NOT HIDE HIS SHAME",
-      "date": "2026-11-04T14:18:54+00:00",
+      "id": "29561889733395385",
+      "title": "PAUL SAID TWO WOMEN, TWO SONS, TWO COVENANTS—BUT ONLY ONE LEADS TO FREEDOM. WHICH ONE ARE YOU LIVING UNDER?",
+      "date": "2026-11-04T16:50:02+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bfSU3DbuiacRM7L4wE8j7xdpXRXP2WMfDY3vJJKeokKbk8d7Gz2HGJt5d2E9Drb9l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07d5oM5ME2hQ7jLNWSQVZ4LYrDEtCpFHCW8B3885ZcnM9ix9KgkciFuBo9SfaHmHal"
     },
     {
-      "id": "29559838533600505",
-      "title": "THE BEDROOMS OF KINGS, THE SECRETS OF FAMILIES, AND THE SIN INSIDE THE CHURCH",
-      "date": "2026-11-04T13:56:57+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UgvchJRbCSZpzYFK7PAWZkPBWb12V5kHfkKCNzGKGoo7uKuJrLd4D8wQScXq7Htvl"
+      "id": "29561822673402091",
+      "title": "SHE WAS CAST OUT WITH HER CHILD… BUT GOD HEARD THE CRY THAT EVERYONE ELSE IGNORED",
+      "date": "2026-11-04T16:44:00+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ecaCN2AuuSsvYJ6PNFy85Anax3AGcekXVEEXzPeeZqzHHtKJQvfPcY5WiyVWEdewl"
+    },
+    {
+      "id": "29561718290079196",
+      "title": "ABRAHAM WAS 86 WHEN ISHMAEL WAS BORN—BUT THE MOST DANGEROUS THING WASN’T HIS AGE. IT WAS WHAT HAPPENED WHILE HE WAS WAITING.",
+      "date": "2026-11-04T16:34:25+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dzyC6jEDps6VQ8afj7oMBDjtfWpLdctJGo3NBLD8eXDuBitrM4GRQZbsnT2QsR5ql"
+    },
+    {
+      "id": "29561354180115607",
+      "title": "ild will survive.",
+      "date": "2026-11-04T16:02:46+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031fygBSEBMkjRJnc4DZnd1kWJPQaaVcKmaP9vkrP6SYrBwBR8NvfQfYmh5rQB4peXl"
+    },
+    {
+      "id": "29561273863456972",
+      "title": "SHE WAS PREGNANT, MISTREATED, AND LEFT TO DIE IN THE WILDERNESS—BUT HEAVEN SAW WHAT EVERYONE ELSE IGNORED.",
+      "date": "2026-11-04T15:55:38+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0234U2n2NEzwJodwgAZAyhErBxUuxwmpZpkBkt6KfU9Xg49xKr9un7R3Zwy75AuL53l"
+    },
+    {
+      "id": "29561205273463831",
+      "title": "SHE WAS PREGNANT WITH HIS CHILD… BUT THE WOMAN WHO OWNED HER BEGAN TO HATE HER.",
+      "date": "2026-11-04T15:49:47+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UL4r3pAoJzyaE7449ZmyrRC15e9zTvZPEiNivHiGi4U1uDRXrym4RVAXy2MnN7s5l"
+    },
+    {
+      "id": "29561119096805782",
+      "title": "SARAH SAID, “GO IN TO MY SERVANT”—AND ABRAHAM LISTENED. WHAT HAPPENED NEXT SHOULD TERRIFY EVERY BELIEVER WHO IS TIRED OF WAITING ON GOD.",
+      "date": "2026-11-04T15:42:11+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05Ga4qjvwZzvjbDFtq3TB1UMJLQbsumK3EJzvpM7unFQwkFjsxB5rzfY4q5TAFz3xl"
+    },
+    {
+      "id": "29561050530145972",
+      "title": "THE FAMILY TREE THEY WOULD HAVE HIDDEN… BUT GOD PUT IT ON THE FIRST PAGE OF THE GOSPEL",
+      "date": "2026-11-04T15:36:11+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033wggQcoH8i3ggfAwfwxY3cJr6sXjtKqN1swVBGxA8tz1MNkjREtF1jrWYsHkjjKal"
+    },
+    {
+      "id": "29560978480153177",
+      "title": "TWO CHILDREN BORN IN A CAVE. TWO NATIONS BORN FROM A FAMILY'S DARKEST NIGHT.",
+      "date": "2026-11-04T15:30:06+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0chqLCWsSYDoFT3aUsUxYv3Cwpi3QDP9yaamyB6oULrKqTR3wQdkKCEvQRrrxehECl"
+    },
+    {
+      "id": "29560921666825525",
+      "title": "THEY ESCAPED THE FIRE… BUT WHY DID LOT’S DAUGHTERS BELIEVE THEIR OWN FATHER WAS THEIR ONLY HOPE?",
+      "date": "2026-11-04T15:25:07+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hZbUNBBpJX1kyWXeQbga7Yq1Zri2ozg6ccYf8yXtFoUr7w2WWFJ6DGkpXs6Vn2rzl"
+    },
+    {
+      "id": "29560813386836353",
+      "title": "TWO SISTERS. ONE FATHER. TWO CHILDREN. A FAMILY SECRET THAT WOULD HAUNT GENERATIONS.",
+      "date": "2026-11-04T15:15:51+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036PDnXGwCJNrebsMSX4nEeBrwAhC4uQzhWk8QZacpiFmPi2M4wme9FjyCHHpsxFfTl"
+    },
+    {
+      "id": "29560707623513596",
+      "title": "LOT’S DAUGHTERS GOT THEIR FATHER DRUNK TWO NIGHTS IN A ROW—AND BOTH BECAME PREGNANT. BUT THE MOST SHOCKING PART IS WHAT GOD DID GENERATIONS LATER.",
+      "date": "2026-11-04T15:06:56+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kUsSH5PPSAbJ78V6fCCmbfSKpUi6uyY5fK3gkjVABzthYuP8sKnUAFYjQmxb4SLil"
+    },
+    {
+      "id": "29560411893543169",
+      "title": "JESUS SAID, “REMEMBER LOT’S WIFE.” BUT WHAT WAS SO DANGEROUS ABOUT ONE LAST LOOK?",
+      "date": "2026-11-04T14:42:55+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0275dVdV5yEC5B35JqD4fjkbzdyBQSNA7pqGbGrSFrwchFSaMmB6L8S7iiTcXAsAwkl"
+    },
+    {
+      "id": "29560301443554214",
+      "title": "LOT HESITATED TO LEAVE SODOM—SO THE ANGELS TOOK HIS FAMILY BY THE HAND.",
+      "date": "2026-11-04T14:33:45+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BdNaYAQo5nSWn4aw5DNujEHZJT2dT6bo5s92c9bCCiXkYavKgWY3nNZbGBCxSVM5l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-04T14:27:45Z",
-  "discovered": 3,
-  "processed": 3,
-  "discoveredLastRun": 3,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-04T21:17:45Z",
+  "discovered": 14,
+  "processed": 14,
+  "discoveredLastRun": 14,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29560222923562066",
-    "title": "THE NIGHT SODOM TRIED TO VIOLATE ANGELS—AND THE TERRIFYING TRUTH ABOUT THE SIN GOD WOULD NOT IGNORE",
-    "date": "2026-11-04T14:27:40+00:00"
+    "id": "29561889733395385",
+    "title": "PAUL SAID TWO WOMEN, TWO SONS, TWO COVENANTS—BUT ONLY ONE LEADS TO FREEDOM. WHICH ONE ARE YOU LIVING UNDER?",
+    "date": "2026-11-04T16:50:02+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-11-04T14:28:31Z",
+  "lastImportCount": 14,
+  "lastImportAt": "2026-11-04T21:18:50Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9849,
+  "structuredMetadata": 9863,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-26f0a9bf309beb9d4f559301dc2cd71c7bfbfb7c7fa0a15901642014b030fe64",
-  "statusGeneratedAt": "2026-11-04T14:28:31Z"
+  "contentRevision": "sha256-279928148feeb9c0336a6e32e2d4bc1256a3e0b3a7fa8d0dd53f345229fee6bc",
+  "statusGeneratedAt": "2026-11-04T21:18:50Z"
 }
