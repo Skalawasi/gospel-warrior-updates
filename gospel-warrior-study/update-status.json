@@ -1,72 +1,58 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 3 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-04T06:12:07Z",
-  "lastSuccess": "2026-11-04T06:12:07Z",
-  "currentTotal": 9846,
-  "totalWords": 16146931,
+  "lastCheck": "2026-11-04T14:28:31Z",
+  "lastSuccess": "2026-11-04T14:28:31Z",
+  "currentTotal": 9849,
+  "totalWords": 16159623,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 3,
   "recentAdded": [
     {
-      "id": "29550432907874401",
-      "title": "THE BRIDE WHO BETRAYED HER BRIDEGROOM… AND THE KING WHO STILL CAME FOR HER",
-      "date": "2026-11-03T22:22:47+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02gmBPoa9Q4haDpv3KSRfbv47QikvnH2c6zZjAhkhNpxqfHQGpjchScSxJ1pRTktGVl"
+      "id": "29560222923562066",
+      "title": "THE NIGHT SODOM TRIED TO VIOLATE ANGELS—AND THE TERRIFYING TRUTH ABOUT THE SIN GOD WOULD NOT IGNORE",
+      "date": "2026-11-04T14:27:40+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gyrDgJbRBtQWdqx3ePK7jeK7CMGgeYmVaih18qDu2yqxJtB7YpUs8mLcqBKMG1XGl"
     },
     {
-      "id": "29547864548131237",
-      "title": "WHY DID PAUL TELL BELIEVERS NOT TO MARRY? THE DISTURBING TRUTH BEHIND A VERSE THAT SOUNDS LIKE GOD IS AGAINST LOVE",
-      "date": "2026-11-03T18:15:53+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FdSm2pUwTVBjHECNxoXZFAAb9ysGm7FrBnXyFtC2xigGop5wjrcnE8PgpqiAeGqUl"
+      "id": "29560109130240112",
+      "title": "A FATHER OFFERED HIS TWO VIRGIN DAUGHTERS TO A VIOLENT MOB—AND THE BIBLE DID NOT HIDE HIS SHAME",
+      "date": "2026-11-04T14:18:54+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bfSU3DbuiacRM7L4wE8j7xdpXRXP2WMfDY3vJJKeokKbk8d7Gz2HGJt5d2E9Drb9l"
     },
     {
-      "id": "29547804108137281",
-      "title": "PAUL WISHED EVERYONE COULD LIVE LIKE HIM—BUT THEN HE SAID SOMETHING THAT CHANGES EVERYTHING",
-      "date": "2026-11-03T18:10:44+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0fmX19nYZKKqAFRXHr9gYTyYJy4djBrBygK5mNX5XedGBaQEjhvQxUHnLcTkcmddHl"
-    },
-    {
-      "id": "29547729171478108",
-      "title": "“YOUR BODY BELONGS TO ME!”—THE BIBLE VERSE THAT HAS BEEN USED TO SILENCE SPOUSES… AND THE TRUTH PAUL ACTUALLY TAUGHT",
-      "date": "2026-11-03T18:04:59+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031vPjqiaEE3DRrZ51oWjbjgnw58mmrkUcfL8yBfu75nUehEzGLdTddYJsVGs9oTQMl"
-    },
-    {
-      "id": "29547626938154998",
-      "title": "“WHAT PREVENTS ME FROM BEING BAPTIZED?” — THE QUESTION THAT SHATTERED EVERY WALL BETWEEN A WOUNDED SOUL AND THE GRACE OF JESUS CHRIST",
-      "date": "2026-11-03T17:56:28+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XRpqEwva8vXMkyjwgrzMKUnzDANS4G2X2ikN443cYneNqPZ88T7spsgvbn72wzCQl"
+      "id": "29559838533600505",
+      "title": "THE BEDROOMS OF KINGS, THE SECRETS OF FAMILIES, AND THE SIN INSIDE THE CHURCH",
+      "date": "2026-11-04T13:56:57+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UgvchJRbCSZpzYFK7PAWZkPBWb12V5kHfkKCNzGKGoo7uKuJrLd4D8wQScXq7Htvl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-04T06:11:45Z",
-  "discovered": 5,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-11-04T14:27:45Z",
+  "discovered": 3,
+  "processed": 3,
+  "discoveredLastRun": 3,
   "pagesScanned": 1,
   "latest": {
-    "id": "29550432907874401",
-    "title": "THE BRIDE WHO BETRAYED HER BRIDEGROOM… AND THE KING WHO STILL CAME FOR HER",
-    "date": "2026-11-03T22:22:47+00:00"
+    "id": "29560222923562066",
+    "title": "THE NIGHT SODOM TRIED TO VIOLATE ANGELS—AND THE TERRIFYING TRUTH ABOUT THE SIN GOD WOULD NOT IGNORE",
+    "date": "2026-11-04T14:27:40+00:00"
   },
-  "lastImportCount": 5,
-  "lastImportAt": "2026-11-03T23:18:23Z",
+  "lastImportCount": 3,
+  "lastImportAt": "2026-11-04T14:28:31Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9846,
+  "structuredMetadata": 9849,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-8f3972bc1f8cd416435f9f6470a1ae9c34caa00b14076cf6edda8704f2400553",
-  "statusGeneratedAt": "2026-11-04T06:12:07Z"
+  "contentRevision": "sha256-26f0a9bf309beb9d4f559301dc2cd71c7bfbfb7c7fa0a15901642014b030fe64",
+  "statusGeneratedAt": "2026-11-04T14:28:31Z"
 }
