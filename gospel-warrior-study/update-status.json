@@ -1,142 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 15 new public studies.",
+  "message": "Added 21 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-05T10:49:14Z",
-  "lastSuccess": "2026-11-05T10:49:14Z",
-  "currentTotal": 9884,
-  "totalWords": 16304122,
+  "lastCheck": "2026-11-05T18:43:43Z",
+  "lastSuccess": "2026-11-05T18:43:43Z",
+  "currentTotal": 9905,
+  "totalWords": 16393319,
   "subjects": 17,
-  "addedLastRun": 15,
+  "addedLastRun": 21,
   "recentAdded": [
     {
-      "id": "29571507945766897",
-      "title": "GOD CALLED HER HIS BRIDE. THEN HE EXPOSED WHAT SHE WAS DOING BEHIND HIS BACK.",
-      "date": "2026-11-05T08:46:53+00:00",
+      "id": "29577103555207336",
+      "title": "YOU BELONG TO JESUS… SO WHY DOES THE CHURCH SAY YOU’RE NOT A MEMBER?",
+      "date": "2026-11-05T17:02:53+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HJKD1pa8m6Ebivq4qGExFLStXCVdBWh4t8AY8fzjYQteX6LbLzPcWmXby9AUskr8l"
+    },
+    {
+      "id": "29576872421897116",
+      "title": "WHAT IF AN ANGEL WAS STANDING BESIDE YOU THE NIGHT YOU ALMOST GAVE UP? DOES THE BIBLE REALLY SAY YOU HAVE A GUARDIAN ANGEL?",
+      "date": "2026-11-05T16:41:43+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02A96bZHowWQJY86UYGnipiZV1kaABTAJH2yXr21fh6GAHj65QuGtpNnzpwux8yHtEl"
+    },
+    {
+      "id": "29576806435237048",
+      "title": "SHE MARRIED INTO A KINGDOM… AND HER MARRIAGE HELPED TURN HER HUSBAND AGAINST GOD",
+      "date": "2026-11-05T16:35:50+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qdT9je7RGsSXBzZBiGYkR62SqhVheQRZuBRNES8SuYZSYPNQ7LpreCU7Dbx1ymHGl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gifqmqc3fQAMNur1zP5EQ4iGpyP5Cv4B8eCARZQhiqAkVF3qikvuNw6CaJZLeFNLl"
     },
     {
-      "id": "29571340579116967",
-      "title": "GOD CALLED JERUSALEM AN UNFAITHFUL WIFE… BUT WHAT HE SAID NEXT SHOULD BRING EVERY SINNER TO TEARS",
-      "date": "2026-11-05T08:29:02+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eYrmsucQueVzWHFP8rCfcnqTomq6Hn3hEx5YsNzMHNXh2RU1fvdUuWVh7Y9tZ2C3l"
-    },
-    {
-      "id": "29571262125791479",
-      "title": "GOD DIDN’T THROW AWAY THE LINEN GARMENT UNTIL IT WAS RUINED—AND THE REASON SHOULD TERRIFY EVERY COMFORTABLE CHRISTIAN",
-      "date": "2026-11-05T08:20:51+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022qgvzK4cP6NizGrzpAkcJ2ccSDJRjMCWbM7akfT77ynack7h6VPnyGRwoUKbELQPl"
-    },
-    {
-      "id": "29571182089132816",
-      "title": "GOD FORBADE HIS PROPHET TO MARRY—BECAUSE A NATION WAS ABOUT TO EXPERIENCE SOMETHING WORSE THAN DEATH",
-      "date": "2026-11-05T08:12:27+00:00",
+      "id": "29576717118579313",
+      "title": "HE CAME IN PEACE. THEY CARRIED HIM OUT DEAD. AND THE MAN WHO KILLED HIM KEPT HIS POWER.",
+      "date": "2026-11-05T16:27:49+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hH752o81YksddZJdAGroCEsafuH6VGAwUjPQ5j188dhNB7KpREzbY38qw7VCEt7Ql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02cw3i3pJ1SXHDH514jwuRnKPuArVGWTtnnTwavhJsaXqYom4yJ3AVc24oxqGftD2jl"
     },
     {
-      "id": "29571111609139864",
-      "title": "THE PROPHET WHO EXPOSED ADULTERY IN THE PULPIT—AND THE LIES THAT MADE GOD’S PEOPLE FEEL SAFE WHILE THEY WERE DYING SPIRITUALLY",
-      "date": "2026-11-05T08:05:05+00:00",
+      "id": "29576614808589544",
+      "title": "“IF YOU REALLY TRUST GOD, REFUSE THE TREATMENT.” BUT WHAT IF THAT IS NOT FAITH AT ALL?",
+      "date": "2026-11-05T16:18:30+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oktyEBuSUbeuGN9qtxfhFsHWK1q5CTcFh2RgLRshjKb8HM6R2t6uxTAdtR4MDCRwl"
+    },
+    {
+      "id": "29576476175270074",
+      "title": "THE BIBLE DIDN’T HIDE THE SEXUAL SCANDALS, BETRAYALS, AND BROKEN MARRIAGES—BECAUSE JESUS CAME TO SAVE THE PEOPLE WE THOUGHT WERE BEYOND REDEMPTION",
+      "date": "2026-11-05T16:06:20+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NMyqNo479Ub39qeVe2kvLGJCFArBjs86qWTfu4BLWL35yZgqUirpK7aS7zJF3uvKl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eEjJLGKpoP9TXFt5R2dySyAgASmFSZWfon5NecYkp3csWpWFKxcKSifPGDkzqvUKl"
     },
     {
-      "id": "29571000052484353",
-      "title": "GOD GAVE HER A CERTIFICATE OF DIVORCE… THEN CRIED, “COME BACK TO ME.”",
-      "date": "2026-11-05T07:53:09+00:00",
+      "id": "29576386408612384",
+      "title": "THE FIRST PERSON JESUS CALLED BY NAME AFTER THE RESURRECTION WAS A WOMAN THE WORLD MIGHT HAVE OVERLOOKED",
+      "date": "2026-11-05T15:58:30+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0VpLsuA3rZZyLPSYPpWZPjJLMdCavB7QsBoR24sWRUZHMPcUKUBkAyGXTfjPo4EZ4l"
+    },
+    {
+      "id": "29576186538632371",
+      "title": "SEVEN DEMONS COULDN’T KEEP HER FROM JESUS—AND DEATH COULDN’T STOP HIM FROM CALLING HER NAME",
+      "date": "2026-11-05T15:41:03+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JUa1oGP7ZbdjVmEq6YgNiZNoNHKYfF2w9Uk1MT45p6NEpshBg3kn8JEdg1Wh8f1Yl"
+    },
+    {
+      "id": "29576102818640743",
+      "title": "THEY CALLED HER A PROSTITUTE. BUT THE BIBLE NEVER DID.",
+      "date": "2026-11-05T15:34:03+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FTBNV1BE2rfS4kjWqxRisXrzx4wRBzcVyzqB1aENaMiZ6h3d21kUQ5f7mAR2mgB6l"
+    },
+    {
+      "id": "29575887338662291",
+      "title": "THEY CALLED HER A PROSTITUTE. THE BIBLE NEVER DID.",
+      "date": "2026-11-05T15:16:10+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PX33rU6q1Pr4GsrGyNAdPa2Z7RpRRhJyghXneZ3KUdueECuYmmQr2hfQnPrCh5sQl"
+    },
+    {
+      "id": "29575686278682397",
+      "title": "THE WOMAN EVERYONE JUDGED WAS THE ONE WHO UNDERSTOOD JESUS—AND THE RELIGIOUS MAN NEVER SAW IT COMING",
+      "date": "2026-11-05T14:59:15+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05gvceAsnS9ybyBH5NeGALrwzqtY9xawha8TqLHSXsZo6sUTNumD7CGSwuPoX59tRl"
+    },
+    {
+      "id": "29575612652023093",
+      "title": "DAVID SLEPT WITH ANOTHER MAN’S WIFE. THEN HE HAD HER HUSBAND KILLED. WHY DID GOD LET THE WHOLE WORLD READ ABOUT IT?",
+      "date": "2026-11-05T14:52:59+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FfjoWJyJnwEkJn6gMgNx53TPMcyzwfSvsXp2sP1otPTWGjaheMC7GcnYcjpbfdVyl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028ProhRArufXDqik15U3gy4MAdCwuqPJcvnAeo6QrEKgbPnyFCh3fGqrC4qy3MzALl"
     },
     {
-      "id": "29570924982491860",
-      "title": "THE QUEEN MOTHER WHO LOST HER CROWN BECAUSE OF AN OBSCENE IDOL—AND THE TERRIFYING TRUTH ABOUT WHAT WE REFUSE TO REMOVE",
-      "date": "2026-11-05T07:45:00+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Yi69rU4cwnXg7c5ou875GX4mdmz15U7Af1YfSLjTLJ2yegTxESp7skSYJP9FoSHLl"
+      "id": "29575464368704588",
+      "title": "DAVID DEMANDED HIS WIFE BACK BEFORE HE WOULD TALK PEACE—BUT THE BIBLE REVEALS A HEARTBREAKING DETAIL MOST PEOPLE MISS",
+      "date": "2026-11-05T14:40:40+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sMNw15hCjd8ky3FnnUxwmYFAAwazDXtYEWEHZcpWzGiAwjJQL6fScHT6Te6jZfQzl"
     },
     {
-      "id": "29570881062496252",
-      "title": "THE KING WHO ROTTED FROM WITHIN: HE HAD A THRONE, A CROWN, AND EVERYTHING MONEY COULD BUY—BUT WHEN HE DIED, NOBODY MOURNED HIM.",
-      "date": "2026-11-05T07:40:19+00:00",
+      "id": "29575363518714673",
+      "title": "WHY DID GOD ALLOW EZEKIEL TO USE LANGUAGE SO SHOCKING THAT MANY CHURCHES WON’T EVEN READ IT ALOUD?",
+      "date": "2026-11-05T14:32:08+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Co5mspM4fmwi9p1nHuZemi1eiNTEVpLkCct26jrj7RP2RucTLvBAbe6CqYQBwRGzl"
+    },
+    {
+      "id": "29575286302055728",
+      "title": "THE BET THAT COULD COST YOU MORE THAN MONEY: WHAT JESUS REALLY SAYS ABOUT GAMBLING",
+      "date": "2026-11-05T14:25:43+00:00",
       "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid01Erw5GSLhQqdvXwvh3irioiYFWntNJ6r8PyC8N7DDTCZbzozP39QXFp1Cz9aLUZsl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rtqnT4C8a7FtkZiv2YiC3iYRr73wYZh4ybUyHhSTeqhcL9tA4qYxbMQt4ZF2XrXBl"
     },
     {
-      "id": "29570736342510724",
-      "title": "SHE MARRIED INTO THE HOUSE OF DAVID—THEN HELPED LEAD A KING TOWARD DESTRUCTION",
-      "date": "2026-11-05T07:24:29+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034c8LbC73m2ga59Pbtqo8yRQPvSQHBXjRo9Z2xg784nMK4KJdvYVPGudYu7xSUuial"
-    },
-    {
-      "id": "29570669659184059",
-      "title": "YOU KEEP ASKING GOD TO USE YOU… BUT WHAT IF YOU’VE BEEN IGNORING THE VERY PEOPLE HE SENT YOU TO LOVE?",
-      "date": "2026-11-05T07:17:14+00:00",
+      "id": "29574991668751858",
+      "title": "WHAT IF YOUR FAVORITE PROPHECY WAS NEVER FROM GOD IN THE FIRST PLACE?",
+      "date": "2026-11-05T14:01:34+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KMa938k2YS4qC2gkXBNSbmXLtwsUZZvKVNaZ9ZmWHw3o1XdfsTe5VAtX1z7ayvgUl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aPqE2cuozqNkdnY3V9adH5MwKbSJybdACbpcdR9xX1yChtqdKLz1fLHzK7REJpEUl"
     },
     {
-      "id": "29570606219190403",
-      "title": "YOU WANT GOD TO BLESS YOUR PLANS… BUT WHAT IF HE NEVER ASKED YOU TO MAKE THEM?",
-      "date": "2026-11-05T07:10:19+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ktb5Bvj83CHAmehhAgRHPmeggJf6d3rFSvCq7sT7o8oJGXidSe14wuN3fdoLjBB2l"
+      "id": "29574728698778155",
+      "title": "YOU SAY YOU LOVE GOD… BUT WHAT IF JESUS IS THE HUNGRY PERSON YOU KEEP WALKING PAST?",
+      "date": "2026-11-05T13:40:28+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026GEWMzoyznfF9QWkHvcxHYDPA4q3VxCZHPQNiFpdBLA8FHtWnYVbKG5onsfZoJWjl"
     },
     {
-      "id": "29570549932529365",
-      "title": "THE MARRIAGE THAT ALMOST DESTROYED A KINGDOM—AND THE PROMISE HELL COULD NOT ERASE",
-      "date": "2026-11-05T07:04:18+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mBVqavgp4LHgqUBeYtpkaZrSbWEhQLWhVwZSbj2eaPiapLxt6hjhKPND1ub1umvXl"
+      "id": "29574552028795822",
+      "title": "JESUS TOLD HIM TO SELL EVERYTHING… SO WHY DID HE LET OTHER RICH PEOPLE KEEP THEIR WEALTH?",
+      "date": "2026-11-05T13:26:29+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mkhPvYsEh9L7sYFXfqHM6ygVkfVavKkK9xGVT7iWJ5791tMhfScYauE3k5hPmUq8l"
     },
     {
-      "id": "29570491825868509",
-      "title": "THE GRANDMOTHER WHO ORDERED HER OWN GRANDCHILDREN KILLED—BUT ONE BABY ESCAPED, AND HIS SURVIVAL CHANGED EVERYTHING",
-      "date": "2026-11-05T06:58:06+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035BYdAShBgSqG2Khj13jV7yhN2W2Zpd7oxFmMTE7yWPqrj3wSNFL45k9PTq7F75gGl"
+      "id": "29574489525468739",
+      "title": "JESUS SAW WHAT EVERYONE ELSE APPLAUDED—AND CALLED IT HYPOCRISY",
+      "date": "2026-11-05T13:21:29+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Dcv9YavMJ9f8mqSGpV6TcDCGkqfB794AACv9tuMbrvuC7weVi7tafCrioCE1dcu5l"
     },
     {
-      "id": "29570430395874652",
-      "title": "mise God had made generations earlier.",
-      "date": "2026-11-05T06:51:40+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0295W7ez93ubfZJgEDmp1kvdQcuTDcqwvD2bM6nXjZP5LDhc3XgFKY61w5rEZNrr5ql"
-    },
-    {
-      "id": "29570257292558629",
-      "title": "THE KING WHO STOLE A MAN’S INHERITANCE… THEN TREMBLED WHEN GOD SPOKE",
-      "date": "2026-11-05T06:33:04+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tFUKAX4bj7RtbkiDbRrDkYwoxHtgBMzibnKwmmrHKkw71CrvPTKAQcdRyjpBWRjml"
+      "id": "29574383062146052",
+      "title": "JESUS SAID THE FIRST WILL BE LAST… SO WHY ARE CHRISTIANS FIGHTING SO HARD TO BE FIRST?",
+      "date": "2026-11-05T13:12:37+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uu95wHrGpSJnRzyzSNmAUp8AKz2JBHBWjh7fDMaHSsqDpqe1sb5pwTdQaiebcfmMl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-05T10:48:08Z",
-  "discovered": 15,
-  "processed": 15,
-  "discoveredLastRun": 15,
+  "lastCheckStarted": "2026-11-05T18:42:32Z",
+  "discovered": 21,
+  "processed": 21,
+  "discoveredLastRun": 21,
   "pagesScanned": 2,
   "latest": {
-    "id": "29571507945766897",
-    "title": "GOD CALLED HER HIS BRIDE. THEN HE EXPOSED WHAT SHE WAS DOING BEHIND HIS BACK.",
-    "date": "2026-11-05T08:46:53+00:00"
+    "id": "29577103555207336",
+    "title": "YOU BELONG TO JESUS… SO WHY DOES THE CHURCH SAY YOU’RE NOT A MEMBER?",
+    "date": "2026-11-05T17:02:53+00:00"
   },
-  "lastImportCount": 15,
-  "lastImportAt": "2026-11-05T10:49:14Z",
+  "lastImportCount": 21,
+  "lastImportAt": "2026-11-05T18:43:43Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9884,
+  "structuredMetadata": 9905,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-38906accae33c9456c70c994d8624a9599bf3435328c87f90a20b2e4e78f4421",
-  "statusGeneratedAt": "2026-11-05T10:49:15Z"
+  "contentRevision": "sha256-92984f71378f75c2a89d53423baf94544d7c62f9e976fcb3933ef047d44a2437",
+  "statusGeneratedAt": "2026-11-05T18:43:43Z"
 }
