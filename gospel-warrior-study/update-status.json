@@ -1,79 +1,142 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 15 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-05T02:24:31Z",
-  "lastSuccess": "2026-11-05T02:24:31Z",
-  "currentTotal": 9869,
-  "totalWords": 16240607,
+  "lastCheck": "2026-11-05T10:49:14Z",
+  "lastSuccess": "2026-11-05T10:49:14Z",
+  "currentTotal": 9884,
+  "totalWords": 16304122,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 15,
   "recentAdded": [
     {
-      "id": "29565229186394773",
-      "title": "THEY USED GOD’S NAME TO MURDER AN INNOCENT MAN—AND CALLED IT JUSTICE",
-      "date": "2026-11-04T22:17:00+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oQN7prNi73ie3qJJM8src37wizDjfcbMg8Sck5buJKhDX8DmqEaJc9XjTwvUg1yFl"
+      "id": "29571507945766897",
+      "title": "GOD CALLED HER HIS BRIDE. THEN HE EXPOSED WHAT SHE WAS DOING BEHIND HIS BACK.",
+      "date": "2026-11-05T08:46:53+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qdT9je7RGsSXBzZBiGYkR62SqhVheQRZuBRNES8SuYZSYPNQ7LpreCU7Dbx1ymHGl"
     },
     {
-      "id": "29565184749732550",
-      "title": "SOLOMON HAD 1,000 WOMEN… BUT LOST THE ONE THING HE COULD NOT AFFORD TO LOSE",
-      "date": "2026-11-04T22:12:21+00:00",
+      "id": "29571340579116967",
+      "title": "GOD CALLED JERUSALEM AN UNFAITHFUL WIFE… BUT WHAT HE SAID NEXT SHOULD BRING EVERY SINNER TO TEARS",
+      "date": "2026-11-05T08:29:02+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02eYrmsucQueVzWHFP8rCfcnqTomq6Hn3hEx5YsNzMHNXh2RU1fvdUuWVh7Y9tZ2C3l"
+    },
+    {
+      "id": "29571262125791479",
+      "title": "GOD DIDN’T THROW AWAY THE LINEN GARMENT UNTIL IT WAS RUINED—AND THE REASON SHOULD TERRIFY EVERY COMFORTABLE CHRISTIAN",
+      "date": "2026-11-05T08:20:51+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022qgvzK4cP6NizGrzpAkcJ2ccSDJRjMCWbM7akfT77ynack7h6VPnyGRwoUKbELQPl"
+    },
+    {
+      "id": "29571182089132816",
+      "title": "GOD FORBADE HIS PROPHET TO MARRY—BECAUSE A NATION WAS ABOUT TO EXPERIENCE SOMETHING WORSE THAN DEATH",
+      "date": "2026-11-05T08:12:27+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02u2gfeRXJ58ffopUrSV1A5e2dWX7NHZwVjYP8jjgj987Wk5RhWsXYdFfMAqEVWJ6Dl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hH752o81YksddZJdAGroCEsafuH6VGAwUjPQ5j188dhNB7KpREzbY38qw7VCEt7Ql"
     },
     {
-      "id": "29565139086403783",
-      "title": "THE KING'S DAUGHTER WHO MARRIED A MAN WHO HAD EVERYTHING—EXCEPT AN UNDIVIDED HEART",
-      "date": "2026-11-04T22:07:47+00:00",
+      "id": "29571111609139864",
+      "title": "THE PROPHET WHO EXPOSED ADULTERY IN THE PULPIT—AND THE LIES THAT MADE GOD’S PEOPLE FEEL SAFE WHILE THEY WERE DYING SPIRITUALLY",
+      "date": "2026-11-05T08:05:05+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NMyqNo479Ub39qeVe2kvLGJCFArBjs86qWTfu4BLWL35yZgqUirpK7aS7zJF3uvKl"
+    },
+    {
+      "id": "29571000052484353",
+      "title": "GOD GAVE HER A CERTIFICATE OF DIVORCE… THEN CRIED, “COME BACK TO ME.”",
+      "date": "2026-11-05T07:53:09+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xdw2ZxVeG1nvJGs6khP79BpQZ786Wgroj3aNcJyugYm6H6zraLVDqKApFjcEre9Rl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FfjoWJyJnwEkJn6gMgNx53TPMcyzwfSvsXp2sP1otPTWGjaheMC7GcnYcjpbfdVyl"
     },
     {
-      "id": "29565094146408277",
-      "title": "ABRAHAM GAVE THEM GIFTS… THEN SENT THEM AWAY. BUT WHAT HAPPENED TO THE SONS WHO DIDN’T RECEIVE THE PROMISE?",
-      "date": "2026-11-04T22:03:11+00:00",
+      "id": "29570924982491860",
+      "title": "THE QUEEN MOTHER WHO LOST HER CROWN BECAUSE OF AN OBSCENE IDOL—AND THE TERRIFYING TRUTH ABOUT WHAT WE REFUSE TO REMOVE",
+      "date": "2026-11-05T07:45:00+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0CvBZEDJaSnezSpqHnQQCKoi288fxBtukqfrZrkSous8ybw4674cC3ADKFhU2Yvgpl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Yi69rU4cwnXg7c5ou875GX4mdmz15U7Af1YfSLjTLJ2yegTxESp7skSYJP9FoSHLl"
     },
     {
-      "id": "29565039366413755",
-      "title": "ABRAHAM HAD SIX MORE SONS AFTER SARAH DIED—BUT THE BIBLE CALLS THEIR MOTHER BOTH HIS WIFE AND HIS CONCUBINE. WHY?",
-      "date": "2026-11-04T21:57:13+00:00",
+      "id": "29570881062496252",
+      "title": "THE KING WHO ROTTED FROM WITHIN: HE HAD A THRONE, A CROWN, AND EVERYTHING MONEY COULD BUY—BUT WHEN HE DIED, NOBODY MOURNED HIM.",
+      "date": "2026-11-05T07:40:19+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid01Erw5GSLhQqdvXwvh3irioiYFWntNJ6r8PyC8N7DDTCZbzozP39QXFp1Cz9aLUZsl"
+    },
+    {
+      "id": "29570736342510724",
+      "title": "SHE MARRIED INTO THE HOUSE OF DAVID—THEN HELPED LEAD A KING TOWARD DESTRUCTION",
+      "date": "2026-11-05T07:24:29+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021MrG71qkgWoqQfiQD4xD8nPwhuiMcNtTNuyYdCcMEcwLCXZJ8gegEAZKHJAYNVmtl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034c8LbC73m2ga59Pbtqo8yRQPvSQHBXjRo9Z2xg784nMK4KJdvYVPGudYu7xSUuial"
     },
     {
-      "id": "29564989693085389",
-      "title": "SHE WAS A SLAVE. SHE BECAME PREGNANT. AND THE BIBLE REFUSES TO LET US IGNORE WHAT HAPPENED TO HER.",
-      "date": "2026-11-04T21:51:45+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02HxD7NvZmUXpwF7kyAoPnNGy8yrTBxSiL17efovgDs8tx1FjsyvDXRa2umWqRE7iYl"
+      "id": "29570669659184059",
+      "title": "YOU KEEP ASKING GOD TO USE YOU… BUT WHAT IF YOU’VE BEEN IGNORING THE VERY PEOPLE HE SENT YOU TO LOVE?",
+      "date": "2026-11-05T07:17:14+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KMa938k2YS4qC2gkXBNSbmXLtwsUZZvKVNaZ9ZmWHw3o1XdfsTe5VAtX1z7ayvgUl"
+    },
+    {
+      "id": "29570606219190403",
+      "title": "YOU WANT GOD TO BLESS YOUR PLANS… BUT WHAT IF HE NEVER ASKED YOU TO MAKE THEM?",
+      "date": "2026-11-05T07:10:19+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ktb5Bvj83CHAmehhAgRHPmeggJf6d3rFSvCq7sT7o8oJGXidSe14wuN3fdoLjBB2l"
+    },
+    {
+      "id": "29570549932529365",
+      "title": "THE MARRIAGE THAT ALMOST DESTROYED A KINGDOM—AND THE PROMISE HELL COULD NOT ERASE",
+      "date": "2026-11-05T07:04:18+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mBVqavgp4LHgqUBeYtpkaZrSbWEhQLWhVwZSbj2eaPiapLxt6hjhKPND1ub1umvXl"
+    },
+    {
+      "id": "29570491825868509",
+      "title": "THE GRANDMOTHER WHO ORDERED HER OWN GRANDCHILDREN KILLED—BUT ONE BABY ESCAPED, AND HIS SURVIVAL CHANGED EVERYTHING",
+      "date": "2026-11-05T06:58:06+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035BYdAShBgSqG2Khj13jV7yhN2W2Zpd7oxFmMTE7yWPqrj3wSNFL45k9PTq7F75gGl"
+    },
+    {
+      "id": "29570430395874652",
+      "title": "mise God had made generations earlier.",
+      "date": "2026-11-05T06:51:40+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0295W7ez93ubfZJgEDmp1kvdQcuTDcqwvD2bM6nXjZP5LDhc3XgFKY61w5rEZNrr5ql"
+    },
+    {
+      "id": "29570257292558629",
+      "title": "THE KING WHO STOLE A MAN’S INHERITANCE… THEN TREMBLED WHEN GOD SPOKE",
+      "date": "2026-11-05T06:33:04+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tFUKAX4bj7RtbkiDbRrDkYwoxHtgBMzibnKwmmrHKkw71CrvPTKAQcdRyjpBWRjml"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-05T02:23:37Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-05T10:48:08Z",
+  "discovered": 15,
+  "processed": 15,
+  "discoveredLastRun": 15,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29565229186394773",
-    "title": "THEY USED GOD’S NAME TO MURDER AN INNOCENT MAN—AND CALLED IT JUSTICE",
-    "date": "2026-11-04T22:17:00+00:00"
+    "id": "29571507945766897",
+    "title": "GOD CALLED HER HIS BRIDE. THEN HE EXPOSED WHAT SHE WAS DOING BEHIND HIS BACK.",
+    "date": "2026-11-05T08:46:53+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-11-05T02:24:31Z",
+  "lastImportCount": 15,
+  "lastImportAt": "2026-11-05T10:49:14Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9869,
+  "structuredMetadata": 9884,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-b13ac7e4b366d1660bbb05169854df902725edfc1a27339ea3ade401806c9561",
-  "statusGeneratedAt": "2026-11-05T02:24:31Z"
+  "contentRevision": "sha256-38906accae33c9456c70c994d8624a9599bf3435328c87f90a20b2e4e78f4421",
+  "statusGeneratedAt": "2026-11-05T10:49:15Z"
 }
