@@ -1,79 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-06T14:59:54Z",
-  "lastSuccess": "2026-11-06T14:59:54Z",
-  "currentTotal": 9938,
-  "totalWords": 16529112,
+  "lastCheck": "2026-11-06T20:53:03Z",
+  "lastSuccess": "2026-11-06T20:53:03Z",
+  "currentTotal": 9951,
+  "totalWords": 16582746,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29588906200693738",
-      "title": "GOD CALLED HER “THE DELIGHT OF YOUR EYES”… THEN TOLD EZEKIEL SHE WAS GOING TO DIE.",
-      "date": "2026-11-06T13:11:38+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qxTPFMyU5mkyZiwZ6p2d9JonZJahCLdAZMTz3Ld52hqymbeKCbcMzevwAuoCx5zTl"
+      "id": "29592340413683650",
+      "title": "GOD DIDN’T ASK ADAM, “WHY ARE YOU NAKED?” HE ASKED, “WHO TOLD YOU?”",
+      "date": "2026-11-06T18:10:40+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xmFS425gYoLmyNGeKXfrdSDE7jBQ7uTGtGk1hEbfPHWTKokijTwFLpbwN3CguAHxl"
     },
     {
-      "id": "29588842480700110",
-      "title": "THEY PREACHED IN GOD’S NAME… WHILE SLEEPING WITH THEIR NEIGHBORS’ WIVES. THEN GOD EXPOSED THEM.",
-      "date": "2026-11-06T13:05:52+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bQNTYwdNiSjK8T5SMAhnppdHi5Bw2Bf88Uo9YkanTeq7ofy2cBVvuUAKciwCJQbDl"
-    },
-    {
-      "id": "29588454294072262",
-      "title": "GOD COMPARED HIS PEOPLE TO ANIMALS IN HEAT—AND THE REASON SHOULD TERRIFY EVERY CHRISTIAN WHO THINKS IDOLATRY IS HARMLESS",
-      "date": "2026-11-06T12:30:51+00:00",
+      "id": "29592286647022360",
+      "title": "THEY KNEW HER HISTORY. JESUS KNEW HER HEART. AND WHAT HE DID NEXT CHANGED EVERYTHING.",
+      "date": "2026-11-06T18:05:48+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zN5XUGsBFjMT1qUCRWTf4wftf8rikDJX5aFZXwZXJG9dULhnfD4SepwMg4B1PMWnl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MaDrrM6jqbg9bf5UavgihjTgZiXJD6ao5ZWr7m46xAPE6RsE7kvQexgYvR4Vub9cl"
     },
     {
-      "id": "29588327417418283",
-      "title": "“YOUR MAKER IS YOUR HUSBAND”—THE SHOCKING WORDS GOD SPOKE TO A PEOPLE WHO THOUGHT THEY WERE TOO BROKEN TO BE LOVED AGAIN",
-      "date": "2026-11-06T12:19:03+00:00",
+      "id": "29592224317028593",
+      "title": "SHE CALLED HERSELF A PROPHETESS. JESUS CALLED HER JEZEBEL. AND THE MOST TERRIFYING PART WASN’T HER SIN—IT WAS THE CHURCH THAT ALLOWED IT.",
+      "date": "2026-11-06T17:59:47+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06h2TATg61PZuMyETSWmKXoTvyy4rb4NM8oegtTra2dUnsZfSm7YVApW5kmBUDkmCl"
+    },
+    {
+      "id": "29592150197036005",
+      "title": "THEY PUT BRACKETS AROUND HER STORY… BUT DID SOMEONE TRY TO REMOVE THE MERCY OF JESUS?",
+      "date": "2026-11-06T17:52:31+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02AABxpYzndeJnFzA8kA8FtjMTfp4Qs3mpshh9vtEKcoDEwN64jxv4GUEVAMSHM9jBl"
+    },
+    {
+      "id": "29592062507044774",
+      "title": "“LET THE ONE WITHOUT SIN CAST THE FIRST STONE”—BUT WHAT IF YOU’VE BEEN HOLDING A STONE ALL ALONG?",
+      "date": "2026-11-06T17:44:20+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KMnt7FAsv6uSCGFYEckY46niWvNfWutuAKqeGfXB2BP1mJde5sfcxbAYFvUvUM24l"
+    },
+    {
+      "id": "29591925020391856",
+      "title": "THE BIBLE NEVER CALLED HER A PROSTITUTE. SO WHY HAVE WE BEEN CALLING HER ONE FOR CENTURIES?",
+      "date": "2026-11-06T17:31:59+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02s5sW5YAJk7Zj3HYkyYPpd53iEizwfrUSs78JwSRfpZ2d93CtSYHF43mwBPLsXY4zl"
+    },
+    {
+      "id": "29591743580410000",
+      "title": "SHE DANCED FOR A KING. HE OFFERED HER HALF HIS KINGDOM. THEN SHE ASKED FOR A MAN’S HEAD.",
+      "date": "2026-11-06T17:15:01+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02G5seWM9YDG63jMg82eBRoXgo5FX94FFfeuFaXASum5T1wGnK7spPTeCf21ZKMUpMl"
+    },
+    {
+      "id": "29591653423752349",
+      "title": "SHE LEFT HER HUSBAND FOR HIS BROTHER. A PROPHET CALLED IT SIN. THEN A KINGDOM DEMANDED HIS HEAD.",
+      "date": "2026-11-06T17:06:52+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Wthgt8PCuiL4KCoBuxWh57LquzptcSbrzdSa6an1HoRY7tM2h2RYZqvdmLckrsQ2l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DuQgetoczqEMA88DejdoRW6Bjaq4ZgDduh66feSE56XhT2i24vjELKrLmGj8r97ul"
     },
     {
-      "id": "29588251664092525",
-      "title": "GOD TOLD A BARREN WOMAN TO SING BEFORE SHE EVER HELD A CHILD—AND THE REASON WILL CHANGE HOW YOU SEE YOUR BROKEN FUTURE",
-      "date": "2026-11-06T12:12:38+00:00",
+      "id": "29591572903760401",
+      "title": "NINEVEH: THE BEAUTIFUL LIE THAT SEDUCED NATIONS—UNTIL GOD EXPOSED EVERYTHING",
+      "date": "2026-11-06T16:59:31+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0cWFxVW9Xp5yDN9248SsgpXUq2KxMSZM5Zzv4uA55iNjyhPTdYj2hyGLDYUjwJtsgl"
+    },
+    {
+      "id": "29591473100437048",
+      "title": "A FATHER AND SON WENT TO THE SAME YOUNG WOMAN—AND GOD SAID, “ENOUGH.”",
+      "date": "2026-11-06T16:51:02+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Jq6vfpp1NC3achZrVB9q8JzznUV4cZ9VGeJxyfY9bXQqdvE2qia624XfeX9b9P9Fl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0QoQeyiiT4nnrE8psJ9X3oa2iiKqv34Czq6ti36CnRWijytfNCvXNzQXBY2R88uRWl"
     },
     {
-      "id": "29585442424373449",
-      "title": "BABYLON SAID, “I WILL NEVER BE A WIDOW.” THEN GOD SPOKE—AND HER THRONE BECAME HER GRAVE.",
-      "date": "2026-11-06T07:15:43+00:00",
+      "id": "29591406783777013",
+      "title": "GOD EXPOSED THE MEN WHO VISITED PROSTITUTES WHILE THEIR OWN DAUGHTERS WERE CONDEMNED",
+      "date": "2026-11-06T16:45:11+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033pNN4k9gT6idjKF7gHunbMQXmfpAtGN9naJE6abuyPw9pdeXt6ieUf1C8wFWtpHWl"
+    },
+    {
+      "id": "29591168000467558",
+      "title": "THEY TURNED THEIR BACKS ON GOD… WHILE STANDING INSIDE HIS TEMPLE",
+      "date": "2026-11-06T16:23:39+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0u1GQaFFVGwZS79hX7AkhWADHV7HvKsDpEC8SzshTZZ51qa9gNGaoVECU8eygpM71l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jF1gAeb9X2jWUbb3Z8bGaXWuR2wbF1KQvsMXN5uhF3EcLSu7GFNCsYMMAyz8XGsSl"
+    },
+    {
+      "id": "29590998193817872",
+      "title": "THEY WERE CRYING FOR A FALSE GOD… WHILE STANDING AT THE DOOR OF THE TRUE ONE",
+      "date": "2026-11-06T16:08:41+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Mass9ZdPQswezW4mivnmKYUPVHPHMaM3tru1fGwNoREcxBszzCqzPBAbFYirVWgFl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-06T14:59:17Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-06T20:51:58Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29588906200693738",
-    "title": "GOD CALLED HER “THE DELIGHT OF YOUR EYES”… THEN TOLD EZEKIEL SHE WAS GOING TO DIE.",
-    "date": "2026-11-06T13:11:38+00:00"
+    "id": "29592340413683650",
+    "title": "GOD DIDN’T ASK ADAM, “WHY ARE YOU NAKED?” HE ASKED, “WHO TOLD YOU?”",
+    "date": "2026-11-06T18:10:40+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-11-06T14:59:54Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-11-06T20:53:03Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9938,
+  "structuredMetadata": 9951,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-654ea2f6a4bd2ad404c52cf10c449d1251f024bdc6cdf045107a8aeac8db72ca",
-  "statusGeneratedAt": "2026-11-06T14:59:54Z"
+  "contentRevision": "sha256-4a3c9f87af0e86692f3d0b7ed9c305a64176b7663d5366c60254140dcb80c8e2",
+  "statusGeneratedAt": "2026-11-06T20:53:04Z"
 }
