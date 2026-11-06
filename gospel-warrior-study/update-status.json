@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 21 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-05T18:43:43Z",
-  "lastSuccess": "2026-11-05T18:43:43Z",
+  "lastCheck": "2026-11-06T00:12:14Z",
+  "lastSuccess": "2026-11-06T00:12:14Z",
   "currentTotal": 9905,
   "totalWords": 16393319,
   "subjects": 17,
-  "addedLastRun": 21,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29577103555207336",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-05T18:42:32Z",
+  "lastCheckStarted": "2026-11-06T00:12:01Z",
   "discovered": 21,
-  "processed": 21,
-  "discoveredLastRun": 21,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29577103555207336",
     "title": "YOU BELONG TO JESUS… SO WHY DOES THE CHURCH SAY YOU’RE NOT A MEMBER?",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-92984f71378f75c2a89d53423baf94544d7c62f9e976fcb3933ef047d44a2437",
-  "statusGeneratedAt": "2026-11-05T18:43:43Z"
+  "statusGeneratedAt": "2026-11-06T00:12:14Z"
 }
