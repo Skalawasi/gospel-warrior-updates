@@ -1,72 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 5 new public studies.",
+  "message": "Added 23 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-07T00:54:49Z",
-  "lastSuccess": "2026-11-07T00:54:49Z",
-  "currentTotal": 9956,
-  "totalWords": 16604735,
+  "lastCheck": "2026-11-07T07:07:04Z",
+  "lastSuccess": "2026-11-07T07:07:04Z",
+  "currentTotal": 9979,
+  "totalWords": 16708987,
   "subjects": 17,
-  "addedLastRun": 5,
+  "addedLastRun": 23,
   "recentAdded": [
     {
-      "id": "29595625500021808",
-      "title": "YOU KEEP ASKING GOD FOR A SIGN… BUT WHAT IF HE’S ALREADY GIVEN YOU A COMMAND YOU’VE BEEN IGNORING?",
-      "date": "2026-11-06T23:41:06+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zmENdEsQ4wrm8qcfTrGLuWciL2sYdwYbroQKGWcucLKMGEvRdUUHPRmFYjTcjmGgl"
-    },
-    {
-      "id": "29595545393363152",
-      "title": "DOES GOD REALLY EXPECT YOU TO FORGIVE SOMEONE WHO ISN’T EVEN SORRY?",
-      "date": "2026-11-06T23:32:07+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027gFXiftvt8jDS8R5swjBPDk2RSmLD6fdzGHBQWduBoLUUYgXHZPf59pQsKj4GR7gl"
-    },
-    {
-      "id": "29595504306700594",
-      "title": "ABRAHAM LAUGHED IN GOD’S FACE… AND GOD NAMED THE MIRACLE AFTER HIS LAUGHTER.",
-      "date": "2026-11-06T23:27:23+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PvQbD5FhWtGUUVy6wzqUxyGxbXNLgVPHtD1NWkEuivgsaRZNBzZQQTaJB8z9HhQql"
-    },
-    {
-      "id": "29595422126708812",
-      "title": "SHE GAVE HER HUSBAND TO ANOTHER WOMAN… THEN COULDN’T BEAR WHAT HAPPENED NEXT.",
-      "date": "2026-11-06T23:17:49+00:00",
+      "id": "29600200812897610",
+      "title": "JOSEPH MARRIED A PAGAN PRIEST’S DAUGHTER—THEN GOD GAVE THEIR SONS A PLACE AMONG THE TRIBES OF ISRAEL",
+      "date": "2026-11-07T07:03:54+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jwkMPUkBe6LRKA39kgsUhHQvxupxgH4Dy1nj1QgmU9UQH5DE3aDKh4WQqACME4onl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028f3Jn4Mjdm81HcXrgyy6rbzQZLby5g28Wx5JJvYHoTYoGp6UTAyEareHJvuj3wZXl"
     },
     {
-      "id": "29595382113379480",
-      "title": "NOAH SURVIVED THE FLOOD… BUT WHAT HAPPENED INSIDE HIS TENT BROUGHT A CURSE UPON THE NEXT GENERATION",
-      "date": "2026-11-06T23:13:14+00:00",
+      "id": "29600155949568763",
+      "title": "A SON SLEPT WITH HIS FATHER’S CONCUBINE—AND HIS FATHER NEVER FORGOT.",
+      "date": "2026-11-07T06:59:03+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08bz1Xc8D4wjePdbNJQzKfYb6728HZBviX1cjwxmzVc3pU1Dbf41Hz8Ayf5VHaTddl"
+    },
+    {
+      "id": "29600090589575299",
+      "title": "HE CALLED HIMSELF A MAN OF GOD… UNTIL HIS EMPLOYEES BEGAN TALKING ABOUT HOW HE TREATED THEM.",
+      "date": "2026-11-07T06:52:34+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02emRFmgghMF3smGHwpSfQrzJewQc88JubgFnD35JhThrMoUTjQdQ8qKm84uNy4UqPl"
+    },
+    {
+      "id": "29600005442917147",
+      "title": "DOES GOD STILL REVEAL THE FUTURE THROUGH PROPHETS TODAY—OR ARE SOME CHRISTIANS BEING DECEIVED IN GOD’S NAME?",
+      "date": "2026-11-07T06:43:38+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02DhPvYbnQsq3FPkRqogNm7QvuLMdM8sFbqvQy4nvpk6UMje4XVgvgRuEoUgW9PwHgl"
+    },
+    {
+      "id": "29599844586266566",
+      "title": "DOES GOD REALLY DEMAND 10% OF YOUR PAYCHECK—OR HAVE WE BEEN PREACHING A COMMAND JESUS NEVER GAVE?",
+      "date": "2026-11-07T06:27:02+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vwXwVqVqtJW2AHYEUufdcgw3f5znji3hm8Z27R2DNxWhk4itxxqK6J2Dgjcduk68l"
+    },
+    {
+      "id": "29599552726295752",
+      "title": "WHAT IF GOD IS ASKING YOU TO PRAY FOR THE VERY PERSON WHO IS STILL DESTROYING YOUR PEACE?",
+      "date": "2026-11-07T05:56:03+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032VGTEtwtryF8RGqXQsJXeGyK9tufx6EA1D2o9pfDEujg8YWcAPEQu83SX6kVdmpql"
+    },
+    {
+      "id": "29599472706303754",
+      "title": "YOU WERE BAPTIZED… BUT WHAT IF YOU WALKED AWAY FROM GOD? DOES JESUS WANT YOU TO BE BAPTIZED AGAIN?",
+      "date": "2026-11-07T05:47:29+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02cKzWUTwexBDZT97SN98QBfCK2VqsPcbXxQpLG8M16zSF4uXRyAGz7y7a25VPbA73l"
+    },
+    {
+      "id": "29599427379641620",
+      "title": "WHAT IF THE VOICE YOU'VE BEEN CALLING “BIBLICAL” IS ONLY THE VOICE YOU'VE HEARD ALL YOUR LIFE?",
+      "date": "2026-11-07T05:42:43+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029Zu449eexsacAydwPqYX5gfkf4Pq4mYygSnF52a65RfuvrpBsLNGtAH8SKdg3c9tl"
+    },
+    {
+      "id": "29599371149647243",
+      "title": "WHAT IF THE “WORD FROM GOD” THAT BROKE YOU NEVER CAME FROM GOD?",
+      "date": "2026-11-07T05:37:07+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FcTnriMD2j63rhnyyrKr7CJ2kaUQbthD2nHvJXeQaki3i9UQk8qTppzYnJJRGTgYl"
+    },
+    {
+      "id": "29599291602988531",
+      "title": "“EVERYTHING IS PERMISSIBLE”—THE BIBLE VERSE THAT COULD BE DESTROYING YOUR SOUL IF YOU READ IT WRONG",
+      "date": "2026-11-07T05:28:33+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NijKWYqKnY5nnrrZWXpYx1dVaBbLpeBKEC4TdQb9V5XuL8e9ZVRdTz2vHEGH7ZP2l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03co5rwazkHctVKoi9r3yawPErfjpQnWJ5jHZ9NkkAFpz2ZrvRSBJPXBjWYuXk3Cul"
+    },
+    {
+      "id": "29598946043023087",
+      "title": "THE MAN WHO HAD EVERYTHING… EXCEPT THE ONE THING MONEY COULD NEVER BUY",
+      "date": "2026-11-07T04:52:39+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EBgTFrcwV6EJUXjLKTPTmTnWqYod6jpc1qaEqjT1TAtmHZURn7Zd7e3Qx8p1Gp3Bl"
+    },
+    {
+      "id": "29598800553037636",
+      "title": "WHAT IF YOU GET TO HEAVEN… AND DISCOVER THAT NOT EVERY BELIEVER RECEIVES THE SAME REWARD?",
+      "date": "2026-11-07T04:37:12+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XShdUkAGmDyV6guijr3iJ5rDhAxkzT6WTgU6dpDzYtJanEgwuLBo279H8TJYCWQKl"
+    },
+    {
+      "id": "29598713016379723",
+      "title": "JESUS PERFORMED MIRACLES FOR SINNERS… SO WHY DID HE REFUSE TO GIVE PROOF TO RELIGIOUS PEOPLE?",
+      "date": "2026-11-07T04:28:18+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0k7FRh7QaQaGoN3LEd4vzejPvQrViUkMPh5DZsuAY7UsVe22FJM4bpQfbm3Jbk87zl"
+    },
+    {
+      "id": "29598633956387629",
+      "title": "GOD DIDN’T WAIT FOR YOU TO BECOME STRONG—HE WAS WAITING FOR YOU TO STOP PRETENDING YOU WERE",
+      "date": "2026-11-07T04:19:54+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vX59DfLVMtxggk6epT5AJ4XcHmGNVa19HvpdR25sfMzdL4JQ4CUfjE8pPuG2xE22l"
+    },
+    {
+      "id": "29598580769726281",
+      "title": "And that single sentence, buried inside a pastoral letter written nearly two thousand years ago, confronts one of the most painful misunderstandings still circulating in Christian communities today.",
+      "date": "2026-11-07T04:14:22+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PXh5avGaRA5tDBGsh8nEXTjmYctXwYioHTdVqTA8P9ZRwYHTf13yhKtV45s2zV6Al"
+    },
+    {
+      "id": "29598526499731708",
+      "title": "JESUS NEVER SAID, “GET RICH OR YOU HAVE FAILED ME.” SO WHY ARE WE PREACHING THE PARABLE OF THE TALENTS THAT WAY?",
+      "date": "2026-11-07T04:08:53+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LNscjfanjSmjcSXhufrwxr9AQSAbuEDg2kxeh4S52MYq8T197ccptbgCKzL86pQ4l"
+    },
+    {
+      "id": "29598270379757320",
+      "title": "JESUS SAID THE KINGDOM BELONGS TO PEOPLE LIKE CHILDREN. BUT WHAT IF WE'VE MISUNDERSTOOD HIM OUR ENTIRE LIVES?",
+      "date": "2026-11-07T03:43:33+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035Fb3CQu3i5Hh3iKQsd6Ezes43zt5uu965yC85omzkZUMR7iATtAEVZsfeqwKzTQ8l"
+    },
+    {
+      "id": "29598221276428897",
+      "title": "SHE PAID TO SLEEP WITH HER OWN HUSBAND—AND GOD SAW THE HEARTBREAK BEHIND THE BARGAIN",
+      "date": "2026-11-07T03:38:58+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jCPeynUZEbfKNEKxX8m5Qxj8s5mcvzbERF5UYQHG8shUn6qoCsyGotKRoQGSu8cQl"
+    },
+    {
+      "id": "29598168913100800",
+      "title": "THEY CAST OUT DEMONS IN JESUS’ NAME… SO WHY DID JESUS SAY, “I NEVER KNEW YOU”?",
+      "date": "2026-11-07T03:34:01+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PUrR4tHY7uz4c1M4iiTAQdHNigUd4yAo4KQoFLMBbHksT9DEHLd9aegfU6kjTjmhl"
+    },
+    {
+      "id": "29598059626445062",
+      "title": "all came from those who had been deeply wounded:",
+      "date": "2026-11-07T03:23:10+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bUJVLEoG8xVUgR2BiniKkHFNexiWrz7o75sxzXPbcs7AfpaUbwv8UD9mpNRF3omKl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-07T00:53:56Z",
-  "discovered": 5,
-  "processed": 5,
-  "discoveredLastRun": 5,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-07T07:05:43Z",
+  "discovered": 23,
+  "processed": 23,
+  "discoveredLastRun": 23,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29595625500021808",
-    "title": "YOU KEEP ASKING GOD FOR A SIGN… BUT WHAT IF HE’S ALREADY GIVEN YOU A COMMAND YOU’VE BEEN IGNORING?",
-    "date": "2026-11-06T23:41:06+00:00"
+    "id": "29600200812897610",
+    "title": "JOSEPH MARRIED A PAGAN PRIEST’S DAUGHTER—THEN GOD GAVE THEIR SONS A PLACE AMONG THE TRIBES OF ISRAEL",
+    "date": "2026-11-07T07:03:54+00:00"
   },
-  "lastImportCount": 5,
-  "lastImportAt": "2026-11-07T00:54:49Z",
+  "lastImportCount": 23,
+  "lastImportAt": "2026-11-07T07:07:04Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9956,
+  "structuredMetadata": 9979,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-b0df5a80358b4a89f39e49a2937a35f0249aaf73c74cadd43ccbc8548174d7f7",
-  "statusGeneratedAt": "2026-11-07T00:54:49Z"
+  "contentRevision": "sha256-2495d1cf91953e957b41660f0e04f8b0654a987724b9c7ff2bcd29112a8d5c1f",
+  "statusGeneratedAt": "2026-11-07T07:07:04Z"
 }
