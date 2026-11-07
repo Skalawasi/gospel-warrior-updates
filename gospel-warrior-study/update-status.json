@@ -1,135 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 14 new public studies.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-07T13:59:18Z",
-  "lastSuccess": "2026-11-07T13:59:18Z",
-  "currentTotal": 9993,
-  "totalWords": 16770820,
+  "lastCheck": "2026-11-07T18:45:45Z",
+  "lastSuccess": "2026-11-07T18:45:45Z",
+  "currentTotal": 10006,
+  "totalWords": 16829972,
   "subjects": 17,
-  "addedLastRun": 14,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29604511722466519",
-      "title": "“PURE RELIGION”: THE DEFINITION JAMES GAVE THAT COULD MAKE AN ENTIRE CHURCH GO SILENT",
-      "date": "2026-11-07T13:56:17+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02iaa1PKfR8x2n73C3dY6XgBdPvXr5BzSsz447WWJbdxJiVSS1NHmtG6FtLsLaLFhGl"
-    },
-    {
-      "id": "29604114909172867",
-      "title": "YOU CAN HEAR SERMONS EVERY SUNDAY AND STILL BE LYING TO YOUR OWN SOUL",
-      "date": "2026-11-07T13:22:15+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06FucZ5j2KiKdvNB7r2mG3pZpvsPgMMLxAszyQRad23os7vuKm151A9UkRptjBUD3l"
-    },
-    {
-      "id": "29604030835847941",
-      "title": "THE MOST DANGEROUS LIE A CHRISTIAN CAN BELIEVE: “I KNOW THE BIBLE, SO I MUST BE CLOSE TO GOD.”",
-      "date": "2026-11-07T13:15:22+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02E9w8ZrBeULRf4aEtFWxJ3majB6jWGSTg9QLPPkd6tvjSsYu2hj1nBo6FQYATZPEKl"
-    },
-    {
-      "id": "29603928175858207",
-      "title": "THE VERSE YOU THOUGHT WAS ABOUT CONTROLLING YOUR TEMPER… WAS ACTUALLY ABOUT WHAT HAPPENS WHEN GOD TELLS YOU SOMETHING YOU DON'T WANT TO HEAR",
-      "date": "2026-11-07T13:06:55+00:00",
+      "id": "29606289418955416",
+      "title": "“YOUR LIFE IS A VAPOR” — THE BIBLE VERSE THAT DESTROYS THE LIE THAT YOU STILL HAVE PLENTY OF TIME",
+      "date": "2026-11-07T16:28:42+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wKV7SaCYVCK9YM2xrtnAxPKyt4RHTVQsvp3CPWpLKVv4GHeoAc8V6yksEJvGuETul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oHhqDRtrq9DfPJQQ9BStGmyhLnhGtdYjhhnze1i4iTJcEQ3GxvZCoh4jVbaarwezl"
     },
     {
-      "id": "29603846509199707",
-      "title": "CAESAR’S IMAGE WAS ON THE COIN—BUT WHOSE IMAGE IS ON YOU?",
-      "date": "2026-11-07T13:00:01+00:00",
+      "id": "29606005842317107",
+      "title": "THE SIN THAT SOUNDS LIKE CONCERN: WHEN YOUR WORDS ABOUT SOMEONE ELSE BECOME A REBELLION AGAINST GOD",
+      "date": "2026-11-07T16:03:39+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037fA8RRT2AUNgJ1B8iR817S6yC9PUuwkYYRwYY8VX5guotCuH3oY5LFj7W7QhpNfZl"
+    },
+    {
+      "id": "29605723182345373",
+      "title": "THE WAY UP IS DOWN: THE DANGEROUS PRAYER THAT COULD CHANGE EVERYTHING ABOUT YOUR LIFE",
+      "date": "2026-11-07T15:38:50+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0erE3X4S3UEhop45HCXStq9YvbocFWoBLAKpLSs7tg1cBZy2KcKB1jvFqc3saLTXFl"
+    },
+    {
+      "id": "29605630172354674",
+      "title": "JESUS NEVER SAID, “COME CLOSE AND KEEP YOUR SIN.”",
+      "date": "2026-11-07T15:30:41+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032U4n2feNeeFdyUpHTZ5irEeHg1wTMtp1SbpGCKj4HiZ82zhQXxuC7egcJRfhN9WZl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Za7KWyumFXzeBC2GJYs8VK5HEhUduhZJudRHuMbdBakRmWcudhfKA4iKNppXcD6pl"
     },
     {
-      "id": "29603752912542400",
-      "title": "“WE MUST OBEY GOD RATHER THAN MEN” — BUT WHAT HAPPENS WHEN THE PEOPLE DEMANDING YOUR OBEDIENCE CLAIM TO SPEAK FOR GOD?",
-      "date": "2026-11-07T12:52:19+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PBhtVqtkw2iSRJ7ndaC8uYtBFBmQ1fsFpDvsmEGwfngZuUk7qqkwHbDoM7zX1QsHl"
+      "id": "29605516199032738",
+      "title": "“DRAW NEAR TO GOD, AND HE WILL DRAW NEAR TO YOU” — BUT THE VERY NEXT WORDS ARE THE ONES WE KEEP AVOIDING",
+      "date": "2026-11-07T15:21:07+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04QLTvgx7iZASp8Whjag3Vzn6PGXcYPkDoK8NLHuf1PAzL7s4FMfbeM7hyGgArAbTl"
     },
     {
-      "id": "29600924859491872",
-      "title": "WHEN DOES ENCOURAGING SOMEONE BECOME EMOTIONALLY SEDUCING THEM?",
-      "date": "2026-11-07T08:21:10+00:00",
+      "id": "29605430749041283",
+      "title": "“YOU BELIEVE THERE IS ONE GOD? GOOD!” — THE NEXT SENTENCE SHOULD TERRIFY EVERY COMFORTABLE CHRISTIAN",
+      "date": "2026-11-07T15:13:57+00:00",
       "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0J1AGVKm9VYTu7BhjB7mRYU36ArtX37hDi3FwMwPFvyayeCT1bei1QgUHhTi7rf9cl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gzqMJJatjyMCu4TZC6YwHjSuGS4mhitbiaWW44GtJmNQAWYBYL4N88afRouzFRYCl"
     },
     {
-      "id": "29600865562831135",
-      "title": "ARE CHRISTIANS REQUIRED TO GIVE MONEY TO THEIR LOCAL CHURCH? THE BIBLICAL TRUTH THAT COULD EXPOSE YOUR HEART—AND SET YOU FREE",
-      "date": "2026-11-07T08:14:48+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LeAToG9Q8u9sKo5EVESi3e23yBpApquoUdPKEzCHD621aeedx6s5AQufbYtgEzyil"
+      "id": "29605360322381659",
+      "title": "“THE DEMONS BELIEVE” — THE BIBLE VERSE THAT SHOULD TERRIFY COMFORTABLE CHRISTIANITY",
+      "date": "2026-11-07T15:07:46+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MqBhAan4hxmeBjDWJS2pUgMDteuGYmGDBhVSrimZgXQXkii2A2Q2F9WQEZRv91xXl"
     },
     {
-      "id": "29600805946170430",
-      "title": "YOU GAVE MONEY TO THE CHURCH… BUT DID GOD REALLY RECEIVE YOUR GIFT?",
-      "date": "2026-11-07T08:08:30+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tS4q37q98yRVe4e1f1vGq89Z7kY8N2kKHJzPp2XK6GriDb3DdoGjT85FZ4xRQU3jl"
+      "id": "29605278255723199",
+      "title": "THE MOST TERRIFYING WORDS JESUS COULD EVER SAY TO SOMEONE WHO THOUGHT THEY BELONGED TO HIM",
+      "date": "2026-11-07T15:00:38+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Y3kuMoRvmZsyj6ZxBg9axsQgkkaet2oah8xy3eA8njCzBvx7YchADkqPoppmueaVl"
     },
     {
-      "id": "29600722612845430",
-      "title": "THE CHURCH BUILT A MILLION-DOLLAR SANCTUARY. BUT THE CHILD ACROSS THE STREET WENT TO BED HUNGRY.",
-      "date": "2026-11-07T07:59:46+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FHTcpDPKevxNx6ios55oQWsbWktQej9e98ToRNhbXaCyzDfrZWKoTn7gMCQpfaWol"
+      "id": "29605201232397568",
+      "title": "DEMONS HAVE BETTER THEOLOGY THAN SOME PEOPLE—AND THEY’RE STILL DEMONS",
+      "date": "2026-11-07T14:54:16+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tD533mNrpe2pmND1PDSKpRxc5yF92orp3n64yibg9KZHwa28piF4LDTcZzigC5nal"
     },
     {
-      "id": "29600676116183413",
-      "title": "IS IT WRONG FOR A PASTOR TO OWN A PRIVATE JET? THE ANSWER MAY EXPOSE SOMETHING FAR MORE DANGEROUS THAN WEALTH.",
-      "date": "2026-11-07T07:54:45+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RP9ro82eVxGVPuQxoqyKAeYKxwZRfpdDH5yLYBSs3qKPcj473i2vDwRRZYgeLpjEl"
+      "id": "29605120622405629",
+      "title": "EVEN THE DEMONS BELIEVE—AND SHUDDER: THE TERRIFYING DIFFERENCE BETWEEN KNOWING JESUS AND BELONGING TO HIM",
+      "date": "2026-11-07T14:47:28+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kUeviqLQNDQN2twzVfWj5y8jnmGezYnsERrgvFLETfh5xi9cysSbr98B6verUQTLl"
     },
     {
-      "id": "29600616672856024",
-      "title": "WOULD JESUS RECOGNIZE HIS CHURCH… OR WOULD HE BE ASKED TO SIT IN THE BACK WHILE THE PASTOR GETS THE VIP TREATMENT?",
-      "date": "2026-11-07T07:48:34+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UzBWvGEPEvDcK3BGTAigNXyR6FyDoz9pF8ebtmg4LY27YpHrWPkXos4jhpfWWZv8l"
+      "id": "29605030625747962",
+      "title": "PAUL SAID FAITH ALONE. JAMES SAID FAITH WITHOUT WORKS IS DEAD. SO WHO WAS RIGHT?",
+      "date": "2026-11-07T14:39:48+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Ngz2Fn38cUpYjL7Er3zTufsJbHTgoAKyHrpFPoM9jMNQUk82dKU7eacwtFJiSjnrl"
     },
     {
-      "id": "29600562989528059",
-      "title": "HUSBANDS, LOVE YOUR WIVES: THE COMMAND THAT EXPOSES WHAT KIND OF MAN YOU REALLY ARE",
-      "date": "2026-11-07T07:42:53+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xkNjZAQPHJ4fbLtVaeaNqTkqC7XDwxzihZMaQWJTEgowtPtiz3BpEpV5Tz3B1k77l"
-    },
-    {
-      "id": "29600249602892731",
-      "title": "SHE COVERED HER FACE THE MOMENT SHE SAW HIM… BUT WHAT HAPPENED NEXT REVEALS SOMETHING BEAUTIFUL ABOUT GOD’S TIMING",
-      "date": "2026-11-07T07:09:02+00:00",
+      "id": "29604971582420533",
+      "title": "ABRAHAM WAS JUSTIFIED BY FAITH—SO WHY DOES JAMES SAY HE WAS “JUSTIFIED BY WORKS”? THE ANSWER MAY EXPOSE A FAITH YOU NEVER REALIZED WAS DEAD.",
+      "date": "2026-11-07T14:35:18+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0y6aeH7ZxJUXPz3qH6Tfmsn43XEBYnGqEuRnbkCfPfXhh8W6H2K24bthhQmUcv6tol"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jKAN7bed3XPKkC72M7yjRLhemomLQUhU3Mdk1B3bRf6YfaFFCfT1797ZvKQfunofl"
+    },
+    {
+      "id": "29604617575789267",
+      "title": "“FAITH WITHOUT WORKS IS DEAD”—BUT WHAT IF YOU’VE BEEN CALLING SOMETHING FAITH THAT JESUS NEVER CALLED ALIVE?",
+      "date": "2026-11-07T14:05:11+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0GFGULEbRKgXV9JCw7cJXd7TMZjmBWDhtVYMjRLCWTm2We9mryc9zZ6Fna1SQjKbil"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-07T13:58:05Z",
-  "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
+  "lastCheckStarted": "2026-11-07T18:44:46Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
   "pagesScanned": 2,
   "latest": {
-    "id": "29604511722466519",
-    "title": "“PURE RELIGION”: THE DEFINITION JAMES GAVE THAT COULD MAKE AN ENTIRE CHURCH GO SILENT",
-    "date": "2026-11-07T13:56:17+00:00"
+    "id": "29606289418955416",
+    "title": "“YOUR LIFE IS A VAPOR” — THE BIBLE VERSE THAT DESTROYS THE LIE THAT YOU STILL HAVE PLENTY OF TIME",
+    "date": "2026-11-07T16:28:42+00:00"
   },
-  "lastImportCount": 14,
-  "lastImportAt": "2026-11-07T13:59:18Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-11-07T18:45:45Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 9993,
+  "structuredMetadata": 10006,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-4e8b7e172b900be3a554631b61810baa87e81376e3bf1819c1c1b89a4156437f",
-  "statusGeneratedAt": "2026-11-07T13:59:18Z"
+  "contentRevision": "sha256-3487bb3259f891d70668d2f007899cc903cadd9fd504fb7b3110cc4b4e1874c0",
+  "statusGeneratedAt": "2026-11-07T18:45:45Z"
 }
