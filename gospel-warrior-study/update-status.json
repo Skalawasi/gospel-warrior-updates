@@ -1,121 +1,72 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 12 new public studies.",
+  "message": "Added 5 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-07T22:43:37Z",
-  "lastSuccess": "2026-11-07T22:43:37Z",
-  "currentTotal": 10018,
-  "totalWords": 16883080,
+  "lastCheck": "2026-11-08T02:27:09Z",
+  "lastSuccess": "2026-11-08T02:27:09Z",
+  "currentTotal": 10023,
+  "totalWords": 16903916,
   "subjects": 17,
-  "addedLastRun": 12,
+  "addedLastRun": 5,
   "recentAdded": [
     {
-      "id": "29610035865247438",
-      "title": "SHE WAS GIVEN LAND… BUT SHE REFUSED TO LIVE WITHOUT WATER: THE FORGOTTEN WOMAN WHO DARED TO ASK FOR MORE",
-      "date": "2026-11-07T22:41:29+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035dDERmyXNES8eA7CoXyGWZVoLNMXGXjTJYoEWYqWWphBmwCbsN8um1NP1EVcL6jYl"
+      "id": "29610856395165385",
+      "title": "SHE DIDN’T HAVE THE PULPIT. BUT SHE KNEW THE TRUTH HE WAS MISSING.",
+      "date": "2026-11-08T00:04:41+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eFc8c3pb1zawBa46KUjuJiwUe63d4ssrZnpE5uZJ6t25DtFWmEV9VgVbdkSwwpPFl"
     },
     {
-      "id": "29609964131921278",
-      "title": "THEY WERE ORDERED TO KILL THE BABIES. ONE WOMAN FEARED GOD MORE THAN PHARAOH.",
-      "date": "2026-11-07T22:34:13+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0uWs2Be4cYN5kqUk4yiPTXXPVUPo6RBpuTaPrpoyJenEFEbw2edEQNjxLyVSgwTZhl"
-    },
-    {
-      "id": "29609909198593438",
-      "title": "PHARAOH ORDERED HER TO KILL THE BABIES. SHE CHOSE TO FEAR GOD INSTEAD.",
-      "date": "2026-11-07T22:28:33+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FaH8dttpJZbMCJsUqBzZ6FoNduYVjSH4v6yrhRzr3h3sKYv5UwyL66ZLBzNRAtyYl"
-    },
-    {
-      "id": "29609843088600049",
-      "title": "THE KING WHO LOST HIS MIND BUT FOUND HIS GOD: WHEN HEAVEN BROKE NEBUCHADNEZZAR'S PRIDE",
-      "date": "2026-11-07T22:21:20+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03jnUMutaANpPUpk8SJu1WjURRaKtNaqxsC4ATi5wWFxXEng7WuZC9cm1KgYGMLgwl"
-    },
-    {
-      "id": "29609797401937951",
-      "title": "GOD REJECTED SAUL AFTER ONE ACT OF “MERCY”—BUT THE REAL REASON SHOULD TERRIFY EVERY CHRISTIAN",
-      "date": "2026-11-07T22:16:09+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XNLKdrsT4MrH7r6Ho7N229LLBK1gEabiXRoEXJUv6BbUnkdrsEQTG7odTT5ZbXB8l"
-    },
-    {
-      "id": "29609735505277474",
-      "title": "HE BURIED THE TREASURE BENEATH HIS TENT… AND 36 MEN NEVER CAME HOME",
-      "date": "2026-11-07T22:09:04+00:00",
+      "id": "29610737038510654",
+      "title": "SHE HID TWO MEN IN A WELL… THEN LOOKED THE KING’S SOLDIERS IN THE EYES",
+      "date": "2026-11-07T23:51:52+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029Xc4T8SVJmh28FSJnMPJqMUzi1kBuR9dEddod3i8AXXY9Qduy2xFtg9hKY7QUjbml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0njAHB2F5mbtnYD9VBZtwSoHcMkCCvoTUwEenXwD9sDANEmMx6psx11nfSNnCNQ5il"
     },
     {
-      "id": "29609680221949669",
-      "title": "GOD SENT VENOMOUS SERPENTS TO HIS OWN PEOPLE… BUT THE MOST TERRIFYING PART WASN’T THE SNAKES",
-      "date": "2026-11-07T22:02:52+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028oZQ56sFtEMfVrZpDc8PoUohvvBA5iUJ27ibrevxDwsV8auxzhvGoYBuAmrXhEkEl"
+      "id": "29610646545186370",
+      "title": "SHE HID A CHILD WHILE A QUEEN MURDERED THE ROYAL FAMILY—AND FOR SIX YEARS, THE ENEMY NEVER KNEW A KING WAS STILL ALIVE",
+      "date": "2026-11-07T23:42:20+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037JswTSwvhxVnJBQHr3fUXCenf4i6t8BmNVnhesPmonWd9TYoW7xFsrGkeVaFnPtl"
     },
     {
-      "id": "29609635185287506",
-      "title": "3,000 DIED AT THE GOLDEN CALF—BUT WHY DID GOD SPARE THE PEOPLE WHO DESERVED TO DIE?",
-      "date": "2026-11-07T21:57:42+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sEAx3QoNyq4xZ5kxEcpHqGxXTrSWFxz1SQYzhqhzWz84HWquCSeZKzpKDJYrJ6iJl"
+      "id": "29610504548533903",
+      "title": "SHE WAS A GRANDMOTHER… BUT SHE ORDERED THE ROYAL CHILDREN KILLED. ONE BABY SURVIVED—AND HIS STORY POINTS TO JESUS.",
+      "date": "2026-11-07T23:26:41+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ch56G39RQ2AytdxVis3b5GxmndubhGRw8KPDNjjkZmr5E4qjfixXmW2p8RHoGEiMl"
     },
     {
-      "id": "29609581801959511",
-      "title": "GOD STRUCK AN ENTIRE NATION BECAUSE ONE MAN REFUSED TO BOW—BUT THE REAL STORY OF EGYPT'S TEN PLAGUES IS MORE TERRIFYING THAN YOU THINK",
-      "date": "2026-11-07T21:51:24+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aDnaYv2wwmaZeAV3sbG9qbjG8thmZCAVcfzyTgq7ZpivC5B3hgqbuB2zGJHf7DdLl"
-    },
-    {
-      "id": "29609524478631910",
-      "title": "SHE ESCAPED THE FIRE… BUT ONE LOOK BACK COST HER EVERYTHING.",
-      "date": "2026-11-07T21:44:39+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ssjyCML1mhQSVvBvgnVycKmKBPfnJLvVC8tSbhXrc45eLzdZthQ7HrwnXB8WC3jul"
-    },
-    {
-      "id": "29609477691969922",
-      "title": "GOD COULD HAVE DESTROYED THE TOWER OF BABEL IN ONE SECOND. SO WHY DID HE ATTACK THEIR WORDS INSTEAD?",
-      "date": "2026-11-07T21:39:23+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UJsJ1m4nJA5rvmt3mRqw5x7RhbqwPzA2MSZ4SfckgC5dpi1LVRpUHbAciazFmNnml"
-    },
-    {
-      "id": "29609418185309206",
-      "title": "JESUS WASN’T KNOCKING ON AN UNBELIEVER’S DOOR. HE WAS STANDING OUTSIDE HIS OWN CHURCH.",
-      "date": "2026-11-07T21:32:42+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031zyu6QUGQwKrYdmjdtgjBhXWcZj7ajtpsjeroSwMdBAQmJX4ctgRFTNRLj9G8wdLl"
+      "id": "29610377895213235",
+      "title": "THE WOMAN WHO WALKED INTO A KING’S PALACE AND EXPOSED THE WOUND HE REFUSED TO HEAL",
+      "date": "2026-11-07T23:14:25+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032jFFg5C9XrgsojS2skGuJ52TwURD7UNZTNCZDQMwTfwEnHmSJcSPwWrJj98awcM6l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-07T22:42:32Z",
-  "discovered": 12,
-  "processed": 12,
-  "discoveredLastRun": 12,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-08T02:26:14Z",
+  "discovered": 5,
+  "processed": 5,
+  "discoveredLastRun": 5,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29610035865247438",
-    "title": "SHE WAS GIVEN LAND… BUT SHE REFUSED TO LIVE WITHOUT WATER: THE FORGOTTEN WOMAN WHO DARED TO ASK FOR MORE",
-    "date": "2026-11-07T22:41:29+00:00"
+    "id": "29610856395165385",
+    "title": "SHE DIDN’T HAVE THE PULPIT. BUT SHE KNEW THE TRUTH HE WAS MISSING.",
+    "date": "2026-11-08T00:04:41+00:00"
   },
-  "lastImportCount": 12,
-  "lastImportAt": "2026-11-07T22:43:37Z",
+  "lastImportCount": 5,
+  "lastImportAt": "2026-11-08T02:27:09Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10018,
+  "structuredMetadata": 10023,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-c450851554e96ff78bf5a94aded7506474d3aa07167bfe3fb5b15d13b77205d3",
-  "statusGeneratedAt": "2026-11-07T22:43:37Z"
+  "contentRevision": "sha256-40443abf84042121a243f2af9b4c3a3a505863719963118611fff2ce193b5c12",
+  "statusGeneratedAt": "2026-11-08T02:27:09Z"
 }
