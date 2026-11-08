@@ -1,72 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 5 new public studies.",
+  "message": "Added 28 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-08T02:27:09Z",
-  "lastSuccess": "2026-11-08T02:27:09Z",
-  "currentTotal": 10023,
-  "totalWords": 16903916,
+  "lastCheck": "2026-11-08T10:16:23Z",
+  "lastSuccess": "2026-11-08T10:16:23Z",
+  "currentTotal": 10051,
+  "totalWords": 17025807,
   "subjects": 17,
-  "addedLastRun": 5,
+  "addedLastRun": 28,
   "recentAdded": [
     {
-      "id": "29610856395165385",
-      "title": "SHE DIDN’T HAVE THE PULPIT. BUT SHE KNEW THE TRUTH HE WAS MISSING.",
-      "date": "2026-11-08T00:04:41+00:00",
+      "id": "29615543551363336",
+      "title": "SHE WAS USED, MISTREATED, AND THROWN INTO THE WILDERNESS—BUT GOD HEARD THE CRY ABRAHAM’S HOUSEHOLD FAILED TO HEAR",
+      "date": "2026-11-08T08:39:40+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vrjHXPZxibZKWFL8ig2khcDisjJun6nBq5DiHbf2QnxS9niUZeZy2WnLvVtjNFMyl"
+    },
+    {
+      "id": "29615460148038343",
+      "title": "CAN A MAN REALLY LOVE TWO WIVES EQUALLY? JACOB'S FAMILY EXPOSES A HEARTBREAKING TRUTH MOST PEOPLE ARE AFRAID TO FACE",
+      "date": "2026-11-08T08:30:15+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tTpBAMuXzNtxRsXPigU26MhB3jbv84Yp35eDtAEhvWH19F6fvBP16v6w6K7ev2Cml"
+    },
+    {
+      "id": "29615155514735473",
+      "title": "HEAVEN WENT SILENT FOR HALF AN HOUR—AND THE REASON SHOULD MAKE EVERY CHRISTIAN TREMBLE",
+      "date": "2026-11-08T07:56:02+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bhBwLdsomgCebBefMkP5GwPugMFjAsQksDFZd9YPDLHk98CXmxdnFQs7doTqUUmjl"
+    },
+    {
+      "id": "29615081921409499",
+      "title": "WHY DID PAUL MENTION BAPTISM FOR THE DEAD? THE VERSE THAT HAS CONFUSED CHRISTIANS FOR CENTURIES",
+      "date": "2026-11-08T07:47:34+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eFc8c3pb1zawBa46KUjuJiwUe63d4ssrZnpE5uZJ6t25DtFWmEV9VgVbdkSwwpPFl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02j6bw6HrYHBtsjv9BKxJCph1vUSx2dounca4oQUkjJs1GTJPzmn7DtoJw4BV49sael"
     },
     {
-      "id": "29610737038510654",
-      "title": "SHE HID TWO MEN IN A WELL… THEN LOOKED THE KING’S SOLDIERS IN THE EYES",
-      "date": "2026-11-07T23:51:52+00:00",
+      "id": "29615031241414567",
+      "title": "JESUS SAID SOME OF THEM WOULD NOT DIE BEFORE SEEING GOD’S KINGDOM. SO WHAT DID THEY ACTUALLY SEE?",
+      "date": "2026-11-08T07:41:42+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033HuB8frm7jVxcKbRFCFmjADeHbMaUdzNt6rnEZHp2RLRPKvAnQ11Uu6qui9VyQTxl"
+    },
+    {
+      "id": "29614981638086194",
+      "title": "FOUR BEASTS ROSE FROM THE SEA… BUT DANIEL SAW SOMETHING MORE TERRIFYING THAN MONSTERS",
+      "date": "2026-11-08T07:36:03+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0njAHB2F5mbtnYD9VBZtwSoHcMkCCvoTUwEenXwD9sDANEmMx6psx11nfSNnCNQ5il"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025JyUy9qKky8PbabRNsvUyXrTATNThAjFf2vzvkBatVU3sqk4Y15PW3SrkTgn9T1ul"
     },
     {
-      "id": "29610646545186370",
-      "title": "SHE HID A CHILD WHILE A QUEEN MURDERED THE ROYAL FAMILY—AND FOR SIX YEARS, THE ENEMY NEVER KNEW A KING WAS STILL ALIVE",
-      "date": "2026-11-07T23:42:20+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037JswTSwvhxVnJBQHr3fUXCenf4i6t8BmNVnhesPmonWd9TYoW7xFsrGkeVaFnPtl"
-    },
-    {
-      "id": "29610504548533903",
-      "title": "SHE WAS A GRANDMOTHER… BUT SHE ORDERED THE ROYAL CHILDREN KILLED. ONE BABY SURVIVED—AND HIS STORY POINTS TO JESUS.",
-      "date": "2026-11-07T23:26:41+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ch56G39RQ2AytdxVis3b5GxmndubhGRw8KPDNjjkZmr5E4qjfixXmW2p8RHoGEiMl"
-    },
-    {
-      "id": "29610377895213235",
-      "title": "THE WOMAN WHO WALKED INTO A KING’S PALACE AND EXPOSED THE WOUND HE REFUSED TO HEAL",
-      "date": "2026-11-07T23:14:25+00:00",
+      "id": "29614944098089948",
+      "title": "ELIJAH THOUGHT HE WAS THE LAST ONE STANDING. THEN GOD REVEALED 7,000 PEOPLE HE COULDN’T SEE.",
+      "date": "2026-11-08T07:31:45+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032jFFg5C9XrgsojS2skGuJ52TwURD7UNZTNCZDQMwTfwEnHmSJcSPwWrJj98awcM6l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ymuz2VJCPcctk3SsMfYRtTyYxikk4qBgKkDYDVEgEbeWgpy9j4GjMhAZf8672FdBl"
+    },
+    {
+      "id": "29614897768094581",
+      "title": "BEFORE ADAM TOOK HIS FIRST BREATH, HEAVEN WAS ALREADY SHOUTING: WHO WERE THE MYSTERIOUS “SONS OF GOD” WHO WATCHED CREATION BEGIN?",
+      "date": "2026-11-08T07:26:21+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0QBG697BFTQ9kYthX44B1s1tKo5YBA6ybLKjpUMN4B4RNqjCcgu1Y3p6qR8buGFZhl"
+    },
+    {
+      "id": "29614547248129633",
+      "title": "WHY DID GOD PLACE A FLAMING SWORD AT THE ENTRANCE TO EDEN? THE TERRIFYING TRUTH ABOUT THE GATE HE CLOSED—AND THE SAVIOR WHO OPENED THE WAY BACK",
+      "date": "2026-11-08T06:45:47+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0r6kqDEcYKMkqgcte4q61tPhACSGSA6p1L8Bza33GbSF6UBH9WFgYEqZKBe4URCLcl"
+    },
+    {
+      "id": "29614451838139174",
+      "title": "THE SAME JESUS WHO SAID “TAKE NOTHING” LATER SAID “TAKE YOUR BAG”—WHAT CHANGED?",
+      "date": "2026-11-08T06:34:45+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02V1VYwvvnDcf18cjGWd2tvh7bADb9rnh9aJQ2hiRXeJr4Mn7sK6u112Xm2SETmqLEl"
+    },
+    {
+      "id": "29614379108146447",
+      "title": "HE SENT EVERYONE OUT OF THE ROOM… THEN TURNED TOWARD A DEAD WOMAN AND SPOKE SIX WORDS THAT CHANGED EVERYTHING.",
+      "date": "2026-11-08T06:26:31+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02D58ztYrLW1G3pnq2JVBFdxKakYsSF5B8HuGqftVvAJhAPjUjJyDuQekmdpjCPuTDl"
+    },
+    {
+      "id": "29614316628152695",
+      "title": "JESUS HEALED TEN LEPERS. NINE WALKED AWAY. BUT THE ONE WHO CAME BACK DISCOVERED SOMETHING GREATER THAN HEALING.",
+      "date": "2026-11-08T06:19:21+00:00",
+      "subject": "Healing & Encouragement",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wb8sRH1JR1pp7eDcd4uJ27zeo1DS9Tv9Fyi7yz8goYxeXijoXthm2V5KxPLSj5Ml"
+    },
+    {
+      "id": "29614232871494404",
+      "title": "JESUS TOLD PETER TO CATCH A FISH… BUT WHAT WAS INSIDE ITS MOUTH REVEALS SOMETHING MOST CHRISTIANS HAVE NEVER NOTICED",
+      "date": "2026-11-08T06:10:15+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kkAQWr9W38qheD4yhc4CDh1UdmGEJevVGjKp3opDL6FNEERvQPTV4cU8PbbSFQgxl"
+    },
+    {
+      "id": "29614163301501361",
+      "title": "THE MIRACLE DIDN’T BEGIN WHEN THE OIL FLOWED. IT BEGAN WHEN A BROKEN WIDOW ADMITTED SHE HAD NOTHING LEFT.",
+      "date": "2026-11-08T06:02:23+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02u2uTb1EM8PUe5o7DKqbyyUhh6miq5kxAK1mCBUFii1wtHCmiUvCLmMmPyAtZezXal"
+    },
+    {
+      "id": "29614075244843500",
+      "title": "THE CITY WAS BEAUTIFUL. THE WATER WAS POISONED. THEN GOD TOLD ELISHA TO THROW SALT INTO THE SPRING.",
+      "date": "2026-11-08T05:52:31+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NayeCdXXYvHFF2UWpwF8WYLZhkVnWmStMpe7yaZa4ZVS2qKksnAL8wXCEDq8RTaEl"
+    },
+    {
+      "id": "29614015371516154",
+      "title": "THE RIVER DIDN’T PART BECAUSE OF THE CLOAK… SO WHY DID GOD OPEN THE JORDAN FOR ELIJAH?",
+      "date": "2026-11-08T05:45:41+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LZaT9z5xz5uv2jUaCTdBnEryH2iYvcDzxNMeRxaDqWPDnK54o1BH4HiXqRfSMXAgl"
+    },
+    {
+      "id": "29613950388189319",
+      "title": "The man who stretched out his staff over the Red Sea.",
+      "date": "2026-11-08T05:38:27+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0anYvJAzbjAhwK78MPjJ9p1sei7aNZF7yyiCPKg4WEfGM1jaqffPVesx85v1m3vAvl"
+    },
+    {
+      "id": "29613462984904726",
+      "title": "GOD DIDN’T BRING THEM TO MARAH TO DESTROY THEM—HE WAS ABOUT TO REVEAL SOMETHING THEY COULD NEVER LEARN AT THE RED SEA",
+      "date": "2026-11-08T04:44:58+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Tdt1neGLi48UuTArBUqn1sML6vXzovUPxo1asExCFYS4ReJtZaiVb2gWaN695ejal"
+    },
+    {
+      "id": "29613390671578624",
+      "title": "THE DREAM THAT TRIED TO STOP THE CROSS: WHY DID PILATE’S WIFE WARN HIM ABOUT JESUS?",
+      "date": "2026-11-08T04:37:00+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SkYrxw116tzj2ktLRPz1m4LDDQi9HrTZ75b6fmZoew4EJzLkhGk5BJMU1qhWnWykl"
+    },
+    {
+      "id": "29613343311583360",
+      "title": "THE NIGHT GOD WOKE A FATHER TO SAVE THE SAVIOR",
+      "date": "2026-11-08T04:32:06+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0uG1bZK4N8443ioGocSoE6YwiXhybmtYgHSrZhfn29hP2UqM6fKEht6kHjsAi3Vc5l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-08T02:26:14Z",
-  "discovered": 5,
-  "processed": 5,
-  "discoveredLastRun": 5,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-08T10:14:55Z",
+  "discovered": 28,
+  "processed": 28,
+  "discoveredLastRun": 28,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29610856395165385",
-    "title": "SHE DIDN’T HAVE THE PULPIT. BUT SHE KNEW THE TRUTH HE WAS MISSING.",
-    "date": "2026-11-08T00:04:41+00:00"
+    "id": "29615543551363336",
+    "title": "SHE WAS USED, MISTREATED, AND THROWN INTO THE WILDERNESS—BUT GOD HEARD THE CRY ABRAHAM’S HOUSEHOLD FAILED TO HEAR",
+    "date": "2026-11-08T08:39:40+00:00"
   },
-  "lastImportCount": 5,
-  "lastImportAt": "2026-11-08T02:27:09Z",
+  "lastImportCount": 28,
+  "lastImportAt": "2026-11-08T10:16:23Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10023,
+  "structuredMetadata": 10051,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-40443abf84042121a243f2af9b4c3a3a505863719963118611fff2ce193b5c12",
-  "statusGeneratedAt": "2026-11-08T02:27:09Z"
+  "contentRevision": "sha256-867a44371f76f5fefbc46ce0112ca0f59978ce158cee697643b7ac081d199f7b",
+  "statusGeneratedAt": "2026-11-08T10:16:23Z"
 }
