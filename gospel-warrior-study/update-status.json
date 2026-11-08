@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 20 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-08T16:41:22Z",
-  "lastSuccess": "2026-11-08T16:41:22Z",
+  "lastCheck": "2026-11-08T21:08:05Z",
+  "lastSuccess": "2026-11-08T21:08:05Z",
   "currentTotal": 10071,
   "totalWords": 17116796,
   "subjects": 17,
-  "addedLastRun": 20,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29620341617550196",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-08T16:40:24Z",
+  "lastCheckStarted": "2026-11-08T21:07:52Z",
   "discovered": 20,
-  "processed": 20,
-  "discoveredLastRun": 20,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29620341617550196",
     "title": "SHE SHARED HIS BED… BUT DID SHE EVER HAVE THE RIGHTS OF A WIFE?",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-3415f6f7981c1e896efa2c7bc07e4c256b5d2f998e461fa93e54488523ef5287",
-  "statusGeneratedAt": "2026-11-08T16:41:22Z"
+  "statusGeneratedAt": "2026-11-08T21:08:06Z"
 }
