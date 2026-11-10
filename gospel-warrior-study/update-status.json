@@ -1,65 +1,135 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 14 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-10T09:44:34Z",
-  "lastSuccess": "2026-11-10T09:44:34Z",
-  "currentTotal": 10096,
-  "totalWords": 17228885,
+  "lastCheck": "2026-11-10T17:47:49Z",
+  "lastSuccess": "2026-11-10T17:47:49Z",
+  "currentTotal": 10110,
+  "totalWords": 17287534,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 14,
   "recentAdded": [
     {
-      "id": "29637429755841382",
-      "title": "WAS MONOGAMY REALLY GOD’S ORIGINAL DESIGN—OR DID CHRISTIANS PUT WORDS INTO GENESIS THAT GOD NEVER SAID?",
-      "date": "2026-11-09T22:37:24+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tkrMkSvaVfhmvM4zBkzwbhemKQfKH68HaZTfFfsuUjBPiBrbNj2jtBLVu5sKFFKjl"
+      "id": "29648557918061899",
+      "title": "HE SAW AN ANGEL AND THOUGHT GOD WAS GOING TO KILL HIM—BUT HIS WIFE SPOKE ONE SENTENCE THAT CHANGED EVERYTHING",
+      "date": "2026-11-10T16:33:32+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WGmtYruxWq5NNHGUZufQnrgaWef31FnrQAAVCmtXSqqSQR2Meewh5CC83u6a52cfl"
     },
     {
-      "id": "29637305345853823",
-      "title": "THEY TOLD YOU TO SOW A SEED… BUT DID JESUS EVER TELL YOU TO BUY A MIRACLE?",
-      "date": "2026-11-09T22:23:50+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0AfgNpfsbvSMTpq9ZjyhczgRsZodeizCno5yPHdbiN95pmtqXK5QGd457CgGBk5JAl"
+      "id": "29648437388073952",
+      "title": "THE ANGEL CAME TO THE WOMAN EVERYONE THOUGHT HAD NOTHING LEFT TO GIVE",
+      "date": "2026-11-10T16:22:50+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VoMz2kqRekew8HWEWEGxPKnXK5pd44iFzGHmRHDddkcrsiQUxKvhFZXP2yRvn7otl"
     },
     {
-      "id": "29637229442528080",
-      "title": "THE WOMEN WHO SPUN GOAT HAIR FOR GOD—AND THE FORGOTTEN TRUTH THAT COULD CHANGE HOW YOU SEE YOUR OWN LIFE",
-      "date": "2026-11-09T22:15:22+00:00",
+      "id": "29648321321418892",
+      "title": "THE SCARLET CORD: THE WOMAN EVERYONE KNEW BY HER SIN—BUT GOD REMEMBERED BY HER FAITH",
+      "date": "2026-11-10T16:12:36+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032VhtWeXPw4YLU4UmXadWGHQ27hvYFBiT3r1XGkUrpbFsm1K2qoqg5Qgb87yTVG6nl"
+    },
+    {
+      "id": "29648009928116698",
+      "title": "GOD FORBADE HIM FROM TAKING HIS FORMER WIFE BACK… BUT THE REASON REVEALS SOMETHING HEARTBREAKING ABOUT LOVE, SIN, AND GRACE",
+      "date": "2026-11-10T15:45:47+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025qfTqoqJ9jeFpX1ghjeSwzB5ug9751T3p2QpnG3e6XCsc47McURh2xzD16k47ycxl"
+    },
+    {
+      "id": "29647937911457233",
+      "title": "SHE WALKED AWAY WITH A DIVORCE CERTIFICATE… BUT WHO WOULD GIVE HER BACK HER FUTURE?",
+      "date": "2026-11-10T15:39:42+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03a4q2pH2u2E8BUTgm5r3jKGVgaL2eG5giAgBXARQQeBrXrCqop2syaptkMFJk4DHl"
+    },
+    {
+      "id": "29647862524798105",
+      "title": "MOSES SAW A DANGER MOST PARENTS NEVER NOTICE—UNTIL THEIR CHILDREN NO LONGER WANT GOD",
+      "date": "2026-11-10T15:33:13+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0iEb1YQ1E397AktgSzNnU5NzegV3pbohHgnfCrkaJuJQCGAHJZMetYobpxLwEomr8l"
+    },
+    {
+      "id": "29647625418155149",
+      "title": "HE PICKED UP STICKS ON THE SABBATH—AND GOD COMMANDED HIS EXECUTION. WHAT DID GOD SEE THAT WE DON'T?",
+      "date": "2026-11-10T15:13:14+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FKkm2eS6M76CQg83b8tK9CTiuNbUPjeQe8vyhgHmfMKuGjNgoRwPH363PcfsUKhpl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jmbNXa7YfATJA8XDVGQLBQcwvW8YQsAnTUWEjnkS1XkKQgPPTB9yxuTUYGGTmXPvl"
     },
     {
-      "id": "29637149275869430",
-      "title": "YOUR PASTOR SAID GOD WILL STOP PROTECTING YOU IF YOU LEAVE THE CHURCH. BUT DID JESUS EVER SAY THAT?",
-      "date": "2026-11-09T22:07:10+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HvFL19Mh577PtyWx2FoxhY13kCgyJRLArS5tZe9fyZTHnTQAVULTuFLnrkU2ANWzl"
+      "id": "29647504304833927",
+      "title": "HEAVEN HEARD WHAT YOU PROMISED… EVEN WHEN YOU HOPED GOD HAD FORGOTTEN.",
+      "date": "2026-11-10T15:03:05+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WvZZ2yK3KZ87Spx8AEfav9N3eiukCfxotV9gb1jog37afMwfrxFAaLpU6SqzdDp9l"
+    },
+    {
+      "id": "29647435894840768",
+      "title": "THE SIN SO DISTURBING GOD NAMED IT IN THE BIBLE—AND THE WARNING MOST CHRISTIANS NEVER UNDERSTOOD",
+      "date": "2026-11-10T14:57:12+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nfT1u599ZavbbwyhqbWVUBQ4zH7T1fzTDkw5q7YhKupVGa5jojNADGv4eqouFRxVl"
+    },
+    {
+      "id": "29647307121520312",
+      "title": "GOD FORBADE HIM FROM TOUCHING HIS OWN SISTER—EVEN WHEN THEY HAD DIFFERENT MOTHERS. BUT THE REASON GOES DEEPER THAN YOU THINK.",
+      "date": "2026-11-10T14:46:20+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032Deng6DdJZtBsNMFaCYioTdAcSHFTmxa3C6ZSsAEhbjCwYRZhPnRn1gMk21uPzTnl"
+    },
+    {
+      "id": "29647242678193423",
+      "title": "THE LAW NAMED A SIN MOST FAMILIES WOULD NEVER DARE SPEAK ABOUT—AND THE REASON WILL CHANGE HOW YOU READ THE BIBLE",
+      "date": "2026-11-10T14:40:56+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02U41rngSa8N567rbtSBDcNA1UZhUP7y5d1zk5ny8FqT6LGSLcZbB3X5JnrkwwNmqxl"
+    },
+    {
+      "id": "29647159058201785",
+      "title": "GOD FORBADE A MAN FROM SLEEPING WITH A WOMAN AND HER DAUGHTER—BUT THE REASON GOES DEEPER THAN SEX",
+      "date": "2026-11-10T14:33:56+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031vqJHeMEVZ9oFSMzhCTQW4WKRyMH4PAna1C1e4Krr3VGKtKnbb4dt2ewDxVoF4DHl"
+    },
+    {
+      "id": "29647085838209107",
+      "title": "YOU KEEP SAYING “GOD KNOWS MY HEART”… BUT WHAT IF THAT’S EXACTLY WHAT SHOULD TERRIFY YOU?",
+      "date": "2026-11-10T14:28:03+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0F9GmBeWzVf5nSeWNb7BnuvrMbwhJusxo8zQQo5dM1c16CBEtbeGapSSCEtKnpXqPl"
+    },
+    {
+      "id": "29646963684887989",
+      "title": "THEY DIED WITHOUT JESUS… IS IT TOO LATE TO PRAY FOR THEIR SALVATION?",
+      "date": "2026-11-10T14:17:46+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wT8byhbAqJPCPzjTPSn1EHoq6zRcG2hdWLXhc8mj1KQjpzpk3TUaE8pHLRmBdAoCl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-10T09:44:12Z",
-  "discovered": 4,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-10T17:46:44Z",
+  "discovered": 14,
+  "processed": 14,
+  "discoveredLastRun": 14,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29637429755841382",
-    "title": "WAS MONOGAMY REALLY GOD’S ORIGINAL DESIGN—OR DID CHRISTIANS PUT WORDS INTO GENESIS THAT GOD NEVER SAID?",
-    "date": "2026-11-09T22:37:24+00:00"
+    "id": "29648557918061899",
+    "title": "HE SAW AN ANGEL AND THOUGHT GOD WAS GOING TO KILL HIM—BUT HIS WIFE SPOKE ONE SENTENCE THAT CHANGED EVERYTHING",
+    "date": "2026-11-10T16:33:32+00:00"
   },
-  "lastImportCount": 4,
-  "lastImportAt": "2026-11-10T02:04:40Z",
+  "lastImportCount": 14,
+  "lastImportAt": "2026-11-10T17:47:49Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10096,
+  "structuredMetadata": 10110,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-cd4d01950e0541d7bf5b16ad79d645aef24dc3a6e156ad21705686590c83e207",
-  "statusGeneratedAt": "2026-11-10T09:44:34Z"
+  "contentRevision": "sha256-997a30db8efc6677aafadc2dd7a3b18f06021edff32fd02145ab1463ed78e441",
+  "statusGeneratedAt": "2026-11-10T17:47:49Z"
 }
