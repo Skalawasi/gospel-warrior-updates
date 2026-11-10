@@ -1,177 +1,65 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 21 new public studies.",
+  "message": "Added 4 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-09T18:45:55Z",
-  "lastSuccess": "2026-11-09T18:45:55Z",
-  "currentTotal": 10092,
-  "totalWords": 17211410,
+  "lastCheck": "2026-11-10T02:04:40Z",
+  "lastSuccess": "2026-11-10T02:04:40Z",
+  "currentTotal": 10096,
+  "totalWords": 17228885,
   "subjects": 17,
-  "addedLastRun": 21,
+  "addedLastRun": 4,
   "recentAdded": [
     {
-      "id": "29634073349510356",
-      "title": "THE WOMEN AT GOD’S DOOR: THE SHOCKING CONNECTION BETWEEN A SACRED MIRROR, A CORRUPT PRIESTHOOD, AND THE JESUS WHO SEES THE FORGOTTEN",
-      "date": "2026-11-09T17:05:34+00:00",
+      "id": "29637429755841382",
+      "title": "WAS MONOGAMY REALLY GOD’S ORIGINAL DESIGN—OR DID CHRISTIANS PUT WORDS INTO GENESIS THAT GOD NEVER SAID?",
+      "date": "2026-11-09T22:37:24+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09SuoL7AYVwAkKFEwjAD6ADWCuzTZ4giWVwWBt8L42a3BteE87VV5SjSwGky3uV4Wl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tkrMkSvaVfhmvM4zBkzwbhemKQfKH68HaZTfFfsuUjBPiBrbNj2jtBLVu5sKFFKjl"
     },
     {
-      "id": "29633988636185494",
-      "title": "THE WOMEN WHO GAVE GOD THEIR MIRRORS: THE FORGOTTEN SACRIFICE THAT REVEALS WHAT TRUE WORSHIP REALLY COSTS",
-      "date": "2026-11-09T16:58:16+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NEmxA4igkips8N1frsVAKgMzTgxugFqEcgndv6nzBJRgqkdZkCLYybu2J9r1eYUql"
-    },
-    {
-      "id": "29633926959524995",
-      "title": "IF GOD SAID TWO SHALL BECOME ONE FLESH… WHY DID HE ALLOW MEN IN THE OLD TESTAMENT TO HAVE MULTIPLE WIVES?",
-      "date": "2026-11-09T16:53:11+00:00",
+      "id": "29637305345853823",
+      "title": "THEY TOLD YOU TO SOW A SEED… BUT DID JESUS EVER TELL YOU TO BUY A MIRACLE?",
+      "date": "2026-11-09T22:23:50+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TbhMZpowyn7DtmsTiZ1oG1a8S1pvSy9SuEXbzu6LV23ocVdsE9641iMDFacdaYiWl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0AfgNpfsbvSMTpq9ZjyhczgRsZodeizCno5yPHdbiN95pmtqXK5QGd457CgGBk5JAl"
     },
     {
-      "id": "29633775956206762",
-      "title": "SHE RECEIVED A GOLD NOSE RING AND BRACELETS BEFORE SHE EVER MET THE MAN SHE WOULD MARRY… BUT THE REAL MIRACLE WAS WHAT GOD SAW WHEN NOBODY WAS WATCHING.",
-      "date": "2026-11-09T16:40:29+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UHfUTWejCVZLfewZNXUDjqvZfZjHtmvKjwS3gE9WyLjNWv84uS9Ai5ij3UpUaa7l"
+      "id": "29637229442528080",
+      "title": "THE WOMEN WHO SPUN GOAT HAIR FOR GOD—AND THE FORGOTTEN TRUTH THAT COULD CHANGE HOW YOU SEE YOUR OWN LIFE",
+      "date": "2026-11-09T22:15:22+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02FKkm2eS6M76CQg83b8tK9CTiuNbUPjeQe8vyhgHmfMKuGjNgoRwPH363PcfsUKhpl"
     },
     {
-      "id": "29632935392957485",
-      "title": "SHE WAS BARREN FOR 20 YEARS. THEN HER HUSBAND PRAYED—AND GOD ANSWERED WITH TWO CHILDREN WHO WOULD STRUGGLE BEFORE THEY WERE EVEN BORN.",
-      "date": "2026-11-09T15:34:34+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jdjE4XEWYUbYhSSJ9NyJWcoGCM8NrcfSEw7wC7ABHKGkck27fzE3bdhSDeAGQ9QSl"
-    },
-    {
-      "id": "29632845209633170",
-      "title": "THE KING PAID SILVER TO THE HUSBAND WHO LIED ABOUT HIS WIFE—BUT THE MOST SHOCKING PART IS WHAT GOD DID NEXT",
-      "date": "2026-11-09T15:27:33+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07RQDS353aGoLFoVTGbNoiqsNDMGBUfG6QmCe6UcZ5Jti8VFr4Np7XdiNvmKT9fE9l"
-    },
-    {
-      "id": "29632763456308012",
-      "title": "THE KING WENT TO SLEEP WITH ANOTHER MAN’S WIFE UNDER HIS ROOF… THEN GOD TOLD HIM HE WAS A DEAD MAN.",
-      "date": "2026-11-09T15:21:12+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Pk2t7YDMFRqrqNv9rw4wh2s5eBavP48Af9dZLRived7j6ZoAXsHnfdiGGR7A7xgbl"
-    },
-    {
-      "id": "29632679072983117",
-      "title": "SHE WAS SO BEAUTIFUL HER HUSBAND THOUGHT MEN WOULD MURDER HIM TO HAVE HER… SO HE HANDED HER OVER TO ANOTHER MAN.",
-      "date": "2026-11-09T15:14:35+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid01JaShZwHJRZnjb3PPi5asyVBXnvEDAGutuQQ4Hj2wEsSskVicWBN26g4GZ3eu2n8l"
-    },
-    {
-      "id": "29632505789667112",
-      "title": "GOD SAW WHAT NOBODY ELSE COULD SEE… AND WHAT HE FOUND IN THE HUMAN HEART BROKE HIS HEART",
-      "date": "2026-11-09T15:01:05+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zWvdkQfANxcdXoffyAieRXcGQ6PRg4nFi84v1uZarZFsj5FBjNTmdVHSzZ6BdgBMl"
-    },
-    {
-      "id": "29632150729702618",
-      "title": "THE BIBLE SAYS THEY TOOK WHICHEVER WOMEN THEY WANTED—AND THEN GOD SAW WHAT THE WORLD HAD BECOME.",
-      "date": "2026-11-09T14:32:07+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0NcBRkZ1Qsi2fKDGwZuuSiDsPx6wqtSWWjw1XrU99BTfxC5mo4iXoFvKDCrz4GkB9l"
-    },
-    {
-      "id": "29632064676377890",
-      "title": "SOLOMON HAD 700 WIVES, 300 CONCUBINES… AND WISDOM FROM GOD. SO HOW DID THE WISEST KING BECOME A FOOL?",
-      "date": "2026-11-09T14:24:38+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid08dd6aMN8Wj7JvjHcKvp3AHRMXCuuGWkHcJJqwpiUAZjqGhv1xkj8Riib5rBdjnUJl"
-    },
-    {
-      "id": "29631987356385622",
-      "title": "JESUS SAID HE DIDN’T COME TO BRING PEACE—HE CAME WITH A SWORD. AND THE TRUTH BEHIND THOSE WORDS MAY SHAKE EVERYTHING YOU THOUGHT YOU KNEW ABOUT FOLLOWING HIM.",
-      "date": "2026-11-09T14:17:45+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wRbuBdPDzaT9vbRNiWFbxsC6WgHtsYuqoDy1nyNmcvxcQWWpacKtpYTYg5RkeYAXl"
-    },
-    {
-      "id": "29631833803067644",
-      "title": "THE DEADLY DANGER GOD SAW ON YOUR ROOF: WHY WOULD HE COMMAND A WALL AROUND A HOUSE?",
-      "date": "2026-11-09T14:03:59+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02H7it2MJSKJm4jz3ESFFCKgd61pjyJZeRdZSvR4qamtFCFVUqw1N3jQto2tCx4TT1l"
-    },
-    {
-      "id": "29631765579741133",
-      "title": "JESUS IS KING… BUT WHAT HAPPENS WHEN THE KING YOU WORSHIP REFUSES TO LET YOUR SIN REMAIN ON THE THRONE?",
-      "date": "2026-11-09T13:58:00+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oEkrkRo9SdfTUStb6iXPUtGwLvtzMtc6aEvqfWgLcRPqgRUGTRa9GcbSwmSH6E1jl"
-    },
-    {
-      "id": "29631681653082859",
-      "title": "IF JESUS ALREADY DIED FOR YOUR SINS, WHY IS HE STILL PLEADING FOR YOU IN HEAVEN?",
-      "date": "2026-11-09T13:50:40+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hyBofN3js6fiEiCSDjXL2wFUPL99BEVuocpuQWfEoeuYiXmEBzWmmnYZKg5cmzWyl"
-    },
-    {
-      "id": "29631340136450344",
-      "title": "IF JESUS IS THE ONLY WAY TO HEAVEN, WHAT HAPPENS TO EVERYONE WHO DOESN’T BELIEVE IN HIM?",
-      "date": "2026-11-09T13:18:31+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022XZc45cdJr4Qp8ZYz2GbRw8BXobqGdXKwgVG34s3yNZtooXCAnjD8J7cKNhzvE6Al"
-    },
-    {
-      "id": "29631200349797656",
-      "title": "RACHEL GAVE HER HUSBAND ANOTHER WOMAN… BUT THE REAL REASON WILL BREAK YOUR HEART",
-      "date": "2026-11-09T13:05:31+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gWmYDvY7fgt3uzYuvodvmdvdw3AMPExy6SeTgxXUDK9a2CYYWwnPw6CPkWb9G2JHl"
-    },
-    {
-      "id": "29631074226476935",
-      "title": "IS MASTURBATION REALLY A SIN… OR HAVE CHRISTIANS BEEN CONDEMNING SOMETHING THE BIBLE NEVER ACTUALLY FORBIDS?",
-      "date": "2026-11-09T12:53:39+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RMdLeSvNHwZZaQZoHfLE3JKBDX1i7dTecM9Fv6rusLSEYL9ZUs1CtgVSn2nwwja6l"
-    },
-    {
-      "id": "29630985826485775",
-      "title": "THE FIRST MAN IN THE BIBLE TO TAKE TWO WIVES ALSO BRAGGED ABOUT KILLING A MAN—AND HIS WORDS EXPOSE SOMETHING TERRIFYING ABOUT THE HUMAN HEART",
-      "date": "2026-11-09T12:45:14+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WENVFw2iQpZGRT6QGs8ipuxFH2tL9bafoMSRhYRen5KRjFv2mqm8JGnccFD9h583l"
-    },
-    {
-      "id": "29630902629827428",
-      "title": "THE WOMAN JESUS CALLED “JEZEBEL”: THE SIN A CHURCH LEARNED TO TOLERATE—UNTIL CHRIST HIMSELF CONFRONTED IT",
-      "date": "2026-11-09T12:37:25+00:00",
+      "id": "29637149275869430",
+      "title": "YOUR PASTOR SAID GOD WILL STOP PROTECTING YOU IF YOU LEAVE THE CHURCH. BUT DID JESUS EVER SAY THAT?",
+      "date": "2026-11-09T22:07:10+00:00",
       "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Cyu4rWoX3iAoijphdDqhXT4q3yUUBubqkD5D7v7STwqHDDsFup9R8ambR4wc1cH5l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HvFL19Mh577PtyWx2FoxhY13kCgyJRLArS5tZe9fyZTHnTQAVULTuFLnrkU2ANWzl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-09T18:44:34Z",
-  "discovered": 21,
-  "processed": 21,
-  "discoveredLastRun": 21,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-10T02:03:49Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29634073349510356",
-    "title": "THE WOMEN AT GOD’S DOOR: THE SHOCKING CONNECTION BETWEEN A SACRED MIRROR, A CORRUPT PRIESTHOOD, AND THE JESUS WHO SEES THE FORGOTTEN",
-    "date": "2026-11-09T17:05:34+00:00"
+    "id": "29637429755841382",
+    "title": "WAS MONOGAMY REALLY GOD’S ORIGINAL DESIGN—OR DID CHRISTIANS PUT WORDS INTO GENESIS THAT GOD NEVER SAID?",
+    "date": "2026-11-09T22:37:24+00:00"
   },
-  "lastImportCount": 21,
-  "lastImportAt": "2026-11-09T18:45:55Z",
+  "lastImportCount": 4,
+  "lastImportAt": "2026-11-10T02:04:40Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10092,
+  "structuredMetadata": 10096,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-53eb10725d1e3b78ebd1637efdeb5846d51ee7cf9370c47e4a8f1cd01610ec02",
-  "statusGeneratedAt": "2026-11-09T18:45:55Z"
+  "contentRevision": "sha256-cd4d01950e0541d7bf5b16ad79d645aef24dc3a6e156ad21705686590c83e207",
+  "statusGeneratedAt": "2026-11-10T02:04:40Z"
 }
