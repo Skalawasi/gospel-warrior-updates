@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 14 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-10T17:47:49Z",
-  "lastSuccess": "2026-11-10T17:47:49Z",
+  "lastCheck": "2026-11-10T23:16:28Z",
+  "lastSuccess": "2026-11-10T23:16:28Z",
   "currentTotal": 10110,
   "totalWords": 17287534,
   "subjects": 17,
-  "addedLastRun": 14,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29648557918061899",
@@ -111,11 +111,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-10T17:46:44Z",
+  "lastCheckStarted": "2026-11-10T23:16:08Z",
   "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29648557918061899",
     "title": "HE SAW AN ANGEL AND THOUGHT GOD WAS GOING TO KILL HIM—BUT HIS WIFE SPOKE ONE SENTENCE THAT CHANGED EVERYTHING",
@@ -131,5 +131,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-997a30db8efc6677aafadc2dd7a3b18f06021edff32fd02145ab1463ed78e441",
-  "statusGeneratedAt": "2026-11-10T17:47:49Z"
+  "statusGeneratedAt": "2026-11-10T23:16:28Z"
 }
