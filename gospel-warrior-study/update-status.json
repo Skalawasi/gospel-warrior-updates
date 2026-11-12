@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 10 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-12T18:17:00Z",
-  "lastSuccess": "2026-11-12T18:17:00Z",
+  "lastCheck": "2026-11-12T23:40:28Z",
+  "lastSuccess": "2026-11-12T23:40:28Z",
   "currentTotal": 10136,
   "totalWords": 17406880,
   "subjects": 17,
-  "addedLastRun": 10,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29679117685005922",
@@ -83,11 +83,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-12T18:16:09Z",
+  "lastCheckStarted": "2026-11-12T23:40:10Z",
   "discovered": 10,
-  "processed": 10,
-  "discoveredLastRun": 10,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29679117685005922",
     "title": "WHEN INJUSTICE FILLS THE STREETS, SHOULD CHRISTIANS STAND UP OR STAY SILENT?",
@@ -103,5 +103,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-95825e611e51091ea038d68b4b04ff361760b1746f72147490f599af35f9e99d",
-  "statusGeneratedAt": "2026-11-12T18:17:00Z"
+  "statusGeneratedAt": "2026-11-12T23:40:28Z"
 }
