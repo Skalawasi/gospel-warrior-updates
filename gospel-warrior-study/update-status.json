@@ -1,135 +1,149 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 16 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-11T18:40:45Z",
-  "lastSuccess": "2026-11-11T18:40:45Z",
-  "currentTotal": 10110,
-  "totalWords": 17287534,
+  "lastCheck": "2026-11-12T01:31:42Z",
+  "lastSuccess": "2026-11-12T01:31:42Z",
+  "currentTotal": 10126,
+  "totalWords": 17358954,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 16,
   "recentAdded": [
     {
-      "id": "29648557918061899",
-      "title": "HE SAW AN ANGEL AND THOUGHT GOD WAS GOING TO KILL HIM—BUT HIS WIFE SPOKE ONE SENTENCE THAT CHANGED EVERYTHING",
-      "date": "2026-11-10T16:33:32+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WGmtYruxWq5NNHGUZufQnrgaWef31FnrQAAVCmtXSqqSQR2Meewh5CC83u6a52cfl"
-    },
-    {
-      "id": "29648437388073952",
-      "title": "THE ANGEL CAME TO THE WOMAN EVERYONE THOUGHT HAD NOTHING LEFT TO GIVE",
-      "date": "2026-11-10T16:22:50+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VoMz2kqRekew8HWEWEGxPKnXK5pd44iFzGHmRHDddkcrsiQUxKvhFZXP2yRvn7otl"
-    },
-    {
-      "id": "29648321321418892",
-      "title": "THE SCARLET CORD: THE WOMAN EVERYONE KNEW BY HER SIN—BUT GOD REMEMBERED BY HER FAITH",
-      "date": "2026-11-10T16:12:36+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032VhtWeXPw4YLU4UmXadWGHQ27hvYFBiT3r1XGkUrpbFsm1K2qoqg5Qgb87yTVG6nl"
-    },
-    {
-      "id": "29648009928116698",
-      "title": "GOD FORBADE HIM FROM TAKING HIS FORMER WIFE BACK… BUT THE REASON REVEALS SOMETHING HEARTBREAKING ABOUT LOVE, SIN, AND GRACE",
-      "date": "2026-11-10T15:45:47+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025qfTqoqJ9jeFpX1ghjeSwzB5ug9751T3p2QpnG3e6XCsc47McURh2xzD16k47ycxl"
-    },
-    {
-      "id": "29647937911457233",
-      "title": "SHE WALKED AWAY WITH A DIVORCE CERTIFICATE… BUT WHO WOULD GIVE HER BACK HER FUTURE?",
-      "date": "2026-11-10T15:39:42+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03a4q2pH2u2E8BUTgm5r3jKGVgaL2eG5giAgBXARQQeBrXrCqop2syaptkMFJk4DHl"
-    },
-    {
-      "id": "29647862524798105",
-      "title": "MOSES SAW A DANGER MOST PARENTS NEVER NOTICE—UNTIL THEIR CHILDREN NO LONGER WANT GOD",
-      "date": "2026-11-10T15:33:13+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0iEb1YQ1E397AktgSzNnU5NzegV3pbohHgnfCrkaJuJQCGAHJZMetYobpxLwEomr8l"
-    },
-    {
-      "id": "29647625418155149",
-      "title": "HE PICKED UP STICKS ON THE SABBATH—AND GOD COMMANDED HIS EXECUTION. WHAT DID GOD SEE THAT WE DON'T?",
-      "date": "2026-11-10T15:13:14+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jmbNXa7YfATJA8XDVGQLBQcwvW8YQsAnTUWEjnkS1XkKQgPPTB9yxuTUYGGTmXPvl"
-    },
-    {
-      "id": "29647504304833927",
-      "title": "HEAVEN HEARD WHAT YOU PROMISED… EVEN WHEN YOU HOPED GOD HAD FORGOTTEN.",
-      "date": "2026-11-10T15:03:05+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WvZZ2yK3KZ87Spx8AEfav9N3eiukCfxotV9gb1jog37afMwfrxFAaLpU6SqzdDp9l"
-    },
-    {
-      "id": "29647435894840768",
-      "title": "THE SIN SO DISTURBING GOD NAMED IT IN THE BIBLE—AND THE WARNING MOST CHRISTIANS NEVER UNDERSTOOD",
-      "date": "2026-11-10T14:57:12+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nfT1u599ZavbbwyhqbWVUBQ4zH7T1fzTDkw5q7YhKupVGa5jojNADGv4eqouFRxVl"
-    },
-    {
-      "id": "29647307121520312",
-      "title": "GOD FORBADE HIM FROM TOUCHING HIS OWN SISTER—EVEN WHEN THEY HAD DIFFERENT MOTHERS. BUT THE REASON GOES DEEPER THAN YOU THINK.",
-      "date": "2026-11-10T14:46:20+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032Deng6DdJZtBsNMFaCYioTdAcSHFTmxa3C6ZSsAEhbjCwYRZhPnRn1gMk21uPzTnl"
-    },
-    {
-      "id": "29647242678193423",
-      "title": "THE LAW NAMED A SIN MOST FAMILIES WOULD NEVER DARE SPEAK ABOUT—AND THE REASON WILL CHANGE HOW YOU READ THE BIBLE",
-      "date": "2026-11-10T14:40:56+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02U41rngSa8N567rbtSBDcNA1UZhUP7y5d1zk5ny8FqT6LGSLcZbB3X5JnrkwwNmqxl"
-    },
-    {
-      "id": "29647159058201785",
-      "title": "GOD FORBADE A MAN FROM SLEEPING WITH A WOMAN AND HER DAUGHTER—BUT THE REASON GOES DEEPER THAN SEX",
-      "date": "2026-11-10T14:33:56+00:00",
+      "id": "29667382389512785",
+      "title": "DOES 1 CORINTHIANS 7 GIVE YOUR SPOUSE THE RIGHT TO DEMAND SEX?",
+      "date": "2026-11-11T22:40:03+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031vqJHeMEVZ9oFSMzhCTQW4WKRyMH4PAna1C1e4Krr3VGKtKnbb4dt2ewDxVoF4DHl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vp12hGFzsAwNRPzaWpU1ZfmS2qF5uzrWTWE9rNyqcZwj95mW1zmvPCsF79esgH7el"
     },
     {
-      "id": "29647085838209107",
-      "title": "YOU KEEP SAYING “GOD KNOWS MY HEART”… BUT WHAT IF THAT’S EXACTLY WHAT SHOULD TERRIFY YOU?",
-      "date": "2026-11-10T14:28:03+00:00",
+      "id": "29667236366194054",
+      "title": "THEY GAVE AN OFFERING… AND NEVER WALKED OUT ALIVE.",
+      "date": "2026-11-11T22:24:56+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bZf38pFvW9L39dVZZmS4HpkPfQ6wyb3BNzYLvQmrvsZE6anVRZVwvMTgXFHSsUbCl"
+    },
+    {
+      "id": "29663945179856506",
+      "title": "Nobody knew she had been carrying an accusation someone had made against her family.",
+      "date": "2026-11-11T17:09:19+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021hHyACwYVEMkrvDt2Z9RUs9mdr6bBPr9ga9gKYwNVqWguDdCLajx4gcgxWJShbRfl"
+    },
+    {
+      "id": "29663775869873437",
+      "title": "THEY CAME HOME FROM WAR… BUT SOME ARE STILL FIGHTING BATTLES NOBODY CAN SEE.",
+      "date": "2026-11-11T16:55:04+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0F9GmBeWzVf5nSeWNb7BnuvrMbwhJusxo8zQQo5dM1c16CBEtbeGapSSCEtKnpXqPl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02smWz5kcCctmSD9LBGyCh7cHLuNB3iLeSdLbVBgRYz9hBPVznfukGZ8H6Zt65TJnWl"
     },
     {
-      "id": "29646963684887989",
-      "title": "THEY DIED WITHOUT JESUS… IS IT TOO LATE TO PRAY FOR THEIR SALVATION?",
-      "date": "2026-11-10T14:17:46+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wT8byhbAqJPCPzjTPSn1EHoq6zRcG2hdWLXhc8mj1KQjpzpk3TUaE8pHLRmBdAoCl"
+      "id": "29663405776577113",
+      "title": "SHE DIED GIVING BIRTH TO A CHILD SHE NAMED “THE GLORY HAS DEPARTED”—BUT THAT WAS NOT THE END OF GOD’S STORY",
+      "date": "2026-11-11T16:24:22+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BqHEBNS8q4iCLy1XHKjufFFQi7tdPLXfDSTK7HeKQ1W97bTpPjPTVL6mdhu5Pumml"
+    },
+    {
+      "id": "29663268069924217",
+      "title": "SHE GAVE BIRTH WHILE HER WORLD WAS DYING… AND THE NAME SHE GAVE HER BABY REVEALED A TERRIFYING TRUTH",
+      "date": "2026-11-11T16:12:26+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04Qfcgi43YBYzW785S8nV2sNZiuQBXf2RucwWqwFZU7FWdEioy6jzPyM6CShvq1YKl"
+    },
+    {
+      "id": "29663114919939532",
+      "title": "THE RICH MAN WENT TO HELL… BUT THE POOR MAN’S NAME WAS THE ONE HE NEVER FORGOT",
+      "date": "2026-11-11T15:59:24+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HY5YAUReHvusH3bfENEMxNkN5Naw3fNaLFkb84M4dgP3Va8Hyz2QA8oUHbvPGAxEl"
+    },
+    {
+      "id": "29663032859947738",
+      "title": "HE TOLD HIS WORKERS TO DROP THE GRAIN ON PURPOSE… BUT THE POOR WIDOW HAD NO IDEA WHO WAS WATCHING HER.",
+      "date": "2026-11-11T15:52:22+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PsF59qqwUQNupZHEkdPkuSTtDZzQeF8dgr1aU5u7EC4KsxWybd7g6YFCoQCGt9jfl"
+    },
+    {
+      "id": "29662571933327164",
+      "title": "SHE BURIED HER HUSBAND. THEN BOTH HER SONS. AND WHEN SHE FINALLY CAME HOME, SHE ASKED PEOPLE TO STOP CALLING HER BY HER NAME.",
+      "date": "2026-11-11T15:12:52+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02raiSv58BkMyHyBhW4REGgfohezgDWXoTQWkqFb8Aip898xHmuL12d7sk21mDsdvkl"
+    },
+    {
+      "id": "29662402850010739",
+      "title": "HE TORE A LION APART WITH HIS BARE HANDS… BUT WHAT HE FOUND INSIDE ITS DEAD BODY WAS EVEN MORE SHOCKING.",
+      "date": "2026-11-11T14:58:42+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029SUUdnAasabUiG5b12Kk185cb6XK1prihSFzCp2sdR6NXZBxRVAwSu1gzonSZrEVl"
+    },
+    {
+      "id": "29662264613357896",
+      "title": "BEFORE SAMSON WAS BORN, GOD GAVE HIS MOTHER A WARNING THAT WOULD CHANGE EVERYTHING",
+      "date": "2026-11-11T14:46:56+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02syXmdHGWafR4xMKrbX7QbTWws35gYQjoSPYXxJXeBZC3uPTULCGAzFBCPcLA2BiGl"
+    },
+    {
+      "id": "29662043076713383",
+      "title": "YOUR WIFE HASN’T WANTED SEX IN MONTHS. ARE YOU WRONG FOR FEELING REJECTED?",
+      "date": "2026-11-11T14:28:24+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02peLa1XW6TLUQE5FerVqehLuAjE4s18ip39Udyh4EjBPPMPzTZmFCXz3d1vRygrPql"
+    },
+    {
+      "id": "29661974980053526",
+      "title": "YOUR HUSBAND WANTS SEX EVERY NIGHT. YOU'RE EXHAUSTED. DOES GOD REALLY EXPECT YOU TO SAY YES?",
+      "date": "2026-11-11T14:22:45+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02iycfmVkU4bHMjoe2NZGELWqU7itHsrSYdWoYXaVo5ooWiUv5q1GgeXsupcLfNYiTl"
+    },
+    {
+      "id": "29661882176729473",
+      "title": "HE STOLE ANOTHER MAN’S WIFE, ARRANGED HER HUSBAND’S DEATH, AND STILL CALLED HIMSELF A MAN OF GOD",
+      "date": "2026-11-11T14:15:03+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02G7JAXdSKA5huzTmrpHLthqJszzLUmpE6XoTjRyZpCAxGNVpJWoervkV8WAtWfNqal"
+    },
+    {
+      "id": "29661790396738651",
+      "title": "JESUS KNEW JUDAS WOULD BETRAY HIM. SO WHY DID HE LET HIM STAY?",
+      "date": "2026-11-11T14:07:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0moRz1V7UD34cm7KCMbBzYx74YG1RirZbf1d6irkFJcy3j2XoLxh85BnCkFibPg8Vl"
+    },
+    {
+      "id": "29660776933506664",
+      "title": "THE CHURCH RECEIVED A MILLION-DOLLAR DONATION. BUT WHAT IF THE MONEY CAME FROM THE TEARS OF THE POOR?",
+      "date": "2026-11-11T12:42:14+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SquMu3BTnqQ1etPsX4mArUaWGpZf1Wj8G4eGtfQeLH8Ne6L1dffm1uxbk8fNRrMrl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-11T18:40:19Z",
-  "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
+  "lastCheckStarted": "2026-11-12T01:30:29Z",
+  "discovered": 16,
+  "processed": 16,
+  "discoveredLastRun": 16,
   "pagesScanned": 2,
   "latest": {
-    "id": "29648557918061899",
-    "title": "HE SAW AN ANGEL AND THOUGHT GOD WAS GOING TO KILL HIM—BUT HIS WIFE SPOKE ONE SENTENCE THAT CHANGED EVERYTHING",
-    "date": "2026-11-10T16:33:32+00:00"
+    "id": "29667382389512785",
+    "title": "DOES 1 CORINTHIANS 7 GIVE YOUR SPOUSE THE RIGHT TO DEMAND SEX?",
+    "date": "2026-11-11T22:40:03+00:00"
   },
-  "lastImportCount": 14,
-  "lastImportAt": "2026-11-10T17:47:49Z",
+  "lastImportCount": 16,
+  "lastImportAt": "2026-11-12T01:31:42Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10110,
+  "structuredMetadata": 10126,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-997a30db8efc6677aafadc2dd7a3b18f06021edff32fd02145ab1463ed78e441",
-  "statusGeneratedAt": "2026-11-11T18:40:46Z"
+  "contentRevision": "sha256-fec59fd8f1882fd77f2009012d029125b02e89d459422bf6ee141ece590a6ff6",
+  "statusGeneratedAt": "2026-11-12T01:31:42Z"
 }
