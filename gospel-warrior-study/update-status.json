@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 16 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-12T01:31:42Z",
-  "lastSuccess": "2026-11-12T01:31:42Z",
+  "lastCheck": "2026-11-12T09:46:53Z",
+  "lastSuccess": "2026-11-12T09:46:53Z",
   "currentTotal": 10126,
   "totalWords": 17358954,
   "subjects": 17,
-  "addedLastRun": 16,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29667382389512785",
@@ -125,11 +125,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-12T01:30:29Z",
+  "lastCheckStarted": "2026-11-12T09:46:41Z",
   "discovered": 16,
-  "processed": 16,
-  "discoveredLastRun": 16,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29667382389512785",
     "title": "DOES 1 CORINTHIANS 7 GIVE YOUR SPOUSE THE RIGHT TO DEMAND SEX?",
@@ -145,5 +145,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-fec59fd8f1882fd77f2009012d029125b02e89d459422bf6ee141ece590a6ff6",
-  "statusGeneratedAt": "2026-11-12T01:31:42Z"
+  "statusGeneratedAt": "2026-11-12T09:46:54Z"
 }
