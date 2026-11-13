@@ -1,93 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 24 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-13T06:39:06Z",
-  "lastSuccess": "2026-11-13T06:39:06Z",
-  "currentTotal": 10144,
-  "totalWords": 17443082,
+  "lastCheck": "2026-11-13T15:22:41Z",
+  "lastSuccess": "2026-11-13T15:22:41Z",
+  "currentTotal": 10168,
+  "totalWords": 17550891,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 24,
   "recentAdded": [
     {
-      "id": "29684722391112118",
-      "title": "HE WALKED AWAY WITH SILVER AND DESIGNER CLOTHES… BUT CAME HOME CARRYING A CURSE.",
-      "date": "2026-11-13T02:53:35+00:00",
+      "id": "29690979630486394",
+      "title": "HE CALLED FIRE DOWN FROM HEAVEN… THEN BEGGED GOD TO LET HIM DIE. WHAT BROKE ELIJAH AFTER HIS GREATEST VICTORY?",
+      "date": "2026-11-13T12:50:54+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HhMzaArgtFLchBLkNyzLAKjUiMYcUt9N7mZraMheSEnQaFXWk2JR5YHRopYjyGxel"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jTMgmuGgpa4s6sCMduVxXg5qkTFdaJshxjHSxGqJEwpmw3tvEjg4tJg9NHQyZaAil"
     },
     {
-      "id": "29684650077786016",
-      "title": "HE CAME WITH GOLD, HORSES, AND POWER—BUT GOD TOLD HIM TO WASH IN A DIRTY RIVER.",
-      "date": "2026-11-13T02:46:48+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09WQckmWqQKsBwNzGr9q4ERY3oXxseeHkum9vzR2NW3EwM6incxb1zkB9jTfX5bBRl"
-    },
-    {
-      "id": "29684575774460113",
-      "title": "SHE WAS AFRAID TO HOPE AGAIN… THEN A PROPHET SPOKE THE ONE PROMISE HER HEART COULDN’T BEAR TO HEAR.",
-      "date": "2026-11-13T02:39:53+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02d8dQQtLE5gt7PSe6xLaTTXn1tJY7J8nwsK3mntHpzzVG8we35Zm8z8zNN8bQXM2Dl"
-    },
-    {
-      "id": "29684368687814155",
-      "title": "HE TASTED A LITTLE HONEY… AND HIS OWN FATHER SENTENCED HIM TO DIE.",
-      "date": "2026-11-13T02:20:45+00:00",
+      "id": "29690595913858099",
+      "title": "DAVID REPENTED. GOD FORGAVE HIM. SO WHY DID HIS INNOCENT CHILD STILL DIE?",
+      "date": "2026-11-13T12:19:21+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02789Uey7zf4cCd2zzJDVwomEKeWYHieTgNU2Xi6yLgLBZRzDCu8oYn88TPnM6kbqBl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kQBRWQWT2ExrP4iSokJ6AFyY6M4J5TRpr2sxwKCAkSoRMkY4FMfmtghbcTjWwSmml"
     },
     {
-      "id": "29684035641180793",
-      "title": "WHAT IF ANGELS HAVE BEEN HELPING YOU… AND YOU NEVER KNEW IT?",
-      "date": "2026-11-13T01:49:34+00:00",
+      "id": "29690434640540893",
+      "title": "GOD REJECTED SAUL FOR DISOBEDIENCE… BUT DAVID COMMITTED ADULTERY AND MURDER. WHY DID GOD KEEP HIS PROMISE TO DAVID?",
+      "date": "2026-11-13T12:05:50+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EqUJd6WsFxj5kxacMJyTzf2Pmujh7NPJts2a8cSDQLtjyCdxeNRPDEhpDPZ5ovZBl"
+    },
+    {
+      "id": "29690218880562469",
+      "title": "GOD KEPT USING SAMSON… EVEN WHILE SAMSON KEPT DESTROYING HIMSELF. WHY?",
+      "date": "2026-11-13T11:47:35+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TX7U6ix22eCUsXyW5jPMBVDY495BfkkLTD3FqUCcnanWJRUQRHuNdt8bSU7TPuDkl"
+    },
+    {
+      "id": "29689975403920150",
+      "title": "HE PROMISED GOD A SACRIFICE… THEN HIS ONLY DAUGHTER WALKED THROUGH THE DOOR",
+      "date": "2026-11-13T11:25:53+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vULxhEwq2ifmghTkYy1e3AZFLzjPRYSnWBtb5LxBqsdAaULK4uN1SgXoWSqx7EzZl"
+    },
+    {
+      "id": "29689879467263077",
+      "title": "HE WAS TRYING TO SAVE THE ARK. SO WHY DID GOD STRIKE HIM DEAD?",
+      "date": "2026-11-13T11:16:58+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UGgky7otmRrK413mbnCnFdUWGJYm7XroU4XD8SsrEMzZQnVqdG78NQvs5sv4aBGhl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0K4RwiuHX2HqF1sLnJ36nBZJYbBo69JVjbMkLboqHUooh8s4kDsarr7sP9uGKdaYol"
     },
     {
-      "id": "29683953701188987",
-      "title": "IS GOD REALLY COMMANDING YOU TO KEEP THE SABBATH—OR ARE YOU CARRYING A BURDEN JESUS NEVER PLACED ON YOU?",
-      "date": "2026-11-13T01:41:41+00:00",
+      "id": "29689626930621664",
+      "title": "MOSES LED MILLIONS TOWARD THE PROMISED LAND… SO WHY DID GOD REFUSE TO LET HIM ENTER?",
+      "date": "2026-11-13T10:54:25+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WwmMRNp4jPdGVyxM7AsdRZcgjuzf1GhcJZ2Er1jtEpepu3CLvFSVR5r5DtyiaJFel"
+    },
+    {
+      "id": "29689540050630352",
+      "title": "GOD HARDENED PHARAOH’S HEART… THEN PUNISHED HIM FOR IT. HOW IS THAT JUST?",
+      "date": "2026-11-13T10:46:39+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hAzZuozaMws7swW8dchQaNE7MbvykRDNsEXu1dQn1Hnn15W1NcA4UPonLCguLfcMl"
+    },
+    {
+      "id": "29689435810640776",
+      "title": "HE HAD THE POWER TO DESTROY THE BROTHERS WHO BETRAYED HIM. INSTEAD, JOSEPH DID SOMETHING THAT BROKE THEM.",
+      "date": "2026-11-13T10:37:31+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02rVFmDB2ZAhM5NKsUw1KQvHRzVggbnKBNJUvuJpePvs2AVHwKsTbqFLwWcLrhmqk7l"
+    },
+    {
+      "id": "29689132547337769",
+      "title": "JACOB STOLE HIS BROTHER’S BLESSING… SO WHY DID GOD LET HIM KEEP IT?",
+      "date": "2026-11-13T10:08:56+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028KVgjfNtAuhgccT4Mjtetqt4rVysPoUMgqnPHZyBjR13oH7M4mdoiQwjjTKcLVapl"
+    },
+    {
+      "id": "29688905607360463",
+      "title": "GOD SHATTERED THEIR UNITY AT BABEL… BUT WHY? THE TERRIFYING TRUTH ABOUT WHAT HAPPENS WHEN HUMANITY TRIES TO REACH HEAVEN WITHOUT HIM",
+      "date": "2026-11-13T09:46:45+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022JTejAtGwWHxWZFuEzbTFsmPPh7zp9bPezqph6yjNz9kNy8pqvNRVWcUfNYiE2iTl"
+    },
+    {
+      "id": "29688649240719433",
+      "title": "NOAH’S DARKEST FAMILY SCANDAL: WHY DID GOD’S RIGHTEOUS SERVANT CURSE CANAAN WHEN HAM WAS THE ONE WHO SINNED?",
+      "date": "2026-11-13T09:21:35+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xvRmA9VigHLbwe6tPBMoCtyPMkShygpbBLi8DGwpEvFifce9fse8ycanc6Yt1CyCl"
+    },
+    {
+      "id": "29688519917399032",
+      "title": "GOD REJECTED CAIN’S OFFERING… BUT THE REAL REASON IS MORE TERRIFYING THAN YOU THINK",
+      "date": "2026-11-13T09:09:45+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0i4S2gVNb4DqJaspRy7kMZ3huwEu381KRbr5rVrRcQJ18mHHxMZRoALLdB88e9rCrl"
+    },
+    {
+      "id": "29688459904071700",
+      "title": "IF GOD KNEW THEY WOULD EAT THE FORBIDDEN FRUIT, WHY DID HE PUT THE TREE THERE?",
+      "date": "2026-11-13T09:03:58+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021zL9kHxazYZGrhDuWcPpnou6cexNjwF8qgMQjF7DNE4TqaK5KTkN2NmsspKaaW7al"
+    },
+    {
+      "id": "29688374730746884",
+      "title": "IF YOU DISAGREE ABOUT MARY, ARE YOU REALLY DISAGREEING ABOUT JESUS?",
+      "date": "2026-11-13T08:55:33+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02k21XL3Q38YgQ9mjnuj1pnG2eb61LTUozAza48FhwF2k63MNc73WMv6xeFQ9P6U7ql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07j6Ud3Y3AfYhwvZ42xmJ56xtbHbKMazZMaapAwqviou9d6hvQaKcvK9k8ZPr397Ql"
     },
     {
-      "id": "29683854374532253",
-      "title": "“GOD, IF YOU DO THIS FOR ME, I PROMISE…” — THE DANGEROUS PRAYER EVEN SINCERE CHRISTIANS SOMETIMES GET WRONG",
-      "date": "2026-11-13T01:32:08+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SUiaWC3PNMnv2LJnLHp4CL2dM4Bf1VJrNuKhWUVx8z7ripHa77KTpoyMZugRqzMUl"
-    },
-    {
-      "id": "29683753111209046",
-      "title": "THEY BOTH LOVE JESUS. THEY BOTH BELIEVE THE BIBLE. SO WHY ARE THEY CALLING EACH OTHER UNFAITHFUL?",
-      "date": "2026-11-13T01:22:31+00:00",
+      "id": "29688208954096795",
+      "title": "ROMAN CENTURION UNDERSTOOD THAT GOD’S OWN PEOPLE WERE MISSING",
+      "date": "2026-11-13T08:38:59+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026NgUJJjhAU5LfkNZEL3w4nz1fZGCDEQK1UKUbJj3tj8jL1VKKamurGKgRs9sKstEl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SR1DVJP3oSimJkZKD6SCB9zVZUuwLEKm2DXEsAyXokhsRfJb9PxoEfYjpoUeMFodl"
+    },
+    {
+      "id": "29688145784103112",
+      "title": "SHE WAS USED, MISTREATED, AND LEFT IN THE WILDERNESS… BUT GOD CALLED HER BY NAME.",
+      "date": "2026-11-13T08:32:34+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HohNmvdcjAbwruPKcNMg2KxqJubTw3oZM23sNBNwPMAvgg9cuCwABNV8ixqMzDaKl"
+    },
+    {
+      "id": "29687965377454486",
+      "title": "GOD CALLED HIM A MIGHTY WARRIOR WHILE HE WAS HIDING IN FEAR—AND THE REASON HE CHOSE GIDEON MIGHT BREAK SOMETHING INSIDE YOU",
+      "date": "2026-11-13T08:14:16+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0KewYgwnJPZXHP7X3Rzwgj7YiHUqJP18CsJ52HjgVHZhTTkJFGswFGfqDs8BtoQQPl"
+    },
+    {
+      "id": "29687887930795564",
+      "title": "JESUS FORGAVE HIM A DEBT HE COULD NEVER REPAY… THEN HE GRABBED ANOTHER MAN BY THE THROAT.",
+      "date": "2026-11-13T08:06:38+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GZqRRM7kRug7idSG2TGXLmT3RedBzRnysHRBVz43HpBKNU91hrXNmQBUjLDo2d9xl"
+    },
+    {
+      "id": "29687767277474296",
+      "title": "KING SAUL DIDN’T LOSE HIS KINGDOM BECAUSE HE STOPPED BELIEVING IN GOD. HE LOST IT WHILE STILL CLAIMING TO OBEY HIM.",
+      "date": "2026-11-13T07:54:47+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024gcNYJz5VJtrGSoyb1vxxHVJQk4TnoaG1fG4PyV2eTq8cgvDXNQijkqwsh7JzByul"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-13T06:38:05Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-13T15:21:24Z",
+  "discovered": 24,
+  "processed": 24,
+  "discoveredLastRun": 24,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29684722391112118",
-    "title": "HE WALKED AWAY WITH SILVER AND DESIGNER CLOTHES… BUT CAME HOME CARRYING A CURSE.",
-    "date": "2026-11-13T02:53:35+00:00"
+    "id": "29690979630486394",
+    "title": "HE CALLED FIRE DOWN FROM HEAVEN… THEN BEGGED GOD TO LET HIM DIE. WHAT BROKE ELIJAH AFTER HIS GREATEST VICTORY?",
+    "date": "2026-11-13T12:50:54+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-11-13T06:39:06Z",
+  "lastImportCount": 24,
+  "lastImportAt": "2026-11-13T15:22:41Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10144,
+  "structuredMetadata": 10168,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-febdb72f0a1b04a7e9f3634340ba8037b3b56debe6a7170e3fb13efce7eca938",
-  "statusGeneratedAt": "2026-11-13T06:39:06Z"
+  "contentRevision": "sha256-4a57623afc19ac20a43a10f0a5e4fbb8a51e28ad4e54c5badc54ab83d9eea7eb",
+  "statusGeneratedAt": "2026-11-13T15:22:41Z"
 }
