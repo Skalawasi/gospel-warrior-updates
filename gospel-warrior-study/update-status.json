@@ -1,107 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-12T23:40:28Z",
-  "lastSuccess": "2026-11-12T23:40:28Z",
-  "currentTotal": 10136,
-  "totalWords": 17406880,
+  "lastCheck": "2026-11-13T06:39:06Z",
+  "lastSuccess": "2026-11-13T06:39:06Z",
+  "currentTotal": 10144,
+  "totalWords": 17443082,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29679117685005922",
-      "title": "WHEN INJUSTICE FILLS THE STREETS, SHOULD CHRISTIANS STAND UP OR STAY SILENT?",
-      "date": "2026-11-12T17:34:59+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZybFxk7kTLcGvfgsGHDfsNSxZrNg7zscz3papRb1WmQYvCbDJhAqw9CbqMmiR7h5l"
+      "id": "29684722391112118",
+      "title": "HE WALKED AWAY WITH SILVER AND DESIGNER CLOTHES… BUT CAME HOME CARRYING A CURSE.",
+      "date": "2026-11-13T02:53:35+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HhMzaArgtFLchBLkNyzLAKjUiMYcUt9N7mZraMheSEnQaFXWk2JR5YHRopYjyGxel"
     },
     {
-      "id": "29678978531686504",
-      "title": "WHAT IF YOU DIE BELIEVING THE WRONG DOCTRINE—BUT YOU BELONG TO THE RIGHT SAVIOR?",
-      "date": "2026-11-12T17:22:37+00:00",
+      "id": "29684650077786016",
+      "title": "HE CAME WITH GOLD, HORSES, AND POWER—BUT GOD TOLD HIM TO WASH IN A DIRTY RIVER.",
+      "date": "2026-11-13T02:46:48+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02y7M56inpQMANQ2sBpX7e6kWDiwRUT7UuivD2LdyRQShtNrHwxFEjWD2BuHBD7e1Hl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09WQckmWqQKsBwNzGr9q4ERY3oXxseeHkum9vzR2NW3EwM6incxb1zkB9jTfX5bBRl"
     },
     {
-      "id": "29678782368372787",
-      "title": "BEFORE YOU TAKE COMMUNION, THERE IS SOMETHING YOU MUST NOT IGNORE",
-      "date": "2026-11-12T17:06:15+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aLtT3VvuKzW6sAjz4ZAohG4PvMyJprSZgTey5Q3oU9Wy9HCSp3cDCsFqv3Yeb1V7l"
+      "id": "29684575774460113",
+      "title": "SHE WAS AFRAID TO HOPE AGAIN… THEN A PROPHET SPOKE THE ONE PROMISE HER HEART COULDN’T BEAR TO HEAR.",
+      "date": "2026-11-13T02:39:53+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02d8dQQtLE5gt7PSe6xLaTTXn1tJY7J8nwsK3mntHpzzVG8we35Zm8z8zNN8bQXM2Dl"
     },
     {
-      "id": "29678094508441573",
-      "title": "GOD NEVER COMMANDED YOU TO STAY AND BE DESTROYED: THE TERRIFYING TRUTH ABOUT ABUSIVE PASTORS AND SPIRITUAL AUTHORITY",
-      "date": "2026-11-12T16:07:03+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023FwNKf1asajZ3CG7qGy2cPPc5jVu38ZrPhQuZaqqD2jwS7gnwgqZ4gYx8byavf99l"
+      "id": "29684368687814155",
+      "title": "HE TASTED A LITTLE HONEY… AND HIS OWN FATHER SENTENCED HIM TO DIE.",
+      "date": "2026-11-13T02:20:45+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02789Uey7zf4cCd2zzJDVwomEKeWYHieTgNU2Xi6yLgLBZRzDCu8oYn88TPnM6kbqBl"
     },
     {
-      "id": "29677914271792930",
-      "title": "THEY TOLD YOU NOT TO QUESTION THE PREACHER. BUT WHY DID GOD GIVE YOU A BIBLE?",
-      "date": "2026-11-12T15:51:43+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ZEnKNXAFy8zcC3y3rAvdJXuNruW7ELRk5HU2dP14qqyrkdRKAn3CZFssGf3iH2adl"
-    },
-    {
-      "id": "29677826098468414",
-      "title": "JESUS KNEW LAZARUS WOULD LIVE AGAIN… SO WHY DID HE BREAK DOWN AND WEEP?",
-      "date": "2026-11-12T15:44:35+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02hxeEVHqGar9orgAJJ5HghqgzMuaDW1gtockBwA8mSmzdgNmZKiKyGXvEfXVPMiQQl"
-    },
-    {
-      "id": "29677700695147621",
-      "title": "HE BEGGED GOD FOR MERCY… THEN GOT ANGRY WHEN GOD SHOWED MERCY TO SOMEONE ELSE.",
-      "date": "2026-11-12T15:34:03+00:00",
+      "id": "29684035641180793",
+      "title": "WHAT IF ANGELS HAVE BEEN HELPING YOU… AND YOU NEVER KNEW IT?",
+      "date": "2026-11-13T01:49:34+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ze8rDwvrSSyfsAkvX82Z7nHiUiyCTRZ5W5hs9xBFHBjsG2KTj4LRsJ3zFGEdAASZl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UGgky7otmRrK413mbnCnFdUWGJYm7XroU4XD8SsrEMzZQnVqdG78NQvs5sv4aBGhl"
     },
     {
-      "id": "29677415955176095",
-      "title": "PETER WAS AN APOSTLE. PAUL WAS NEWER TO THE FAITH. SO WHY DID PAUL CONFRONT HIM IN FRONT OF EVERYONE?",
-      "date": "2026-11-12T15:10:32+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RvHLQkWHPtmZztJUUvvXtcoUp1u6GvNyqokEYXze9LEBiuLmmcsnKifAHv95eq4tl"
-    },
-    {
-      "id": "29676004075317283",
-      "title": "THOMAS REFUSED TO BELIEVE WITHOUT EVIDENCE—BUT WHAT JESUS DID NEXT SHOULD SHAKE EVERY CHRISTIAN WHO HAS EVER DOUBTED",
-      "date": "2026-11-12T13:17:53+00:00",
+      "id": "29683953701188987",
+      "title": "IS GOD REALLY COMMANDING YOU TO KEEP THE SABBATH—OR ARE YOU CARRYING A BURDEN JESUS NEVER PLACED ON YOU?",
+      "date": "2026-11-13T01:41:41+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid034FpRjr7yUedrLBYrJimss7K8bKDxZK6qAVxbiVTxAtwaZvZ4xVr2R1FdYTkYZ1hvl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02k21XL3Q38YgQ9mjnuj1pnG2eb61LTUozAza48FhwF2k63MNc73WMv6xeFQ9P6U7ql"
     },
     {
-      "id": "29675869345330756",
-      "title": "THEY BROUGHT HER TO JESUS TO BE STONED. HE SENT HER AWAY WITH A COMMAND THAT COULD CHANGE YOUR LIFE.",
-      "date": "2026-11-12T13:07:22+00:00",
+      "id": "29683854374532253",
+      "title": "“GOD, IF YOU DO THIS FOR ME, I PROMISE…” — THE DANGEROUS PRAYER EVEN SINCERE CHRISTIANS SOMETIMES GET WRONG",
+      "date": "2026-11-13T01:32:08+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02SUiaWC3PNMnv2LJnLHp4CL2dM4Bf1VJrNuKhWUVx8z7ripHa77KTpoyMZugRqzMUl"
+    },
+    {
+      "id": "29683753111209046",
+      "title": "THEY BOTH LOVE JESUS. THEY BOTH BELIEVE THE BIBLE. SO WHY ARE THEY CALLING EACH OTHER UNFAITHFUL?",
+      "date": "2026-11-13T01:22:31+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024Ej9P3UPdFpJcNvrooSoa21v2u14DSyFgRpTahfZcg1pyVFmWjSjWnRtt3AX7HDbl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026NgUJJjhAU5LfkNZEL3w4nz1fZGCDEQK1UKUbJj3tj8jL1VKKamurGKgRs9sKstEl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-12T23:40:10Z",
-  "discovered": 10,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-13T06:38:05Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29679117685005922",
-    "title": "WHEN INJUSTICE FILLS THE STREETS, SHOULD CHRISTIANS STAND UP OR STAY SILENT?",
-    "date": "2026-11-12T17:34:59+00:00"
+    "id": "29684722391112118",
+    "title": "HE WALKED AWAY WITH SILVER AND DESIGNER CLOTHES… BUT CAME HOME CARRYING A CURSE.",
+    "date": "2026-11-13T02:53:35+00:00"
   },
-  "lastImportCount": 10,
-  "lastImportAt": "2026-11-12T18:17:00Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-11-13T06:39:06Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10136,
+  "structuredMetadata": 10144,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-95825e611e51091ea038d68b4b04ff361760b1746f72147490f599af35f9e99d",
-  "statusGeneratedAt": "2026-11-12T23:40:28Z"
+  "contentRevision": "sha256-febdb72f0a1b04a7e9f3634340ba8037b3b56debe6a7170e3fb13efce7eca938",
+  "statusGeneratedAt": "2026-11-13T06:39:06Z"
 }
