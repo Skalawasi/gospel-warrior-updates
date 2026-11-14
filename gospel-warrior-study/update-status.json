@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 17 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-14T17:04:25Z",
-  "lastSuccess": "2026-11-14T17:04:25Z",
+  "lastCheck": "2026-11-14T21:27:11Z",
+  "lastSuccess": "2026-11-14T21:27:11Z",
   "currentTotal": 10234,
   "totalWords": 17845256,
   "subjects": 17,
-  "addedLastRun": 17,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29708283358756021",
@@ -132,11 +132,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-14T17:03:19Z",
+  "lastCheckStarted": "2026-11-14T21:26:47Z",
   "discovered": 17,
-  "processed": 17,
-  "discoveredLastRun": 17,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29708283358756021",
     "title": "DID GOD STOP SPEAKING WHEN THE LAST APOSTLE DIED… OR HAVE WE BEEN SILENCING WHAT THE HOLY SPIRIT NEVER STOPPED DOING?",
@@ -152,5 +152,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-ec2a8571c5f307698174ab324488b1da4ae36505dc7980ce9e82462259e31ff4",
-  "statusGeneratedAt": "2026-11-14T17:04:25Z"
+  "statusGeneratedAt": "2026-11-14T21:27:11Z"
 }
