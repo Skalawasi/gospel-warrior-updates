@@ -1,177 +1,156 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 24 new public studies.",
+  "message": "Added 17 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-14T10:20:06Z",
-  "lastSuccess": "2026-11-14T10:20:06Z",
-  "currentTotal": 10217,
-  "totalWords": 17769325,
+  "lastCheck": "2026-11-14T17:04:25Z",
+  "lastSuccess": "2026-11-14T17:04:25Z",
+  "currentTotal": 10234,
+  "totalWords": 17845256,
   "subjects": 17,
-  "addedLastRun": 24,
+  "addedLastRun": 17,
   "recentAdded": [
     {
-      "id": "29704243005826723",
-      "title": "THE LOST BOOK THE BIBLE MENTIONS… BUT NEVER LETS YOU READ",
-      "date": "2026-11-14T10:14:16+00:00",
+      "id": "29708283358756021",
+      "title": "DID GOD STOP SPEAKING WHEN THE LAST APOSTLE DIED… OR HAVE WE BEEN SILENCING WHAT THE HOLY SPIRIT NEVER STOPPED DOING?",
+      "date": "2026-11-14T16:28:59+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jD3udMQDCpEWuyVTqhYNJ5sFQuKR6tk6ZtPh8gAZSornmEmSBWtXD4SvDxeGW5F3l"
+    },
+    {
+      "id": "29708016215449402",
+      "title": "THEY TOLD YOU THAT WITHOUT SPEAKING IN TONGUES, YOU DON'T HAVE THE HOLY SPIRIT. BUT IS THAT WHAT THE BIBLE ACTUALLY SAYS?",
+      "date": "2026-11-14T16:05:46+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04xLaZxCtSvRakJs4iyt93KwgpFEQm1irMuS7jvimmonAmUH7QXj9AbYRqCogMfoKl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZrpcXtF2R315nyfZU1pTGJhkHYcPdTRJfZNfSWVHjNEsDPF4dSpy9VqCLoYjVH6el"
     },
     {
-      "id": "29704139299170427",
-      "title": "THE LOST BOOK OF GOD’S WARS: WHAT DID MOSES KNOW THAT WE NO LONGER HAVE?",
-      "date": "2026-11-14T10:03:01+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0i1GN1r8DyQMvC6oYUVuxmdjbChLy3VoneVARXNWwfUBkd2UY7Nqd92HAyw3xL3KQl"
-    },
-    {
-      "id": "29704065805844443",
-      "title": "THE SLAVE GOD REFUSED TO SEND BACK: THE SHOCKING COMMAND HIDDEN IN THE LAW OF MOSES",
-      "date": "2026-11-14T09:55:00+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jbDkLVcTfEErs7exZ1aNkReDFBaT5znWUq9Sn3WrLAGoLTchZa6yTH2aAzhJauiwl"
-    },
-    {
-      "id": "29703968649187492",
-      "title": "GOD SAW A CRIME WHERE EVERYONE ELSE SAW COLLATERAL — THE FORGOTTEN COMMAND THAT REVEALS THE HEART OF JESUS",
-      "date": "2026-11-14T09:44:19+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022jgpikb7Z7oboyTE7496aYYfVwfdQFNejJq6jBmTvm6YBLfJ6LcmeMZrC2P2UPXMl"
-    },
-    {
-      "id": "29703874722530218",
-      "title": "GOD TOLD A NEWLY MARRIED MAN TO STAY HOME FOR ONE YEAR. THE REASON WILL CHANGE HOW YOU SEE LOVE, MARRIAGE, AND THE HEART OF GOD.",
-      "date": "2026-11-14T09:34:35+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Mu1b3ZJyv6mMnkBGXAUaFZ2H894gCK1rL7W6TJrJgavw5H555aQFJmv3ZobTtg6Fl"
-    },
-    {
-      "id": "29703746072543083",
-      "title": "GOD SAID RETURN THE DONKEY… EVEN IF IT BELONGED TO THE PERSON WHO HURT YOU",
-      "date": "2026-11-14T09:20:37+00:00",
+      "id": "29707878865463137",
+      "title": "IF GOD WANTS EVERYONE SAVED, WHY WILL SO MANY STILL BE LOST?",
+      "date": "2026-11-14T15:53:54+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vWK2TMoyRHGqvdL3wYjo4mo2c3i5qGnM4PCmqMf7bqytcFkFTDWMw81HLuuH5ALgl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0y3dqrkwwniUaBiAcKczYc3VqbqE7pWRCTqAD1SEu2XftBySoT1J7d7MWFpfEvhcXl"
     },
     {
-      "id": "29703669302550760",
-      "title": "GOD SAW WHAT YOU DID TO THE MOTHER BIRD—AND THE REASON HE CARED WILL BREAK YOUR HEART",
-      "date": "2026-11-14T09:12:27+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022qUasxsNSGVJkNQHnEsfK92XAe1MfaSENAHuszVoVcX8uUKusq9vXuhmbNB6A5KJl"
-    },
-    {
-      "id": "29703554639228893",
-      "title": "THE EARTH IS GROANING… BUT WHERE ARE THE SONS OF GOD?",
-      "date": "2026-11-14T09:00:20+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Xg8w3Z7MfkYiFeg1UAgtqM6Jx2UaQqh6vARPzRxQz8jmJvNoG5Z8r9GxQhA45xTCl"
-    },
-    {
-      "id": "29703447995906224",
-      "title": "THE KING WHO WAS SHOT THROUGH THE HEART… AND THROWN INTO A FIELD WHERE GOD HAD BEEN WAITING FOR HIM",
-      "date": "2026-11-14T08:48:45+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02q7yDbk1UgxWKZFoxoAmRCGZpr6ToHvGHoEXmmKxd1X7BQuihrF3Sd8cCGoDdJ2tal"
-    },
-    {
-      "id": "29703376712580019",
-      "title": "THEY AGREED TO EAT THEIR OWN CHILDREN. THEN ONE MOTHER BROKE HER PROMISE—AND A KING TORE HIS CLOTHES.",
-      "date": "2026-11-14T08:40:48+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Si3Ne9kzUAxhwEGPc3QHDMN7WbT8aFuBTHwRZTARZG2Hq8Wwt2sZEyR1er3soTLml"
-    },
-    {
-      "id": "29703170092600681",
-      "title": "HE KILLED A KING WITH A DOUBLE-EDGED SWORD… AND WALKED OUT WHILE THE SERVANTS THOUGHT THEIR MASTER WAS USING THE TOILET.",
-      "date": "2026-11-14T08:18:14+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Bxbh8evLYmjYcbZjBpcu7gj1B3aVozJBofXw8HsgjQzSWkX6YxLyokJ6YN9PKVNbl"
-    },
-    {
-      "id": "29703109155940108",
-      "title": "HE CUT OFF THE THUMBS AND BIG TOES OF SEVENTY KINGS—THEN GOD ALLOWED THE SAME THING TO HAPPEN TO HIM",
-      "date": "2026-11-14T08:11:39+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02p3HLzwWe8QRw6T71MszA7UpaFHooM3Ac77EKSQbf9GwFtA572j5nYt4tzVrVLxuSl"
-    },
-    {
-      "id": "29702825172635173",
-      "title": "YOU CALL HIM LORD… BUT WHAT IF JESUS SAYS, “I NEVER KNEW YOU”?",
-      "date": "2026-11-14T07:39:34+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0F6eqjixoaBCsGtes71SguA9Dts5LktNBS8C6gYKDeKNReBpwCkctkqiTz4gMajyEl"
-    },
-    {
-      "id": "29702709242646766",
-      "title": "YOU HAVEN’T HAD SEX IN TEN YEARS. DOES GOD UNDERSTAND YOUR FRUSTRATION?",
-      "date": "2026-11-14T07:26:23+00:00",
+      "id": "29707786405472383",
+      "title": "IS SEXUAL FANTASY ALWAYS LUST? THE QUESTION MATTHEW 5 FORCES US TO EXAMINE.",
+      "date": "2026-11-14T15:45:40+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LaZf5gzk4FU5mqveznF9Bnpca3dMtRWBYqYz1Hayna2kxe5WdoECEy2D27NZk8Mrl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02AQwKrGHNMeGieT2jvdUs8fzBoEjjPjnwEtPF6pqoTdeFuWM5in6pddnaDmBMz3JDl"
     },
     {
-      "id": "29702597022657988",
-      "title": "WHAT IF YOU’VE BEEN TRYING TO REPENT BEFORE YOU EVEN KNOW HOW TO BELIEVE?",
-      "date": "2026-11-14T07:13:58+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JJJu337WNV36HCczGa4VrwtZgZLaxztnhus6XvZSBW489dZ9YRabEtK7H6gn4H1ml"
+      "id": "29707431645507859",
+      "title": "THE SIN YOU HIDE IN SHAME… AND THE SINS THE CHURCH APPLAUDS IN PUBLIC",
+      "date": "2026-11-14T15:15:05+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xQqBpULqLTmufvX7yrfkDWfodpJL1DQdsTR64mdLMWMYPgAfy4gvUdochwrJM6AGl"
     },
     {
-      "id": "29702453009339056",
-      "title": "IF JESUS PAID FOR ALL YOUR SINS, WHY DOES THE BIBLE STILL WARN YOU ABOUT JUDGMENT?",
-      "date": "2026-11-14T06:57:45+00:00",
+      "id": "29707281915522832",
+      "title": "WHY DID JESUS LEAVE EXACTLY TWELVE BASKETS AFTER FEEDING 5,000? THE DETAIL MOST PEOPLE READ PAST MAY CHANGE HOW YOU SEE YOUR OWN EMPTY LIFE.",
+      "date": "2026-11-14T15:02:17+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sQDxDAFcY7AgDNLYzGCmX5GQGteEE4eghdiC7CygcPmRx5824FdLtsCRVZo48N8Zl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ieHbKL5fFxHduLZRasqriP8LxVCrAgeqKN4iZZnv6Yyu82A7uiMtfdMHLzpxewoXl"
     },
     {
-      "id": "29702335569350800",
-      "title": "THE MAN WHO ENTERED PARADISE WITHOUT EVER BEING BAPTIZED",
-      "date": "2026-11-14T06:44:23+00:00",
+      "id": "29707089962208694",
+      "title": "JESUS HAD FIVE LOAVES, TWO FISH, AND 5,000 HUNGRY MEN… BUT THE REAL MIRACLE WAS BIGGER THAN THE FOOD",
+      "date": "2026-11-14T14:45:38+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aVqxmoznZe3Cz8oaHfhKDcqsx9GVa6Xy4jthma2kSMNkyfHkBFqbXd9HGhVn5aHTl"
+    },
+    {
+      "id": "29706933832224307",
+      "title": "JESUS COULD HAVE SENT THEM ALONE. SO WHY DID HE SEND THEM TWO BY TWO?",
+      "date": "2026-11-14T14:32:06+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XSbX1fAQPccexmvo87YPThBXQogAzGQSVaR6NSnyzDkeCabVRBMCMgpZtJyXixVNl"
+    },
+    {
+      "id": "29706760185575005",
+      "title": "JESUS COULD HAVE CHOSEN THOUSANDS. WHY DID HE CHOOSE EXACTLY TWELVE? THE ANSWER REVEALS SOMETHING ABOUT YOUR OWN STORY.",
+      "date": "2026-11-14T14:17:14+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jJjFVuPRtM8rRc4x9dzYmDU9z7jBWub9MdaVSSf2VF6iCTCjkN99EzVbZ7DrG8Dml"
+    },
+    {
+      "id": "29706606922256998",
+      "title": "THE LETTER THAT DISAPPEARED: DID PAUL WRITE TO CORINTH BEFORE FIRST CORINTHIANS?",
+      "date": "2026-11-14T14:03:34+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RadFoya9ohPvkevgB5ExgUA1yXemPfeEPHmqQWzpCLwTqNM9NFWvUabqVRpDxhChl"
+    },
+    {
+      "id": "29706459055605118",
+      "title": "BEFORE LUKE WROTE A SINGLE WORD, OTHERS HAD ALREADY TOLD THE STORY OF JESUS. SO WHY DID HE WRITE ANOTHER?",
+      "date": "2026-11-14T13:50:34+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid058pgkeJMQhuTDdi3CFXu14ZKxDqWpmWEgNVPfSSBE5rDkuqREhPcTMSCsDeasH8Ql"
+    },
+    {
+      "id": "29706347115616312",
+      "title": "THE PROPHET WHO SAW DAVID’S DARKEST DAYS: WHAT HAPPENED TO THE LOST RECORD OF GAD THE SEER?",
+      "date": "2026-11-14T13:40:23+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02b6aCUGk4CHGpxv1dZDat6jHWpexxjiN81npkdo9bXREW7Z1D1zSy144xqueBiRJ5l"
+    },
+    {
+      "id": "29706062108978146",
+      "title": "THE PROPHET WHO KNEW DAVID’S DARKEST SECRET—AND LEFT BEHIND A RECORD WE CAN NO LONGER READ",
+      "date": "2026-11-14T13:15:13+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09qjpP7P9QMtnbaERhp4GwLMtLrCxa9MfcVrTkzvDQvm8RmxLC2QFjva57kFHpee4l"
+    },
+    {
+      "id": "29704841865766837",
+      "title": "THE LOST RECORD OF SAMUEL: WHAT DID THE PROPHET KNOW ABOUT DAVID THAT HISTORY NEVER FULLY REVEALED?",
+      "date": "2026-11-14T11:17:10+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0epUwkAkf1dZqCabdAWpbuNiBmACNfF15tesoiTNV7KVXaaS7QBBYoXBcMR6mmUtHl"
+    },
+    {
+      "id": "29704771312440559",
+      "title": "THE BOOK THAT VANISHED… BUT THE SINS OF THE KINGS DID NOT",
+      "date": "2026-11-14T11:09:48+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02iAz3cfQ1AeVnhbvipRut7TfH5JHfTEPCYWka7XsgvTqgDUL6xA9qRrds6983oAnNl"
+    },
+    {
+      "id": "29704690025782021",
+      "title": "THE BOOK THAT RECORDED EVERYTHING… BUT COULD SAVE NO ONE",
+      "date": "2026-11-14T11:01:32+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UnB3CJsF7CxtzFLHjWKw6yBGn5mHLQKXm8bHKHf2nQmp57AfsFaqYT7g8YGBTHvbl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fEqPCuX8mNm9i4AEuGLtAUMTkYKtR9hY2b76TofHYtV2ewHHWx5Anrk8xzir2bYyl"
     },
     {
-      "id": "29702230482694642",
-      "title": "WHAT IF SOMEONE DIES WITHOUT EVER HEARING THE NAME OF JESUS? WILL GOD REALLY SEND THEM TO HELL?",
-      "date": "2026-11-14T06:32:39+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eG3fcjxVSsBaj1uE34NjDDX3MCWSJdQb8pdCLea6Tdib25DFwS3acpWp1gz9BEG3l"
-    },
-    {
-      "id": "29702112676039756",
-      "title": "WHAT IF YOU’VE BEEN WRONG ABOUT WHO GOD CHOOSES TO SAVE?",
-      "date": "2026-11-14T06:19:39+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G8HJkP3kTsq7cmH1dYQMs9wJR2JUCKHFGvs8UG4y7WzbiDLxfNKMn266gqPndeVVl"
-    },
-    {
-      "id": "29702040452713645",
-      "title": "IF GRACE SAVES YOU, WHY DOES JAMES SAY YOUR FAITH COULD BE DEAD?",
-      "date": "2026-11-14T06:11:46+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02CRaG7wymhPtQUn8S3nioC8G7tuNRDi8RDaxDm1bZJmyd3LQnE2XP5m5kdPjhFp6Kl"
+      "id": "29704363289148028",
+      "title": "THE LOST BOOK OF SOLOMON: WHAT DID IT REVEAL THAT THE BIBLE NEVER RECORDED?",
+      "date": "2026-11-14T10:27:08+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023YYDNw1XfaV33E7Emu47snz4NVrxkHyf6ZHzoe2fsSNSwqsq7yRr1TMB2f5Npc5cl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-14T10:18:52Z",
-  "discovered": 24,
-  "processed": 24,
-  "discoveredLastRun": 24,
-  "pagesScanned": 3,
+  "lastCheckStarted": "2026-11-14T17:03:19Z",
+  "discovered": 17,
+  "processed": 17,
+  "discoveredLastRun": 17,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29704243005826723",
-    "title": "THE LOST BOOK THE BIBLE MENTIONS… BUT NEVER LETS YOU READ",
-    "date": "2026-11-14T10:14:16+00:00"
+    "id": "29708283358756021",
+    "title": "DID GOD STOP SPEAKING WHEN THE LAST APOSTLE DIED… OR HAVE WE BEEN SILENCING WHAT THE HOLY SPIRIT NEVER STOPPED DOING?",
+    "date": "2026-11-14T16:28:59+00:00"
   },
-  "lastImportCount": 24,
-  "lastImportAt": "2026-11-14T10:20:06Z",
+  "lastImportCount": 17,
+  "lastImportAt": "2026-11-14T17:04:25Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10217,
+  "structuredMetadata": 10234,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-04d3067dd0f2950751e44878b60704e0d3445ec0a09ef8bb02541f5b274f0bae",
-  "statusGeneratedAt": "2026-11-14T10:20:06Z"
+  "contentRevision": "sha256-ec2a8571c5f307698174ab324488b1da4ae36505dc7980ce9e82462259e31ff4",
+  "statusGeneratedAt": "2026-11-14T17:04:25Z"
 }
