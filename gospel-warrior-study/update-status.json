@@ -1,79 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 24 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-14T02:25:17Z",
-  "lastSuccess": "2026-11-14T02:25:17Z",
-  "currentTotal": 10193,
-  "totalWords": 17664242,
+  "lastCheck": "2026-11-14T10:20:06Z",
+  "lastSuccess": "2026-11-14T10:20:06Z",
+  "currentTotal": 10217,
+  "totalWords": 17769325,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 24,
   "recentAdded": [
     {
-      "id": "29699828552934835",
-      "title": "“LORD, LORD!”—THE TWO WORDS THAT MAY STILL LEAVE YOU OUTSIDE HEAVEN",
-      "date": "2026-11-14T02:23:37+00:00",
+      "id": "29704243005826723",
+      "title": "THE LOST BOOK THE BIBLE MENTIONS… BUT NEVER LETS YOU READ",
+      "date": "2026-11-14T10:14:16+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04xLaZxCtSvRakJs4iyt93KwgpFEQm1irMuS7jvimmonAmUH7QXj9AbYRqCogMfoKl"
+    },
+    {
+      "id": "29704139299170427",
+      "title": "THE LOST BOOK OF GOD’S WARS: WHAT DID MOSES KNOW THAT WE NO LONGER HAVE?",
+      "date": "2026-11-14T10:03:01+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0i1GN1r8DyQMvC6oYUVuxmdjbChLy3VoneVARXNWwfUBkd2UY7Nqd92HAyw3xL3KQl"
+    },
+    {
+      "id": "29704065805844443",
+      "title": "THE SLAVE GOD REFUSED TO SEND BACK: THE SHOCKING COMMAND HIDDEN IN THE LAW OF MOSES",
+      "date": "2026-11-14T09:55:00+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jbDkLVcTfEErs7exZ1aNkReDFBaT5znWUq9Sn3WrLAGoLTchZa6yTH2aAzhJauiwl"
+    },
+    {
+      "id": "29703968649187492",
+      "title": "GOD SAW A CRIME WHERE EVERYONE ELSE SAW COLLATERAL — THE FORGOTTEN COMMAND THAT REVEALS THE HEART OF JESUS",
+      "date": "2026-11-14T09:44:19+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tdknUghqBy2ryC1wCts9kd9EJZm1DrZqi6HBVJhTF1mLPpLeTPd7i9iPJFBjk1Rul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022jgpikb7Z7oboyTE7496aYYfVwfdQFNejJq6jBmTvm6YBLfJ6LcmeMZrC2P2UPXMl"
     },
     {
-      "id": "29699785509605806",
-      "title": "CAN A CHRISTIAN WOMAN TOUCH HER OWN BODY WITHOUT BETRAYING GOD?",
-      "date": "2026-11-14T02:19:39+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LqR3g2jvtDkgYu1ffnCLQxsNM1BU7psn5cE7GFt2YzDdyV9G6mdkRzbG13oeDpR7l"
-    },
-    {
-      "id": "29699395342978156",
-      "title": "JESUS TOLD ONE RICH MAN TO SELL EVERYTHING… BUT WELCOMED ANOTHER INTO SALVATION. WHY?",
-      "date": "2026-11-14T01:40:18+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aegyK1ENL4Fs2sc2qL6SEQn8qQokGWrRbuo3tA4dCd5U3hgn6TNibXvM7LmA3twPl"
-    },
-    {
-      "id": "29699326472985043",
-      "title": "YOU’RE 40, STILL SINGLE, AND STILL A VIRGIN. BUT NOBODY WARNED YOU THAT WAITING FOR MARRIAGE COULD HURT THIS MUCH.",
-      "date": "2026-11-14T01:33:01+00:00",
+      "id": "29703874722530218",
+      "title": "GOD TOLD A NEWLY MARRIED MAN TO STAY HOME FOR ONE YEAR. THE REASON WILL CHANGE HOW YOU SEE LOVE, MARRIAGE, AND THE HEART OF GOD.",
+      "date": "2026-11-14T09:34:35+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Nyv474Q4pSomUc1LYtKGU9bjkHmJAhmpDFF4NmJgTvjc9CqR1fs9cxGvpmkBiD4bl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Mu1b3ZJyv6mMnkBGXAUaFZ2H894gCK1rL7W6TJrJgavw5H555aQFJmv3ZobTtg6Fl"
     },
     {
-      "id": "29699258149658542",
-      "title": "THE MOST TERRIFYING WORDS JESUS EVER SPOKE TO PEOPLE WHO THOUGHT THEY WERE SAVED",
-      "date": "2026-11-14T01:25:52+00:00",
+      "id": "29703746072543083",
+      "title": "GOD SAID RETURN THE DONKEY… EVEN IF IT BELONGED TO THE PERSON WHO HURT YOU",
+      "date": "2026-11-14T09:20:37+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vWK2TMoyRHGqvdL3wYjo4mo2c3i5qGnM4PCmqMf7bqytcFkFTDWMw81HLuuH5ALgl"
+    },
+    {
+      "id": "29703669302550760",
+      "title": "GOD SAW WHAT YOU DID TO THE MOTHER BIRD—AND THE REASON HE CARED WILL BREAK YOUR HEART",
+      "date": "2026-11-14T09:12:27+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022qUasxsNSGVJkNQHnEsfK92XAe1MfaSENAHuszVoVcX8uUKusq9vXuhmbNB6A5KJl"
+    },
+    {
+      "id": "29703554639228893",
+      "title": "THE EARTH IS GROANING… BUT WHERE ARE THE SONS OF GOD?",
+      "date": "2026-11-14T09:00:20+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Xg8w3Z7MfkYiFeg1UAgtqM6Jx2UaQqh6vARPzRxQz8jmJvNoG5Z8r9GxQhA45xTCl"
+    },
+    {
+      "id": "29703447995906224",
+      "title": "THE KING WHO WAS SHOT THROUGH THE HEART… AND THROWN INTO A FIELD WHERE GOD HAD BEEN WAITING FOR HIM",
+      "date": "2026-11-14T08:48:45+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02q7yDbk1UgxWKZFoxoAmRCGZpr6ToHvGHoEXmmKxd1X7BQuihrF3Sd8cCGoDdJ2tal"
+    },
+    {
+      "id": "29703376712580019",
+      "title": "THEY AGREED TO EAT THEIR OWN CHILDREN. THEN ONE MOTHER BROKE HER PROMISE—AND A KING TORE HIS CLOTHES.",
+      "date": "2026-11-14T08:40:48+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Si3Ne9kzUAxhwEGPc3QHDMN7WbT8aFuBTHwRZTARZG2Hq8Wwt2sZEyR1er3soTLml"
+    },
+    {
+      "id": "29703170092600681",
+      "title": "HE KILLED A KING WITH A DOUBLE-EDGED SWORD… AND WALKED OUT WHILE THE SERVANTS THOUGHT THEIR MASTER WAS USING THE TOILET.",
+      "date": "2026-11-14T08:18:14+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Bxbh8evLYmjYcbZjBpcu7gj1B3aVozJBofXw8HsgjQzSWkX6YxLyokJ6YN9PKVNbl"
+    },
+    {
+      "id": "29703109155940108",
+      "title": "HE CUT OFF THE THUMBS AND BIG TOES OF SEVENTY KINGS—THEN GOD ALLOWED THE SAME THING TO HAPPEN TO HIM",
+      "date": "2026-11-14T08:11:39+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02p3HLzwWe8QRw6T71MszA7UpaFHooM3Ac77EKSQbf9GwFtA572j5nYt4tzVrVLxuSl"
+    },
+    {
+      "id": "29702825172635173",
+      "title": "YOU CALL HIM LORD… BUT WHAT IF JESUS SAYS, “I NEVER KNEW YOU”?",
+      "date": "2026-11-14T07:39:34+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02E6fKztJKBAUeK2MtXVjTBKMLVuLFPEAFB6unhoheA72HoMiDDQyYWeeUt18d47Asl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0F6eqjixoaBCsGtes71SguA9Dts5LktNBS8C6gYKDeKNReBpwCkctkqiTz4gMajyEl"
     },
     {
-      "id": "29698978426353181",
-      "title": "YOUR HUSBAND DOESN’T WANT SEX ANYMORE. IS IT A SIN TO SATISFY YOURSELF?",
-      "date": "2026-11-14T00:56:51+00:00",
+      "id": "29702709242646766",
+      "title": "YOU HAVEN’T HAD SEX IN TEN YEARS. DOES GOD UNDERSTAND YOUR FRUSTRATION?",
+      "date": "2026-11-14T07:26:23+00:00",
       "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02gSjGCcYtvXZreYtxW778qTCc2ShSXguXKRupHewRat1vmNy8wHQ7NvW5wpUuypGMl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0LaZf5gzk4FU5mqveznF9Bnpca3dMtRWBYqYz1Hayna2kxe5WdoECEy2D27NZk8Mrl"
+    },
+    {
+      "id": "29702597022657988",
+      "title": "WHAT IF YOU’VE BEEN TRYING TO REPENT BEFORE YOU EVEN KNOW HOW TO BELIEVE?",
+      "date": "2026-11-14T07:13:58+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JJJu337WNV36HCczGa4VrwtZgZLaxztnhus6XvZSBW489dZ9YRabEtK7H6gn4H1ml"
+    },
+    {
+      "id": "29702453009339056",
+      "title": "IF JESUS PAID FOR ALL YOUR SINS, WHY DOES THE BIBLE STILL WARN YOU ABOUT JUDGMENT?",
+      "date": "2026-11-14T06:57:45+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sQDxDAFcY7AgDNLYzGCmX5GQGteEE4eghdiC7CygcPmRx5824FdLtsCRVZo48N8Zl"
+    },
+    {
+      "id": "29702335569350800",
+      "title": "THE MAN WHO ENTERED PARADISE WITHOUT EVER BEING BAPTIZED",
+      "date": "2026-11-14T06:44:23+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UnB3CJsF7CxtzFLHjWKw6yBGn5mHLQKXm8bHKHf2nQmp57AfsFaqYT7g8YGBTHvbl"
+    },
+    {
+      "id": "29702230482694642",
+      "title": "WHAT IF SOMEONE DIES WITHOUT EVER HEARING THE NAME OF JESUS? WILL GOD REALLY SEND THEM TO HELL?",
+      "date": "2026-11-14T06:32:39+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0eG3fcjxVSsBaj1uE34NjDDX3MCWSJdQb8pdCLea6Tdib25DFwS3acpWp1gz9BEG3l"
+    },
+    {
+      "id": "29702112676039756",
+      "title": "WHAT IF YOU’VE BEEN WRONG ABOUT WHO GOD CHOOSES TO SAVE?",
+      "date": "2026-11-14T06:19:39+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0G8HJkP3kTsq7cmH1dYQMs9wJR2JUCKHFGvs8UG4y7WzbiDLxfNKMn266gqPndeVVl"
+    },
+    {
+      "id": "29702040452713645",
+      "title": "IF GRACE SAVES YOU, WHY DOES JAMES SAY YOUR FAITH COULD BE DEAD?",
+      "date": "2026-11-14T06:11:46+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02CRaG7wymhPtQUn8S3nioC8G7tuNRDi8RDaxDm1bZJmyd3LQnE2XP5m5kdPjhFp6Kl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-14T02:24:20Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-14T10:18:52Z",
+  "discovered": 24,
+  "processed": 24,
+  "discoveredLastRun": 24,
+  "pagesScanned": 3,
   "latest": {
-    "id": "29699828552934835",
-    "title": "“LORD, LORD!”—THE TWO WORDS THAT MAY STILL LEAVE YOU OUTSIDE HEAVEN",
-    "date": "2026-11-14T02:23:37+00:00"
+    "id": "29704243005826723",
+    "title": "THE LOST BOOK THE BIBLE MENTIONS… BUT NEVER LETS YOU READ",
+    "date": "2026-11-14T10:14:16+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-11-14T02:25:17Z",
+  "lastImportCount": 24,
+  "lastImportAt": "2026-11-14T10:20:06Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10193,
+  "structuredMetadata": 10217,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-0a717bf3b5664a1c2f0560363dd70afcf4200b2dd191fdb074fd5214ae2f302b",
-  "statusGeneratedAt": "2026-11-14T02:25:17Z"
+  "contentRevision": "sha256-04d3067dd0f2950751e44878b60704e0d3445ec0a09ef8bb02541f5b274f0bae",
+  "statusGeneratedAt": "2026-11-14T10:20:06Z"
 }
