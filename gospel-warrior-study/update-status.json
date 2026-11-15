@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 20 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-15T17:06:45Z",
-  "lastSuccess": "2026-11-15T17:06:45Z",
+  "lastCheck": "2026-11-15T21:45:52Z",
+  "lastSuccess": "2026-11-15T21:45:52Z",
   "currentTotal": 10284,
   "totalWords": 18074005,
   "subjects": 17,
-  "addedLastRun": 20,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29722111434039880",
@@ -153,11 +153,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-15T17:05:22Z",
+  "lastCheckStarted": "2026-11-15T21:45:37Z",
   "discovered": 20,
-  "processed": 20,
-  "discoveredLastRun": 20,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29722111434039880",
     "title": "JESUS KNELT TO WASH FEET. SO WHY DO SOME CHRISTIAN LEADERS DEMAND A THRONE?",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-2aedd81daf79c1350a098843504e04337d2ca8a0d3fa6637ef586ef5f827976f",
-  "statusGeneratedAt": "2026-11-15T17:06:45Z"
+  "statusGeneratedAt": "2026-11-15T21:45:52Z"
 }
