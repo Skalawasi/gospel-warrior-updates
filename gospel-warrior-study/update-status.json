@@ -1,156 +1,107 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 10 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-14T21:27:11Z",
-  "lastSuccess": "2026-11-14T21:27:11Z",
-  "currentTotal": 10234,
-  "totalWords": 17845256,
+  "lastCheck": "2026-11-15T01:53:24Z",
+  "lastSuccess": "2026-11-15T01:53:24Z",
+  "currentTotal": 10244,
+  "totalWords": 17891261,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 10,
   "recentAdded": [
     {
-      "id": "29708283358756021",
-      "title": "DID GOD STOP SPEAKING WHEN THE LAST APOSTLE DIED… OR HAVE WE BEEN SILENCING WHAT THE HOLY SPIRIT NEVER STOPPED DOING?",
-      "date": "2026-11-14T16:28:59+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jD3udMQDCpEWuyVTqhYNJ5sFQuKR6tk6ZtPh8gAZSornmEmSBWtXD4SvDxeGW5F3l"
+      "id": "29713264858257871",
+      "title": "IF GOD ALREADY KNOWS YOUR TOMORROW, DID YOU EVER REALLY HAVE A CHOICE?",
+      "date": "2026-11-15T01:41:58+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RPGSXgBRpmNuiLkXziPMrbSF5z6QqGcZKZWDcqQJ2daWTuZUKZuaQYwpe4G1Hk4kl"
     },
     {
-      "id": "29708016215449402",
-      "title": "THEY TOLD YOU THAT WITHOUT SPEAKING IN TONGUES, YOU DON'T HAVE THE HOLY SPIRIT. BUT IS THAT WHAT THE BIBLE ACTUALLY SAYS?",
-      "date": "2026-11-14T16:05:46+00:00",
+      "id": "29713203134930710",
+      "title": "CAN A MARRIED CHRISTIAN MASTURBATE WITHOUT BETRAYING THEIR SPOUSE?",
+      "date": "2026-11-15T01:35:20+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0327eWMtGRbovHqDchdzgxTsYwA4BxEUPf1f92NhLaFVLXDa78YA3TwhaD26dxYoTZl"
+    },
+    {
+      "id": "29713099668274390",
+      "title": "THE ELEVENTH HOUR: WHY JESUS PAID THE MAN WHO WORKED ONE HOUR THE SAME AS THE MAN WHO WORKED ALL DAY",
+      "date": "2026-11-15T01:23:20+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PVBc6d3hsDtSdV7YsigKZFsRjPJmf6JWWcDGXcDULaZKGv8aPJVFtQ3aQLPLxwrCl"
+    },
+    {
+      "id": "29712898381627852",
+      "title": "JESUS FED THOUSANDS TWICE… SO WHY DID HE ASK HIS DISCIPLES IF THEY STILL DIDN’T UNDERSTAND?",
+      "date": "2026-11-15T01:00:49+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035qfYyzmjkmYhizr6ZqYQGHyaVp8LyfjNL3wqHQ7zj6QXBLYnmy9TPEtkcAG28iRUl"
+    },
+    {
+      "id": "29712822478302109",
+      "title": "SEVEN BASKETS LEFT OVER: THE MIRACLE JESUS PERFORMED AFTER EVERYONE HAD EATEN",
+      "date": "2026-11-15T00:51:40+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0h1bxmJuRUZY5N58hJZPmB2WiryxkpgY5FqMFkywfgcducxP4F6D6k3MfMCq1Mb9Cl"
+    },
+    {
+      "id": "29712763458308011",
+      "title": "JESUS HAD ALREADY FED 5,000… SO WHY DID HE STOP EVERYTHING TO FEED ANOTHER 4,000?",
+      "date": "2026-11-15T00:44:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0i3ZQVLcbJs4SbvjcZvzqpRC2v1sMMc4jjnhPgmzMPnvENWZT5MCvqby4eewP8W1Xl"
+    },
+    {
+      "id": "29712651944985829",
+      "title": "IF THE HOLY SPIRIT GUIDES US INTO ALL TRUTH, WHY ARE SPIRIT-FILLED CHRISTIANS STILL DISAGREEING ABOUT THE BIBLE?",
+      "date": "2026-11-15T00:32:08+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026DQ7dYs3vzkzw9T55xUncmLvUvH2wojU5j26K8ejmLCvWUfTio7fuVyd19fNcUYzl"
+    },
+    {
+      "id": "29712559131661777",
+      "title": "WHAT IF THE DREAM YOU CALLED GOD’S VOICE WAS NEVER FROM GOD? AND WHAT IF YOU’VE BEEN IGNORING THE VOICE HE HAS ALREADY GIVEN YOU?",
+      "date": "2026-11-15T00:20:53+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZrpcXtF2R315nyfZU1pTGJhkHYcPdTRJfZNfSWVHjNEsDPF4dSpy9VqCLoYjVH6el"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kbRtokXSKaffXvFeo5Hzn4hUXPGYYQQsi8JcXfJTjZX8HXTYRk7v8taAMZ8v5Nmgl"
     },
     {
-      "id": "29707878865463137",
-      "title": "IF GOD WANTS EVERYONE SAVED, WHY WILL SO MANY STILL BE LOST?",
-      "date": "2026-11-14T15:53:54+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0y3dqrkwwniUaBiAcKczYc3VqbqE7pWRCTqAD1SEu2XftBySoT1J7d7MWFpfEvhcXl"
-    },
-    {
-      "id": "29707786405472383",
-      "title": "IS SEXUAL FANTASY ALWAYS LUST? THE QUESTION MATTHEW 5 FORCES US TO EXAMINE.",
-      "date": "2026-11-14T15:45:40+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02AQwKrGHNMeGieT2jvdUs8fzBoEjjPjnwEtPF6pqoTdeFuWM5in6pddnaDmBMz3JDl"
-    },
-    {
-      "id": "29707431645507859",
-      "title": "THE SIN YOU HIDE IN SHAME… AND THE SINS THE CHURCH APPLAUDS IN PUBLIC",
-      "date": "2026-11-14T15:15:05+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xQqBpULqLTmufvX7yrfkDWfodpJL1DQdsTR64mdLMWMYPgAfy4gvUdochwrJM6AGl"
-    },
-    {
-      "id": "29707281915522832",
-      "title": "WHY DID JESUS LEAVE EXACTLY TWELVE BASKETS AFTER FEEDING 5,000? THE DETAIL MOST PEOPLE READ PAST MAY CHANGE HOW YOU SEE YOUR OWN EMPTY LIFE.",
-      "date": "2026-11-14T15:02:17+00:00",
+      "id": "29712457951671895",
+      "title": "THE SIN JESUS SAID WILL NEVER BE FORGIVEN: WHAT IF YOU’VE ALREADY COMMITTED IT?",
+      "date": "2026-11-15T00:09:05+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ieHbKL5fFxHduLZRasqriP8LxVCrAgeqKN4iZZnv6Yyu82A7uiMtfdMHLzpxewoXl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sS5f9qitACgKoKv3eRmyhZ4RE17hxvggFTxaHxVBLfciic8NfUAxX9NryjJtMisMl"
     },
     {
-      "id": "29707089962208694",
-      "title": "JESUS HAD FIVE LOAVES, TWO FISH, AND 5,000 HUNGRY MEN… BUT THE REAL MIRACLE WAS BIGGER THAN THE FOOD",
-      "date": "2026-11-14T14:45:38+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aVqxmoznZe3Cz8oaHfhKDcqsx9GVa6Xy4jthma2kSMNkyfHkBFqbXd9HGhVn5aHTl"
-    },
-    {
-      "id": "29706933832224307",
-      "title": "JESUS COULD HAVE SENT THEM ALONE. SO WHY DID HE SEND THEM TWO BY TWO?",
-      "date": "2026-11-14T14:32:06+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XSbX1fAQPccexmvo87YPThBXQogAzGQSVaR6NSnyzDkeCabVRBMCMgpZtJyXixVNl"
-    },
-    {
-      "id": "29706760185575005",
-      "title": "JESUS COULD HAVE CHOSEN THOUSANDS. WHY DID HE CHOOSE EXACTLY TWELVE? THE ANSWER REVEALS SOMETHING ABOUT YOUR OWN STORY.",
-      "date": "2026-11-14T14:17:14+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jJjFVuPRtM8rRc4x9dzYmDU9z7jBWub9MdaVSSf2VF6iCTCjkN99EzVbZ7DrG8Dml"
-    },
-    {
-      "id": "29706606922256998",
-      "title": "THE LETTER THAT DISAPPEARED: DID PAUL WRITE TO CORINTH BEFORE FIRST CORINTHIANS?",
-      "date": "2026-11-14T14:03:34+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0RadFoya9ohPvkevgB5ExgUA1yXemPfeEPHmqQWzpCLwTqNM9NFWvUabqVRpDxhChl"
-    },
-    {
-      "id": "29706459055605118",
-      "title": "BEFORE LUKE WROTE A SINGLE WORD, OTHERS HAD ALREADY TOLD THE STORY OF JESUS. SO WHY DID HE WRITE ANOTHER?",
-      "date": "2026-11-14T13:50:34+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid058pgkeJMQhuTDdi3CFXu14ZKxDqWpmWEgNVPfSSBE5rDkuqREhPcTMSCsDeasH8Ql"
-    },
-    {
-      "id": "29706347115616312",
-      "title": "THE PROPHET WHO SAW DAVID’S DARKEST DAYS: WHAT HAPPENED TO THE LOST RECORD OF GAD THE SEER?",
-      "date": "2026-11-14T13:40:23+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02b6aCUGk4CHGpxv1dZDat6jHWpexxjiN81npkdo9bXREW7Z1D1zSy144xqueBiRJ5l"
-    },
-    {
-      "id": "29706062108978146",
-      "title": "THE PROPHET WHO KNEW DAVID’S DARKEST SECRET—AND LEFT BEHIND A RECORD WE CAN NO LONGER READ",
-      "date": "2026-11-14T13:15:13+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09qjpP7P9QMtnbaERhp4GwLMtLrCxa9MfcVrTkzvDQvm8RmxLC2QFjva57kFHpee4l"
-    },
-    {
-      "id": "29704841865766837",
-      "title": "THE LOST RECORD OF SAMUEL: WHAT DID THE PROPHET KNOW ABOUT DAVID THAT HISTORY NEVER FULLY REVEALED?",
-      "date": "2026-11-14T11:17:10+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0epUwkAkf1dZqCabdAWpbuNiBmACNfF15tesoiTNV7KVXaaS7QBBYoXBcMR6mmUtHl"
-    },
-    {
-      "id": "29704771312440559",
-      "title": "THE BOOK THAT VANISHED… BUT THE SINS OF THE KINGS DID NOT",
-      "date": "2026-11-14T11:09:48+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02iAz3cfQ1AeVnhbvipRut7TfH5JHfTEPCYWka7XsgvTqgDUL6xA9qRrds6983oAnNl"
-    },
-    {
-      "id": "29704690025782021",
-      "title": "THE BOOK THAT RECORDED EVERYTHING… BUT COULD SAVE NO ONE",
-      "date": "2026-11-14T11:01:32+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fEqPCuX8mNm9i4AEuGLtAUMTkYKtR9hY2b76TofHYtV2ewHHWx5Anrk8xzir2bYyl"
-    },
-    {
-      "id": "29704363289148028",
-      "title": "THE LOST BOOK OF SOLOMON: WHAT DID IT REVEAL THAT THE BIBLE NEVER RECORDED?",
-      "date": "2026-11-14T10:27:08+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid023YYDNw1XfaV33E7Emu47snz4NVrxkHyf6ZHzoe2fsSNSwqsq7yRr1TMB2f5Npc5cl"
+      "id": "29712316245019399",
+      "title": "CAN YOU SIN SO MUCH THAT THE HOLY SPIRIT FINALLY LEAVES YOU?",
+      "date": "2026-11-14T23:51:48+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037EbBeB2jgBrbL1xS1c4cHPinG7tfA5pkUjG3VXbPvKK4agRufJw9SJUVr7ZUiMLVl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-14T21:26:47Z",
-  "discovered": 17,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-15T01:52:35Z",
+  "discovered": 10,
+  "processed": 10,
+  "discoveredLastRun": 10,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29708283358756021",
-    "title": "DID GOD STOP SPEAKING WHEN THE LAST APOSTLE DIED… OR HAVE WE BEEN SILENCING WHAT THE HOLY SPIRIT NEVER STOPPED DOING?",
-    "date": "2026-11-14T16:28:59+00:00"
+    "id": "29713264858257871",
+    "title": "IF GOD ALREADY KNOWS YOUR TOMORROW, DID YOU EVER REALLY HAVE A CHOICE?",
+    "date": "2026-11-15T01:41:58+00:00"
   },
-  "lastImportCount": 17,
-  "lastImportAt": "2026-11-14T17:04:25Z",
+  "lastImportCount": 10,
+  "lastImportAt": "2026-11-15T01:53:24Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10234,
+  "structuredMetadata": 10244,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-ec2a8571c5f307698174ab324488b1da4ae36505dc7980ce9e82462259e31ff4",
-  "statusGeneratedAt": "2026-11-14T21:27:11Z"
+  "contentRevision": "sha256-674e2998939239fc98703def059cc8f99974aa98eb52da50468cb569c23c590d",
+  "statusGeneratedAt": "2026-11-15T01:53:24Z"
 }
