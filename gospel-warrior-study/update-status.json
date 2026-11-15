@@ -1,107 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 10 new public studies.",
+  "message": "Added 20 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-15T01:53:24Z",
-  "lastSuccess": "2026-11-15T01:53:24Z",
-  "currentTotal": 10244,
-  "totalWords": 17891261,
+  "lastCheck": "2026-11-15T09:19:36Z",
+  "lastSuccess": "2026-11-15T09:19:36Z",
+  "currentTotal": 10264,
+  "totalWords": 17982839,
   "subjects": 17,
-  "addedLastRun": 10,
+  "addedLastRun": 20,
   "recentAdded": [
     {
-      "id": "29713264858257871",
-      "title": "IF GOD ALREADY KNOWS YOUR TOMORROW, DID YOU EVER REALLY HAVE A CHOICE?",
-      "date": "2026-11-15T01:41:58+00:00",
+      "id": "29717249481192742",
+      "title": "WILL YOU RECOGNIZE YOUR LOVED ONES IN HEAVEN? THE BIBLICAL ANSWER MAY BRING YOU TO TEARS",
+      "date": "2026-11-15T09:14:39+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02x27gCKMiEdKykijLkBnGSCjRTxMwdkQuZCNJEHqnZ65fmcDCZXucfaRz23pLJmzTl"
+    },
+    {
+      "id": "29716592154591808",
+      "title": "YOU CAN LOVE JESUS AND STILL BE RUNNING FROM HIS CHURCH",
+      "date": "2026-11-15T07:59:58+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid031CnoxGFhx3zWAES5P2MhgNF7EGaFyLLaCQYfN9eqLuRHYqYzF8h3eBFYnrDoez1kl"
+    },
+    {
+      "id": "29716471587937198",
+      "title": "THE JESUS IN THE PICTURE… OR THE JESUS YOU ACTUALLY WORSHIP?",
+      "date": "2026-11-15T07:46:04+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MevU4fL6QMBYwd6moFQpwjTYpmpxmL39vfnbLM4kCQWivZkb7w1dmwGAMEG3z3R3l"
+    },
+    {
+      "id": "29716380181279672",
+      "title": "DOES GOD REALLY REQUIRE PASTORS, ELDERS, AND DEACONS—OR HAVE WE BEEN DEFENDING CHURCH TRADITIONS THAT SCRIPTURE NEVER COMMANDED?",
+      "date": "2026-11-15T07:35:25+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nXoo9XndTDjpwD3mbpwW3GjSzNmvGsKZebaC1fs9HNMRiaUDPb4Zje3YDm3Qhfwul"
+    },
+    {
+      "id": "29716291521288538",
+      "title": "IS COMMUNION REALLY THE BODY AND BLOOD OF JESUS—OR HAVE WE MISUNDERSTOOD WHAT HAPPENS AT THE LORD’S TABLE?",
+      "date": "2026-11-15T07:25:07+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ZzU7fmFcWiJtkEqBCEkUSuRrttD9aNbRgwUpCSKWfg9rcmTUYM1nayw1qinJq2e4l"
+    },
+    {
+      "id": "29716148954636128",
+      "title": "SHOULD WE BAPTIZE BABIES… OR ARE WE GIVING THEM A PROMISE THEY HAVEN’T YET BELIEVED?",
+      "date": "2026-11-15T07:09:07+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WKWRmKszMUXZMeXXqSCYpCdWybsUD2ZuU9wzkDUcCu9zQYziN63e2Y1N4mMDN22Nl"
+    },
+    {
+      "id": "29716060694644954",
+      "title": "CAN A WOMAN PREACH THE WORD OF GOD… OR HAS THE CHURCH BEEN SILENCING VOICES JESUS NEVER SILENCED?",
+      "date": "2026-11-15T06:58:38+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fyY6kcuDSWfV5Df7wiJCfETyWsvgp8EdWiMDjZrcgYVxHfApN3XdwLy2V5Bx48ghl"
+    },
+    {
+      "id": "29715933354657688",
+      "title": "SATURDAY OR SUNDAY? THE WORSHIP WAR THAT MAY BE DISTRACTING CHRISTIANS FROM JESUS",
+      "date": "2026-11-15T06:43:14+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02iuaRnB2JuhSqiEvygZsH1X3bMMvrvFLDrLqf6dZSwBjZaz8cEHnSNpvLnv9sqVr5l"
+    },
+    {
+      "id": "29715833321334358",
+      "title": "DOES GOD REALLY DEMAND 10% OF YOUR MONEY… OR HAVE WE BEEN MISSING WHAT JESUS ACTUALLY TAUGHT?",
+      "date": "2026-11-15T06:31:17+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02P4PmdrMxy3e8iMhtDDk1YZJVXV2kmk7Z8T6EiXD8yQNRCcCSTruwYhQ9Vypn3gSkl"
+    },
+    {
+      "id": "29715707981346892",
+      "title": "SHOULD YOU CONFESS YOUR SINS TO A PRIEST, A PASTOR, OR DIRECTLY TO GOD? THE BIBLICAL TRUTH THAT COULD CHANGE THE WAY YOU SEEK FORGIVENESS FOREVER",
+      "date": "2026-11-15T06:16:53+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ZLF9gq6VasMXZK9VDyFt6nN35SPZFMJM8CbzhaLQk2TYoDe52xv9RsVQDnVA2Gopl"
+    },
+    {
+      "id": "29715482854702738",
+      "title": "JESUS SAID, “I WILL BUILD MY CHURCH.” SO WHY ARE THERE SO MANY? THE QUESTION CHRISTIANS CAN NO LONGER AFFORD TO IGNORE.",
+      "date": "2026-11-15T05:50:22+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xx4mJSCNrS3YR6j2Py2ef1GEeFj39ccwHfKCDum9wk2FeygQbvz92zm7LUZeu8QDl"
+    },
+    {
+      "id": "29715372014713822",
+      "title": "IF GOD KNEW YOU WOULD REJECT HIM… WHY WOULD HE CREATE YOU ANYWAY?",
+      "date": "2026-11-15T05:37:52+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sRXvmc3r5vcNMVtTQA1qvNZ1kFPLxebQxtvKLL9D9LmTFfew2KDYDNhNpodBYsrrl"
+    },
+    {
+      "id": "29715232664727757",
+      "title": "IF GOD ALREADY WROTE YOUR TOMORROW, WHY WOULD YOUR PRAYERS CHANGE ANYTHING?",
+      "date": "2026-11-15T05:21:31+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Wa2pD4MrPpusirVtrEwyngsEv2tAehZGahyRVRGGs5JsXJx4sVosGEoVHLsJuAE3l"
+    },
+    {
+      "id": "29715118881405802",
+      "title": "DOES PRAYER ACTUALLY CHANGE GOD’S MIND… OR HAVE WE MISUNDERSTOOD WHAT HAPPENS WHEN HEAVEN LISTENS?",
+      "date": "2026-11-15T05:08:35+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022pGw6yCx4ovQEDdse5spzGBswtmFGaDi9AersVC6XmyuVwNQMjEXeqmHKHg6K1c7l"
+    },
+    {
+      "id": "29714821304768893",
+      "title": "GOD KNEW WE WOULD BREAK HIS HEART… SO WHY DOES GENESIS SAY HE REGRETTED MAKING US?",
+      "date": "2026-11-15T04:34:17+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RPGSXgBRpmNuiLkXziPMrbSF5z6QqGcZKZWDcqQJ2daWTuZUKZuaQYwpe4G1Hk4kl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zvWzUqABnHjf592MRY6bCAr6gf8znjbWyitdEk8w9htRXW8AUFSqYri5psk3FSz9l"
     },
     {
-      "id": "29713203134930710",
-      "title": "CAN A MARRIED CHRISTIAN MASTURBATE WITHOUT BETRAYING THEIR SPOUSE?",
-      "date": "2026-11-15T01:35:20+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0327eWMtGRbovHqDchdzgxTsYwA4BxEUPf1f92NhLaFVLXDa78YA3TwhaD26dxYoTZl"
-    },
-    {
-      "id": "29713099668274390",
-      "title": "THE ELEVENTH HOUR: WHY JESUS PAID THE MAN WHO WORKED ONE HOUR THE SAME AS THE MAN WHO WORKED ALL DAY",
-      "date": "2026-11-15T01:23:20+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PVBc6d3hsDtSdV7YsigKZFsRjPJmf6JWWcDGXcDULaZKGv8aPJVFtQ3aQLPLxwrCl"
-    },
-    {
-      "id": "29712898381627852",
-      "title": "JESUS FED THOUSANDS TWICE… SO WHY DID HE ASK HIS DISCIPLES IF THEY STILL DIDN’T UNDERSTAND?",
-      "date": "2026-11-15T01:00:49+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035qfYyzmjkmYhizr6ZqYQGHyaVp8LyfjNL3wqHQ7zj6QXBLYnmy9TPEtkcAG28iRUl"
-    },
-    {
-      "id": "29712822478302109",
-      "title": "SEVEN BASKETS LEFT OVER: THE MIRACLE JESUS PERFORMED AFTER EVERYONE HAD EATEN",
-      "date": "2026-11-15T00:51:40+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0h1bxmJuRUZY5N58hJZPmB2WiryxkpgY5FqMFkywfgcducxP4F6D6k3MfMCq1Mb9Cl"
-    },
-    {
-      "id": "29712763458308011",
-      "title": "JESUS HAD ALREADY FED 5,000… SO WHY DID HE STOP EVERYTHING TO FEED ANOTHER 4,000?",
-      "date": "2026-11-15T00:44:52+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0i3ZQVLcbJs4SbvjcZvzqpRC2v1sMMc4jjnhPgmzMPnvENWZT5MCvqby4eewP8W1Xl"
-    },
-    {
-      "id": "29712651944985829",
-      "title": "IF THE HOLY SPIRIT GUIDES US INTO ALL TRUTH, WHY ARE SPIRIT-FILLED CHRISTIANS STILL DISAGREEING ABOUT THE BIBLE?",
-      "date": "2026-11-15T00:32:08+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026DQ7dYs3vzkzw9T55xUncmLvUvH2wojU5j26K8ejmLCvWUfTio7fuVyd19fNcUYzl"
-    },
-    {
-      "id": "29712559131661777",
-      "title": "WHAT IF THE DREAM YOU CALLED GOD’S VOICE WAS NEVER FROM GOD? AND WHAT IF YOU’VE BEEN IGNORING THE VOICE HE HAS ALREADY GIVEN YOU?",
-      "date": "2026-11-15T00:20:53+00:00",
+      "id": "29714730784777945",
+      "title": "DID GOD WRITE YOUR TRAGEDY… OR IS HE WEEPING WITH YOU IN THE MIDDLE OF IT?",
+      "date": "2026-11-15T04:24:21+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kbRtokXSKaffXvFeo5Hzn4hUXPGYYQQsi8JcXfJTjZX8HXTYRk7v8taAMZ8v5Nmgl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GcTVUgWYPd2FEAuDNUqEGfAzrUszteo3kix4Fd215UPC7k8vYfLPLUEz2fV9drYDl"
     },
     {
-      "id": "29712457951671895",
-      "title": "THE SIN JESUS SAID WILL NEVER BE FORGIVEN: WHAT IF YOU’VE ALREADY COMMITTED IT?",
-      "date": "2026-11-15T00:09:05+00:00",
+      "id": "29714338268150530",
+      "title": "SHE DISCOVERED HIS ONLYFANS PAYMENTS. HE SWORE HE NEVER CHEATED. BUT JESUS SAID SOMETHING THAT SHATTERED HIS DEFENSE.",
+      "date": "2026-11-15T03:39:44+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sS5f9qitACgKoKv3eRmyhZ4RE17hxvggFTxaHxVBLfciic8NfUAxX9NryjJtMisMl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EdTbPGmrpFVgmm2DNHmgYQFahz6rKJZU92ZTkKfPCog1wvNGD5LCebCoiGSyuicJl"
     },
     {
-      "id": "29712316245019399",
-      "title": "CAN YOU SIN SO MUCH THAT THE HOLY SPIRIT FINALLY LEAVES YOU?",
-      "date": "2026-11-14T23:51:48+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037EbBeB2jgBrbL1xS1c4cHPinG7tfA5pkUjG3VXbPvKK4agRufJw9SJUVr7ZUiMLVl"
+      "id": "29714259774825046",
+      "title": "THEY MEANT TO DESTROY YOU. GOD WAS NOT FINISHED WRITING YOUR STORY.",
+      "date": "2026-11-15T03:31:09+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0v73tnfLBMgSPyn8XQsNxaN9ScE1QjkWmKVfbC2GQr19CaACAc9UaFThXGqxqjqAPl"
+    },
+    {
+      "id": "29714074334843590",
+      "title": "IF GOD CAN DESTROY SATAN IN AN INSTANT… WHY HASN’T HE DONE IT YET?",
+      "date": "2026-11-15T03:10:36+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Dar7vntwaBC49BmLrUqAGau5yDz1nhYU8crSyo2uianNivd7DDRoF1w4adoDiuCsl"
+    },
+    {
+      "id": "29713956458188711",
+      "title": "YOUR SEX DRIVE IS STRONGER THAN YOUR PARTNER’S. DOES THAT MAKE ONE OF YOU THE SINNER?",
+      "date": "2026-11-15T02:57:32+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0uBY9DMWcTR9aL1hGrKrWnwpXXVzXKtTJrmBKeoEdN4jzBAofU2GAQLAEtmadYY6Wl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-15T01:52:35Z",
-  "discovered": 10,
-  "processed": 10,
-  "discoveredLastRun": 10,
+  "lastCheckStarted": "2026-11-15T09:18:36Z",
+  "discovered": 20,
+  "processed": 20,
+  "discoveredLastRun": 20,
   "pagesScanned": 2,
   "latest": {
-    "id": "29713264858257871",
-    "title": "IF GOD ALREADY KNOWS YOUR TOMORROW, DID YOU EVER REALLY HAVE A CHOICE?",
-    "date": "2026-11-15T01:41:58+00:00"
+    "id": "29717249481192742",
+    "title": "WILL YOU RECOGNIZE YOUR LOVED ONES IN HEAVEN? THE BIBLICAL ANSWER MAY BRING YOU TO TEARS",
+    "date": "2026-11-15T09:14:39+00:00"
   },
-  "lastImportCount": 10,
-  "lastImportAt": "2026-11-15T01:53:24Z",
+  "lastImportCount": 20,
+  "lastImportAt": "2026-11-15T09:19:36Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10244,
+  "structuredMetadata": 10264,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-674e2998939239fc98703def059cc8f99974aa98eb52da50468cb569c23c590d",
-  "statusGeneratedAt": "2026-11-15T01:53:24Z"
+  "contentRevision": "sha256-8268ef3ae06a595a586a1b9e395cd968156e3543a7f3602b92e887d2404fd3c3",
+  "statusGeneratedAt": "2026-11-15T09:19:36Z"
 }
