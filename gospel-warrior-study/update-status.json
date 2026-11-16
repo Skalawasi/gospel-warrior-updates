@@ -1,177 +1,142 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 15 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-16T09:35:54Z",
-  "lastSuccess": "2026-11-16T09:35:54Z",
-  "currentTotal": 10284,
-  "totalWords": 18074005,
+  "lastCheck": "2026-11-16T20:26:53Z",
+  "lastSuccess": "2026-11-16T20:26:53Z",
+  "currentTotal": 10299,
+  "totalWords": 18139224,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 15,
   "recentAdded": [
     {
-      "id": "29722111434039880",
-      "title": "JESUS KNELT TO WASH FEET. SO WHY DO SOME CHRISTIAN LEADERS DEMAND A THRONE?",
-      "date": "2026-11-15T16:55:32+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02prTngCUaheNuMUdrpEmUt6z83x9MhVqXZhMu514FTEoHL99GKU6RhR8yrteNKRZgl"
+      "id": "29734693092781714",
+      "title": "YOU DON’T WATCH PORN. YOU JUST READ EXPLICIT STORIES EVERY NIGHT. BUT DOES GOD SEE A DIFFERENCE?",
+      "date": "2026-11-16T15:40:25+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KpLKt6MAA1F6uNhZKcYXvgxBn8AEcPbD7TTMWJeuCgPzwbWCqsdN97khHpBFiXwel"
     },
     {
-      "id": "29721861360731554",
-      "title": "THEY LOOKED AT HIS CLOTHES. GOD LOOKED AT HIS HEART. AND THE CHURCH ALMOST MISSED HIM.",
-      "date": "2026-11-15T16:32:20+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0CSLfGbAMdJFBCgMhA6662p4rV2fR9Q2UfjpvrSWq7ZqDcQEU9u76mhgQpF8XXwcAl"
-    },
-    {
-      "id": "29721728500744840",
-      "title": "GOD OPENED PETER’S PRISON DOOR… SO WHY DID HE LET STEPHEN DIE?",
-      "date": "2026-11-15T16:20:28+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026T3tUtCsynaqTijSPijr77zUjKVXPqqMVAw1j8FwBJ5c2MjRA4AJpDeM4kMGe2Dwl"
-    },
-    {
-      "id": "29721244494126574",
-      "title": "THEY BELIEVED IN JESUS… SO WHY DID THE CHURCH STILL QUESTION WHETHER THEY BELONGED?",
-      "date": "2026-11-15T15:37:11+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0yokuP796Xi5kAYHdt4T8cyk2W9e4gzZNoU98bB81YpGDCZ13ZkJ8RmUa66JJsBzLl"
-    },
-    {
-      "id": "29721129327471424",
-      "title": "THEY THREATENED TO SILENCE THE APOSTLES. BUT ONE ANSWER SHOOK THE VERY AUTHORITIES WHO CONDEMNED JESUS.",
-      "date": "2026-11-15T15:27:15+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0AazBQbtzsuBWdi6tHybcFsmVeBukk3SvXsUgkx8dJHkAFR7xAEJFNimS2uj9xAjXl"
-    },
-    {
-      "id": "29721019497482407",
-      "title": "PETER WALKED AWAY FROM THE TABLE… AND PAUL EXPOSED WHAT WAS REALLY WRONG",
-      "date": "2026-11-15T15:17:35+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ahe5Yw9YfmoFh7nJtRxvTDs6SeD6jBgcaDsMWd4MML6oup3mN8weFxwkxzka94jZl"
-    },
-    {
-      "id": "29720935537490803",
-      "title": "PETER SAW UNCLEAN ANIMALS… BUT GOD WAS ABOUT TO EXPOSE SOMETHING FAR DEEPER THAN WHAT WAS ON HIS PLATE",
-      "date": "2026-11-15T15:10:09+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ioTiLpkvvY5bxFDthCDuoWXVyxCrGuUip7ESX4QtUb3n7HFrfm8tMAuYr3dTCvrJl"
-    },
-    {
-      "id": "29720433194207704",
-      "title": "THEY SOLD THEIR POSSESSIONS SO NOBODY WOULD GO HUNGRY. HAVE WE FORGOTTEN WHAT CHURCH IS SUPPOSED TO BE?",
-      "date": "2026-11-15T14:27:46+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ciAgSR6B5QspGENRsRvoWcm8MAYjDGvN5ehkZF1WRfXoKLwZnfXDwacDLoPMwpKQl"
-    },
-    {
-      "id": "29720314224219601",
-      "title": "PAUL CIRCUMCISED ONE MAN… BUT REFUSED TO CIRCUMCISE ANOTHER. WAS HE CONTRADICTING THE GOSPEL?",
-      "date": "2026-11-15T14:17:31+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid038Ma2Qm6e4H5hey4ZZ2jvkoqhywZjHiwkpGXBkvEQk6fbPV483nJsgZEWbtRjTvJEl"
-    },
-    {
-      "id": "29719702017614155",
-      "title": "THEY PREACHED GRACE TO THE WORLD… THEN COULDN’T AGREE WITH EACH OTHER: The Painful Separation of Paul and Barnabas",
-      "date": "2026-11-15T13:23:17+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid067HTfRVqNs9hmn73YwR4Hn2DAXW9ya6naJrxawaC2TN75pDwJPEiHdLCZ1aGS7nvl"
-    },
-    {
-      "id": "29719401777644179",
-      "title": "THE NIGHT PETER SWORE HE DIDN’T KNOW JESUS… AND THE MORNING GOD GAVE HIM A VOICE THAT SHOOK JERUSALEM",
-      "date": "2026-11-15T12:56:07+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MwdaCSAWc73tuAv3CdPPmbUVfc6bHxkAj4qVF2yiLSy8yx2Xp4JTVdVdX8m61HLJl"
-    },
-    {
-      "id": "29719099261007764",
-      "title": "JESUS KNEW JUDAS WOULD BETRAY HIM… SO WHY DID HE CHOOSE HIM ANYWAY?",
-      "date": "2026-11-15T12:27:55+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024fJQpMCz2dFAkZkEZnxwuxmV3rSW99fYAdG6uyMr6FuAqj6xihLGThb8yh3DkYJYl"
-    },
-    {
-      "id": "29718948747689482",
-      "title": "ONE DAY, DEATH ITSELF WILL BE SENTENCED TO DEATH—BUT WHAT HAPPENS TO THE SOUL STANDING BEFORE GOD?",
-      "date": "2026-11-15T12:13:35+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0DGB4NbNk6Fnb7ehQcGoEAQj9ac5VjXLMbABZfaeD1kHTX7ao6C5HmzWFhfb3wRhtl"
-    },
-    {
-      "id": "29718862641031426",
-      "title": "WILL GOD REPLAY EVERY SIN YOU'VE EVER COMMITTED IN HEAVEN—EVEN AFTER JESUS HAS FORGIVEN YOU?",
-      "date": "2026-11-15T12:05:29+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HWzKWd5QD2SaSiicdEhtD7Dghi99iRPwqQTDE2U5uxyuZMLwcQFopgDVYbwJaHyZl"
-    },
-    {
-      "id": "29718075967776760",
-      "title": "WILL YOU STILL BE MARRIED IN HEAVEN? JESUS GAVE AN ANSWER THAT CHANGES EVERYTHING.",
-      "date": "2026-11-15T10:44:38+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UnW4n9mfjMieKkqaRygWXNVgkwboxtgVbRfNjoBrPm17SNoBTG4wbzJsjHq19CQil"
-    },
-    {
-      "id": "29717941467790210",
-      "title": "WHAT IF YOU REACH HEAVEN… AND SOMEONE YOU LOVE ISN’T THERE?",
-      "date": "2026-11-15T10:30:19+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07ecpoCsUnQQGdApabzkUuED3sQaJcwLX2Ufhfj9NuRfVgfzNmAsEF6u2PycxzYdQl"
-    },
-    {
-      "id": "29717847591132931",
-      "title": "WHAT IF HEAVEN ISN’T GOD’S ESCAPE PLAN… BUT THE GREATEST RESTORATION IN HISTORY?",
-      "date": "2026-11-15T10:20:13+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02A6Uu2V1f9D1m7NpoiiEXrResB54DxtbJ9MwG24GyVWcDacpB7pGDCN7jZrigAg9vl"
-    },
-    {
-      "id": "29717595024491521",
-      "title": "THE MOMENT A CHRISTIAN DIES… DO THEY OPEN THEIR EYES IN HEAVEN, FALL ASLEEP, OR WAIT IN THE GRAVE?",
-      "date": "2026-11-15T09:52:28+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0h2UdpvwcuLRhV8DdcFAU4mvokTX5wreZKjsDY5xvXkq4dSuwmm4syrmQTko5Yfdfl"
-    },
-    {
-      "id": "29717432727841084",
-      "title": "WHAT IF EVERYTHING YOU BELIEVE ABOUT HELL IS WRONG? THE TERRIFYING QUESTION JESUS REFUSED TO LET US IGNORE",
-      "date": "2026-11-15T09:34:44+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qyfGmxQw6j3oSDJj3Hb6GRcoAK1CDn8pukMDWoPYiyx7vTMfUayEbqSEDUJobSyYl"
-    },
-    {
-      "id": "29717371427847214",
-      "title": "WHAT IF YOU GET TO HEAVEN… BUT WATCH EVERYTHING YOU LIVED FOR GO UP IN FLAMES?",
-      "date": "2026-11-15T09:27:51+00:00",
+      "id": "29734213902829633",
+      "title": "DOES GOD REALLY LOVE EVERYONE THE SAME? THE BIBLE'S ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS IT.",
+      "date": "2026-11-16T14:57:30+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06H7Y7fRYvmR95LmQ26E7iGfqiKWERkjK5snCs4A3QeCEmoaXFEoemFnaeXZqk29cl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wHJnUZgRRjdHCyuL1p2gApVhw8gkYWX5amHKh33UAWoRiEAj68aUbhEEZgeUxzDGl"
+    },
+    {
+      "id": "29733957372855286",
+      "title": "DID JESUS DIE FOR EVERYONE… OR ONLY FOR THOSE WHO WILL BE SAVED? THE ANSWER MAY CHANGE HOW YOU SEE THE CROSS FOREVER.",
+      "date": "2026-11-16T14:34:29+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qr21khQB4cUSUdY6RJqHEUvYkPy6V2wXP29tqLqR3RvNEHVMn3C5cxEXLrCEzaqkl"
+    },
+    {
+      "id": "29733850942865929",
+      "title": "THE GOD WHO BLED: THE TRUTH ABOUT JESUS THAT SHATTERS HUMAN LOGIC BUT HOLDS YOUR SALVATION TOGETHER",
+      "date": "2026-11-16T14:24:59+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0urxoqkcMSM8StqYj5CQepMdCoqiXTLPe1g5QHWqgSn8iEkDcniaywMpEyJ1st9Uol"
+    },
+    {
+      "id": "29733609212890102",
+      "title": "IF JESUS IS GOD, WHY DID HE SAY HE DIDN’T KNOW WHEN HE WOULD RETURN?",
+      "date": "2026-11-16T14:03:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022TR8RVh6avWCcvrks38rhCSWBrT74tWPaojdTbpNjDoQU5HWAQSXYyhWakLjuAd8l"
+    },
+    {
+      "id": "29733057182945305",
+      "title": "THE TRINITY: DID GOD REALLY REVEAL IT IN THE BIBLE… OR DID THE CHURCH PUT THE PIECES TOGETHER CENTURIES LATER?",
+      "date": "2026-11-16T13:14:39+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MHC5E2KJmSQK21XqVz5iphu5s6hGxEPmKAfjopb8GH7BGsdhv92g1uakFXzjqfNMl"
+    },
+    {
+      "id": "29732576439660046",
+      "title": "IF JESUS IS GOD, WHO WAS HE PRAYING TO? THE QUESTION THAT COULD CHANGE EVERYTHING YOU BELIEVE ABOUT CHRIST",
+      "date": "2026-11-16T12:30:21+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Cb5QjHZTz3qmKkey5mMV3ukRSACu4GtQ7qjaWmWDpK5eC8WfJkftuop7Qr9aU6Xil"
+    },
+    {
+      "id": "29732168946367462",
+      "title": "JESUS DIDN’T TELL THEM TO FILL THE JARS HALFWAY—AND THE REASON MAY CHANGE HOW YOU SEE YOUR EMPTY LIFE",
+      "date": "2026-11-16T11:51:42+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UpMm85cybpWYnRd9qpN6FmcxCfmdnV1fF3pYNTuwg7nGnkT3Xh5AzKPQJxaFnfERl"
+    },
+    {
+      "id": "29732075443043479",
+      "title": "THE BIBLE LEFT IT UNSAID. WHY ARE WE PUTTING WORDS IN GOD’S MOUTH?",
+      "date": "2026-11-16T11:42:32+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XiynCzC4bVr4gdMbpevzqvkFqankvnb4QmwEm1tqnKapWpX6tdgwWiALxPW4BYDAl"
+    },
+    {
+      "id": "29731881626396194",
+      "title": "THE NIGHT PETER DENIED JESUS, THERE WAS A CHARCOAL FIRE. AFTER THE RESURRECTION, JESUS BUILT ANOTHER.",
+      "date": "2026-11-16T11:23:13+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0N6hRJwzAmbpDMSu3sEKE327fFuH93XUQ7YKnZiLLWbaY63EeG2wRTNb9GecDa1Swl"
+    },
+    {
+      "id": "29731717133079310",
+      "title": "CAN A PASTOR CURSE YOU FOR NOT GIVING AN OFFERING? THE TERRIFYING LIE THAT HAS KEPT TOO MANY CHRISTIANS AFRAID OF GOD",
+      "date": "2026-11-16T11:06:19+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0egA3yZigDCDrf3GgEf96PZ4UeCB2Yf9A86LDVNrDiyJignmgPwJSPqnEu74X3iWl"
+    },
+    {
+      "id": "29731566773094346",
+      "title": "THEY WATCHED PORN TOGETHER TO SAVE THEIR MARRIAGE… BUT WHAT IF THE VERY THING EXCITING THEM WAS QUIETLY DESTROYING THEIR INTIMACY?",
+      "date": "2026-11-16T10:50:49+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zsgNqGTMAMy47XqojeiAxk7kvBD4RmSWn8hqcoYqqw7zfrbZu6pvCpXfQxA2yWmol"
+    },
+    {
+      "id": "29731473629770327",
+      "title": "IS FLIRTING WITH SOMEONE ELSE CHEATING WHEN YOU’RE MARRIED? THE ANSWER MAY EXPOSE WHAT YOUR HEART HAS BEEN HIDING.",
+      "date": "2026-11-16T10:41:16+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hYBZPHsRFsAScPazMziCbxCgBLokGXbw75zcjEy8gwhWbzTZ8f9adAUTcngfHcrdl"
+    },
+    {
+      "id": "29731354029782287",
+      "title": "SHE PAINTED HER EYES BEFORE THEY THREW HER TO HER DEATH. BUT THE MOST TERRIFYING PART OF JEZEBEL’S STORY WASN’T HOW SHE DIED.",
+      "date": "2026-11-16T10:28:58+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rkf4q9YShRW5HPDRvoqKn3yeCb2QypL8i5hTxGdrVgT5sz9r47UEsH4HLKZsiKKCl"
+    },
+    {
+      "id": "29731240753126948",
+      "title": "IF JESUS IS REALLY GOD, WHY DID HE SAY, “THE FATHER IS GREATER THAN I”?",
+      "date": "2026-11-16T10:17:09+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LwXqR5vcPfMrTgmQS7uckBXp2abPGSWbETPZsz8UF3M7aZ8ZVGBWTbL54NeNdxjdl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-16T09:35:31Z",
-  "discovered": 20,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-16T20:25:39Z",
+  "discovered": 15,
+  "processed": 15,
+  "discoveredLastRun": 15,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29722111434039880",
-    "title": "JESUS KNELT TO WASH FEET. SO WHY DO SOME CHRISTIAN LEADERS DEMAND A THRONE?",
-    "date": "2026-11-15T16:55:32+00:00"
+    "id": "29734693092781714",
+    "title": "YOU DON’T WATCH PORN. YOU JUST READ EXPLICIT STORIES EVERY NIGHT. BUT DOES GOD SEE A DIFFERENCE?",
+    "date": "2026-11-16T15:40:25+00:00"
   },
-  "lastImportCount": 20,
-  "lastImportAt": "2026-11-15T17:06:45Z",
+  "lastImportCount": 15,
+  "lastImportAt": "2026-11-16T20:26:53Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10284,
+  "structuredMetadata": 10299,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-2aedd81daf79c1350a098843504e04337d2ca8a0d3fa6637ef586ef5f827976f",
-  "statusGeneratedAt": "2026-11-16T09:35:54Z"
+  "contentRevision": "sha256-8dbf200dfe1136424acb97bf944d2e5ec2b6bb1a2ecc0a197116142c5b3a455f",
+  "statusGeneratedAt": "2026-11-16T20:26:53Z"
 }
