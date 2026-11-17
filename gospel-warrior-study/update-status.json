@@ -1,44 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 1 new public study.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-17T03:49:44Z",
-  "lastSuccess": "2026-11-17T03:49:44Z",
-  "currentTotal": 10300,
-  "totalWords": 18143558,
+  "lastCheck": "2026-11-17T13:19:11Z",
+  "lastSuccess": "2026-11-17T13:19:11Z",
+  "currentTotal": 10302,
+  "totalWords": 18152976,
   "subjects": 17,
-  "addedLastRun": 1,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29738792102371813",
-      "title": "GOD MARKED A MURDERER FOR PROTECTION. BUT WHY DIDN’T HE LET CAIN DIE?",
-      "date": "2026-11-16T21:59:08+00:00",
+      "id": "29748223361428687",
+      "title": "SHE KILLED THE ROYAL CHILDREN TO STEAL THE THRONE… BUT SHE NEVER KNEW ONE BABY WAS STILL ALIVE.",
+      "date": "2026-11-17T13:09:35+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0E58qHSq8oov5VNdUrL8RKzYauFobyh3QjWg8NddSAt4dByVY6xXWEez9y7Dgwi7Ql"
+    },
+    {
+      "id": "29748089241442099",
+      "title": "ABRAHAM LAUGHED. SARAH LAUGHED. BUT GOD WASN’T JOKING.",
+      "date": "2026-11-17T12:58:47+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0z3jjFX2T3U8inKCMdxgi9xPh2T5nhNL3dg94gBACYi1eVuXZjXsssDk91GAX9Jaxl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027ywzPZUjBx2dWYvbcsfyCqvxSVWpn8rVxroaaARPXu8nYQG6HBbdbz7HQDgF7q4bl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-17T03:49:08Z",
-  "discovered": 1,
-  "processed": 1,
-  "discoveredLastRun": 1,
+  "lastCheckStarted": "2026-11-17T13:18:22Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
   "pagesScanned": 1,
   "latest": {
-    "id": "29738792102371813",
-    "title": "GOD MARKED A MURDERER FOR PROTECTION. BUT WHY DIDN’T HE LET CAIN DIE?",
-    "date": "2026-11-16T21:59:08+00:00"
+    "id": "29748223361428687",
+    "title": "SHE KILLED THE ROYAL CHILDREN TO STEAL THE THRONE… BUT SHE NEVER KNEW ONE BABY WAS STILL ALIVE.",
+    "date": "2026-11-17T13:09:35+00:00"
   },
-  "lastImportCount": 1,
-  "lastImportAt": "2026-11-17T03:49:44Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-11-17T13:19:11Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10300,
+  "structuredMetadata": 10302,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-a7abebf0c2bd090d33f3b352aa197694161185d6be6cfb198be46cc20c8dd8cb",
-  "statusGeneratedAt": "2026-11-17T03:49:44Z"
+  "contentRevision": "sha256-3c164d1cbdb9098c5a6537b72dbb4a1a762b2415c390d5966dcb1b6579548d2c",
+  "statusGeneratedAt": "2026-11-17T13:19:12Z"
 }
