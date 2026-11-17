@@ -1,142 +1,44 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 15 new public studies.",
+  "message": "Added 1 new public study.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-16T20:26:53Z",
-  "lastSuccess": "2026-11-16T20:26:53Z",
-  "currentTotal": 10299,
-  "totalWords": 18139224,
+  "lastCheck": "2026-11-17T03:49:44Z",
+  "lastSuccess": "2026-11-17T03:49:44Z",
+  "currentTotal": 10300,
+  "totalWords": 18143558,
   "subjects": 17,
-  "addedLastRun": 15,
+  "addedLastRun": 1,
   "recentAdded": [
     {
-      "id": "29734693092781714",
-      "title": "YOU DON’T WATCH PORN. YOU JUST READ EXPLICIT STORIES EVERY NIGHT. BUT DOES GOD SEE A DIFFERENCE?",
-      "date": "2026-11-16T15:40:25+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KpLKt6MAA1F6uNhZKcYXvgxBn8AEcPbD7TTMWJeuCgPzwbWCqsdN97khHpBFiXwel"
-    },
-    {
-      "id": "29734213902829633",
-      "title": "DOES GOD REALLY LOVE EVERYONE THE SAME? THE BIBLE'S ANSWER MAY BREAK YOUR HEART BEFORE IT HEALS IT.",
-      "date": "2026-11-16T14:57:30+00:00",
+      "id": "29738792102371813",
+      "title": "GOD MARKED A MURDERER FOR PROTECTION. BUT WHY DIDN’T HE LET CAIN DIE?",
+      "date": "2026-11-16T21:59:08+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wHJnUZgRRjdHCyuL1p2gApVhw8gkYWX5amHKh33UAWoRiEAj68aUbhEEZgeUxzDGl"
-    },
-    {
-      "id": "29733957372855286",
-      "title": "DID JESUS DIE FOR EVERYONE… OR ONLY FOR THOSE WHO WILL BE SAVED? THE ANSWER MAY CHANGE HOW YOU SEE THE CROSS FOREVER.",
-      "date": "2026-11-16T14:34:29+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0qr21khQB4cUSUdY6RJqHEUvYkPy6V2wXP29tqLqR3RvNEHVMn3C5cxEXLrCEzaqkl"
-    },
-    {
-      "id": "29733850942865929",
-      "title": "THE GOD WHO BLED: THE TRUTH ABOUT JESUS THAT SHATTERS HUMAN LOGIC BUT HOLDS YOUR SALVATION TOGETHER",
-      "date": "2026-11-16T14:24:59+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0urxoqkcMSM8StqYj5CQepMdCoqiXTLPe1g5QHWqgSn8iEkDcniaywMpEyJ1st9Uol"
-    },
-    {
-      "id": "29733609212890102",
-      "title": "IF JESUS IS GOD, WHY DID HE SAY HE DIDN’T KNOW WHEN HE WOULD RETURN?",
-      "date": "2026-11-16T14:03:52+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022TR8RVh6avWCcvrks38rhCSWBrT74tWPaojdTbpNjDoQU5HWAQSXYyhWakLjuAd8l"
-    },
-    {
-      "id": "29733057182945305",
-      "title": "THE TRINITY: DID GOD REALLY REVEAL IT IN THE BIBLE… OR DID THE CHURCH PUT THE PIECES TOGETHER CENTURIES LATER?",
-      "date": "2026-11-16T13:14:39+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MHC5E2KJmSQK21XqVz5iphu5s6hGxEPmKAfjopb8GH7BGsdhv92g1uakFXzjqfNMl"
-    },
-    {
-      "id": "29732576439660046",
-      "title": "IF JESUS IS GOD, WHO WAS HE PRAYING TO? THE QUESTION THAT COULD CHANGE EVERYTHING YOU BELIEVE ABOUT CHRIST",
-      "date": "2026-11-16T12:30:21+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Cb5QjHZTz3qmKkey5mMV3ukRSACu4GtQ7qjaWmWDpK5eC8WfJkftuop7Qr9aU6Xil"
-    },
-    {
-      "id": "29732168946367462",
-      "title": "JESUS DIDN’T TELL THEM TO FILL THE JARS HALFWAY—AND THE REASON MAY CHANGE HOW YOU SEE YOUR EMPTY LIFE",
-      "date": "2026-11-16T11:51:42+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UpMm85cybpWYnRd9qpN6FmcxCfmdnV1fF3pYNTuwg7nGnkT3Xh5AzKPQJxaFnfERl"
-    },
-    {
-      "id": "29732075443043479",
-      "title": "THE BIBLE LEFT IT UNSAID. WHY ARE WE PUTTING WORDS IN GOD’S MOUTH?",
-      "date": "2026-11-16T11:42:32+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XiynCzC4bVr4gdMbpevzqvkFqankvnb4QmwEm1tqnKapWpX6tdgwWiALxPW4BYDAl"
-    },
-    {
-      "id": "29731881626396194",
-      "title": "THE NIGHT PETER DENIED JESUS, THERE WAS A CHARCOAL FIRE. AFTER THE RESURRECTION, JESUS BUILT ANOTHER.",
-      "date": "2026-11-16T11:23:13+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0N6hRJwzAmbpDMSu3sEKE327fFuH93XUQ7YKnZiLLWbaY63EeG2wRTNb9GecDa1Swl"
-    },
-    {
-      "id": "29731717133079310",
-      "title": "CAN A PASTOR CURSE YOU FOR NOT GIVING AN OFFERING? THE TERRIFYING LIE THAT HAS KEPT TOO MANY CHRISTIANS AFRAID OF GOD",
-      "date": "2026-11-16T11:06:19+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0egA3yZigDCDrf3GgEf96PZ4UeCB2Yf9A86LDVNrDiyJignmgPwJSPqnEu74X3iWl"
-    },
-    {
-      "id": "29731566773094346",
-      "title": "THEY WATCHED PORN TOGETHER TO SAVE THEIR MARRIAGE… BUT WHAT IF THE VERY THING EXCITING THEM WAS QUIETLY DESTROYING THEIR INTIMACY?",
-      "date": "2026-11-16T10:50:49+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02zsgNqGTMAMy47XqojeiAxk7kvBD4RmSWn8hqcoYqqw7zfrbZu6pvCpXfQxA2yWmol"
-    },
-    {
-      "id": "29731473629770327",
-      "title": "IS FLIRTING WITH SOMEONE ELSE CHEATING WHEN YOU’RE MARRIED? THE ANSWER MAY EXPOSE WHAT YOUR HEART HAS BEEN HIDING.",
-      "date": "2026-11-16T10:41:16+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0hYBZPHsRFsAScPazMziCbxCgBLokGXbw75zcjEy8gwhWbzTZ8f9adAUTcngfHcrdl"
-    },
-    {
-      "id": "29731354029782287",
-      "title": "SHE PAINTED HER EYES BEFORE THEY THREW HER TO HER DEATH. BUT THE MOST TERRIFYING PART OF JEZEBEL’S STORY WASN’T HOW SHE DIED.",
-      "date": "2026-11-16T10:28:58+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0rkf4q9YShRW5HPDRvoqKn3yeCb2QypL8i5hTxGdrVgT5sz9r47UEsH4HLKZsiKKCl"
-    },
-    {
-      "id": "29731240753126948",
-      "title": "IF JESUS IS REALLY GOD, WHY DID HE SAY, “THE FATHER IS GREATER THAN I”?",
-      "date": "2026-11-16T10:17:09+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LwXqR5vcPfMrTgmQS7uckBXp2abPGSWbETPZsz8UF3M7aZ8ZVGBWTbL54NeNdxjdl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0z3jjFX2T3U8inKCMdxgi9xPh2T5nhNL3dg94gBACYi1eVuXZjXsssDk91GAX9Jaxl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-16T20:25:39Z",
-  "discovered": 15,
-  "processed": 15,
-  "discoveredLastRun": 15,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-17T03:49:08Z",
+  "discovered": 1,
+  "processed": 1,
+  "discoveredLastRun": 1,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29734693092781714",
-    "title": "YOU DON’T WATCH PORN. YOU JUST READ EXPLICIT STORIES EVERY NIGHT. BUT DOES GOD SEE A DIFFERENCE?",
-    "date": "2026-11-16T15:40:25+00:00"
+    "id": "29738792102371813",
+    "title": "GOD MARKED A MURDERER FOR PROTECTION. BUT WHY DIDN’T HE LET CAIN DIE?",
+    "date": "2026-11-16T21:59:08+00:00"
   },
-  "lastImportCount": 15,
-  "lastImportAt": "2026-11-16T20:26:53Z",
+  "lastImportCount": 1,
+  "lastImportAt": "2026-11-17T03:49:44Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10299,
+  "structuredMetadata": 10300,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-8dbf200dfe1136424acb97bf944d2e5ec2b6bb1a2ecc0a197116142c5b3a455f",
-  "statusGeneratedAt": "2026-11-16T20:26:53Z"
+  "contentRevision": "sha256-a7abebf0c2bd090d33f3b352aa197694161185d6be6cfb198be46cc20c8dd8cb",
+  "statusGeneratedAt": "2026-11-17T03:49:44Z"
 }
