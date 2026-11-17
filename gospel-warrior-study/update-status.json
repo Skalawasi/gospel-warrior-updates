@@ -1,51 +1,100 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 2 new public studies.",
+  "message": "Added 9 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-17T13:19:11Z",
-  "lastSuccess": "2026-11-17T13:19:11Z",
-  "currentTotal": 10302,
-  "totalWords": 18152976,
+  "lastCheck": "2026-11-17T22:19:36Z",
+  "lastSuccess": "2026-11-17T22:19:36Z",
+  "currentTotal": 10311,
+  "totalWords": 18192918,
   "subjects": 17,
-  "addedLastRun": 2,
+  "addedLastRun": 9,
   "recentAdded": [
     {
-      "id": "29748223361428687",
-      "title": "SHE KILLED THE ROYAL CHILDREN TO STEAL THE THRONE… BUT SHE NEVER KNEW ONE BABY WAS STILL ALIVE.",
-      "date": "2026-11-17T13:09:35+00:00",
+      "id": "29750303657887324",
+      "title": "GOD HAD ALREADY CHOSEN JACOB… SO WHY DID REBEKAH HELP HIM LIE TO HIS BLIND FATHER?",
+      "date": "2026-11-17T15:52:28+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0E58qHSq8oov5VNdUrL8RKzYauFobyh3QjWg8NddSAt4dByVY6xXWEez9y7Dgwi7Ql"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02veipdvDxfvKKtJBweeDCTrADrn9sBfCqC4kbqEw63RfW7PvYVykTK63Q1mfLqAUMl"
     },
     {
-      "id": "29748089241442099",
-      "title": "ABRAHAM LAUGHED. SARAH LAUGHED. BUT GOD WASN’T JOKING.",
-      "date": "2026-11-17T12:58:47+00:00",
+      "id": "29750026414581715",
+      "title": "HE CALLED THEM HIS DAUGHTERS… THEN OFFERED THEM TO A VIOLENT MOB. HOW DID LOT FALL THIS FAR?",
+      "date": "2026-11-17T15:31:01+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0HdDSdt1reBvouHtCP53sdaQHs7qUucMGJePHPpwwWfEJrvQPUvsuKzS81LuqzU4nl"
+    },
+    {
+      "id": "29749643731286650",
+      "title": "GOD TOLD ABRAHAM TO SEND THEM AWAY… SO WHY DID HE FOLLOW THEM INTO THE WILDERNESS?",
+      "date": "2026-11-17T15:01:49+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027ywzPZUjBx2dWYvbcsfyCqvxSVWpn8rVxroaaARPXu8nYQG6HBbdbz7HQDgF7q4bl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029bm5etSEVx8idHESGYot8ro8wW7YL4ADyfqwo8CZiNyjHg52oNTiveo4xYmVX8Hol"
+    },
+    {
+      "id": "29749509347966755",
+      "title": "JESUS TURNED WATER INTO WINE… BUT WHY DID HE MAKE THE SERVANTS CARRY IT TO THE ONE MAN WHO COULD EXPOSE THEM?",
+      "date": "2026-11-17T14:51:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07fPGDZiJe8tkd1rcujA85P7skJZ7EceuXWKkEfc85ybT4fiwP66PCz4zpJbhKsfVl"
+    },
+    {
+      "id": "29749365054647851",
+      "title": "THE SIN YOU BURIED IS STILL BREATHING: WHY GOD WILL NOT LET WHAT IS HIDDEN STAY HIDDEN FOREVER",
+      "date": "2026-11-17T14:40:42+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0316tp9nn5VrzsPM4J75S8CMJ2v1uLGsfT8C58WqF33N2ccouQvZq83zWVxGmXTqbXl"
+    },
+    {
+      "id": "29749248574659499",
+      "title": "“BECAUSE YOU ARE LUKEWARM, I WILL SPIT YOU OUT” — THE TERRIFYING TRUTH ABOUT WHAT JESUS REALLY MEANT",
+      "date": "2026-11-17T14:32:18+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UA2VCBMBadBdEPdxy8tctqdhkxtfZ3NNC74o3CnjeYnrgxVnsaosTaQtSpC9Wgt2l"
+    },
+    {
+      "id": "29749021684682188",
+      "title": "DOES GOD STOP BLESSING YOU WHEN YOU STOP TITHING? THE TRUTH ABOUT MONEY, MALACHI 3:10, AND THE GOD WHO CANNOT BE BOUGHT",
+      "date": "2026-11-17T14:13:57+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MQHjdyUVgSUBPNomwvcYe3nDmt4PL9KXxXH4icQKjASsb14DNAkuG7XSzBUx96zel"
+    },
+    {
+      "id": "29748866748031015",
+      "title": "THE CHARACTERS AREN’T REAL. BUT WHAT IS HAPPENING TO YOUR SOUL IS.",
+      "date": "2026-11-17T14:01:26+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Nc5LiheeLokbubwgrDhjsL7hkXsCNpWUTSky27YCfwEESSm9LBbQiEwxaHLUdRVpl"
+    },
+    {
+      "id": "29748687711382252",
+      "title": "WHAT IF THE WORSHIP GAVE YOU GOOSEBUMPS… BUT GOD NEVER GOT YOUR HEART?",
+      "date": "2026-11-17T13:47:01+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02obQGT5qZJUNHbnf99AhAz8JrxLrZZxZChvCQw8q2yfkZyYP1YnPaGCQm8aa1pCnAl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-17T13:18:22Z",
-  "discovered": 2,
-  "processed": 2,
-  "discoveredLastRun": 2,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-17T22:18:47Z",
+  "discovered": 9,
+  "processed": 9,
+  "discoveredLastRun": 9,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29748223361428687",
-    "title": "SHE KILLED THE ROYAL CHILDREN TO STEAL THE THRONE… BUT SHE NEVER KNEW ONE BABY WAS STILL ALIVE.",
-    "date": "2026-11-17T13:09:35+00:00"
+    "id": "29750303657887324",
+    "title": "GOD HAD ALREADY CHOSEN JACOB… SO WHY DID REBEKAH HELP HIM LIE TO HIS BLIND FATHER?",
+    "date": "2026-11-17T15:52:28+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-11-17T13:19:11Z",
+  "lastImportCount": 9,
+  "lastImportAt": "2026-11-17T22:19:36Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10302,
+  "structuredMetadata": 10311,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3c164d1cbdb9098c5a6537b72dbb4a1a762b2415c390d5966dcb1b6579548d2c",
-  "statusGeneratedAt": "2026-11-17T13:19:12Z"
+  "contentRevision": "sha256-a66d5d33adcd45c52f347f84b0e79b18de8c56cdfb7fd6a46eba5bcad19401c0",
+  "statusGeneratedAt": "2026-11-17T22:19:36Z"
 }
