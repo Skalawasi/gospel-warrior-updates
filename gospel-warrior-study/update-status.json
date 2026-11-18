@@ -1,79 +1,86 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 7 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-18T13:05:01Z",
-  "lastSuccess": "2026-11-18T13:05:01Z",
-  "currentTotal": 10327,
-  "totalWords": 18266266,
+  "lastCheck": "2026-11-18T21:25:31Z",
+  "lastSuccess": "2026-11-18T21:25:31Z",
+  "currentTotal": 10334,
+  "totalWords": 18300757,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 7,
   "recentAdded": [
     {
-      "id": "29761835183400838",
-      "title": "SOLOMON HAD 700 WIVES. BUT HIS HEART WAS ALREADY BREAKING GOD’S LAW BEFORE IT TURNED AWAY.",
-      "date": "2026-11-18T10:55:47+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MPXSq2UGry3x4DSXS4YKTdBZWxz96Qsk1SeCHcyvnq5aQyU15DPftFv7z8mLtnujl"
-    },
-    {
-      "id": "29761760970074926",
-      "title": "ABRAHAM HAD SARAH. THEN HE HAD HAGAR. BUT DID ANYONE EVER ASK HAGAR IF SHE HAD A CHOICE?",
-      "date": "2026-11-18T10:48:09+00:00",
+      "id": "29766177786299911",
+      "title": "GOD BUILT A NATION THROUGH FOUR WOMEN—BUT DID HE EVER BLESS THE HOUSEHOLD THAT BROKE THEIR HEARTS?",
+      "date": "2026-11-18T17:04:13+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ua9RCFJMzFwzPX3T3vv1tbzCvQEqEQNEEJ7boVFj2Y7o6mCUAsKp75sfQyiG3ntLl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021VW6jSBnnDwgQpCvjWX482V3j9qf6QqVSZ9znQ6AbwHaWn2EXKmYsFMRKnDN1FqCl"
     },
     {
-      "id": "29761612860089737",
-      "title": "JACOB LOVED RACHEL MORE THAN LEAH… BUT GOD SAW THE WOMAN NOBODY CHOSE",
-      "date": "2026-11-18T10:32:47+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UHEbvn4UHUeFuYqymScrwJ2pUMD4pcvzFZ9kWyJ8XM6mxGPLj4Hx4xQAnJLft4HAl"
+      "id": "29766046056313084",
+      "title": "SHE SHARED HIS BED… BUT NEVER HELD THE TITLE OF WIFE. WHY DID THE OLD TESTAMENT ALLOW THIS?",
+      "date": "2026-11-18T16:53:16+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02pivq19xY121LKKPQzLxwxJ8buzvdqgFf2fKGB2Vvt9fGQXu6tUtVkzicHatEY35bl"
     },
     {
-      "id": "29761529273431429",
-      "title": "IF GOD OPPOSES POLYGAMY, WHY DID HE COMMAND MEN TO PROVIDE FOR MULTIPLE WIVES? THE DISTURBING TRUTH BEHIND EXODUS 21:10",
-      "date": "2026-11-18T10:24:06+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UVnyUrxPcnstSgQfMnorXcxmmSAYuG1eiHcMBR3WUaLPE8HejzmnutpUuWRquEepl"
+      "id": "29765698389681184",
+      "title": "DAVID CALLED HER HIS WIFE. BUT GOD NEVER CALLED WHAT HE DID TO HER LOVE.",
+      "date": "2026-11-18T16:24:52+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028oZkAPpfe5jvusXb92W7eEZW6QyxPgGHPAMWqPiMsGZ3ALoZeiKD15oJRedqEnwHl"
     },
     {
-      "id": "29760808460170177",
-      "title": "GOD GAVE DAVID ANOTHER MAN’S WIVES? THE DISTURBING VERSE THAT MANY CHRISTIANS DON’T KNOW HOW TO EXPLAIN",
-      "date": "2026-11-18T09:07:49+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bSLqy7oq28FGfwdPRL2W6cvVqBNQ5TXGeXUch8qNBKhxU4rKgno4YjeudU2GFudrl"
+      "id": "29765602449690778",
+      "title": "“HUSBAND OF ONE WIFE”: THE FOUR WORDS THAT COULD EXPOSE WHAT WE’VE BEEN GETTING WRONG ABOUT CHURCH LEADERSHIP",
+      "date": "2026-11-18T16:17:18+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0aBwHAkRFWXinH33bSoa89fJnH5dQcb7iG8HXEme3erMX9DWgS8emPCbkJzNozAEYl"
     },
     {
-      "id": "29760514213532935",
-      "title": "CAN A MARRIED CHRISTIAN HAVE A CRUSH ON THEIR PASTOR? THE SECRET ATTRACTION NOBODY WANTS TO CONFESS",
-      "date": "2026-11-18T08:35:21+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028n9NkXNVjLGkx8a6HS5g49wJPNEWz4vf5UEkYoLv6Ben6iXGcqYsbQApMpDWsXJTl"
+      "id": "29765524989698524",
+      "title": "HANNAH WAS LOVED BY HER HUSBAND… SO WHY DID GOD ALLOW ANOTHER WOMAN TO BREAK HER HEART?",
+      "date": "2026-11-18T16:11:11+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02cApoqy96ZVk92JZSWWkEAZoZRRTapoGqaU6d6fvcHQQGJSHW3hn32j3RBsepjCkgl"
+    },
+    {
+      "id": "29765167089734314",
+      "title": "HE CAME TO JESUS WITH THREE WIVES. THE CHURCH TOLD HIM TO CHOOSE ONE. BUT WHAT HAPPENS TO THE WOMEN HE LEAVES BEHIND?",
+      "date": "2026-11-18T15:43:16+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02aeh7vR4yNGmEKs8WveP72Vxjkkr73Y4oM2bSZZq1UPViBE5Gzqo2ppionTMjHP4gl"
+    },
+    {
+      "id": "29765057863078570",
+      "title": "IF GOD ALLOWED THE PATRIARCHS TO HAVE MULTIPLE WIVES, WHY DOES THE NEW TESTAMENT POINT BACK TO ONE MAN AND ONE WOMAN?",
+      "date": "2026-11-18T15:34:45+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02RwpBDUvsWnmyQxnoWNGE2JE4Aioj5nWWaCtjb8g4oKHFHwfqAYfHegc4SkcV4YJCl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-18T13:04:03Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
+  "lastCheckStarted": "2026-11-18T21:24:48Z",
+  "discovered": 7,
+  "processed": 7,
+  "discoveredLastRun": 7,
   "pagesScanned": 1,
   "latest": {
-    "id": "29761835183400838",
-    "title": "SOLOMON HAD 700 WIVES. BUT HIS HEART WAS ALREADY BREAKING GOD’S LAW BEFORE IT TURNED AWAY.",
-    "date": "2026-11-18T10:55:47+00:00"
+    "id": "29766177786299911",
+    "title": "GOD BUILT A NATION THROUGH FOUR WOMEN—BUT DID HE EVER BLESS THE HOUSEHOLD THAT BROKE THEIR HEARTS?",
+    "date": "2026-11-18T17:04:13+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-11-18T13:05:01Z",
+  "lastImportCount": 7,
+  "lastImportAt": "2026-11-18T21:25:31Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10327,
+  "structuredMetadata": 10334,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-220a583643d2d0182a1f9ecd8f4cc5840ff8306c7939b8d63d9e2d040712bc2d",
-  "statusGeneratedAt": "2026-11-18T13:05:01Z"
+  "contentRevision": "sha256-747b4de9451ac10c06d181e81a0a5db4ccc7873d6d135c77ed13fd007f0b3e63",
+  "statusGeneratedAt": "2026-11-18T21:25:32Z"
 }
