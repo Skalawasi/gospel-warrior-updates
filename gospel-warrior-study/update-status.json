@@ -1,107 +1,79 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 10 new public studies.",
+  "message": "Added 6 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-18T04:16:59Z",
-  "lastSuccess": "2026-11-18T04:16:59Z",
-  "currentTotal": 10321,
-  "totalWords": 18238211,
+  "lastCheck": "2026-11-18T13:05:01Z",
+  "lastSuccess": "2026-11-18T13:05:01Z",
+  "currentTotal": 10327,
+  "totalWords": 18266266,
   "subjects": 17,
-  "addedLastRun": 10,
+  "addedLastRun": 6,
   "recentAdded": [
     {
-      "id": "29758128887104801",
-      "title": "YOUR EX JUST TEXTED, “I MISS YOU.” BUT YOU’RE MARRIED NOW. WHAT YOU DO NEXT COULD CHANGE EVERYTHING.",
-      "date": "2026-11-18T04:12:46+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0zi543taSjs1zZ5m59ET137qLo3qGziCZs286LPdc3xh4RJ3JWU6CYzAmMUtJUM59l"
+      "id": "29761835183400838",
+      "title": "SOLOMON HAD 700 WIVES. BUT HIS HEART WAS ALREADY BREAKING GOD’S LAW BEFORE IT TURNED AWAY.",
+      "date": "2026-11-18T10:55:47+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MPXSq2UGry3x4DSXS4YKTdBZWxz96Qsk1SeCHcyvnq5aQyU15DPftFv7z8mLtnujl"
     },
     {
-      "id": "29757943573789999",
-      "title": "YOUR PASTOR KEEPS COMPLIMENTING YOUR APPEARANCE. WHEN DOES SPIRITUAL AUTHORITY BECOME A RED FLAG?",
-      "date": "2026-11-18T03:53:34+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02rJZBjxYM4gizuo8gXPzWngZmGTQDizUhPb3mfPxrdUThkjWzgUTUs7MC7t3CqAU3l"
+      "id": "29761760970074926",
+      "title": "ABRAHAM HAD SARAH. THEN HE HAD HAGAR. BUT DID ANYONE EVER ASK HAGAR IF SHE HAD A CHOICE?",
+      "date": "2026-11-18T10:48:09+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ua9RCFJMzFwzPX3T3vv1tbzCvQEqEQNEEJ7boVFj2Y7o6mCUAsKp75sfQyiG3ntLl"
     },
     {
-      "id": "29756514150599608",
-      "title": "YOUR TEENAGER ACCIDENTALLY SAW PORN. WHAT YOU SAY IN THE NEXT 60 SECONDS COULD CHANGE THEIR LIFE.",
-      "date": "2026-11-18T01:37:59+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uA1UgzxuYYpmTyugJ1uuMbcFkEaaoh7PdJfeyy8Pbcbh2X72H6mpJyN5TJXBdKdgl"
+      "id": "29761612860089737",
+      "title": "JACOB LOVED RACHEL MORE THAN LEAH… BUT GOD SAW THE WOMAN NOBODY CHOSE",
+      "date": "2026-11-18T10:32:47+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UHEbvn4UHUeFuYqymScrwJ2pUMD4pcvzFZ9kWyJ8XM6mxGPLj4Hx4xQAnJLft4HAl"
     },
     {
-      "id": "29756304313953925",
-      "title": "YOUR HUSBAND SAYS PORN HELPS HIM AVOID ADULTERY. BUT WHAT IF THE VERY THING HE CALLS PROTECTION IS DESTROYING YOUR MARRIAGE?",
-      "date": "2026-11-18T01:18:57+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tNaTSgzfLmRCKuv4gJFzPzsRk6T8KoEeuwj5MaH3PSQSxrwXJyyCRsd6BPKWrunEl"
-    },
-    {
-      "id": "29756199220631101",
-      "title": "MIRIAM WAS STRUCK WITH LEPROSY… BUT AARON WALKED AWAY UNTOUCHED. WHY DID GOD TREAT THEM DIFFERENTLY?",
-      "date": "2026-11-18T01:08:47+00:00",
+      "id": "29761529273431429",
+      "title": "IF GOD OPPOSES POLYGAMY, WHY DID HE COMMAND MEN TO PROVIDE FOR MULTIPLE WIVES? THE DISTURBING TRUTH BEHIND EXODUS 21:10",
+      "date": "2026-11-18T10:24:06+00:00",
       "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WjkiVFzMotVKFzBSLT11c6yBaZWxLWzrC3vzvaTTEqDw6NGWthfgraumJfhb9Pjjl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02UVnyUrxPcnstSgQfMnorXcxmmSAYuG1eiHcMBR3WUaLPE8HejzmnutpUuWRquEepl"
     },
     {
-      "id": "29756070527310637",
-      "title": "THEY WERE PRIESTS. THEY WERE WORSHIPING GOD. THEN FIRE CAME DOWN AND KILLED THEM.",
-      "date": "2026-11-18T00:56:16+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07D4hXVBX4cTP4GRH5vxDDoEVUr2Xiw8JayfghyKLdiudCastnSmWoqUq46TZ6hmMl"
-    },
-    {
-      "id": "29755934283990928",
-      "title": "THEY CALLED HER A HARLOT. GOD WROTE HER INTO THE BLOODLINE OF JESUS CHRIST.",
-      "date": "2026-11-18T00:42:42+00:00",
+      "id": "29760808460170177",
+      "title": "GOD GAVE DAVID ANOTHER MAN’S WIVES? THE DISTURBING VERSE THAT MANY CHRISTIANS DON’T KNOW HOW TO EXPLAIN",
+      "date": "2026-11-18T09:07:49+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0XnFq8JUQHUUVvmegVcSc5rzXs7AP8PuawsCwJYRdFfybRjgH9dZaw9rorCVrxUT4l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bSLqy7oq28FGfwdPRL2W6cvVqBNQ5TXGeXUch8qNBKhxU4rKgno4YjeudU2GFudrl"
     },
     {
-      "id": "29755724510678572",
-      "title": "GOD COULD HAVE FED ISRAEL FOR AN ENTIRE MONTH… SO WHY DID HE MAKE THEM COME BACK EVERY MORNING?",
-      "date": "2026-11-18T00:20:48+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0npr2c65sdxh91j1cGzNqNg9DXBjPqfbwkdUhTpHNg7aW1azuwR4PNg5FLVYcTRCml"
-    },
-    {
-      "id": "29755567094027647",
-      "title": "MOSES BROKE THE TEN COMMANDMENTS BEFORE ISRAEL COULD EVEN OBEY THEM—BUT WHAT GOD DID NEXT WILL BREAK YOUR HEART",
-      "date": "2026-11-18T00:04:35+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0WE3pN8hfHv2YCX1ryrqXGwrdsYHpCUYQP9cbNtqwr1YDMtZUsVqUWQBNapYeoGGWl"
-    },
-    {
-      "id": "29755473170703706",
-      "title": "He could make them experience the helplessness he once experienced.",
-      "date": "2026-11-17T23:54:53+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02bzLhfH3dbdv4JBqrEMtjVRDx1UtqjMkre91342wgLipJpqFAuF3oARX8Ev9UCr34l"
+      "id": "29760514213532935",
+      "title": "CAN A MARRIED CHRISTIAN HAVE A CRUSH ON THEIR PASTOR? THE SECRET ATTRACTION NOBODY WANTS TO CONFESS",
+      "date": "2026-11-18T08:35:21+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028n9NkXNVjLGkx8a6HS5g49wJPNEWz4vf5UEkYoLv6Ben6iXGcqYsbQApMpDWsXJTl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-18T04:16:08Z",
-  "discovered": 10,
-  "processed": 10,
-  "discoveredLastRun": 10,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-18T13:04:03Z",
+  "discovered": 6,
+  "processed": 6,
+  "discoveredLastRun": 6,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29758128887104801",
-    "title": "YOUR EX JUST TEXTED, “I MISS YOU.” BUT YOU’RE MARRIED NOW. WHAT YOU DO NEXT COULD CHANGE EVERYTHING.",
-    "date": "2026-11-18T04:12:46+00:00"
+    "id": "29761835183400838",
+    "title": "SOLOMON HAD 700 WIVES. BUT HIS HEART WAS ALREADY BREAKING GOD’S LAW BEFORE IT TURNED AWAY.",
+    "date": "2026-11-18T10:55:47+00:00"
   },
-  "lastImportCount": 10,
-  "lastImportAt": "2026-11-18T04:16:59Z",
+  "lastImportCount": 6,
+  "lastImportAt": "2026-11-18T13:05:01Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10321,
+  "structuredMetadata": 10327,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-64aabbc149eda3a9f7944eedbd4d58a00ac02a47fbe6af96f338fae14f7cb4d8",
-  "statusGeneratedAt": "2026-11-18T04:17:00Z"
+  "contentRevision": "sha256-220a583643d2d0182a1f9ecd8f4cc5840ff8306c7939b8d63d9e2d040712bc2d",
+  "statusGeneratedAt": "2026-11-18T13:05:01Z"
 }
