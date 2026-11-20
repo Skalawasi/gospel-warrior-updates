@@ -1,79 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-20T11:30:40Z",
-  "lastSuccess": "2026-11-20T11:30:40Z",
-  "currentTotal": 10359,
-  "totalWords": 18414295,
+  "lastCheck": "2026-11-20T20:10:36Z",
+  "lastSuccess": "2026-11-20T20:10:36Z",
+  "currentTotal": 10372,
+  "totalWords": 18476281,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29789098184007871",
-      "title": "THEY HAD EVERYTHING MONEY COULD BUY… BUT JESUS SAID THEY WERE NAKED",
-      "date": "2026-11-20T10:21:38+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ugorR5cpJ6nYjfKMv8feK3x6bBmpTc1fnJNZQzRfo2WKoaGb5N5voaiLSuyRkncCl"
-    },
-    {
-      "id": "29789034054014284",
-      "title": "THEY TOLD YOU TO SOW A SEED BEFORE GOD WOULD MOVE. BUT DID JESUS EVER PUT A PRICE ON A MIRACLE?",
-      "date": "2026-11-20T10:14:47+00:00",
+      "id": "29793415326909490",
+      "title": "THE PROSTITUTES WERE GETTING INTO HEAVEN BEFORE THE RELIGIOUS LEADERS—AND JESUS SAID IT TO THEIR FACES.",
+      "date": "2026-11-20T17:25:30+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wk4hXwFSodoVgqf5L7ZWwiVNxHqFyLYzL4sQDpZ9vFnQeWTUnjp9BeSUFBdez4WSl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NAdYEkxG12PiNWDxRY8YTJfkPFo7gQ89dNHeRoyVFa9UGGNVk84u1tunUYxVoFEul"
     },
     {
-      "id": "29788974724020217",
-      "title": "YOU'RE ENGAGED, NOT MARRIED… SO IS SEXTING STILL A SIN IN GOD'S EYES?",
-      "date": "2026-11-20T10:08:32+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fyDFDRUVh89XjRaMyVLJiiM3hzeYRSvspDSqXLAA5Abo9fPyjLnUEYecvJdmyUsyl"
+      "id": "29793328933584796",
+      "title": "WHEN THE GOVERNMENT DEMANDS YOUR OBEDIENCE… BUT GOD DEMANDS YOUR FAITHFULNESS, WHO WILL YOU CHOOSE?",
+      "date": "2026-11-20T17:17:20+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02M8EjYgatcNygwAUqYdWQmRNyX4uGoeLUxPhc8PpGoXU5SycwqH2ekRiupzLk5xY4l"
     },
     {
-      "id": "29788905580693798",
-      "title": "SHOULD CHRISTIAN PARENTS CUT OFF AN ADULT CHILD WHO REJECTS THEIR FAITH? WHAT IF THE CHILD YOU RAISED TO LOVE JESUS NO LONGER WANTS HIM?",
-      "date": "2026-11-20T10:00:53+00:00",
+      "id": "29793231510261205",
+      "title": "JESUS SAID, “DO NOT SWEAR AT ALL.” SO WHY ARE CHRISTIANS STILL TAKING OATHS?",
+      "date": "2026-11-20T17:07:52+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VMV8QLn1b2X6hx9aqSjypw5z1zHAEFGQZP9hhJP25F8upQFsS5WtQHtWD75S2Z5Ml"
+    },
+    {
+      "id": "29793131593604530",
+      "title": "JESUS TURNED WATER INTO WINE… SO WHY DOES THE BIBLE WARN US ABOUT DRINKING?",
+      "date": "2026-11-20T16:57:20+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032RLqrbeiiLRYMmNJG5r5V3QEXyZbevH6DrFgbyg3SGPnuot1q8TNehT8RX1pzzFBl"
+    },
+    {
+      "id": "29792954993622190",
+      "title": "DID JESUS REALLY DECLARE ALL FOODS CLEAN? THE BIBLICAL TRUTH THAT COULD CHANGE HOW YOU SEE GOD, HOLINESS, AND GRACE",
+      "date": "2026-11-20T16:40:04+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06qLKXf3diWazyuUvrLA75acpd6M3XxRQaN6S6gsxeDFHyNQsxRu2YneG4QX3TMg3l"
+    },
+    {
+      "id": "29792853953632294",
+      "title": "YOU WERE TOLD YOU ARE NO LONGER UNDER THE LAW… BUT DOES THAT MEAN YOU CAN LIVE HOWEVER YOU WANT?",
+      "date": "2026-11-20T16:29:57+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03B8yJK6frRHu16gbLXrr7BjMgTq9erfGnUjKPyQmPtQJaZVde7w6tSEaLFPSY35cl"
+    },
+    {
+      "id": "29792480633669626",
+      "title": "THE KINGDOM IS ALREADY HERE… SO WHY DOES THE WORLD STILL LOOK LIKE HELL?",
+      "date": "2026-11-20T15:53:46+00:00",
+      "subject": "Revelation & Eternity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026zceA6oT9rXc85up6c22VWEcB8wKV3mYK3Xa47YXFhcSX7PHgaqGiCnY7uwvpxbfl"
+    },
+    {
+      "id": "29792301647020858",
+      "title": "JESUS SAID, “CALL NO MAN YOUR FATHER.” SO WHY DID PAUL CALL HIMSELF A SPIRITUAL FATHER?",
+      "date": "2026-11-20T15:36:55+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0iUgSabgTiJLTmVP4YwZFotZ4hi6hR2QoSdThfrjxEz7hnd7weMcbw6oqj5AAnNbFl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02icynCn9AqMdoyTMgZNBJeUiKTkLAR5Ymm8Zn4bCKiU4Xp3KpVwbpddsVdh1jWRMPl"
     },
     {
-      "id": "29788845007366522",
-      "title": "SHE WAS NOT BEGGING TO BE LOVED ANYMORE—SHE KNEW WHOSE HEART DESIRED HER.",
-      "date": "2026-11-20T09:54:13+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0wsGqhmbqM87UAtLkuW9tE9JLDpezaciJh6uqh3qofegLsncZJv9xmUiUacCq67SXl"
+      "id": "29792239663693723",
+      "title": "JONAH WANTED NINEVEH DESTROYED. GOD WANTED ITS PEOPLE SAVED. BUT THE MOST DISTURBING PART OF THE STORY IS WHAT HAPPENED INSIDE JONAH’S HEART.",
+      "date": "2026-11-20T15:30:55+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02G6D6VBvg7F4zRY5JEJ8TYApi7P2dcatfFs6PsCMvfM69Ggv6QcNGppoWgKSTHCfEl"
     },
     {
-      "id": "29788773360707020",
-      "title": "HE HAD THE KNIFE. HE HAD THE CHANCE. HE HAD EVERY REASON TO KILL SAUL… BUT DAVID DID SOMETHING THAT STILL CONFRONTS THE HUMAN HEART TODAY.",
-      "date": "2026-11-20T09:46:14+00:00",
+      "id": "29792184827032540",
+      "title": "GOD COULD HAVE STOPPED THE FIRE. SO WHY DID HE LET THEM BE THROWN INTO IT?",
+      "date": "2026-11-20T15:25:28+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vuFQKoRT6QqN9j4tgTEG25tjx1g49PSLJ7QmQfGjc4wssqThALVeXUQyNp7y9TQZl"
+    },
+    {
+      "id": "29792119917039031",
+      "title": "THEY MOCKED A PROPHET… THEN TWO BEARS CAME OUT OF THE WOODS. BUT WHAT REALLY HAPPENED THAT DAY?",
+      "date": "2026-11-20T15:19:06+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid01AHPhTXpVuTdJASCCDvsMCPQeJQXc9kLPjGZWjdMYTukWW7ykAkeEuAY7FpUjg47l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028LhcJZwAyuWK2o5wWho8ihWW5RF9NQCNiCi3diBhwPgw7mm8z359VvwQRVtewwShl"
+    },
+    {
+      "id": "29791952830389073",
+      "title": "HE ASKED GOD FOR WISDOM… SO HOW DID SOLOMON END UP WORSHIPING OTHER GODS?",
+      "date": "2026-11-20T15:03:17+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Wg3TDdkBoi9FRUMnJq3iL2VG5Mj7uDpstaTXkh1udU3xVE4rkKUP8p6zLL2PUuT2l"
+    },
+    {
+      "id": "29791589110425445",
+      "title": "THE PROPHET DIDN’T ACCUSE DAVID. HE TOLD HIM A STORY—AND LET THE KING PRONOUNCE HIS OWN SENTENCE.",
+      "date": "2026-11-20T14:27:59+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02w7v8hea1PupWsG4UHbjbZcZTKadL24vGxC5a4zy9hszeBuZUtMiAeGn62peqUTs7l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-20T11:29:55Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-20T20:09:42Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29789098184007871",
-    "title": "THEY HAD EVERYTHING MONEY COULD BUY… BUT JESUS SAID THEY WERE NAKED",
-    "date": "2026-11-20T10:21:38+00:00"
+    "id": "29793415326909490",
+    "title": "THE PROSTITUTES WERE GETTING INTO HEAVEN BEFORE THE RELIGIOUS LEADERS—AND JESUS SAID IT TO THEIR FACES.",
+    "date": "2026-11-20T17:25:30+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-11-20T11:30:40Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-11-20T20:10:36Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10359,
+  "structuredMetadata": 10372,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3bf8c27d734a179658f4f5c32f2cc750ba91b372aa0a769d6d978239fadcbdf3",
-  "statusGeneratedAt": "2026-11-20T11:30:40Z"
+  "contentRevision": "sha256-de4b1d060fa82e18a01e9d39cbb7c1dd3b954f9636e3584e944c5097368b7e8c",
+  "statusGeneratedAt": "2026-11-20T20:10:36Z"
 }
