@@ -1,135 +1,72 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 14 new public studies.",
+  "message": "Added 5 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-19T21:29:37Z",
-  "lastSuccess": "2026-11-19T21:29:37Z",
-  "currentTotal": 10348,
-  "totalWords": 18364950,
+  "lastCheck": "2026-11-20T03:09:23Z",
+  "lastSuccess": "2026-11-20T03:09:23Z",
+  "currentTotal": 10353,
+  "totalWords": 18386662,
   "subjects": 17,
-  "addedLastRun": 14,
+  "addedLastRun": 5,
   "recentAdded": [
     {
-      "id": "29780487934868896",
-      "title": "“LET HIM KISS ME WITH THE KISSES OF HIS MOUTH.” — YES, THAT IS IN YOUR BIBLE. BUT HAVE YOU EVER ASKED WHY GOD PUT IT THERE?",
-      "date": "2026-11-19T17:38:46+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0ZPJdagRgmq3uRf1LxbEzAKwG996XUeUtqHiAmHxsxeDNQK764LKjZfxsScJrAnMGl"
+      "id": "29782876297963393",
+      "title": "THE BOOK OF THE BIBLE THAT MAKES CHRISTIANS BLUSH: DID GOD REALLY PUT SEXUAL DESIRE IN HOLY SCRIPTURE?",
+      "date": "2026-11-19T22:28:02+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MTEtkNfshMsL3gcnsPRexaHchhuk6tee2quH8mfxacRmv34Lek6VDUyjghwaB9uPl"
     },
     {
-      "id": "29780303751553981",
-      "title": "A MOTHER SAW WHAT COULD DESTROY HER SON BEFORE THE KINGDOM EVER FELL",
-      "date": "2026-11-19T17:19:19+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Evibwvm1y2YETpWhv8k4LqsMwUax9Y9d41pwXv42c2oz8wDpAEjN8kjxSQUi3bFrl"
+      "id": "29782836657967357",
+      "title": "DID RUTH PROPOSE TO BOAZ AT THE THRESHING FLOOR? THE SHOCKING TRUTH ABOUT WHAT REALLY HAPPENED THAT NIGHT",
+      "date": "2026-11-19T22:22:41+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oStJLDXYFHLxbMwywowp6o7nwWJkzxEMagb6JTXcEHXBZzzF9wEBCXck8hoaRWXml"
     },
     {
-      "id": "29780228478228175",
-      "title": "THE BIBLE SAYS A MAN MAY BE BETTER OFF LIVING ON A ROOFTOP THAN INSIDE HIS OWN HOME WITH HIS WIFE. BUT THE REAL WARNING IS DEEPER THAN MOST PEOPLE REALIZE.",
-      "date": "2026-11-19T17:11:31+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07ouNwqrvjRJaC3QXuHDfFb9Exu1pDpHJTcNGWMP7STtVXFf952dkZsi9Qq7p9HhWl"
-    },
-    {
-      "id": "29780158918235131",
-      "title": "SHE WIPED HER MOUTH AND SAID, “I HAVE DONE NOTHING WRONG.” — THE TERRIFYING BIBLE VERSE ABOUT SIN THAT NO LONGER FEELS LIKE SIN",
-      "date": "2026-11-19T17:04:45+00:00",
+      "id": "29782772927973730",
+      "title": "“YOUR NAVEL IS A ROUNDED BOWL”—WAIT… WHY IS THE BIBLE TALKING ABOUT THE HUMAN BODY LIKE THIS?",
+      "date": "2026-11-19T22:14:28+00:00",
       "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mybGvhSTMHE41nyc8w14y5yLbG1u37UtjkWFzjoPtKvjikCi6UwhaSj7ffE31h1sl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WGnBmgbAbBoBjiEkyCaQ2GDY6jNQqUJpfc2z3fEhuDM6PhcBMmTe5muWUc1XgU37l"
     },
     {
-      "id": "29779786214939068",
-      "title": "JOB MADE A COVENANT WITH HIS EYES… BUT WHAT ABOUT THE THINGS YOU LOOK AT WHEN NOBODY IS WATCHING?",
-      "date": "2026-11-19T16:26:55+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024UGomHpMJHbVWnDwxgr4zj1PD2xWfNonGr9xcacBqHKPSxPDgS43ZMQNEmru5ym9l"
+      "id": "29782735151310841",
+      "title": "HE LOOKED AT HER BREASTS AND COMPARED THEM TO TWO YOUNG GAZELLES. WHY IS THIS IN THE HOLY BIBLE?",
+      "date": "2026-11-19T22:09:12+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0FfJwEy782qnSWLJzFtwhWBSeBxtQ44bkQatXdmd32hDW49M5B51RAobwz6wYXwobl"
     },
     {
-      "id": "29779722331612123",
-      "title": "CAN A DIVORCED CHRISTIAN REMARRY? THE WORDS OF JESUS THAT HAVE DIVIDED FAITHFUL BELIEVERS—AND THE TRUTH TOO MANY BROKEN HEARTS NEVER HEAR",
-      "date": "2026-11-19T16:20:54+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ivLtdmWEcBiU9UWk3PRtLUhHceMgwCUv3rVXb6191uY8beiL5X5UhQH94HcQQ6Ubl"
-    },
-    {
-      "id": "29779660674951622",
-      "title": "DOES GOD REALLY HATE DIVORCE MORE THAN THE ABUSE THAT IS DESTROYING YOU INSIDE YOUR MARRIAGE?",
-      "date": "2026-11-19T16:14:57+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Pg7CRXzsagmTNFcNcFXjh3KXYBgAJY6s47NNeTnA3UNKYBKhp74NoaqJETFxhaEzl"
-    },
-    {
-      "id": "29779580468292976",
-      "title": "JESUS CALLED IT ADULTERY… EVEN WHEN NOBODY TOUCHED ANYONE. WHY?",
-      "date": "2026-11-19T16:07:36+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0EXZnECPtzcgs7wPtgSCPuKoEbMz9SUZZsShvWGYsGY7VKoWW9b1dhdPGwk2oemDnl"
-    },
-    {
-      "id": "29779433151641041",
-      "title": "YOU SLEPT TOGETHER BEFORE MARRIAGE. DOES GETTING MARRIED MAKE THE PAST DISAPPEAR?",
-      "date": "2026-11-19T15:53:39+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nSEsoNVdJcmuzrj8hva4j7hAqmidbVxVxycoXkjo4god5xzDTgvmuYjip6vaGHKXl"
-    },
-    {
-      "id": "29779361498314873",
-      "title": "IS KISSING BEFORE MARRIAGE REALLY A SIN? THE BIBLE'S ANSWER MAY EXPOSE SOMETHING DEEPER THAN YOUR LIPS.",
-      "date": "2026-11-19T15:47:21+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UqLuLqEQuVXE6gWrf1H4HVvBGTcNZJbaGjg8GrF3vCFMpXsQFCuJReZmtBfULMVfl"
-    },
-    {
-      "id": "29779284578322565",
-      "title": "YOU'RE MARRIED… SO WHY ARE YOU STILL ATTRACTED TO SOMEONE ELSE? IS IT ALREADY SIN?",
-      "date": "2026-11-19T15:40:15+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0289ZVpLTJFDDBA4xZjaNzy1Xc5654rJa7wYwVoQEaEWSVJpmwQRnkg41G4gfCY7eMl"
-    },
-    {
-      "id": "29779166125001077",
-      "title": "YOUR HUSBAND SAYS YOU OWE HIM SEX BECAUSE YOU’RE MARRIED. BUT DID GOD EVER GIVE HIM THE RIGHT TO TAKE WHAT YOU CANNOT FREELY GIVE?",
-      "date": "2026-11-19T15:29:14+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021UjovVBZxch5LUCjKCrCsMdp2CwB6MwEoSHqQxEe2rpXSFMJMFEgeETxeQk6bVdHl"
-    },
-    {
-      "id": "29779063078344715",
-      "title": "YOUR WIFE STILL LOVES YOU… SO WHY DOES SHE NO LONGER WANT YOU TO TOUCH HER?",
-      "date": "2026-11-19T15:19:17+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ren8QKjHxiVAyvX6ZxofnYcjo2cnxLufynZn34iygkVaGmUTbYRqn2LUAE3MhZgNl"
-    },
-    {
-      "id": "29778957991688557",
-      "title": "YOUR HUSBAND QUOTES 1 CORINTHIANS 7 EVERY TIME YOU SAY NO TO SEX. BUT DID GOD REALLY GIVE HIM THAT RIGHT?",
-      "date": "2026-11-19T15:10:03+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02yeoZhSYvArTVWeXbmUY4Gb1ag4U1kGbDRcz426NsC3ppFRkN8rMiBQ8emm2VAYawl"
+      "id": "29782701934647496",
+      "title": "SHE WANTED HIM CLOSE ENOUGH TO REST BETWEEN HER BREASTS… BUT WHAT DOES THIS ANCIENT LOVE SONG REALLY REVEAL?",
+      "date": "2026-11-19T22:04:30+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Prhg2R7B4foiJy8pnHpbbywdasaF5Z7ebtqKz32GYKJj6ZuLWsZ6hfvaEwR57FUVl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-19T21:28:46Z",
-  "discovered": 14,
-  "processed": 14,
-  "discoveredLastRun": 14,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-20T03:08:40Z",
+  "discovered": 5,
+  "processed": 5,
+  "discoveredLastRun": 5,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29780487934868896",
-    "title": "“LET HIM KISS ME WITH THE KISSES OF HIS MOUTH.” — YES, THAT IS IN YOUR BIBLE. BUT HAVE YOU EVER ASKED WHY GOD PUT IT THERE?",
-    "date": "2026-11-19T17:38:46+00:00"
+    "id": "29782876297963393",
+    "title": "THE BOOK OF THE BIBLE THAT MAKES CHRISTIANS BLUSH: DID GOD REALLY PUT SEXUAL DESIRE IN HOLY SCRIPTURE?",
+    "date": "2026-11-19T22:28:02+00:00"
   },
-  "lastImportCount": 14,
-  "lastImportAt": "2026-11-19T21:29:37Z",
+  "lastImportCount": 5,
+  "lastImportAt": "2026-11-20T03:09:23Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10348,
+  "structuredMetadata": 10353,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-ac889e0d696575ded626c23fdb42b771fd907bdf259975ff1b228a1fbe98f016",
-  "statusGeneratedAt": "2026-11-19T21:29:38Z"
+  "contentRevision": "sha256-6e52c75e3864b9e9a8d9b51f93cef8b008db8a5b60411a0300c53ef7b3accd33",
+  "statusGeneratedAt": "2026-11-20T03:09:23Z"
 }
