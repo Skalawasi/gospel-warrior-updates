@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 13 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-20T20:10:36Z",
-  "lastSuccess": "2026-11-20T20:10:36Z",
+  "lastCheck": "2026-11-21T01:29:10Z",
+  "lastSuccess": "2026-11-21T01:29:10Z",
   "currentTotal": 10372,
   "totalWords": 18476281,
   "subjects": 17,
-  "addedLastRun": 13,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29793415326909490",
@@ -104,11 +104,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-20T20:09:42Z",
+  "lastCheckStarted": "2026-11-21T01:28:57Z",
   "discovered": 13,
-  "processed": 13,
-  "discoveredLastRun": 13,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29793415326909490",
     "title": "THE PROSTITUTES WERE GETTING INTO HEAVEN BEFORE THE RELIGIOUS LEADERS—AND JESUS SAID IT TO THEIR FACES.",
@@ -124,5 +124,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-de4b1d060fa82e18a01e9d39cbb7c1dd3b954f9636e3584e944c5097368b7e8c",
-  "statusGeneratedAt": "2026-11-20T20:10:36Z"
+  "statusGeneratedAt": "2026-11-21T01:29:10Z"
 }
