@@ -1,128 +1,177 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 20 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-21T01:29:10Z",
-  "lastSuccess": "2026-11-21T01:29:10Z",
-  "currentTotal": 10372,
-  "totalWords": 18476281,
+  "lastCheck": "2026-11-21T09:44:56Z",
+  "lastSuccess": "2026-11-21T09:44:56Z",
+  "currentTotal": 10392,
+  "totalWords": 18568444,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 20,
   "recentAdded": [
     {
-      "id": "29793415326909490",
-      "title": "THE PROSTITUTES WERE GETTING INTO HEAVEN BEFORE THE RELIGIOUS LEADERS—AND JESUS SAID IT TO THEIR FACES.",
-      "date": "2026-11-20T17:25:30+00:00",
+      "id": "29801091266141896",
+      "title": "IF GOD ALREADY KNOWS WHO WILL BE SAVED, WHY ARE WE STILL BEGGING PEOPLE TO COME TO JESUS?",
+      "date": "2026-11-21T08:30:13+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NAdYEkxG12PiNWDxRY8YTJfkPFo7gQ89dNHeRoyVFa9UGGNVk84u1tunUYxVoFEul"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid063FHz8YjwnKFXuufo39CP8n72XVT4N3wds3A6bEEiZAMTgj6vC9mWiLDedzTdrTyl"
     },
     {
-      "id": "29793328933584796",
-      "title": "WHEN THE GOVERNMENT DEMANDS YOUR OBEDIENCE… BUT GOD DEMANDS YOUR FAITHFULNESS, WHO WILL YOU CHOOSE?",
-      "date": "2026-11-20T17:17:20+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02M8EjYgatcNygwAUqYdWQmRNyX4uGoeLUxPhc8PpGoXU5SycwqH2ekRiupzLk5xY4l"
+      "id": "29800890266161996",
+      "title": "WHY DID GOD FORBID A MAN FROM “UNCOVERING A WOMAN’S NAKEDNESS”? THE DISTURBING TRUTH HIDDEN IN LEVITICUS 18:6",
+      "date": "2026-11-21T08:05:38+00:00",
+      "subject": "Torah & Covenant",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027iszk6P6Uep1eYASh891Bt17MsLXSEMFdweUnPK3Nxbo8FsjV3w6LkmQ1pD2NE5Zl"
     },
     {
-      "id": "29793231510261205",
-      "title": "JESUS SAID, “DO NOT SWEAR AT ALL.” SO WHY ARE CHRISTIANS STILL TAKING OATHS?",
-      "date": "2026-11-20T17:07:52+00:00",
+      "id": "29800791649505191",
+      "title": "THE MOST DANGEROUS WAY TO LOSE JESUS IS TO THINK YOU’RE FOLLOWING HIM",
+      "date": "2026-11-21T07:53:33+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02VMV8QLn1b2X6hx9aqSjypw5z1zHAEFGQZP9hhJP25F8upQFsS5WtQHtWD75S2Z5Ml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021doa8sKj4D6oUKQuy4fpKx7jxtCZfR3zzUKz6LuKEDzFbApgtpd8zsYL9wyEz7ndl"
     },
     {
-      "id": "29793131593604530",
-      "title": "JESUS TURNED WATER INTO WINE… SO WHY DOES THE BIBLE WARN US ABOUT DRINKING?",
-      "date": "2026-11-20T16:57:20+00:00",
+      "id": "29800699729514383",
+      "title": "THE PREACHER PROMISED A FINANCIAL MIRACLE. BUT DID GOD EVER MAKE THAT PROMISE?",
+      "date": "2026-11-21T07:42:24+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Naf4TLzgEqhi25iLYTwHfBAXi3KdbhxbcMfGR2Nc967uhSjaQtN4Eid8YyxWBShKl"
+    },
+    {
+      "id": "29800381556212867",
+      "title": "WOULD JESUS APPROVE OF PASTORS LIVING LIKE CELEBRITIES? THE ANSWER MIGHT MAKE THE MODERN CHURCH UNCOMFORTABLE.",
+      "date": "2026-11-21T07:02:17+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02e9PSibdk9HEL52U9rRWiKqyr9PgE2fVjV7PZAe4fTiw9KxFHr5wWQgYwN8pqW4PHl"
+    },
+    {
+      "id": "29799834469600909",
+      "title": "“HUSBANDS, LOVE YOUR WIVES”—FOUR WORDS THAT COULD DESTROY THE MAN YOU PRETEND TO BE",
+      "date": "2026-11-21T05:54:04+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02AU7EsanW3KtqP3vnX43LvkwYCNEGpLJZFdjTSNpXVTDpm6h1Ex6vLboqpnhEmqTWl"
+    },
+    {
+      "id": "29799580086293014",
+      "title": "HAVE WE MADE JESUS SO GENTLE THAT WE’VE FORGOTTEN HE ALSO CONFRONTED SIN?",
+      "date": "2026-11-21T05:22:39+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032RLqrbeiiLRYMmNJG5r5V3QEXyZbevH6DrFgbyg3SGPnuot1q8TNehT8RX1pzzFBl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Tr1UDEsdoMvUwbTQ5bGN4ee7NGCXYMQWxpqiCnsodb9G376KQ3GPCbpHuU2BY4wpl"
     },
     {
-      "id": "29792954993622190",
-      "title": "DID JESUS REALLY DECLARE ALL FOODS CLEAN? THE BIBLICAL TRUTH THAT COULD CHANGE HOW YOU SEE GOD, HOLINESS, AND GRACE",
-      "date": "2026-11-20T16:40:04+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid06qLKXf3diWazyuUvrLA75acpd6M3XxRQaN6S6gsxeDFHyNQsxRu2YneG4QX3TMg3l"
-    },
-    {
-      "id": "29792853953632294",
-      "title": "YOU WERE TOLD YOU ARE NO LONGER UNDER THE LAW… BUT DOES THAT MEAN YOU CAN LIVE HOWEVER YOU WANT?",
-      "date": "2026-11-20T16:29:57+00:00",
+      "id": "29799344519649904",
+      "title": "THEY CALLED IT LOVE WHEN YOU STAYED SILENT. BUT WAS IT REALLY LOVE?",
+      "date": "2026-11-21T04:54:38+00:00",
       "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03B8yJK6frRHu16gbLXrr7BjMgTq9erfGnUjKPyQmPtQJaZVde7w6tSEaLFPSY35cl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ab6C2zaaHtEFTCsyVRWUZap5s1qAWAuPE6E27SqDvHdDtue2Q84AmFvGwW4FSf1Ml"
     },
     {
-      "id": "29792480633669626",
-      "title": "THE KINGDOM IS ALREADY HERE… SO WHY DOES THE WORLD STILL LOOK LIKE HELL?",
-      "date": "2026-11-20T15:53:46+00:00",
-      "subject": "Revelation & Eternity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026zceA6oT9rXc85up6c22VWEcB8wKV3mYK3Xa47YXFhcSX7PHgaqGiCnY7uwvpxbfl"
+      "id": "29799128389671517",
+      "title": "A MAN MARRIED HIS OWN AUNT—AND GOD CHOSE THEIR SONS TO STAND BEFORE HIM AS PRIESTS.",
+      "date": "2026-11-21T04:28:09+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Aosp4ivyLyGyZKAVCgxj5DhXiHMb2iQATe6f2FHK6bE6HEUpz2Rh2BbhTw9tCRiHl"
     },
     {
-      "id": "29792301647020858",
-      "title": "JESUS SAID, “CALL NO MAN YOUR FATHER.” SO WHY DID PAUL CALL HIMSELF A SPIRITUAL FATHER?",
-      "date": "2026-11-20T15:36:55+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02icynCn9AqMdoyTMgZNBJeUiKTkLAR5Ymm8Zn4bCKiU4Xp3KpVwbpddsVdh1jWRMPl"
+      "id": "29798875489696807",
+      "title": "THE BIBLE TALKS ABOUT SEX, BREASTS, LUST, ADULTERY, PROSTITUTION, AND BROKEN FAMILIES—AND THE REASON WHY MAY BRING YOU TO YOUR KNEES.",
+      "date": "2026-11-21T03:57:42+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0TPgxzPF1ezPhf7Wu85975uXe1WH1u7ks4zAgy3Qj6ARDPY1KaUiDYi8F5qXg7z5rl"
     },
     {
-      "id": "29792239663693723",
-      "title": "JONAH WANTED NINEVEH DESTROYED. GOD WANTED ITS PEOPLE SAVED. BUT THE MOST DISTURBING PART OF THE STORY IS WHAT HAPPENED INSIDE JONAH’S HEART.",
-      "date": "2026-11-20T15:30:55+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02G6D6VBvg7F4zRY5JEJ8TYApi7P2dcatfFs6PsCMvfM69Ggv6QcNGppoWgKSTHCfEl"
+      "id": "29798698929714463",
+      "title": "GOD SAID HIS PEOPLE WERE WORSE THAN AN UNFAITHFUL WIFE—BECAUSE THEY WERE PAYING THE VERY LOVERS WHO BETRAYED THEM.",
+      "date": "2026-11-21T03:37:16+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sEHmJABnpLiDVVdpaeRCeR4FRUaNAjTQjj3NYCwpMmEMmxx8wWCfzEMWGsxqrShkl"
     },
     {
-      "id": "29792184827032540",
-      "title": "GOD COULD HAVE STOPPED THE FIRE. SO WHY DID HE LET THEM BE THROWN INTO IT?",
-      "date": "2026-11-20T15:25:28+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vuFQKoRT6QqN9j4tgTEG25tjx1g49PSLJ7QmQfGjc4wssqThALVeXUQyNp7y9TQZl"
-    },
-    {
-      "id": "29792119917039031",
-      "title": "THEY MOCKED A PROPHET… THEN TWO BEARS CAME OUT OF THE WOODS. BUT WHAT REALLY HAPPENED THAT DAY?",
-      "date": "2026-11-20T15:19:06+00:00",
+      "id": "29798638706387152",
+      "title": "A PROPHET SAID SEVEN WOMEN WOULD BEG ONE MAN TO LET THEM BEAR HIS NAME. BUT THE REAL MEANING IS MORE TERRIFYING THAN YOU THINK.",
+      "date": "2026-11-21T03:30:17+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid028LhcJZwAyuWK2o5wWho8ihWW5RF9NQCNiCi3diBhwPgw7mm8z359VvwQRVtewwShl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid049AS7qmv9cA4ij9SCmBV5LBVkjmq7hHvL27DYiw4sWsPXetWjvbeftL6KJ4z7fsAl"
     },
     {
-      "id": "29791952830389073",
-      "title": "HE ASKED GOD FOR WISDOM… SO HOW DID SOLOMON END UP WORSHIPING OTHER GODS?",
-      "date": "2026-11-20T15:03:17+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Wg3TDdkBoi9FRUMnJq3iL2VG5Mj7uDpstaTXkh1udU3xVE4rkKUP8p6zLL2PUuT2l"
+      "id": "29798549813062708",
+      "title": "“LOVE IS STRONG AS DEATH”—THE SHOCKING COMPARISON AT THE END OF THE BIBLE’S LOVE POEM",
+      "date": "2026-11-21T03:20:14+00:00",
+      "subject": "Wisdom, Psalms & Worship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02QJoWVC61Z5MWBb4yNnX2N7ictP4pnfHeFR2BMUvQS2U5YiCtYp1sGhofotPzVdA7l"
     },
     {
-      "id": "29791589110425445",
-      "title": "THE PROPHET DIDN’T ACCUSE DAVID. HE TOLD HIM A STORY—AND LET THE KING PRONOUNCE HIS OWN SENTENCE.",
-      "date": "2026-11-20T14:27:59+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02w7v8hea1PupWsG4UHbjbZcZTKadL24vGxC5a4zy9hszeBuZUtMiAeGn62peqUTs7l"
+      "id": "29798446939739662",
+      "title": "YOUR HUSBAND HAS BEEN GONE FOR MONTHS. YOU STILL HAVE DESIRES. BUT DOES SATISFYING YOURSELF MEAN YOU’VE BETRAYED YOUR MARRIAGE?",
+      "date": "2026-11-21T03:08:01+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0PgyyqB5CKZmJNRaqYncTV4mXJ8TyUfDY3zuiRdGjWrH2JPnh7LN3KYX2xnnaoxRwl"
+    },
+    {
+      "id": "29798359353081754",
+      "title": "IS MASTURBATION WITHOUT PORN STILL SIN? THE BIBLICAL TRUTH THAT MAY CHALLENGE EVERYTHING YOU'VE BEEN TOLD",
+      "date": "2026-11-21T02:57:41+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Z5PpD1tSyRDs838wK4LFwe5Dxq84sb8wSPgEuzr5ixT5XYzWPmfpnNFtngcu6vYtl"
+    },
+    {
+      "id": "29798314536419569",
+      "title": "YOU HAVEN’T HAD SEX IN SEVEN YEARS. DOES GOD REALLY UNDERSTAND WHAT YOU’RE GOING THROUGH?",
+      "date": "2026-11-21T02:52:34+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0973MC5FqL8SGKpfJojrBFJq8vNja7s4jCLJYw1rtFGCFH7mC8qBj8gm8BdUHa97ql"
+    },
+    {
+      "id": "29798224443095245",
+      "title": "YOU BUILT A FAMILY WITHOUT A WEDDING. NOW YOU WANT TO FOLLOW JESUS. WHAT HAPPENS NEXT?",
+      "date": "2026-11-21T02:42:14+00:00",
+      "subject": "Marriage & Relationships",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid033j8nxowB3b286xbSjTUMj8e3zM6DFqzWCHX7nuNrqD7jiAMPxMps3b543LmUoNuZl"
+    },
+    {
+      "id": "29798141026436920",
+      "title": "CAN A CHRISTIAN COUPLE USE CONTRACEPTION—OR ARE THEY QUIETLY SAYING NO TO GOD?",
+      "date": "2026-11-21T02:33:32+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XoTa3ow2U1869i5Pm9ELveMTA1D6c2DoTCKoTA3Sv2qfU3PjKs5hWHo2NUBBkjm4l"
+    },
+    {
+      "id": "29798044883113201",
+      "title": "THE MOST TERRIFYING WORDS JESUS SPOKE TO PEOPLE WHO THOUGHT THEY WERE FIRST",
+      "date": "2026-11-21T02:22:53+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02f2AqiqawqTr5in9Knwmb1qKZWFMmKNYwYkfTgSGtaapfaQrSjePdapgBU6BGaX36l"
+    },
+    {
+      "id": "29797962686454754",
+      "title": "THE WORKERS WHO CAME LAST GOT PAID FIRST… AND JESUS SAID THAT WAS THE KINGDOM OF HEAVEN",
+      "date": "2026-11-21T02:13:15+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02H8Ab61mopqujeEN83VvCYTGtpYpzd9kNvrAFXB4sshyVHSKkv97u8rDVjpVNM5LQl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-21T01:28:57Z",
-  "discovered": 13,
-  "processed": 0,
-  "discoveredLastRun": 0,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-21T09:43:53Z",
+  "discovered": 20,
+  "processed": 20,
+  "discoveredLastRun": 20,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29793415326909490",
-    "title": "THE PROSTITUTES WERE GETTING INTO HEAVEN BEFORE THE RELIGIOUS LEADERS—AND JESUS SAID IT TO THEIR FACES.",
-    "date": "2026-11-20T17:25:30+00:00"
+    "id": "29801091266141896",
+    "title": "IF GOD ALREADY KNOWS WHO WILL BE SAVED, WHY ARE WE STILL BEGGING PEOPLE TO COME TO JESUS?",
+    "date": "2026-11-21T08:30:13+00:00"
   },
-  "lastImportCount": 13,
-  "lastImportAt": "2026-11-20T20:10:36Z",
+  "lastImportCount": 20,
+  "lastImportAt": "2026-11-21T09:44:56Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10372,
+  "structuredMetadata": 10392,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-de4b1d060fa82e18a01e9d39cbb7c1dd3b954f9636e3584e944c5097368b7e8c",
-  "statusGeneratedAt": "2026-11-21T01:29:10Z"
+  "contentRevision": "sha256-af1e9637dc670d8700dec34ed48c9df2f944164e3e18c18f706fdcfeb708fce2",
+  "statusGeneratedAt": "2026-11-21T09:44:56Z"
 }
