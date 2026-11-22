@@ -1,93 +1,65 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 4 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-22T11:15:59Z",
-  "lastSuccess": "2026-11-22T11:15:59Z",
-  "currentTotal": 10421,
-  "totalWords": 18701533,
+  "lastCheck": "2026-11-22T18:31:43Z",
+  "lastSuccess": "2026-11-22T18:31:43Z",
+  "currentTotal": 10425,
+  "totalWords": 18719054,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 4,
   "recentAdded": [
     {
-      "id": "29813389874912035",
-      "title": "“DO NOT TOUCH THE LORD’S ANOINTED!” — THE VERSE THEY USED TO SILENCE YOU… AND THE TRUTH DAVID’S STORY ACTUALLY REVEALS",
-      "date": "2026-11-22T08:23:49+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0k3YZPFQ1qNraY4pVbGfYZ9obkuS8fDrqQpEyatzki3eNKePZHsUcNCf3KaL3SgxJl"
+      "id": "29818877294363293",
+      "title": "SATAN DIDN’T NEED EVE TO STOP BELIEVING IN GOD—HE NEEDED HER TO DOUBT GOD’S WORD",
+      "date": "2026-11-22T17:42:25+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sDk5nPnxRGWfcd12yUro5ouaRRzpoDERNprKudRetw3T1qNMbZ84vJJPQZkBb8MUl"
     },
     {
-      "id": "29812037625047260",
-      "title": "“BY THEIR FRUIT YOU WILL KNOW THEM” — JESUS SAID FRUIT, NOT GIFTS",
-      "date": "2026-11-22T05:42:30+00:00",
+      "id": "29817595947824761",
+      "title": "SATAN DOESN’T ALWAYS COME LOOKING LIKE THE DEVIL. SOMETIMES HE COMES LOOKING LIKE THE ANSWER TO YOUR PRAYERS.",
+      "date": "2026-11-22T15:35:48+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037iDyr8EV9vFBgmN163pPjmr6e129Kx7Dz9DTkmWPe6kZSZR2quve9VvKi1FvcfVyl"
+    },
+    {
+      "id": "29816486861269003",
+      "title": "“OBEY YOUR LEADERS AND SUBMIT TO THEM” — BUT WHAT IF YOUR LEADER IS LEADING YOU AWAY FROM CHRIST?",
+      "date": "2026-11-22T13:52:29+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032PNsqkCjtD7cYiFhDA6yAKW9UaufBNoSPJ37E45qu5J4PJo2JdJXZDnQXz1NrXZil"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PVqrkWq82xhDfSLY1gFHTyX5kubzRKobobbVfkLiV8MMyGyngaGAjgYModNNCYfGl"
     },
     {
-      "id": "29811529428431413",
-      "title": "YOU CAN MOVE MOUNTAINS WITH YOUR FAITH… AND STILL BE NOTHING BEFORE GOD",
-      "date": "2026-11-22T04:38:10+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02QqpSdz5741pNExPgQsBC1YajKhY1nxS5YKSJxH9Y9CPbRcYKcZxDCGbMB3drb4xCl"
-    },
-    {
-      "id": "29811004648483891",
-      "title": "YOU CAN SPEAK IN TONGUES, PROPHESY, UNDERSTAND THE MYSTERIES OF GOD—AND STILL HEAR JESUS SAY, “I NEVER KNEW YOU.”",
-      "date": "2026-11-22T03:31:38+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GrfBbht1g67AReg3oqyr2otFscAkTJDifFRn6W8offjxbmx9iCjcjK7yyc3NdJful"
-    },
-    {
-      "id": "29810683388516017",
-      "title": "THE LOVE CHAPTER WAS NEVER MEANT TO MAKE YOU FEEL ROMANTIC. IT WAS MEANT TO MAKE THE CHURCH REPENT.",
-      "date": "2026-11-22T02:51:58+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02V5YPPDs7iqovekKSbBCkA1iNdVbpotKqRrhqKzDHt1p8ET9fZ9j13c83giDYsaSul"
-    },
-    {
-      "id": "29810176698566686",
-      "title": "FAITH WILL BECOME SIGHT. HOPE WILL BE FULFILLED. BUT LOVE WILL NEVER END.",
-      "date": "2026-11-22T01:48:31+00:00",
-      "subject": "Faith, Grace & Salvation",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pxh7tR1Zoo9N4vL4fx6upyjgpzAjBP6HCRRqeqFPUDpm8AWSGFCHYhQcyAfnENY9l"
-    },
-    {
-      "id": "29810108175240205",
-      "title": "THE DAY YOU WILL NO LONGER NEED FAITH: What Paul Really Meant When He Said, “When the Perfect Comes, the Partial Will Pass Away”",
-      "date": "2026-11-22T01:40:03+00:00",
+      "id": "29816399024611120",
+      "title": "THE DAY PAUL CONFRONTED PETER IN FRONT OF EVERYONE—AND EXPOSED A DANGEROUS LIE ABOUT SPIRITUAL AUTHORITY",
+      "date": "2026-11-22T13:44:28+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sgHMGs6MSwgopiw4pzy4VnYDC3crEtR2vPAXZ4whg7f8tVG12p9XPxdoMAUNP4Jsl"
-    },
-    {
-      "id": "29809999971917692",
-      "title": "“NO EYE HAS SEEN WHAT GOD HAS PREPARED…” BUT THE VERY NEXT VERSE CHANGES EVERYTHING",
-      "date": "2026-11-22T01:26:38+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09wK7G88RM97SnNCXgYSaBZnnfqpHXRcwN7jiuXBojJxtHE3zeeBT4F6r7vMcg2w9l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fWnStQc6kPXcLuVkAuGiFWZBYcea82FP7Vk9NDc6eoguischoi2D5pg8J1BL5JbSl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-22T11:14:58Z",
-  "discovered": 10,
-  "processed": 10,
-  "discoveredLastRun": 10,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-22T18:30:49Z",
+  "discovered": 5,
+  "processed": 5,
+  "discoveredLastRun": 5,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29813389874912035",
-    "title": "“DO NOT TOUCH THE LORD’S ANOINTED!” — THE VERSE THEY USED TO SILENCE YOU… AND THE TRUTH DAVID’S STORY ACTUALLY REVEALS",
-    "date": "2026-11-22T08:23:49+00:00"
+    "id": "29818877294363293",
+    "title": "SATAN DIDN’T NEED EVE TO STOP BELIEVING IN GOD—HE NEEDED HER TO DOUBT GOD’S WORD",
+    "date": "2026-11-22T17:42:25+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-11-22T11:15:59Z",
+  "lastImportCount": 4,
+  "lastImportAt": "2026-11-22T18:31:43Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10421,
+  "structuredMetadata": 10425,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-af008c69193bc7b07cec24954117837219f07ccf01bfe53d4ae2d67dc04035c4",
-  "statusGeneratedAt": "2026-11-22T11:15:59Z"
+  "contentRevision": "sha256-c92b88743e88b2f61ba2c8b7bdf9ca125c79331f97cbc6b3decf428b6da038f8",
+  "statusGeneratedAt": "2026-11-22T18:31:44Z"
 }
