@@ -1,177 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-22T03:07:39Z",
-  "lastSuccess": "2026-11-22T03:07:39Z",
-  "currentTotal": 10413,
-  "totalWords": 18664492,
+  "lastCheck": "2026-11-22T11:15:59Z",
+  "lastSuccess": "2026-11-22T11:15:59Z",
+  "currentTotal": 10421,
+  "totalWords": 18701533,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29806036138980742",
-      "title": "EVERYONE TOLD YOU 1 CORINTHIANS 2:9 WAS ABOUT HEAVEN. BUT READ THE NEXT VERSE… AND EVERYTHING CHANGES.",
-      "date": "2026-11-21T17:06:39+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wDVBDz4Wk48RztYz1gGVb9brVkcBDzEDnhNVVLJuck5j7T7wVX7FPYzhGKDg5i31l"
-    },
-    {
-      "id": "29805805939003762",
-      "title": "“I AM DOING A NEW THING” — BUT WHAT IF THE FIRST THING GOD WANTS TO CHANGE IS YOU?",
-      "date": "2026-11-21T16:42:22+00:00",
+      "id": "29813389874912035",
+      "title": "“DO NOT TOUCH THE LORD’S ANOINTED!” — THE VERSE THEY USED TO SILENCE YOU… AND THE TRUTH DAVID’S STORY ACTUALLY REVEALS",
+      "date": "2026-11-22T08:23:49+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0EvcKSX9CvPUjQQ6u2EqwWrhQQJx8ECSvuq2juvkDTM2FweC1Qr6NmN2uho9VpjNml"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0k3YZPFQ1qNraY4pVbGfYZ9obkuS8fDrqQpEyatzki3eNKePZHsUcNCf3KaL3SgxJl"
     },
     {
-      "id": "29805448545706168",
-      "title": "THE APOSTLES HAD THE POWER OF GOD. TODAY’S FALSE APOSTLES WANT THE POWER OVER YOU.",
-      "date": "2026-11-21T16:07:10+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03zkj5UJNWCUaqfvtV8bSdMAuhFyPmXcUwH3oUGGmZhJnuLaACRuDKk7fGzer6QDMl"
-    },
-    {
-      "id": "29805340265716996",
-      "title": "GOD NEVER SAID YOU WOULDN’T DROWN IN TEARS. HE SAID THE WATERS WOULDN’T HAVE THE FINAL WORD.",
-      "date": "2026-11-21T15:56:49+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0n3rSdrYtiDKHS3y97SP4sDGxAxNY3wirXtRz62vsUczejGSBvPZzjB3cMxThXQRpl"
-    },
-    {
-      "id": "29804615929122763",
-      "title": "EVEN THE STRONGEST BELIEVERS BREAK DOWN: THE VERSE THAT PROVES GOD NEVER SHAMED YOU FOR BEING EXHAUSTED",
-      "date": "2026-11-21T14:47:33+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02uiZBwtw1bnh9Z1T3JZgPbfZUtD8YsEPPzzY9QvWeB5Xb7ZTcgPHfhEmauv1LyaPVl"
-    },
-    {
-      "id": "29804519185799104",
-      "title": "“THEY SHALL MOUNT UP WITH WINGS LIKE EAGLES” — BUT WHAT IF YOU’VE BEEN MISUNDERSTANDING GOD’S PROMISE ALL ALONG?",
-      "date": "2026-11-21T14:38:13+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026u9xTXZan8tfmfDkvrdQpVKRmi6WTkgX1XjGtjtkrBFv5tDDfFz5LEjiTfrLtdiyl"
-    },
-    {
-      "id": "29804412609143095",
-      "title": "YOU LOVE PSALM 37:4… BUT THE VERY NEXT VERSE MAY EXPOSE WHAT YOU’VE BEEN HOLDING BACK FROM GOD.",
-      "date": "2026-11-21T14:27:47+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02wePNWC98QpEDvdURPdjnosD89xAR2VJ1ryFX5Np6NR7QR4hRgduydE34iR6azRrTl"
-    },
-    {
-      "id": "29804252175825805",
-      "title": "GOD NEVER PROMISED TO GIVE YOU EVERYTHING YOU WANT. SO WHAT DID HE REALLY MEAN?",
-      "date": "2026-11-21T14:12:27+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0jQCDbTzteucHAA89r8mowrtJ7LEac5AUvniPoGFDXYzZsYMLybtMh2RVvNk4hKKPl"
-    },
-    {
-      "id": "29804143935836629",
-      "title": "JESUS CHRIST IS THE SAME YESTERDAY, TODAY, AND FOREVER — BUT THE VERSE YOU KEEP QUOTING MAY BE CONFRONTING SOMETHING YOU KEEP IGNORING",
-      "date": "2026-11-21T14:01:46+00:00",
+      "id": "29812037625047260",
+      "title": "“BY THEIR FRUIT YOU WILL KNOW THEM” — JESUS SAID FRUIT, NOT GIFTS",
+      "date": "2026-11-22T05:42:30+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032wNo18Lhu5ETX5ALPXYdzbrhikH8bEBH4CQ7rpz2HEKTUL3UxvnLNy27FWpnkzW1l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032PNsqkCjtD7cYiFhDA6yAKW9UaufBNoSPJ37E45qu5J4PJo2JdJXZDnQXz1NrXZil"
     },
     {
-      "id": "29803478939236462",
-      "title": "“OUR GOD IS A CONSUMING FIRE” — THE TERRIFYING TRUTH ABOUT GOD THAT COULD BECOME THE MOST BEAUTIFUL THING YOU EVER UNDERSTAND",
-      "date": "2026-11-21T12:56:19+00:00",
+      "id": "29811529428431413",
+      "title": "YOU CAN MOVE MOUNTAINS WITH YOUR FAITH… AND STILL BE NOTHING BEFORE GOD",
+      "date": "2026-11-22T04:38:10+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02QqpSdz5741pNExPgQsBC1YajKhY1nxS5YKSJxH9Y9CPbRcYKcZxDCGbMB3drb4xCl"
+    },
+    {
+      "id": "29811004648483891",
+      "title": "YOU CAN SPEAK IN TONGUES, PROPHESY, UNDERSTAND THE MYSTERIES OF GOD—AND STILL HEAR JESUS SAY, “I NEVER KNEW YOU.”",
+      "date": "2026-11-22T03:31:38+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02GrfBbht1g67AReg3oqyr2otFscAkTJDifFRn6W8offjxbmx9iCjcjK7yyc3NdJful"
+    },
+    {
+      "id": "29810683388516017",
+      "title": "THE LOVE CHAPTER WAS NEVER MEANT TO MAKE YOU FEEL ROMANTIC. IT WAS MEANT TO MAKE THE CHURCH REPENT.",
+      "date": "2026-11-22T02:51:58+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02V5YPPDs7iqovekKSbBCkA1iNdVbpotKqRrhqKzDHt1p8ET9fZ9j13c83giDYsaSul"
+    },
+    {
+      "id": "29810176698566686",
+      "title": "FAITH WILL BECOME SIGHT. HOPE WILL BE FULFILLED. BUT LOVE WILL NEVER END.",
+      "date": "2026-11-22T01:48:31+00:00",
+      "subject": "Faith, Grace & Salvation",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pxh7tR1Zoo9N4vL4fx6upyjgpzAjBP6HCRRqeqFPUDpm8AWSGFCHYhQcyAfnENY9l"
+    },
+    {
+      "id": "29810108175240205",
+      "title": "THE DAY YOU WILL NO LONGER NEED FAITH: What Paul Really Meant When He Said, “When the Perfect Comes, the Partial Will Pass Away”",
+      "date": "2026-11-22T01:40:03+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sgHMGs6MSwgopiw4pzy4VnYDC3crEtR2vPAXZ4whg7f8tVG12p9XPxdoMAUNP4Jsl"
+    },
+    {
+      "id": "29809999971917692",
+      "title": "“NO EYE HAS SEEN WHAT GOD HAS PREPARED…” BUT THE VERY NEXT VERSE CHANGES EVERYTHING",
+      "date": "2026-11-22T01:26:38+00:00",
       "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JnbhYCquQxUsUrfwndkpaxp1iagfeqkwfbTahTYQFfYiUb3iZk8hXrcjPfAQNY2el"
-    },
-    {
-      "id": "29803146089269747",
-      "title": "“GOD IS TREATING YOU AS SONS” — WHAT IF THE PAIN YOU THOUGHT WAS GOD REJECTING YOU IS WHERE HE IS TEACHING YOU TO TRUST HIM?",
-      "date": "2026-11-21T12:22:47+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026yCM4G8Ly9gDaNRe1biobBY3MHtcx2KRyc7p5Z5zvLVsHcCvw8HCL8N5x3iC8idGl"
-    },
-    {
-      "id": "29802930225958000",
-      "title": "YOU CAN STARE AT YOUR FAILURES FOR THE REST OF YOUR LIFE… AND STILL NEVER BECOME HOLY.",
-      "date": "2026-11-21T12:00:47+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02TM4tLJEFweGPJksz1EzkKaytxeHeSVsS1dvYPv5R3mnUp6mB68BMeVpN4hNpPXXrl"
-    },
-    {
-      "id": "29802659979318358",
-      "title": "YOU ARE EXHAUSTED BECAUSE YOU KEEP RUNNING A RACE GOD NEVER ASKED YOU TO RUN",
-      "date": "2026-11-21T11:30:48+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027aabeh2DvG2sDKaszuRnXCqs1xVW3Bh66pakEGZDdn6XyQPa1GjUP82W5zBGJbbHl"
-    },
-    {
-      "id": "29802550345995988",
-      "title": "“WITHOUT HOLINESS NO ONE WILL SEE THE LORD” — THE TERRIFYING VERSE MANY CHRISTIANS MISUNDERSTAND",
-      "date": "2026-11-21T11:18:43+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02KWeLUzn2zpJ9UiKXjUfHkQBbDKvkF6qEniTnRRjRetBWj6jC1ZxKuzCnbcf4YVQvl"
-    },
-    {
-      "id": "29802470749337281",
-      "title": "THE GUILT THAT IS KILLING YOU MAY NOT BE THE SORROW THAT SAVES YOU",
-      "date": "2026-11-21T11:09:55+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UqZcz2svePP4mtj2jADRnzTZqgvokrriosga1wgkHYx52gYcAjVhzruYwLWwFMCvl"
-    },
-    {
-      "id": "29802405686010454",
-      "title": "GOD FORBADE HIM FROM TAKING HIS EX-WIFE BACK—BUT THE REASON IS MORE DISTURBING THAN YOU THINK",
-      "date": "2026-11-21T11:02:51+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0MkPSADwZAt8KuCXULxksfdbi87BBoSfvHkSxj52WAERRKW7DaX2HMuUoSzx4hn5ol"
-    },
-    {
-      "id": "29802274292690260",
-      "title": "THEY WERE HUNGRY. THE RELIGIOUS LEADERS WERE ANGRY. THEN JESUS SAID SOMETHING THAT CHANGED EVERYTHING.",
-      "date": "2026-11-21T10:48:03+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021bjFJFd7FtJoXjFKHu7TbfWXHzVAyZXPNeFNJyQHmHskDk2hGHTFvUrppTKcGwLil"
-    },
-    {
-      "id": "29802146099369746",
-      "title": "YOU CANNOT KEEP SOWING INTO DARKNESS AND EXPECT A HARVEST OF LIGHT",
-      "date": "2026-11-21T10:33:36+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Qxoq8xNgUAHT76cvPy2EG3Toy6X9dQyKYp5Wf7mZAKLWD21DaZzzroNXzXFk1o78l"
-    },
-    {
-      "id": "29802010602716629",
-      "title": "THE DEMONS OBEYED THEM… BUT JESUS SAID THEY WERE CELEBRATING THE WRONG THING.",
-      "date": "2026-11-21T10:17:42+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02h7PndoLnKxFsWKRVNuz427q5cv4YSB9kmhyu7ys9v2JJU7P7sySfYuvTPHSFNqPSl"
-    },
-    {
-      "id": "29801953886055634",
-      "title": "HE WAS ALLOWED TO MARRY… BUT GOD FORBADE HIM FROM TOUCHING THIS ONE WOMAN.",
-      "date": "2026-11-21T10:11:28+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0kMTKJ1trQnSLk8xd6ooJremJDtPS6CndEpai675PF5S18PaS61SH1vB1JmdSu16Xl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09wK7G88RM97SnNCXgYSaBZnnfqpHXRcwN7jiuXBojJxtHE3zeeBT4F6r7vMcg2w9l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-22T03:07:12Z",
-  "discovered": 4,
-  "processed": 4,
-  "discoveredLastRun": 4,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-22T11:14:58Z",
+  "discovered": 10,
+  "processed": 10,
+  "discoveredLastRun": 10,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29806036138980742",
-    "title": "EVERYONE TOLD YOU 1 CORINTHIANS 2:9 WAS ABOUT HEAVEN. BUT READ THE NEXT VERSE… AND EVERYTHING CHANGES.",
-    "date": "2026-11-21T17:06:39+00:00"
+    "id": "29813389874912035",
+    "title": "“DO NOT TOUCH THE LORD’S ANOINTED!” — THE VERSE THEY USED TO SILENCE YOU… AND THE TRUTH DAVID’S STORY ACTUALLY REVEALS",
+    "date": "2026-11-22T08:23:49+00:00"
   },
-  "lastImportCount": 21,
-  "lastImportAt": "2026-11-21T17:28:33Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-11-22T11:15:59Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10413,
+  "structuredMetadata": 10421,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-1b7ab73d4d274a44f46a000c635d54a94d063def538140cc0377b32cf8ac061a",
-  "statusGeneratedAt": "2026-11-22T03:07:39Z"
+  "contentRevision": "sha256-af008c69193bc7b07cec24954117837219f07ccf01bfe53d4ae2d67dc04035c4",
+  "statusGeneratedAt": "2026-11-22T11:15:59Z"
 }
