@@ -4,8 +4,8 @@
   "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-21T23:11:49Z",
-  "lastSuccess": "2026-11-21T23:11:49Z",
+  "lastCheck": "2026-11-22T03:07:39Z",
+  "lastSuccess": "2026-11-22T03:07:39Z",
   "currentTotal": 10413,
   "totalWords": 18664492,
   "subjects": 17,
@@ -153,10 +153,10 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-21T23:11:26Z",
-  "discovered": 21,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-11-22T03:07:12Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
   "pagesScanned": 1,
   "latest": {
     "id": "29806036138980742",
@@ -173,5 +173,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-1b7ab73d4d274a44f46a000c635d54a94d063def538140cc0377b32cf8ac061a",
-  "statusGeneratedAt": "2026-11-21T23:11:49Z"
+  "statusGeneratedAt": "2026-11-22T03:07:39Z"
 }
