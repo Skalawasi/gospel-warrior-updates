@@ -1,65 +1,79 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 6 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-23T00:17:01Z",
-  "lastSuccess": "2026-11-23T00:17:01Z",
-  "currentTotal": 10425,
-  "totalWords": 18719054,
+  "lastCheck": "2026-11-23T07:44:26Z",
+  "lastSuccess": "2026-11-23T07:44:26Z",
+  "currentTotal": 10431,
+  "totalWords": 18748839,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 6,
   "recentAdded": [
     {
-      "id": "29818877294363293",
-      "title": "SATAN DIDN’T NEED EVE TO STOP BELIEVING IN GOD—HE NEEDED HER TO DOUBT GOD’S WORD",
-      "date": "2026-11-22T17:42:25+00:00",
-      "subject": "Spiritual Warfare",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02sDk5nPnxRGWfcd12yUro5ouaRRzpoDERNprKudRetw3T1qNMbZ84vJJPQZkBb8MUl"
-    },
-    {
-      "id": "29817595947824761",
-      "title": "SATAN DOESN’T ALWAYS COME LOOKING LIKE THE DEVIL. SOMETIMES HE COMES LOOKING LIKE THE ANSWER TO YOUR PRAYERS.",
-      "date": "2026-11-22T15:35:48+00:00",
-      "subject": "Prayer & Spiritual Life",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037iDyr8EV9vFBgmN163pPjmr6e129Kx7Dz9DTkmWPe6kZSZR2quve9VvKi1FvcfVyl"
-    },
-    {
-      "id": "29816486861269003",
-      "title": "“OBEY YOUR LEADERS AND SUBMIT TO THEM” — BUT WHAT IF YOUR LEADER IS LEADING YOU AWAY FROM CHRIST?",
-      "date": "2026-11-22T13:52:29+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02PVqrkWq82xhDfSLY1gFHTyX5kubzRKobobbVfkLiV8MMyGyngaGAjgYModNNCYfGl"
-    },
-    {
-      "id": "29816399024611120",
-      "title": "THE DAY PAUL CONFRONTED PETER IN FRONT OF EVERYONE—AND EXPOSED A DANGEROUS LIE ABOUT SPIRITUAL AUTHORITY",
-      "date": "2026-11-22T13:44:28+00:00",
+      "id": "29824891560428533",
+      "title": "“THEY WILL NOT ENDURE SOUND TEACHING” — THE TERRIFYING WARNING PAUL GAVE ABOUT CHRISTIANS WHO ONLY WANT TO HEAR WHAT MAKES THEM FEEL GOOD",
+      "date": "2026-11-23T06:24:46+00:00",
       "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02fWnStQc6kPXcLuVkAuGiFWZBYcea82FP7Vk9NDc6eoguischoi2D5pg8J1BL5JbSl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02umwaFQy8DhT6yZP7BK69SfeyEzo3pzAAjfF5GxNZbbCtcE48KL12ARev1n1MXbLFl"
+    },
+    {
+      "id": "29823284430589246",
+      "title": "YOU KNOW THE BIBLE. BUT IS THE BIBLE CHANGING YOU? THE TRUTH THAT SHOULD SHAKE EVERY CHRISTIAN AWAKE.",
+      "date": "2026-11-23T02:51:16+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02EbPWuLL1ckufuQEgtJZpBGBJNtJ78tLkinUwQxNRYPStqoXBSDh4fCcCwgXYBk8Ul"
+    },
+    {
+      "id": "29822933840624305",
+      "title": "SHE WAS BLEEDING FOR 12 YEARS… THEN SHE TOUCHED THE ONE PERSON WHO COULD MAKE HER WHOLE",
+      "date": "2026-11-23T02:06:49+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02n4Hk8gJvqB7o6pMVXZ4ot87uDxks8MxGzp8dGwHbVKLoR35rA9FTgTrpeDe74YD4l"
+    },
+    {
+      "id": "29822902520627437",
+      "title": "“ALL SCRIPTURE IS GOD-BREATHED” — BUT WHICH SCRIPTURES WAS PAUL ACTUALLY TALKING ABOUT?",
+      "date": "2026-11-23T02:03:00+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0L73jqmLWPE2MSpd31ChjKacPC4ppYDgDvaQejBCyEagiGB4MitVfguvJafe1P4gcl"
+    },
+    {
+      "id": "29822608837323472",
+      "title": "THE DEVIL DOESN’T NEED YOU TO REJECT THE BIBLE—HE ONLY NEEDS YOU TO BELIEVE A VERSE WITHOUT ITS CONTEXT",
+      "date": "2026-11-23T01:24:50+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0Ptn83Xs4GJanb6n43cjXWP8ZVdFHATcbkmGxzGm39tF9waJqkRyjbVd18HGU2i8al"
+    },
+    {
+      "id": "29822131247371231",
+      "title": "THE DEVIL QUOTED THE BIBLE TO JESUS. AND JESUS STILL SAID NO.",
+      "date": "2026-11-23T00:22:34+00:00",
+      "subject": "Spiritual Warfare",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02cvBdSATzN7Q12B8o56qPjqAVL814d4jeASs1k5pXBKK26VjAV5XCoKbDeuMxyutHl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-23T00:16:44Z",
-  "discovered": 1,
-  "processed": 1,
-  "discoveredLastRun": 1,
+  "lastCheckStarted": "2026-11-23T07:43:37Z",
+  "discovered": 6,
+  "processed": 6,
+  "discoveredLastRun": 6,
   "pagesScanned": 1,
   "latest": {
-    "id": "29818877294363293",
-    "title": "SATAN DIDN’T NEED EVE TO STOP BELIEVING IN GOD—HE NEEDED HER TO DOUBT GOD’S WORD",
-    "date": "2026-11-22T17:42:25+00:00"
+    "id": "29824891560428533",
+    "title": "“THEY WILL NOT ENDURE SOUND TEACHING” — THE TERRIFYING WARNING PAUL GAVE ABOUT CHRISTIANS WHO ONLY WANT TO HEAR WHAT MAKES THEM FEEL GOOD",
+    "date": "2026-11-23T06:24:46+00:00"
   },
-  "lastImportCount": 4,
-  "lastImportAt": "2026-11-22T18:31:43Z",
+  "lastImportCount": 6,
+  "lastImportAt": "2026-11-23T07:44:26Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10425,
+  "structuredMetadata": 10431,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-c92b88743e88b2f61ba2c8b7bdf9ca125c79331f97cbc6b3decf428b6da038f8",
-  "statusGeneratedAt": "2026-11-23T00:17:01Z"
+  "contentRevision": "sha256-a6d06aa1cdd0a5e570f4e692cf3935bba91092c4253e49b1868f37d309179464",
+  "statusGeneratedAt": "2026-11-23T07:44:26Z"
 }
