@@ -1,44 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 1 new public study.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-23T20:10:25Z",
-  "lastSuccess": "2026-11-23T20:10:25Z",
-  "currentTotal": 10432,
-  "totalWords": 18753186,
+  "lastCheck": "2026-11-24T04:46:02Z",
+  "lastSuccess": "2026-11-24T04:46:02Z",
+  "currentTotal": 10440,
+  "totalWords": 18781168,
   "subjects": 17,
-  "addedLastRun": 1,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29829081073342915",
-      "title": "THE TRUTH WILL SET YOU FREE… BUT JESUS SAID SOMETHING FIRST THAT MOST PEOPLE KEEP SKIPPING",
-      "date": "2026-11-23T14:36:32+00:00",
+      "id": "29835975399320149",
+      "title": "GOD NEVER PROMISED TO OPEN EVERY DOOR YOU PRAYED FOR — BUT THERE IS ONE DOOR NO ONE CAN EVER SHUT.",
+      "date": "2026-11-24T04:21:25+00:00",
+      "subject": "Prayer & Spiritual Life",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02MKNvLJ8JfVUTnWySMoWoeWfSiraSYHbHkSo5fTGtTeHf61P38gUf8NKxfdRpGohVl"
+    },
+    {
+      "id": "29835136909403998",
+      "title": "“GOD TOLD ME…” — BUT WHAT IF GOD NEVER SAID IT?",
+      "date": "2026-11-24T02:35:44+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02vWyHwjcXg1ySBdDpLde5yQdNxhEpUqm5Lok4csb5pcaCmfT1F4FqZVsyWdm9G7vpl"
+    },
+    {
+      "id": "29834856486098707",
+      "title": "“MY SHEEP HEAR MY VOICE” — BUT WHAT IF THE VOICE YOU’VE BEEN FOLLOWING ISN’T JESUS?",
+      "date": "2026-11-24T02:00:27+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02tLccc1kBiJyEUz4W7rEztTkHUxMWwsGxdmDaveqDdHKBrLs6xhCkebJCASLCY2xSl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WFMzQnUTkuHV8XH3JV1EoxDwL5gsP9B3UR5DRtnfbDJBwMifPxuoTNEP6R4KX7kzl"
+    },
+    {
+      "id": "29834736422777380",
+      "title": "WHAT IF GOD NEVER TOLD YOU THAT?",
+      "date": "2026-11-24T01:45:28+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02JAnAHSD8RraQMbjeki9MVMCizyX8LAonr9dHvv6rtQMh8xCjq9mbQ4hrFFTkaKNpl"
+    },
+    {
+      "id": "29833862056198150",
+      "title": "YOU LOVE JESUS… SO WHY DO YOU KEEP GOING BACK TO THE SIN YOU BEGGED HIM TO DELIVER YOU FROM?",
+      "date": "2026-11-23T23:52:46+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid024VFxprJgtoXJtYE9LT8qnTaRhw2bpBKaSbD7XS8v4njnU41RdMoapgecsTR6MSqRl"
+    },
+    {
+      "id": "29833809616203394",
+      "title": "YOU CANNOT UNDERSTAND THE FRUIT OF THE SPIRIT WITHOUT READING ABOUT THE WORKS OF THE FLESH",
+      "date": "2026-11-23T23:46:01+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gYdh1ANxc7qvJUkA6CJgSLEhHs7UxGwCq7m9m7ShHAfWAHH29MaZSrxfcznzcDkWl"
+    },
+    {
+      "id": "29833726262878396",
+      "title": "YOU CAN SPEAK IN TONGUES AND STILL HAVE A ROTTEN HEART: Why Paul Said “Fruit,” Not “Fruits” of the Spirit",
+      "date": "2026-11-23T23:35:13+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035Yxie8qBzZLCMSHkHEvxLshxkNcRntmmYo1JMxs4kkJ4yZcKhs7zpsrFX6tUEWkXl"
+    },
+    {
+      "id": "29833650076219348",
+      "title": "“THE TRUTH WILL SET YOU FREE”—BUT JESUS SAID SOMETHING FIRST THAT MOST PEOPLE DON’T WANT TO HEAR",
+      "date": "2026-11-23T23:25:15+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037zcA8zit69pz8VPfPRwDX1YbMUV3t2P3BvqxqwUB5CcUaYmyUng7Hv9cqMf2zny7l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-23T20:09:48Z",
-  "discovered": 1,
-  "processed": 1,
-  "discoveredLastRun": 1,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-24T04:45:03Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29829081073342915",
-    "title": "THE TRUTH WILL SET YOU FREE… BUT JESUS SAID SOMETHING FIRST THAT MOST PEOPLE KEEP SKIPPING",
-    "date": "2026-11-23T14:36:32+00:00"
+    "id": "29835975399320149",
+    "title": "GOD NEVER PROMISED TO OPEN EVERY DOOR YOU PRAYED FOR — BUT THERE IS ONE DOOR NO ONE CAN EVER SHUT.",
+    "date": "2026-11-24T04:21:25+00:00"
   },
-  "lastImportCount": 1,
-  "lastImportAt": "2026-11-23T20:10:25Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-11-24T04:46:02Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10432,
+  "structuredMetadata": 10440,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-9b52cb0aa72b10661456573dc3774ec1ae573b783c91a21ccb2487d3e33c9824",
-  "statusGeneratedAt": "2026-11-23T20:10:25Z"
+  "contentRevision": "sha256-8fd4b7d99bc5fb33a02353ec31e7e53a4ec886bfcb7d5fa40b6d9b2387f137ca",
+  "statusGeneratedAt": "2026-11-24T04:46:02Z"
 }
