@@ -1,93 +1,51 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 8 new public studies.",
+  "message": "Added 2 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-25T09:50:20Z",
-  "lastSuccess": "2026-11-25T09:50:20Z",
-  "currentTotal": 10451,
-  "totalWords": 18811638,
+  "lastCheck": "2026-11-25T19:56:07Z",
+  "lastSuccess": "2026-11-25T19:56:07Z",
+  "currentTotal": 10453,
+  "totalWords": 18817042,
   "subjects": 17,
-  "addedLastRun": 8,
+  "addedLastRun": 2,
   "recentAdded": [
     {
-      "id": "29850898784494477",
-      "title": "JESUS CALLED IT THE CHILDREN’S BREAD. SHE ASKED FOR THE CRUMBS. HE CALLED HER FAITH GREAT.",
-      "date": "2026-11-25T09:36:05+00:00",
-      "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xVkdcS22W874qxkxANnngVH87SZpzw7ga5HxHyhPcHDzYWKF3M8VmcXkjzz6vrx1l"
-    },
-    {
-      "id": "29849441447973544",
-      "title": "YOU MAY HAVE LOST YOURSELF IN THE DARKNESS, BUT HEAVEN HAS NOT STOPPED LOOKING FOR YOU.",
-      "date": "2026-11-25T06:33:13+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ib8FK51NJ1wxkh9Z4h5RHkhduXg5kGmVU2S82Hc56rRuPn7U9iD48amQLCNYpXwBl"
-    },
-    {
-      "id": "29848098271441195",
-      "title": "SHE SPENT 18 YEARS LOOKING AT THE GROUND—UNTIL JESUS GAVE HER A REASON TO LOOK UP AGAIN",
-      "date": "2026-11-25T03:46:39+00:00",
+      "id": "29853761874208168",
+      "title": "SHE HAD A BUSINESS, A HOME, AND A LIFE OF HER OWN—BUT WHEN JESUS OPENED HER HEART, EVERYTHING CHANGED.",
+      "date": "2026-11-25T14:34:53+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037EAAmkBi5dJp5qYR3a7Hs6hqQCVGPowb9FxxLNhwdhU3H5TzBqzntUdMtg5e6urcl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bw4z16ZKn9auyxwaBeTKMWxdNZvYvZmnm7Mw91tYTExU6tzT3QNW9w5B3Favi4opl"
     },
     {
-      "id": "29842948358622853",
-      "title": "SHE TOUCHED HIS ROBE, BUT HE TOUCHED HER IDENTITY: WHY JESUS CALLED A BLEEDING WOMAN “DAUGHTER”",
-      "date": "2026-11-24T17:35:32+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022yEdijdSUAFzURHZVHonNhBkoanfvGxhS8uLFsFJVodD1T1Dui2gGR9FJHprNUH4l"
-    },
-    {
-      "id": "29842750681975954",
-      "title": "GOD HEARD THE CRIES OF THE WOMAN YOU PROMISED NEVER TO BETRAY.",
-      "date": "2026-11-24T17:14:53+00:00",
-      "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZsNeykUArUZ6UW27VDfU5nw9ptWuv4s2XdMfoHNU7Ae9WE9fSPSwAcabeb427Ga8l"
-    },
-    {
-      "id": "29842478642003158",
-      "title": "GOD SAW WHAT YOU DID WHEN THEY WERE TOO DRUNK TO PROTECT THEMSELVES.",
-      "date": "2026-11-24T16:46:53+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WitCsrffi7bPENo1YQuphX26c4HY39GP64udM5Sd5GpB7jwspmMHVp2BEWqGyuLvl"
-    },
-    {
-      "id": "29842365812014441",
-      "title": "THEY SOLD A LITTLE GIRL FOR WINE—AND HEAVEN DID NOT STAY SILENT.",
-      "date": "2026-11-24T16:35:17+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid094RTBPLkFJUUjmPFpksRA7FdReDBWnkj95hFW4nvsL3AXBq3hd2sXTVGMdT2hQ8Vl"
-    },
-    {
-      "id": "29842112092039813",
-      "title": "THEY STOOD AT THE GATES OF HEAVEN… AND JESUS ACCUSED THEM OF LOCKING PEOPLE OUT.",
-      "date": "2026-11-24T16:09:27+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mqQUAvi65GPz9owFPZ1DCvXTLZ4BdxTT2tkAZz7edyBCY6f7jnGyGcHs8tQaW3nvl"
+      "id": "29851231114461244",
+      "title": "SHE DIED, AND THE WIDOWS BROUGHT OUT THEIR CLOTHES—BECAUSE SOME LIVES PREACH EVEN AFTER THEIR LAST BREATH",
+      "date": "2026-11-25T10:14:19+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027d6S4mDeJvYuHWGvUK1VqpDKSBF7rEuQvNMrRyiFy8kRvjVTiv31zxRZgLA2cTvcl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-25T09:49:22Z",
-  "discovered": 8,
-  "processed": 8,
-  "discoveredLastRun": 8,
-  "pagesScanned": 2,
+  "lastCheckStarted": "2026-11-25T19:55:28Z",
+  "discovered": 2,
+  "processed": 2,
+  "discoveredLastRun": 2,
+  "pagesScanned": 1,
   "latest": {
-    "id": "29850898784494477",
-    "title": "JESUS CALLED IT THE CHILDREN’S BREAD. SHE ASKED FOR THE CRUMBS. HE CALLED HER FAITH GREAT.",
-    "date": "2026-11-25T09:36:05+00:00"
+    "id": "29853761874208168",
+    "title": "SHE HAD A BUSINESS, A HOME, AND A LIFE OF HER OWN—BUT WHEN JESUS OPENED HER HEART, EVERYTHING CHANGED.",
+    "date": "2026-11-25T14:34:53+00:00"
   },
-  "lastImportCount": 8,
-  "lastImportAt": "2026-11-25T09:50:20Z",
+  "lastImportCount": 2,
+  "lastImportAt": "2026-11-25T19:56:07Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10451,
+  "structuredMetadata": 10453,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-085776b4efb7f6dfb66d5692736b3d8e92261e66ee27f623858e1a3a95a3acf0",
-  "statusGeneratedAt": "2026-11-25T09:50:20Z"
+  "contentRevision": "sha256-3a769ce671c86ebb12f0bdf69d2e54cd7c2a6859555b4eea5fc4ad50716de7f6",
+  "statusGeneratedAt": "2026-11-25T19:56:07Z"
 }
