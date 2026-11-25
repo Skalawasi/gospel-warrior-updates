@@ -1,58 +1,93 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 8 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-25T00:40:42Z",
-  "lastSuccess": "2026-11-25T00:40:42Z",
-  "currentTotal": 10443,
-  "totalWords": 18789141,
+  "lastCheck": "2026-11-25T09:50:20Z",
+  "lastSuccess": "2026-11-25T09:50:20Z",
+  "currentTotal": 10451,
+  "totalWords": 18811638,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 8,
   "recentAdded": [
     {
-      "id": "29841582352092787",
-      "title": "SHE DID NOT SCREAM. DOES THAT MEAN SHE CONSENTED? THE DISTURBING BIBLE PASSAGE WE NEED TO UNDERSTAND BEFORE WE JUDGE.",
-      "date": "2026-11-24T15:15:09+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oTDRfKr8S1xwgaYVWtpbHZRWsPQRMSTC18wxCY7g2V8w1EEJ42VcMSYU8Wbx1hqyl"
+      "id": "29850898784494477",
+      "title": "JESUS CALLED IT THE CHILDREN’S BREAD. SHE ASKED FOR THE CRUMBS. HE CALLED HER FAITH GREAT.",
+      "date": "2026-11-25T09:36:05+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xVkdcS22W874qxkxANnngVH87SZpzw7ga5HxHyhPcHDzYWKF3M8VmcXkjzz6vrx1l"
     },
     {
-      "id": "29837806849137004",
-      "title": "SHE REMOVED HIS SANDAL, SPAT IN HIS FACE, AND EXPOSED HIS SHAME BEFORE AN ENTIRE COMMUNITY.",
-      "date": "2026-11-24T08:18:15+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02mzaRzFvnwjfxZUUsnNiqo9sFhjhSmVR3ijPaS2c8dsUqBwvAKg2JX5SKakzJTcmRl"
+      "id": "29849441447973544",
+      "title": "YOU MAY HAVE LOST YOURSELF IN THE DARKNESS, BUT HEAVEN HAS NOT STOPPED LOOKING FOR YOU.",
+      "date": "2026-11-25T06:33:13+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ib8FK51NJ1wxkh9Z4h5RHkhduXg5kGmVU2S82Hc56rRuPn7U9iD48amQLCNYpXwBl"
     },
     {
-      "id": "29837191062531916",
-      "title": "“IF IT’S GOD’S WILL, EVERYTHING WILL FALL INTO PLACE” — THE COMFORTING LIE THAT MAY BE KEEPING YOU FROM YOUR CALLING",
-      "date": "2026-11-24T06:55:27+00:00",
-      "subject": "Healing & Encouragement",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid025ykfSbhJ161g1X3imXuA3Khu4WktDhQzZmdWA8fHPTCwDp8zuTrLQWBQL9QGUZAFl"
+      "id": "29848098271441195",
+      "title": "SHE SPENT 18 YEARS LOOKING AT THE GROUND—UNTIL JESUS GAVE HER A REASON TO LOOK UP AGAIN",
+      "date": "2026-11-25T03:46:39+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037EAAmkBi5dJp5qYR3a7Hs6hqQCVGPowb9FxxLNhwdhU3H5TzBqzntUdMtg5e6urcl"
+    },
+    {
+      "id": "29842948358622853",
+      "title": "SHE TOUCHED HIS ROBE, BUT HE TOUCHED HER IDENTITY: WHY JESUS CALLED A BLEEDING WOMAN “DAUGHTER”",
+      "date": "2026-11-24T17:35:32+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid022yEdijdSUAFzURHZVHonNhBkoanfvGxhS8uLFsFJVodD1T1Dui2gGR9FJHprNUH4l"
+    },
+    {
+      "id": "29842750681975954",
+      "title": "GOD HEARD THE CRIES OF THE WOMAN YOU PROMISED NEVER TO BETRAY.",
+      "date": "2026-11-24T17:14:53+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02ZsNeykUArUZ6UW27VDfU5nw9ptWuv4s2XdMfoHNU7Ae9WE9fSPSwAcabeb427Ga8l"
+    },
+    {
+      "id": "29842478642003158",
+      "title": "GOD SAW WHAT YOU DID WHEN THEY WERE TOO DRUNK TO PROTECT THEMSELVES.",
+      "date": "2026-11-24T16:46:53+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02WitCsrffi7bPENo1YQuphX26c4HY39GP64udM5Sd5GpB7jwspmMHVp2BEWqGyuLvl"
+    },
+    {
+      "id": "29842365812014441",
+      "title": "THEY SOLD A LITTLE GIRL FOR WINE—AND HEAVEN DID NOT STAY SILENT.",
+      "date": "2026-11-24T16:35:17+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid094RTBPLkFJUUjmPFpksRA7FdReDBWnkj95hFW4nvsL3AXBq3hd2sXTVGMdT2hQ8Vl"
+    },
+    {
+      "id": "29842112092039813",
+      "title": "THEY STOOD AT THE GATES OF HEAVEN… AND JESUS ACCUSED THEM OF LOCKING PEOPLE OUT.",
+      "date": "2026-11-24T16:09:27+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0mqQUAvi65GPz9owFPZ1DCvXTLZ4BdxTT2tkAZz7edyBCY6f7jnGyGcHs8tQaW3nvl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-25T00:40:14Z",
-  "discovered": 5,
-  "processed": 5,
-  "discoveredLastRun": 5,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-25T09:49:22Z",
+  "discovered": 8,
+  "processed": 8,
+  "discoveredLastRun": 8,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29841582352092787",
-    "title": "SHE DID NOT SCREAM. DOES THAT MEAN SHE CONSENTED? THE DISTURBING BIBLE PASSAGE WE NEED TO UNDERSTAND BEFORE WE JUDGE.",
-    "date": "2026-11-24T15:15:09+00:00"
+    "id": "29850898784494477",
+    "title": "JESUS CALLED IT THE CHILDREN’S BREAD. SHE ASKED FOR THE CRUMBS. HE CALLED HER FAITH GREAT.",
+    "date": "2026-11-25T09:36:05+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-11-24T15:50:48Z",
+  "lastImportCount": 8,
+  "lastImportAt": "2026-11-25T09:50:20Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10443,
+  "structuredMetadata": 10451,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-c5861710b6b4dd9aa4380d1f0c80b14ee84474459f2fae722bbda50368fa39d1",
-  "statusGeneratedAt": "2026-11-25T00:40:43Z"
+  "contentRevision": "sha256-085776b4efb7f6dfb66d5692736b3d8e92261e66ee27f623858e1a3a95a3acf0",
+  "statusGeneratedAt": "2026-11-25T09:50:20Z"
 }
