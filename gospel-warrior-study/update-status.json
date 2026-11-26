@@ -1,58 +1,65 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 3 new public studies.",
+  "message": "Added 4 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-26T02:50:23Z",
-  "lastSuccess": "2026-11-26T02:50:23Z",
-  "currentTotal": 10456,
-  "totalWords": 18824439,
+  "lastCheck": "2026-11-26T12:24:24Z",
+  "lastSuccess": "2026-11-26T12:24:24Z",
+  "currentTotal": 10460,
+  "totalWords": 18835026,
   "subjects": 17,
-  "addedLastRun": 3,
+  "addedLastRun": 4,
   "recentAdded": [
     {
-      "id": "29859814193602936",
-      "title": "THE WOMAN PAUL REFUSED TO LET THE CHURCH OVERLOOK: HER NAME WAS PHOEBE",
-      "date": "2026-11-26T02:46:17+00:00",
+      "id": "29862436526674036",
+      "title": "BEFORE TIMOTHY EVER PREACHED THE GOSPEL, TWO WOMEN PREACHED IT WITH THEIR LIVES.",
+      "date": "2026-11-26T08:12:54+00:00",
       "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xzupnZGnnR4xrS5wwi3eEvjbUCy34NBkiKJcmf5rhFcpJt3Yk2Bktz6oAYGHQdw4l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02BtnPhebbh2LBTZd12dNUHCKyAcDdcQWv8SBGQkqtsQFmLt5YQTTiamDMfvuF5fLql"
     },
     {
-      "id": "29858498903734465",
-      "title": "HE HAD THE POWER TO FREE PAUL, BUT HE COULDN’T FREE HIMSELF FROM SIN.",
-      "date": "2026-11-25T23:56:10+00:00",
-      "subject": "Acts & Early Church",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036934P5EBALfiMb9niZjoq1oth27G5qBFzktVNJRVa2r5vU9rDFZyeJdVeig6LRoyl"
+      "id": "29861764610074561",
+      "title": "THEY FOUGHT FOR THE SAME GOSPEL… UNTIL THEY COULD NO LONGER AGREE WITH EACH OTHER.",
+      "date": "2026-11-26T06:47:58+00:00",
+      "subject": "Jesus & Gospels",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid09jJUL1JiRkDw6aQzAPPppU7Vzc8Vw6JEMTDgkTWT84siThEg9tKQUb52JzokKES7l"
     },
     {
-      "id": "29858001197117569",
-      "title": "SHE WAS MAKING EVERYONE RICH WHILE HER SOUL WAS IN CHAINS—UNTIL JESUS INTERRUPTED THE BUSINESS.",
-      "date": "2026-11-25T22:42:11+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02h99HNTFnDUcmZtLPd6BRDgUQULE121JFzjKuBw5RmUPawZG9hzmZPfJawQV6UBLWl"
+      "id": "29861240400126982",
+      "title": "SHE OPENED HER DOOR, AND THE CHURCH WALKED IN: THE FORGOTTEN WOMAN NAMED NYMPHA",
+      "date": "2026-11-26T05:41:30+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032JTzE35V9SVU25kfC7sfvp4vpa2Ux8TZLPYKPc223nWz6oQRVBq2zRHwHaPLPPrHl"
+    },
+    {
+      "id": "29860400903544265",
+      "title": "THEY TRIED TO TURN HER INTO A MAN—BUT HER NAME WAS JUNIA, AND HER STORY WAS WRITTEN INTO SCRIPTURE.",
+      "date": "2026-11-26T03:55:08+00:00",
+      "subject": "Christian Living",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0P45B45oya3K3P4mXa6SxUcbMxMtcgyyU6tMiqx66QNBr9XmaWgZMv6mGgk6xpvR9l"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-26T02:49:38Z",
-  "discovered": 3,
-  "processed": 3,
-  "discoveredLastRun": 3,
+  "lastCheckStarted": "2026-11-26T12:23:29Z",
+  "discovered": 4,
+  "processed": 4,
+  "discoveredLastRun": 4,
   "pagesScanned": 1,
   "latest": {
-    "id": "29859814193602936",
-    "title": "THE WOMAN PAUL REFUSED TO LET THE CHURCH OVERLOOK: HER NAME WAS PHOEBE",
-    "date": "2026-11-26T02:46:17+00:00"
+    "id": "29862436526674036",
+    "title": "BEFORE TIMOTHY EVER PREACHED THE GOSPEL, TWO WOMEN PREACHED IT WITH THEIR LIVES.",
+    "date": "2026-11-26T08:12:54+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-11-26T02:50:23Z",
+  "lastImportCount": 4,
+  "lastImportAt": "2026-11-26T12:24:24Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10456,
+  "structuredMetadata": 10460,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-27ef748a909d5419f4f3e363e625b5429967bb7d5565bebcdebe78a11b9afeae",
-  "statusGeneratedAt": "2026-11-26T02:50:23Z"
+  "contentRevision": "sha256-da03ec052feb2d92100f2f9e08a5ae279308a007297273e41a95d34facd3c038",
+  "statusGeneratedAt": "2026-11-26T12:24:24Z"
 }
