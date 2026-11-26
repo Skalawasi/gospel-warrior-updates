@@ -1,51 +1,58 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 2 new public studies.",
+  "message": "Added 3 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-25T19:56:07Z",
-  "lastSuccess": "2026-11-25T19:56:07Z",
-  "currentTotal": 10453,
-  "totalWords": 18817042,
+  "lastCheck": "2026-11-26T02:50:23Z",
+  "lastSuccess": "2026-11-26T02:50:23Z",
+  "currentTotal": 10456,
+  "totalWords": 18824439,
   "subjects": 17,
-  "addedLastRun": 2,
+  "addedLastRun": 3,
   "recentAdded": [
     {
-      "id": "29853761874208168",
-      "title": "SHE HAD A BUSINESS, A HOME, AND A LIFE OF HER OWN—BUT WHEN JESUS OPENED HER HEART, EVERYTHING CHANGED.",
-      "date": "2026-11-25T14:34:53+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0bw4z16ZKn9auyxwaBeTKMWxdNZvYvZmnm7Mw91tYTExU6tzT3QNW9w5B3Favi4opl"
+      "id": "29859814193602936",
+      "title": "THE WOMAN PAUL REFUSED TO LET THE CHURCH OVERLOOK: HER NAME WAS PHOEBE",
+      "date": "2026-11-26T02:46:17+00:00",
+      "subject": "Church & Ministry",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02xzupnZGnnR4xrS5wwi3eEvjbUCy34NBkiKJcmf5rhFcpJt3Yk2Bktz6oAYGHQdw4l"
     },
     {
-      "id": "29851231114461244",
-      "title": "SHE DIED, AND THE WIDOWS BROUGHT OUT THEIR CLOTHES—BECAUSE SOME LIVES PREACH EVEN AFTER THEIR LAST BREATH",
-      "date": "2026-11-25T10:14:19+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid027d6S4mDeJvYuHWGvUK1VqpDKSBF7rEuQvNMrRyiFy8kRvjVTiv31zxRZgLA2cTvcl"
+      "id": "29858498903734465",
+      "title": "HE HAD THE POWER TO FREE PAUL, BUT HE COULDN’T FREE HIMSELF FROM SIN.",
+      "date": "2026-11-25T23:56:10+00:00",
+      "subject": "Acts & Early Church",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid036934P5EBALfiMb9niZjoq1oth27G5qBFzktVNJRVa2r5vU9rDFZyeJdVeig6LRoyl"
+    },
+    {
+      "id": "29858001197117569",
+      "title": "SHE WAS MAKING EVERYONE RICH WHILE HER SOUL WAS IN CHAINS—UNTIL JESUS INTERRUPTED THE BUSINESS.",
+      "date": "2026-11-25T22:42:11+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02h99HNTFnDUcmZtLPd6BRDgUQULE121JFzjKuBw5RmUPawZG9hzmZPfJawQV6UBLWl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-25T19:55:28Z",
-  "discovered": 2,
-  "processed": 2,
-  "discoveredLastRun": 2,
+  "lastCheckStarted": "2026-11-26T02:49:38Z",
+  "discovered": 3,
+  "processed": 3,
+  "discoveredLastRun": 3,
   "pagesScanned": 1,
   "latest": {
-    "id": "29853761874208168",
-    "title": "SHE HAD A BUSINESS, A HOME, AND A LIFE OF HER OWN—BUT WHEN JESUS OPENED HER HEART, EVERYTHING CHANGED.",
-    "date": "2026-11-25T14:34:53+00:00"
+    "id": "29859814193602936",
+    "title": "THE WOMAN PAUL REFUSED TO LET THE CHURCH OVERLOOK: HER NAME WAS PHOEBE",
+    "date": "2026-11-26T02:46:17+00:00"
   },
-  "lastImportCount": 2,
-  "lastImportAt": "2026-11-25T19:56:07Z",
+  "lastImportCount": 3,
+  "lastImportAt": "2026-11-26T02:50:23Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10453,
+  "structuredMetadata": 10456,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-3a769ce671c86ebb12f0bdf69d2e54cd7c2a6859555b4eea5fc4ad50716de7f6",
-  "statusGeneratedAt": "2026-11-25T19:56:07Z"
+  "contentRevision": "sha256-27ef748a909d5419f4f3e363e625b5429967bb7d5565bebcdebe78a11b9afeae",
+  "statusGeneratedAt": "2026-11-26T02:50:23Z"
 }
