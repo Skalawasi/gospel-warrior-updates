@@ -1,79 +1,128 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 6 new public studies.",
+  "message": "Added 13 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-26T22:19:45Z",
-  "lastSuccess": "2026-11-26T22:19:45Z",
-  "currentTotal": 10466,
-  "totalWords": 18850230,
+  "lastCheck": "2026-11-27T05:01:09Z",
+  "lastSuccess": "2026-11-27T05:01:09Z",
+  "currentTotal": 10479,
+  "totalWords": 18885143,
   "subjects": 17,
-  "addedLastRun": 6,
+  "addedLastRun": 13,
   "recentAdded": [
     {
-      "id": "29866943872889968",
-      "title": "ABRAHAM MARRIED HIS OWN HALF-SISTER—AND GOD STILL CHOSE HIM. HOW IS THAT POSSIBLE?",
-      "date": "2026-11-26T16:09:36+00:00",
-      "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Vcn63MvASDyciezfkKKeUDepjzCmeG5AQh8w3epzi9SPT26mf3gZPVAYR8at2Wztl"
+      "id": "29873128512271504",
+      "title": "HE LEFT HIS CLOTHES BEHIND, BUT HE REFUSED TO LEAVE HIS GOD.",
+      "date": "2026-11-27T04:50:25+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YZh7ZmiZAuHT5c5QtDaVU8EvsEwdVo5xJnPMMZjp6XikNsUnZhaFaptfBGWvutHpl"
     },
     {
-      "id": "29866884136229275",
-      "title": "SODOM DID NOT FALL WITHOUT A WARNING — AND NEITHER WILL THIS GENERATION.",
-      "date": "2026-11-26T16:03:35+00:00",
-      "subject": "Christian Living",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid03ivScjLkmP48V7JHWRRjnw5BAkvzjrFiB2v8BUkgtoB1AgHVk9eWaSGHbPdBhddyl"
-    },
-    {
-      "id": "29866803466237342",
-      "title": "GOD SAW WHAT HAPPENED BEHIND CLOSED DOORS… AND STILL SENT HIS SON TO REDEEM YOU.",
-      "date": "2026-11-26T15:55:57+00:00",
+      "id": "29873031438947878",
+      "title": "JUDAH DEMANDED THAT HIS PREGNANT DAUGHTER-IN-LAW BE BURNED—UNTIL HE DISCOVERED HE WAS THE FATHER.",
+      "date": "2026-11-27T04:37:43+00:00",
       "subject": "Family & Parenting",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02oBVQH5iz73FQyCTyKJvqGH8CSs2CHgKEHEg6wUTpfpeq9Y5yMEp98vNhbKGQTa6Cl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid037TGM1mfy1HC1ceQHT2AmARFiNmsmcExDSgWK8HnDDqjZJf98z3X98azwycfU2sUJl"
     },
     {
-      "id": "29866693349581687",
-      "title": "GOD HEARS THE WAY YOU TREAT YOUR WIFE—EVEN WHEN YOU ARE ON YOUR KNEES PRAYING.",
-      "date": "2026-11-26T15:44:49+00:00",
+      "id": "29872747152309640",
+      "title": "ONAN SPILLED HIS SEED, BUT WAS THAT REALLY WHY GOD KILLED HIM? THE SIN MOST PEOPLE COMPLETELY MISS",
+      "date": "2026-11-27T04:00:08+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid026395BMNWThyHc3tT4rJ82XraVi2dDewMP1Gxzi4Zj6Bv7jkcPuDQxP4HkNRSP4K7l"
+    },
+    {
+      "id": "29871671515750537",
+      "title": "“SHOULD HE TREAT OUR SISTER LIKE A PROSTITUTE?” — THE QUESTION THAT EXPOSED A FAMILY, A VIOLENT WORLD, AND OUR DESPERATE NEED FOR JESUS",
+      "date": "2026-11-27T01:41:13+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0vtAHRDVNZyUTVvRZGRudEHfM76fNRzfJ2Xs6c9QQQJ1gZCh5Utt47vZM9JgbWQ6Zl"
+    },
+    {
+      "id": "29871539032430452",
+      "title": "HE VIOLATED HER… THEN CALLED IT LOVE. BUT GOD NEVER CONFUSED LOVE WITH ABUSE.",
+      "date": "2026-11-27T01:24:32+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid07UMonF239erfd82w59FqBKT8rtSHPqfiaT7PKAY7WWfrw9FgzPzN5oKTFPHCNtoql"
+    },
+    {
+      "id": "29871440609106961",
+      "title": "JACOB PRONOUNCED A DEATH SENTENCE. HE HAD NO IDEA HE WAS CONDEMNING THE WOMAN HE LOVED MOST.",
+      "date": "2026-11-27T01:11:48+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid035t5GwJq3yTaxFf9eCX7qToJVm8hveZmgwUtNYuKbqaQrWdsHadyigvMbtR36kx8sl"
+    },
+    {
+      "id": "29871348215782867",
+      "title": "THEIR OWN FATHER SOLD THEM. TWO SISTERS FINALLY EXPOSED THE SCANDAL.",
+      "date": "2026-11-27T01:00:12+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0nCvL262noY6Dt6QfGX259rg9SAoxC8c5S1ag6Pt5YqWZRGBCH3o8U9QGBGPywMhel"
+    },
+    {
+      "id": "29871092495808439",
+      "title": "“GIVE ME CHILDREN, OR I SHALL DIE!” — WHEN THE ONE THING YOU WANT BECOMES THE ONE THING DESTROYING YOU",
+      "date": "2026-11-27T00:26:28+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05rmQiZDBYCKkGjMMCur6MttXFQeyzr7oW4RZAcxY7Ze54yTbuEXaAeuFG8aNCwGPl"
+    },
+    {
+      "id": "29871001292484226",
+      "title": "SHE DIED NAMING HIM AFTER HER PAIN. HIS FATHER REFUSED TO LET THAT BE HIS IDENTITY.",
+      "date": "2026-11-27T00:14:19+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sK6fcxWgP5NgznkBqcZnhm5vusbMxNA4aBM9E2KTc78EfWap5P7FjijbHcoFsXF3l"
+    },
+    {
+      "id": "29870846692499686",
+      "title": "WHY DID GOD REQUIRE CIRCUMCISION ON THE MOST INTIMATE PART OF A MAN'S BODY?",
+      "date": "2026-11-26T23:52:58+00:00",
+      "subject": "Sexuality & Purity",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0xafii2G5xcRrPp76MGqKMh3TZwjhERChhV5usShVAvQ8fV4pttn71dt23TDVb6LZl"
+    },
+    {
+      "id": "29870766412507714",
+      "title": "AT 99 YEARS OLD, GOD STILL ASKED ABRAHAM TO CUT SOMETHING AWAY.",
+      "date": "2026-11-26T23:41:24+00:00",
+      "subject": "Genesis & Patriarchs",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02837yiauAPaAiMJvcf42Dox7Nit6HUs7zDmRESXvAb24MaNjnknsNMfNgSSZPTYk2l"
+    },
+    {
+      "id": "29870587592525596",
+      "title": "AT 90 YEARS OLD, SHE BECAME A MOTHER—BUT THE FIRST THING SHE DID WHEN GOD PROMISED HER A CHILD WAS LAUGH.",
+      "date": "2026-11-26T23:16:30+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0gC6xn13jRqkfjH8i89no6EZ5vgG3r7NXrqvXRVnW7mSagHHfmfu78bgRVGEBgKuml"
+    },
+    {
+      "id": "29870508545866834",
+      "title": "GOD CLOSED THE WOMBS OF AN ENTIRE ROYAL HOUSEHOLD BECAUSE A KING HAD TAKEN ANOTHER MAN’S WIFE.",
+      "date": "2026-11-26T23:05:39+00:00",
       "subject": "Marriage & Relationships",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sUVP79nCP1NwTcbnh3mwwLyJEa4rLg9ARNewdEy1SyaX2SxLBKH88KQGDYjucG2Hl"
-    },
-    {
-      "id": "29866252742959081",
-      "title": "GOD NEVER ASKED FOR A PERFECT PREACHER. HE ASKED FOR A FAITHFUL MAN.",
-      "date": "2026-11-26T15:03:02+00:00",
-      "subject": "Church & Ministry",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02XvTA2fMQbg81SabuxKCiZrficGZyxaXft9WMQmarQH9ZfM4DxRxMTv4arnmKnsuvl"
-    },
-    {
-      "id": "29864870669763955",
-      "title": "APPHIA: THE WOMAN WHO HEARD THE GOSPEL CHALLENGE THE CHAINS OF SLAVERY",
-      "date": "2026-11-26T12:49:26+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02LPRuXtCwZkxfsGaVkR5QWoYJkNxg8wBu55xDm3kcYAKkB1abvjAxzY6fAM5vtMLxl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02k21yAbmcSj1Bsu5Pj8KxEhEbsRLsN97xubAuYYHLEPNDNobHGMpz7rQE2JHEhjdHl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-26T22:18:49Z",
-  "discovered": 6,
-  "processed": 6,
-  "discoveredLastRun": 6,
-  "pagesScanned": 1,
+  "lastCheckStarted": "2026-11-27T05:00:03Z",
+  "discovered": 13,
+  "processed": 13,
+  "discoveredLastRun": 13,
+  "pagesScanned": 2,
   "latest": {
-    "id": "29866943872889968",
-    "title": "ABRAHAM MARRIED HIS OWN HALF-SISTER—AND GOD STILL CHOSE HIM. HOW IS THAT POSSIBLE?",
-    "date": "2026-11-26T16:09:36+00:00"
+    "id": "29873128512271504",
+    "title": "HE LEFT HIS CLOTHES BEHIND, BUT HE REFUSED TO LEAVE HIS GOD.",
+    "date": "2026-11-27T04:50:25+00:00"
   },
-  "lastImportCount": 6,
-  "lastImportAt": "2026-11-26T22:19:45Z",
+  "lastImportCount": 13,
+  "lastImportAt": "2026-11-27T05:01:09Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10466,
+  "structuredMetadata": 10479,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-668ca6ee930aaf807e67d01aa5c54d168cf161b7b08b02e94deb039b6470dcc4",
-  "statusGeneratedAt": "2026-11-26T22:19:45Z"
+  "contentRevision": "sha256-2bfdb090b5e42348010636cc93ff81954c9fceb34be9e1ad123826ea693f7811",
+  "statusGeneratedAt": "2026-11-27T05:01:09Z"
 }
