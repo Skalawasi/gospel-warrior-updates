@@ -1,15 +1,15 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 10 new public studies.",
+  "message": "Archive is current; no new public studies were found.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-27T15:01:17Z",
-  "lastSuccess": "2026-11-27T15:01:17Z",
+  "lastCheck": "2026-11-27T23:25:52Z",
+  "lastSuccess": "2026-11-27T23:25:52Z",
   "currentTotal": 10489,
   "totalWords": 18911439,
   "subjects": 17,
-  "addedLastRun": 10,
+  "addedLastRun": 0,
   "recentAdded": [
     {
       "id": "29878103208440701",
@@ -83,11 +83,11 @@
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-27T15:00:13Z",
+  "lastCheckStarted": "2026-11-27T23:25:38Z",
   "discovered": 10,
-  "processed": 10,
-  "discoveredLastRun": 10,
-  "pagesScanned": 2,
+  "processed": 0,
+  "discoveredLastRun": 0,
+  "pagesScanned": 1,
   "latest": {
     "id": "29878103208440701",
     "title": "MARY COULDN’T AFFORD A LAMB—YET SHE CARRIED THE LAMB OF GOD IN HER ARMS.",
@@ -103,5 +103,5 @@
   "autoRefresh": true,
   "nextCheck": null,
   "contentRevision": "sha256-25cf3fecaab847ec977acfee057873515cc14d959e0407168fd638ff4aaf737c",
-  "statusGeneratedAt": "2026-11-27T15:01:17Z"
+  "statusGeneratedAt": "2026-11-27T23:25:52Z"
 }
