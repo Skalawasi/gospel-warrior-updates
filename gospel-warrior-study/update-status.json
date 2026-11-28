@@ -1,107 +1,58 @@
 {
   "state": "current",
   "running": false,
-  "message": "Archive is current; no new public studies were found.",
+  "message": "Added 3 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-27T23:25:52Z",
-  "lastSuccess": "2026-11-27T23:25:52Z",
-  "currentTotal": 10489,
-  "totalWords": 18911439,
+  "lastCheck": "2026-11-28T07:42:43Z",
+  "lastSuccess": "2026-11-28T07:42:43Z",
+  "currentTotal": 10492,
+  "totalWords": 18919351,
   "subjects": 17,
-  "addedLastRun": 0,
+  "addedLastRun": 3,
   "recentAdded": [
     {
-      "id": "29878103208440701",
-      "title": "MARY COULDN’T AFFORD A LAMB—YET SHE CARRIED THE LAMB OF GOD IN HER ARMS.",
-      "date": "2026-11-27T14:38:48+00:00",
+      "id": "29886068444310844",
+      "title": "GOD GAVE THE COMMAND TO A WOMAN. THE GENERAL REFUSED TO GO WITHOUT HER.",
+      "date": "2026-11-28T06:08:32+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04bVCHoRWSYWV5XHS2PCBL4StAADKyXa1hde6YbVAc3thWMHC3M9USMEaNhyxXtv3l"
+    },
+    {
+      "id": "29886011834316505",
+      "title": "GOD EVEN TOLD HIS SOLDIERS WHERE TO POOP—AND THE REASON SHOULD SHAKE EVERY CHRISTIAN ALIVE.",
+      "date": "2026-11-28T06:01:14+00:00",
       "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02NjWMNstKzbsFQDMPRZPFtE2fPikSzWHrhCh3hwobybv59RjqHAqHHwc7HXY9tHWTl"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0URyfDNcWftcVav8rfWmvk964WWEXg6vjbF8XjSmGXSrQTJtUXhij5PES6u9tDyfcl"
     },
     {
-      "id": "29875896745328014",
-      "title": "GOD RESTRICTED THE PHYSICALLY IMPERFECT FROM HIS ALTAR… BUT THEN JESUS TOUCHED THE VERY PEOPLE THE WORLD REJECTED.",
-      "date": "2026-11-27T10:47:39+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0273ZtR1o2yggppyABgfS3Jj63Z9g6iUdWq2YWibogGv8NBqZYkRwZGdrQn9kiDMU4l"
-    },
-    {
-      "id": "29874640725453616",
-      "title": "HE ONLY TOUCHED A BED… AND GOD DECLARED HIM UNCLEAN. BUT THEN JESUS CHANGED EVERYTHING.",
-      "date": "2026-11-27T08:11:37+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0pUdQYyXC6QbyZg5nxSLiD9SAXzQm51argLZ5ijbXYXw9D5YDqnzvEaPU4yWXZkoXl"
-    },
-    {
-      "id": "29874100182174337",
-      "title": "GOD COMMANDED MARRIED COUPLES TO WASH AFTER SEX—BUT WHAT IF THE SIN WAS NEVER IN THE BEDROOM?",
-      "date": "2026-11-27T06:59:55+00:00",
-      "subject": "Sexuality & Purity",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02jxdcJKNbfdzban7G3xpDRAQjDuvfLWZA6nMbwn3kxNiSpFwAFJ6zGgPqGEqz2sztl"
-    },
-    {
-      "id": "29874051028845919",
-      "title": "SHE WAS CALLED UNCLEAN FOR SOMETHING GOD CREATED—BUT DID GOD EVER CALL HER SINFUL?",
-      "date": "2026-11-27T06:53:07+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid032NBNgANvYqvtm8o6LEBi7RtURm2gmkUs7ArGNp4h6gxRdMdygE95a94jamHw43URl"
-    },
-    {
-      "id": "29873944335523255",
-      "title": "GOD NEVER CALLED YOUR BODY DISGUSTING: THE SHOCKING TRUTH HIDDEN IN LEVITICUS 15 THAT RELIGIOUS SHAME HAS BURIED FOR GENERATIONS",
-      "date": "2026-11-27T06:38:28+00:00",
-      "subject": "Torah & Covenant",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0sNhigt4LrecjBZKQ7KBHjmgoYPqczNFLjSLhVdpfYyL7qSLuj1pZt7TkGmUBLRh5l"
-    },
-    {
-      "id": "29873746568876365",
-      "title": "THEY WORSHIPPED A GOLDEN CALF… BUT WHAT REALLY HAPPENED WHEN THE CELEBRATION GOT OUT OF CONTROL?",
-      "date": "2026-11-27T06:11:00+00:00",
-      "subject": "Wisdom, Psalms & Worship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0UbNQ8oX8Wmv5V4fP2b5pEwuJmhiZqen4WBE6gvPeQBz9R6dGhBeUfoNwXzM9xkFPl"
-    },
-    {
-      "id": "29873599818891040",
-      "title": "GOD EVEN COMMANDED HIS PRIESTS TO COVER THEIR NAKEDNESS—AND THE REASON SHOULD SHAKE EVERY CHRISTIAN TODAY",
-      "date": "2026-11-27T05:51:42+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02Jk6DDRbtn8RUFVkKUUB8vN3i4MNXfFEaTECxtDRM4sovDDAQoHswJkV3gQroUAjMl"
-    },
-    {
-      "id": "29873497215567967",
-      "title": "HE WAS BORN TO LEAD, BUT HE COULDN’T LEAD HIMSELF: THE TRAGEDY OF REUBEN",
-      "date": "2026-11-27T05:38:23+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02YU1jfEUGtvKnKuTFsV1pM8LjDR9wLP4jm4XpThoDsmQrCWfPi5P2qCBPxvNDJbxyl"
-    },
-    {
-      "id": "29873314058919616",
-      "title": "SHE HAD HIS CLOTHES. SHE HAD A STORY. BUT SHE DID NOT HAVE THE TRUTH.",
-      "date": "2026-11-27T05:14:33+00:00",
-      "subject": "Genesis & Patriarchs",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02m7o8ixXzcWLem6nRzAPRQKjun6wy9UadMZJuf5DxQpRWymxc1vALmSQzmPFfBBxJl"
+      "id": "29885919887659033",
+      "title": "GOD REJECTED HER MONEY—BUT WOULD HE REJECT HER SOUL?",
+      "date": "2026-11-28T05:49:19+00:00",
+      "subject": "Money & Stewardship",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dnrqfcW2AVjHN37jJM4qwPqKHoFFx3dqjH1Y2HnmZjvKzhbwtKCVGSyMeaxkC3oXl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-27T23:25:38Z",
-  "discovered": 10,
-  "processed": 0,
-  "discoveredLastRun": 0,
+  "lastCheckStarted": "2026-11-28T07:41:51Z",
+  "discovered": 3,
+  "processed": 3,
+  "discoveredLastRun": 3,
   "pagesScanned": 1,
   "latest": {
-    "id": "29878103208440701",
-    "title": "MARY COULDN’T AFFORD A LAMB—YET SHE CARRIED THE LAMB OF GOD IN HER ARMS.",
-    "date": "2026-11-27T14:38:48+00:00"
+    "id": "29886068444310844",
+    "title": "GOD GAVE THE COMMAND TO A WOMAN. THE GENERAL REFUSED TO GO WITHOUT HER.",
+    "date": "2026-11-28T06:08:32+00:00"
   },
-  "lastImportCount": 10,
-  "lastImportAt": "2026-11-27T15:01:17Z",
+  "lastImportCount": 3,
+  "lastImportAt": "2026-11-28T07:42:43Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10489,
+  "structuredMetadata": 10492,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-25cf3fecaab847ec977acfee057873515cc14d959e0407168fd638ff4aaf737c",
-  "statusGeneratedAt": "2026-11-27T23:25:52Z"
+  "contentRevision": "sha256-d7602531955109a32eea7e9be96c96048603e0cb0961408bb1ee8e13dc62cc65",
+  "statusGeneratedAt": "2026-11-28T07:42:44Z"
 }
