@@ -1,58 +1,86 @@
 {
   "state": "current",
   "running": false,
-  "message": "Added 3 new public studies.",
+  "message": "Added 7 new public studies.",
   "source": "https://www.facebook.com/iamGospelWarrior",
   "intervalMinutes": 15,
-  "lastCheck": "2026-11-28T07:42:43Z",
-  "lastSuccess": "2026-11-28T07:42:43Z",
-  "currentTotal": 10492,
-  "totalWords": 18919351,
+  "lastCheck": "2026-11-28T16:51:58Z",
+  "lastSuccess": "2026-11-28T16:51:58Z",
+  "currentTotal": 10499,
+  "totalWords": 18937814,
   "subjects": 17,
-  "addedLastRun": 3,
+  "addedLastRun": 7,
   "recentAdded": [
     {
-      "id": "29886068444310844",
-      "title": "GOD GAVE THE COMMAND TO A WOMAN. THE GENERAL REFUSED TO GO WITHOUT HER.",
-      "date": "2026-11-28T06:08:32+00:00",
+      "id": "29891491667101855",
+      "title": "WHY DID AN OLD MAN OFFER HIS VIRGIN DAUGHTER AND ANOTHER MAN’S CONCUBINE TO A VIOLENT MOB?",
+      "date": "2026-11-28T16:26:45+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02qsE12ZFoeAkrDjjtAPbqqawytc9fFSgLcDfvxLHCXjVo3Cxr8HR5eTPZRcJyoZLBl"
+    },
+    {
+      "id": "29891378947113127",
+      "title": "HER FATHER BEGGED HIM TO STAY. SHE LEFT WITH HIM. SHE NEVER MADE IT HOME ALIVE.",
+      "date": "2026-11-28T16:14:45+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02rzkWiA6afE3G4nmi2zadSXesVjKPRkzzrKquAxH9TKqAv3ArQAGvddfBG37LUbEfl"
+    },
+    {
+      "id": "29891289243788764",
+      "title": "SHE PUT A PRICE ON HIS LIFE. HE PUT HIS TRUST IN THE WRONG HANDS.",
+      "date": "2026-11-28T16:05:11+00:00",
       "subject": "Kings & Prophets",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid04bVCHoRWSYWV5XHS2PCBL4StAADKyXa1hde6YbVAc3thWMHC3M9USMEaNhyxXtv3l"
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid05i94M1sBskc2XivAA33vw9j9XaiqipinMEWWez74fCUbY7h4rtmya445mAZfLe4nl"
     },
     {
-      "id": "29886011834316505",
-      "title": "GOD EVEN TOLD HIS SOLDIERS WHERE TO POOP—AND THE REASON SHOULD SHAKE EVERY CHRISTIAN ALIVE.",
-      "date": "2026-11-28T06:01:14+00:00",
-      "subject": "Jesus & Gospels",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0URyfDNcWftcVav8rfWmvk964WWEXg6vjbF8XjSmGXSrQTJtUXhij5PES6u9tDyfcl"
+      "id": "29891223773795311",
+      "title": "SHE WAS SUPPOSED TO BE THE HAPPIEST WOMAN IN THE ROOM. INSTEAD, SHE WAS BEGGING NOT TO DIE.",
+      "date": "2026-11-28T15:58:52+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid021fmowdfaKppW4YE9cG6DY1wVzeADTndTBtADfJp3tzU9YQa1gLTMXk6HnviQcFeyl"
     },
     {
-      "id": "29885919887659033",
-      "title": "GOD REJECTED HER MONEY—BUT WOULD HE REJECT HER SOUL?",
-      "date": "2026-11-28T05:49:19+00:00",
-      "subject": "Money & Stewardship",
-      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02dnrqfcW2AVjHN37jJM4qwPqKHoFFx3dqjH1Y2HnmZjvKzhbwtKCVGSyMeaxkC3oXl"
+      "id": "29891018560482499",
+      "title": "SHE HAD ONLY TWO MONTHS TO MOURN THE LIFE SHE WOULD NEVER LIVE",
+      "date": "2026-11-28T15:38:20+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid0tQDska2cf2857QchcdSavWwESU1JpCxbGcVTd9jiFwhUDKeqkxs134V4MBB5BkPCl"
+    },
+    {
+      "id": "29888420807408941",
+      "title": "HIS BROTHERS THREW HIM AWAY BECAUSE HIS MOTHER WAS A PROSTITUTE. THEN THE NATION NEEDED THE MAN THEY REJECTED.",
+      "date": "2026-11-28T11:07:28+00:00",
+      "subject": "Family & Parenting",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid029JjJ2tWZdae7eBWrsv7umJ6TYbseZXDxNos4Sjhtoe6EewL93EsDPGW5yQ5zTivHl"
+    },
+    {
+      "id": "29888111304106558",
+      "title": "HE WAS DYING, BUT HIS EGO REFUSED TO DIE: THE KING WHO FEARED A WOMAN MORE THAN HIS OWN SIN",
+      "date": "2026-11-28T10:31:11+00:00",
+      "subject": "Kings & Prophets",
+      "url": "https://www.facebook.com/iamGospelWarrior/posts/pfbid02kDbScZ3vXpefpSdDPcU43sbqGh4m4MdnWLBdoUJ3UfqQ6yZnjy2Qrd3ygEjEyZejl"
     }
   ],
   "error": null,
-  "lastCheckStarted": "2026-11-28T07:41:51Z",
-  "discovered": 3,
-  "processed": 3,
-  "discoveredLastRun": 3,
+  "lastCheckStarted": "2026-11-28T16:51:17Z",
+  "discovered": 7,
+  "processed": 7,
+  "discoveredLastRun": 7,
   "pagesScanned": 1,
   "latest": {
-    "id": "29886068444310844",
-    "title": "GOD GAVE THE COMMAND TO A WOMAN. THE GENERAL REFUSED TO GO WITHOUT HER.",
-    "date": "2026-11-28T06:08:32+00:00"
+    "id": "29891491667101855",
+    "title": "WHY DID AN OLD MAN OFFER HIS VIRGIN DAUGHTER AND ANOTHER MAN’S CONCUBINE TO A VIOLENT MOB?",
+    "date": "2026-11-28T16:26:45+00:00"
   },
-  "lastImportCount": 3,
-  "lastImportAt": "2026-11-28T07:42:43Z",
+  "lastImportCount": 7,
+  "lastImportAt": "2026-11-28T16:51:58Z",
   "schedulerEnabled": true,
-  "structuredMetadata": 10492,
+  "structuredMetadata": 10499,
   "apiAvailable": true,
   "staticOnly": true,
   "automaticChecksEnabled": true,
   "autoRefresh": true,
   "nextCheck": null,
-  "contentRevision": "sha256-d7602531955109a32eea7e9be96c96048603e0cb0961408bb1ee8e13dc62cc65",
-  "statusGeneratedAt": "2026-11-28T07:42:44Z"
+  "contentRevision": "sha256-16308152a8aad792aff712655ac2231722e4d59e37c415502e5e7f7573be0922",
+  "statusGeneratedAt": "2026-11-28T16:51:58Z"
 }
